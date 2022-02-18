@@ -1,0 +1,108 @@
+Return-Path: <jovanswinney76@gmail.com>
+Delivered-To: noreply@awakenthenorth.org
+Received: from a2ss46.a2hosting.com
+	by a2ss46.a2hosting.com with LMTP
+	id vNyiKo9dc2Bs1y0Ajrpv+A
+	(envelope-from <jovanswinney76@gmail.com>)
+	for <noreply@awakenthenorth.org>; Sun, 11 Apr 2021 16:35:27 -0400
+Return-path: <jovanswinney76@gmail.com>
+Envelope-to: noreply@awakenthenorth.org
+Delivery-date: Sun, 11 Apr 2021 16:35:27 -0400
+Received: from mail-io1-f41.google.com ([209.85.166.41]:38801)
+	by a2ss46.a2hosting.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94)
+	(envelope-from <jovanswinney76@gmail.com>)
+	id 1lVgnn-00Cb4E-I5
+	for noreply@awakenthenorth.org; Sun, 11 Apr 2021 16:35:27 -0400
+Received: by mail-io1-f41.google.com with SMTP id f15so2584510iob.5
+        for <noreply@awakenthenorth.org>; Sun, 11 Apr 2021 13:35:06 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to;
+        bh=LVX8ZmpD7GgfitBvnBETtADHhJFRXszvprD46OaKZUg=;
+        b=OzieTrGXmdTKnC2T5vN52xx28WslDMLB0SfMoHT87YtzHcE777s+KB4yvXsMvimNk7
+         m64sculfidJ8m7sxSJ63EO9mLnr1mtmELZ3WIeryQbd6Sh4CjD1BNQwtHvfs3oZmso8E
+         hfouLbAqDAmMUzqzRxsSJqG6Lz2nSLzF85D10ZFMAvUlzuj3K+tL2f8ZgDnlkZEAt0wi
+         bzaLQRVHMMk1aAUOZFY7sPqfJ78s2YFwM+75hqXdHGW0Og8ZwevTbi9iA4eZLtZm89wT
+         A4FEy8PMwCBHvTi+gwq5yZ9xxcoI2F0NISR2rk/eMxnZbETOjZPAREokQYo/q1h46Qjn
+         +kOw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:references:in-reply-to:from:date
+         :message-id:subject:to;
+        bh=LVX8ZmpD7GgfitBvnBETtADHhJFRXszvprD46OaKZUg=;
+        b=S0TBszqabZobSVhI7VOOe07x8JSMJl0q4RDBvj28HiDER7Xmot7ywSdzqeDz6M+Vrp
+         rXEhoMSTeQ0CY8Y/ETnZejERVWvz0I/accpybsJXk5MgWtDZfRs2JtYad9w3MMjwQ/7X
+         wmUB4QcBU7MGt9y/Rki1sXo2cMBDqV0WYjjzdXK5VCWIQ0VvTVLNCzHciiqxOqaQHLpi
+         5bVrlOCxmQb2lPDWaOjR6uauAYOSaMmIVz5Cb/smTOeiwu5lriq2al+e4acXe4Y8/Z7U
+         /cc6nSJFnHI6LWBnAzfcNyfW+z24qU8dAm0S7yTFGGC49b7GlGVs2yQfpE2sP0tccfUG
+         hywg==
+X-Gm-Message-State: AOAM533ek5JrnB9VdsO7c2Zkp9hft4dAgpgDvh+HV+udveoOfVsoLlEM
+	VB1h7rFXltTul4oBFnQ2qdEo3AzIydJPD1iQ0ISYCgix
+X-Google-Smtp-Source: ABdhPJyPtnwMvfAVOkM4JhqgN7tRAsi6oNxPQ++GmkvnCLE6U0rW/y4JwgBlSoV2YPC3DN3YPQjwchXou5VVFSMySDc=
+X-Received: by 2002:a6b:3b08:: with SMTP id i8mr12544890ioa.36.1618173285732;
+ Sun, 11 Apr 2021 13:34:45 -0700 (PDT)
+MIME-Version: 1.0
+References: <3575ac21dc0ff586682ded795b4ba154@members.awakenthenorth.org>
+In-Reply-To: <3575ac21dc0ff586682ded795b4ba154@members.awakenthenorth.org>
+From: Jovan Swinney <jovanswinney76@gmail.com>
+Date: Sun, 11 Apr 2021 16:34:35 -0400
+Message-ID: <CAFoz=NjHM9CCYe=jbOG7AfQhL7YWx0e-12e9XNBexUfyTe0=0A@mail.gmail.com>
+Subject: Re: About your Membership Application
+To: Awaken The North <noreply@awakenthenorth.org>
+Content-Type: multipart/alternative; boundary="000000000000e1962105bfb8538f"
+
+--000000000000e1962105bfb8538f
+Content-Type: text/plain; charset="UTF-8"
+
+Just wondering, but what on my social media made you not accept my
+application?
+
+On Sun, Apr 11, 2021 at 2:52 PM Awaken The North <noreply@awakenthenorth.org>
+wrote:
+
+> Dear Jovan Swinney,
+>
+> After careful consideration, we have decided not to accept your membership
+> application to join Awaken the North. While reviewing your Social Media, we
+> do not think your principles are aligned with ours and do not believe you
+> are a good fit for our community. Should you wish to discuss this further,
+> please reach out to me personally.
+>
+>
+>
+> We appreciate your interest and wish you well.
+>
+> Sincerely,
+>
+> Anja Solsystir
+> Chancellor of Member Affairs
+>
+>
+> Awaken the North
+>
+
+--000000000000e1962105bfb8538f
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">Just wondering, but what on my social media made you not =
+accept my application?</div><div><br><div class=3D"gmail_quote"><div dir=3D=
+"ltr" class=3D"gmail_attr">On Sun, Apr 11, 2021 at 2:52 PM Awaken The North=
+ &lt;<a href=3D"mailto:noreply@awakenthenorth.org">noreply@awakenthenorth.o=
+rg</a>&gt; wrote:<br></div><blockquote class=3D"gmail_quote" style=3D"margi=
+n:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><p>Dear Jovan Swi=
+nney,</p>
+<p>After careful consideration, we have decided not to accept your membersh=
+ip application to join Awaken the North. While reviewing your Social Media,=
+ we do not think your principles are aligned with ours and do not believe y=
+ou are a good fit for our community. Should you wish to discuss this furthe=
+r, please reach out to me personally. </p>
+<p>=C2=A0</p>
+<p>We appreciate your interest and wish you well.</p>
+<p>Sincerely,</p>
+<p>Anja Solsystir<br>Chancellor of Member Affairs</p><p><br>Awaken the Nort=
+h</p>
+</blockquote></div></div>
+
+--000000000000e1962105bfb8538f--

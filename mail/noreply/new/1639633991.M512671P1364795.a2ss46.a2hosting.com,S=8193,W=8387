@@ -1,0 +1,194 @@
+Return-Path: <>
+Delivered-To: noreply@awakenthenorth.org
+Received: from a2ss46.a2hosting.com
+	by a2ss46.a2hosting.com with LMTP
+	id Kn4NHkfUumE70xQAjrpv+A
+	(envelope-from <>)
+	for <noreply@awakenthenorth.org>; Thu, 16 Dec 2021 00:53:11 -0500
+Return-path: <>
+Envelope-to: noreply@awakenthenorth.org
+Delivery-date: Thu, 16 Dec 2021 00:53:11 -0500
+Received: from antelope.dogwood.relay.mailchannels.net ([23.83.211.4]:35290)
+	by a2ss46.a2hosting.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2)
+	id 1mxjhX-005ivl-7X
+	for noreply@awakenthenorth.org; Thu, 16 Dec 2021 00:53:11 -0500
+Received: by relay.mailchannels.net (Postfix)
+	id F1C128216FD; Thu, 16 Dec 2021 05:52:29 +0000 (UTC)
+Date: Thu, 16 Dec 2021 05:52:29 +0000 (UTC)
+From: MAILER-DAEMON@mailchannels.net (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: noreply@awakenthenorth.org
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="5F1A98215D9.1639633949/relay.mailchannels.net"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20211216055229.F1C128216FD@relay.mailchannels.net>
+
+This is a MIME-encapsulated message.
+
+--5F1A98215D9.1639633949/relay.mailchannels.net
+Content-Description: Notification
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+This is the mail system at host relay.mailchannels.net.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<dlhacker97@gmail.com>: host gmail-smtp-in.l.google.com[74.125.142.27] said:
+    550-5.1.1 The email account that you tried to reach does not exist. Please
+    try 550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at 550 5.1.1
+    https://support.google.com/mail/?p=NoSuchUser g64si4136079pgc.124 - gsmtp
+    (in reply to RCPT TO command)
+
+--5F1A98215D9.1639633949/relay.mailchannels.net
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; relay.mailchannels.net
+X-Postfix-Queue-ID: 5F1A98215D9
+X-Postfix-Sender: rfc822; noreply@awakenthenorth.org
+Arrival-Date: Thu, 16 Dec 2021 05:52:29 +0000 (UTC)
+
+Final-Recipient: rfc822; dlhacker97@gmail.com
+Original-Recipient: rfc822;dlhacker97@gmail.com
+Action: failed
+Status: 5.1.1
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.1.1 The email account that you tried to reach does
+    not exist. Please try 550-5.1.1 double-checking the recipient's email
+    address for typos or 550-5.1.1 unnecessary spaces. Learn more at 550 5.1.1
+    https://support.google.com/mail/?p=NoSuchUser g64si4136079pgc.124 - gsmtp
+
+--5F1A98215D9.1639633949/relay.mailchannels.net
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <noreply@awakenthenorth.org>
+Received: from relay.mailchannels.net (localhost [127.0.0.1])
+	by relay.mailchannels.net (Postfix) with ESMTP id 5F1A98215D9
+	for <dlhacker97@gmail.com>; Thu, 16 Dec 2021 05:52:29 +0000 (UTC)
+Received: from a2ss46.a2hosting.com (unknown [127.0.0.6])
+	(Authenticated sender: a2hosting)
+	by relay.mailchannels.net (Postfix) with ESMTPA id BF8D48215E9
+	for <dlhacker97@gmail.com>; Thu, 16 Dec 2021 05:52:28 +0000 (UTC)
+X-Sender-Id: a2hosting|x-authuser|noreply@awakenthenorth.org
+Received: from a2ss46.a2hosting.com (a2ss46.a2hosting.com [66.198.240.52])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384)
+	by 100.105.57.85 (trex/6.4.3);
+	Thu, 16 Dec 2021 05:52:29 +0000
+X-MC-Relay: Neutral
+X-MailChannels-SenderId: a2hosting|x-authuser|noreply@awakenthenorth.org
+X-MailChannels-Auth-Id: a2hosting
+X-Hysterical-Daffy: 68e6f550331c8a10_1639633949152_1255687984
+X-MC-Loop-Signature: 1639633949152:1997870789
+X-MC-Ingress-Time: 1639633949151
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=awakenthenorth.org; s=default; h=Content-Type:MIME-Version:To:From:Subject:
+	Date:Message-ID:Sender:Reply-To:Cc:Content-Transfer-Encoding:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=L3KaNRO3F66nwwLTSQQwe3B0HfNN8fAQzHnhvFnW5lU=; b=RtNOJcckhQH1IDvwprTHW5pgdG
+	F+0ZLAE9YJmMcz24YXJzLHZuOofTLsV3d/f5nsecOoV2xYhjswAh8Z5BmWpR8l6yRhLdQZ/lBLZEE
+	F5NMDASadwVdHIHKyoMuVbPYu3pLr2CNCYQmzMPN3bphG34QXVaOvhvi4nTZUexEtMEb199bS1wwQ
+	aG3sKDRpomTHFhj8coM2+yOdqcyCcoSFiCKtT3bSeRMbDGXbW6EgEMVJfv+ca8fxilK9RpY/GzwPb
+	1m2IuLjkTGwzRy4nkpjDkA/tsPqcuFaZWMvApAe3nYQXR+ltD5xeImTrSZ/ol3IdqlLA/vdgR+GYD
+	HnRnBbgg==;
+Received: from [66.198.240.52] (port=39242 helo=members.awakenthenorth.org)
+	by a2ss46.a2hosting.com with esmtpa (Exim 4.94.2)
+	(envelope-from <noreply@awakenthenorth.org>)
+	id 1mxjgp-005ivL-PD
+	for dlhacker97@gmail.com; Thu, 16 Dec 2021 00:52:27 -0500
+Message-ID: <6ed830d10f0a86c905506267a9acfbd4@members.awakenthenorth.org>
+Date: Wed, 15 Dec 2021 22:52:27 -0700
+Subject: ATN: Please verify your email address.
+From: Awaken The North <noreply@awakenthenorth.org>
+To: dlhacker97@gmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1639633947_684d3a1ad3afe8a09b734b970ee3f97c_=_"
+X-AuthUser: noreply@awakenthenorth.org
+
+
+--_=_swift_1639633947_684d3a1ad3afe8a09b734b970ee3f97c_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Daniel Hackler,
+Thank you for applying for membership to Awaken The =
+North.
+There are two steps left before you become an AtN member.
+First,=
+ you must verify your email address by copying and pasting the following in=
+to the address bar of your browser: http://members.awakenthenorth.org/verif=
+y.php?code=3Daef68d9aa639437d0e40dd8d7bc18209
+Once you have verified your=
+ email address, your application will be forwarded to our Chancellor of Mem=
+ber Affairs, Anja Solsystir for approval.
+Unlike joining a typical websit=
+e, to maintain a safe and inclusive community, all applications are vetted =
+before they are approved.
+If for any reason we need more information from=
+ you in order to approve your application, we will email you at the address=
+ you provided.
+
+We thank you for your patience and hope to have your ap=
+plication approved soon.
+-Awaken The North.
+www.awakenthenorth.org
+ww=
+w.facebook.com/AwakenTheNorth
+
+--_=_swift_1639633947_684d3a1ad3afe8a09b734b970ee3f97c_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+<img src=3D"https://members.awakenthenorth.org/logo2.png"><br>
+Dear Da=
+niel Hackler,<br>
+Thank you for applying for membership to Awaken The Nor=
+th.<br><br>
+There are two steps left before you become an AtN member.<br>=
+
+First, you must verify your email address by clicking this link: <a href=
+=3D"http://members.awakenthenorth.org/verify.php?code=3Daef68d9aa639437d0e4=
+0dd8d7bc18209">Verify my E-Mail</a><br>
+Or by copying and pasting the fol=
+lowing into the address bar of your browser: http://members.awakenthenorth.=
+org/verify.php?code=3Daef68d9aa639437d0e40dd8d7bc18209<br><br>
+Once you h=
+ave verified your email address, your application will be forwarded to our =
+Chancellor of Member Affairs, Anja Solsystir for approval.<br>
+Unlike joi=
+ning a typical website, to maintain a safe and inclusive community, all app=
+lications are vetted before they are approved. <br>
+If for any reason we =
+need more information from you in order to approve your application, we wil=
+l email you at the address you provided.<br><br>
+We thank you for your pa=
+tience and hope to have your application approved soon.<br>
+-Awaken The N=
+orth.<Br>
+<a href=3D"http://www.awakenthenorth.org">www.awakenthenorth.or=
+g</a><br>
+<a href=3D"https://www.facebook.com/AwakenTheNorth/">www.facebo=
+ok.com/AwakenTheNorth</a><br>
+
+--_=_swift_1639633947_684d3a1ad3afe8a09b734b970ee3f97c_=_--
+
+
+--5F1A98215D9.1639633949/relay.mailchannels.net--

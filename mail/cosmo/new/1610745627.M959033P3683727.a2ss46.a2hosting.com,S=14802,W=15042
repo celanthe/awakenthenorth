@@ -1,0 +1,240 @@
+Return-Path: <business-noreply@mail.instagram.com>
+Delivered-To: cosmo@awakenthenorth.org
+Received: from a2ss46.a2hosting.com
+	by a2ss46.a2hosting.com with LMTP
+	id CNWjOBsHAmCPNTgAjrpv+A
+	(envelope-from <business-noreply@mail.instagram.com>)
+	for <cosmo@awakenthenorth.org>; Fri, 15 Jan 2021 16:20:27 -0500
+Return-path: <business-noreply@mail.instagram.com>
+Envelope-to: cosmo@awakenthenorth.org
+Delivery-date: Fri, 15 Jan 2021 16:20:27 -0500
+Received: from 69-171-232-140.mail-mail.facebook.com ([69.171.232.140]:47837)
+	by a2ss46.a2hosting.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.93)
+	(envelope-from <business-noreply@mail.instagram.com>)
+	id 1l0WWB-00G40c-P3
+	for cosmo@awakenthenorth.org; Fri, 15 Jan 2021 16:20:27 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=mail.instagram.com;
+	s=s1024-2013-q3; t=1610745576;
+	bh=V/58eRNc/EDT2VP+W+U24ox+Gln8DQnjiYU0dIaTmNY=;
+	h=Date:To:Subject:From:MIME-Version:Content-Type;
+	b=FllQ5Je4yRuDE8CVGj5eVYvYj4j1UnI+tewBmvnkqnn1mPpC8meKudGpp2qGiGCcK
+	 ynKlFPMWMmwSO97wtzIeZLoc2bFiy6/jz1qLN+ghTKGMs/HhRSChGUfmFwOkORArAy
+	 J0skTLZY+7xXY6d7zx0sYAcbY1mffakJPW2eNnnc=
+X-Facebook: from 2401:db00:1210:b1ad:face:0:5e:0 ([MTI3LjAuMC4x]) 
+	by async with HTTPS (ZuckMail);
+Date: Fri, 15 Jan 2021 13:19:35 -0800
+To: cosmo@awakenthenorth.org
+Subject: Get your services discovered on Instagram
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+From: "Instagram Business" <business-noreply@mail.instagram.com>
+Reply-to: Instagram Business <business-noreply@mail.instagram.com>
+Errors-To: business-noreply@mail.instagram.com
+X-Facebook-Notify: aymt_instagram_email_tip_notif; mailid=HMTYxMDc0NDM0MDkxNzA2MTpjb3Ntb0Bhd2FrZW50aGVub3J0aC5vcmc6MTA3ODY
+List-Unsubscribe: </aymt/instagram/unsubscribed/?tip_id=3531567643622641&channel_id=4985761494831202&notif_id=1610745575484951&mac=AdgdeUdJhXdvurxG&unsubscribe_uri=aHR0cHM6Ly9pbnN0YWdyYW0uY29tL2VtYWlscy91bnN1YnNjcmliZS9yZW1pbmRlcnM%2FdXNlcl9pZD0zNzA4MzY2MjIzMyZzaWc9QVU4UGR0OURsNVRTOGlDUg%3D%3D>
+Feedback-ID: 9999:aymt_instagram_email_tip_notif:Facebook
+X-FACEBOOK-PRIORITY: 0
+X-Auto-Response-Suppress: All
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+Message-ID: <5e56ba3e577711eb862eb02628adc918-85abd7e0@mail.instagram.com>
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; =
+charset=3DUTF-8" /><meta name=3D"viewport" =
+content=3D"width=3Ddevice-width, initial-scale=3D1.0" /><meta =
+name=3D"x-apple-disable-message-reformatting" /><title>Facebook for =
+Business</title></head><body style=3D"padding:0;"><table align=3D"center" =
+style=3D"background-color:#f8f8f8;width:100%;max-width:100%;min-width:100%=
+;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"><tr =
+align=3D"center"><td style=3D"width:100%;height:32px"></td></tr><tr =
+align=3D"center"><td align=3D"center"><!--[if (gte mso 9)|(IE)]>
+                <table
+                  align=3D"center"
+                  border=3D"0"
+                  cellspacing=3D"0"
+                  cellpadding=3D"0"
+                  width=3D"600">
+                  <tr>
+                    <td align=3D"center" valign=3D"top" width=3D"600">
+                <![endif]--><table border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" style=3D"background-color:#f8f8f8;min-width:360px;max-wi=
+dth:600pxwidth:100%;" width=3D"100%"><table align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" style=3D"display:none; font-size:1px; =
+color:#333333; line-height:1px; max-height:0px; max-width:0px; opacity:0; =
+overflow:hidden;background-color: #fff;" width=3D"100%"><tr><td> Promote a =
+post to help people discover your services.  =C2=A0=E2=80=8C =
+</td></tr></table><table align=3D"center" =
+style=3D"max-width:600px;width:100%;" cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0"><tr align=3D"center"><td =
+style=3D"max-width:600px;padding:50px 40px 40px 40px;width:100%;background=
+-color:#fbfbfc;padding:0;background-color:#f8f8f8"><table align=3D"center" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width:100%;"><tr =
+align=3D"center"><td style=3D"text-align:center;border-spacing:0;color:#4c=
+4c4c;font-family:ArialMT, Arial, =
+sans-serif;font-size:15px;width:100%;"><img src=3D"https://scontent.xx.fbc=
+dn.net/v/t39.2365-6/55273069_2502255043182575_3145554032349675520_n.png?_n=
+c_cat=3D102&amp;ccb=3D2&amp;_nc_sid=3Dad8a9d&amp;_nc_ohc=3D6q5bsmAsDQ4AX9S=
+28tT&amp;_nc_oc=3DAQlnMofucNqD9o06oCu5ZotAnEewop1jAwCptSDaw54_lF5Io7oOxaBY=
+C1rZ8ebnKxXR7l2nmE1QY4EReU2c3SKJ&amp;_nc_ad=3Dz-m&amp;_nc_cid=3D0&amp;_nc_=
+ht=3Dscontent.xx&amp;oh=3D64a9e91d256cb89e5c7ff1cde8a098fc&amp;oe=3D602630=
+B1" style=3D"border:0;max-width:100%;" width=3D"150" alt=3D"Header" =
+title=3D"Image" /></td></tr><tr align=3D"center"><td =
+style=3D"width:100%;height:0;"></td></tr></table></td></tr><tr =
+align=3D"center"><td =
+style=3D"width:100%;height:21px;"></td></tr></table><style =
+nonce=3D"I1IFx8Xf"> body {background-color: #fff;} p {color: #848484; =
+line-height:25px; font-size:16px;} </style><table border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"500" =
+style=3D"text-align:center; margin-left: auto;   margin-right: auto; =
+"><tr><td class=3D""><table align=3D"center" =
+style=3D"max-width:600px;width:100%;" cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0"><tr align=3D"center"><td =
+style=3D"max-width:600px;padding:50px 40px 40px =
+40px;width:100%;background-color:#fbfbfc;padding:0 0 0 0; =
+background-color:#ffffff"><table align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" style=3D"width:100%;"><tr =
+align=3D"center"><td style=3D"text-align:left;border-spacing:0;color:#4c4c=
+4c;font-family:ArialMT, Arial, =
+sans-serif;font-size:15px;width:100%;padding:40px 30px 16px 30px;"><table =
+align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%;"><tr align=3D"center"><td style=3D"text-align:left;bo=
+rder-spacing:0;color:#4c4c4c;font-family:ArialMT, Arial, =
+sans-serif;font-size:15px;width:100%;line-height:24px;"><a =
+href=3D"https://www.facebook.com/n/?ads%2Fgrowth%2Faymt%2Ffb_email_click%2=
+F&amp;b=3DaW5zdGFncmFtOi8vcHJvbW90ZS8%3D&amp;c=3D4985761494831202&amp;m=3D=
+ARy-OoXKGrPYzJwr9tE&amp;n=3D1610745575484951&amp;p=3Dimage_0&amp;t=3D35315=
+67643622641&amp;aref=3D1610745575484951&amp;medium=3Demail&amp;mid=3DHMTYx=
+MDc0NDM0MDkxNzA2MTpjb3Ntb0Bhd2FrZW50aGVub3J0aC5vcmc6MTA3ODY&amp;n_m=3Dcosm=
+o%40awakenthenorth.org" style=3D"color:#3b5998;text-decoration:none;"><img =
+src=3D"https://scontent.xx.fbcdn.net/v/t39.2365-6/53522875_215717911437548=
+7_547933283170648064_n.png?_nc_cat=3D106&amp;ccb=3D2&amp;_nc_sid=3Dad8a9d&=
+amp;_nc_ohc=3DlL1QOqa8z0YAX99mRzB&amp;_nc_ad=3Dz-m&amp;_nc_cid=3D0&amp;_nc=
+_ht=3Dscontent.xx&amp;oh=3D3a6a4eee89810310a6d33483601da5b5&amp;oe=3D60264=
+F09" style=3D"border:0;max-width:100%;" width=3D"40" title=3D"Image" =
+/></a></td></tr><tr align=3D"center"><td =
+style=3D"width:100%;height:16px;"></td></tr></table><table =
+align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%;"><tr align=3D"center"><td style=3D"text-align:left;bo=
+rder-spacing:0;color:#4c4c4c;font-family:ArialMT, Arial, =
+sans-serif;font-size:15px;width:100%;line-height:24px;"><table =
+align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%;"><tr align=3D"center"><td =
+style=3D"border-spacing:0;color:#4c4c4c;font-family:ArialMT, Arial, =
+sans-serif;font-size:15px;width:100%;text-align:left;color:#333333;font-si=
+ze:27px;font-family:ArialMT, Arial, =
+sans-serif;font-weight:light;line-height:36px; text-align:left;font-size: =
+32px; line-height: 40px; font-weight:bold; "> Get your services discovered =
+by more people </td></tr><tr align=3D"center"><td =
+style=3D"width:100%;height:0;"></td></tr></table></td></tr><tr =
+align=3D"center"><td =
+style=3D"width:100%;height:0;"></td></tr></table></td></tr><tr =
+align=3D"center"><td =
+style=3D"width:100%;height:0;"></td></tr></table></td></tr><tr =
+align=3D"center"><td =
+style=3D"width:100%;height:0;"></td></tr></table><table align=3D"center" =
+style=3D"max-width:600px;width:100%;" cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0"><tr align=3D"center"><td =
+style=3D"max-width:600px;padding:50px 40px 40px =
+40px;width:100%;background-color:#fbfbfc;padding:0 0 0 0; =
+background-color:#ffffff"><table align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" style=3D"width:100%;"><tr =
+align=3D"center"><td style=3D"text-align:left;border-spacing:0;color:#4c4c=
+4c;font-family:ArialMT, Arial, =
+sans-serif;font-size:15px;width:100%;padding:0 30px 30px 30px"><table =
+align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%;"><tr align=3D"center"><td style=3D"text-align:left;bo=
+rder-spacing:0;color:#4c4c4c;font-family:ArialMT, Arial, =
+sans-serif;font-size:15px;width:100%;line-height:24px;"><p =
+style=3D"margin-top:0;"> People come to Instagram to discover and connect =
+with businesses they love. </p><p>You may be interested in getting more =
+people to engage with your posts on Instagram. When you promote your posts =
+and stories, you can encourage customers to message you directly, or visit =
+your profile to see what services you offer.</p><p> Visit our <a =
+href=3D"https://business.facebook.com/n/?ads%2Fgrowth%2Faymt%2Ffb_email_cl=
+ick%2F&amp;b=3DaHR0cHM6Ly9idXNpbmVzcy5pbnN0YWdyYW0uY29tL2FkdmVydGlzaW5nLWd=
+1aWRl&amp;c=3D4985761494831202&amp;m=3DARzcAM3H2c2u7YwHPeM&amp;n=3D1610745=
+575484951&amp;p=3Dlink_1&amp;t=3D3531567643622641&amp;aref=3D1610745575484=
+951&amp;medium=3Demail&amp;mid=3DHMTYxMDc0NDM0MDkxNzA2MTpjb3Ntb0Bhd2FrZW50=
+aGVub3J0aC5vcmc6MTA3ODY&amp;n_m=3Dcosmo%40awakenthenorth.org" =
+style=3D"color:#F10317">promotions guide</a> to learn more and see tips =
+for getting started. </p><table align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" style=3D"width:100%;"><tr =
+align=3D"center"><td style=3D"text-align:center;border-spacing:0;color:#4c=
+4c4c;font-family:ArialMT, Arial, =
+sans-serif;font-size:15px;width:100%;"><img src=3D"https://scontent.xx.fbc=
+dn.net/v/t39.2365-6/97311409_688012938664899_7012642126383022080_n.jpg?_nc=
+_cat=3D100&amp;ccb=3D2&amp;_nc_sid=3Dad8a9d&amp;_nc_ohc=3D2aIqAlc3m6YAX8fR=
+tsK&amp;_nc_ad=3Dz-m&amp;_nc_cid=3D0&amp;_nc_ht=3Dscontent.xx&amp;oh=3D16f=
+7811e5995b8e68dbec4dfb05c202e&amp;oe=3D60268B9F" =
+style=3D"border:0;width:320px;max-width:100%;" width=3D"320" =
+title=3D"Image" /></td></tr><tr align=3D"center"><td =
+style=3D"width:100%;height:0px;"></td></tr></table></td></tr><tr =
+align=3D"center"><td =
+style=3D"width:100%;height:24px;"></td></tr></table><a =
+href=3D"https://business.facebook.com/n/?ads%2Fgrowth%2Faymt%2Ffb_email_cl=
+ick%2F&amp;b=3DaHR0cHM6Ly9idXNpbmVzcy5pbnN0YWdyYW0uY29tL2FkdmVydGlzaW5nLWd=
+1aWRl&amp;c=3D4985761494831202&amp;m=3DARxSXAGDfqFJigYD-NU&amp;n=3D1610745=
+575484951&amp;p=3Dlink_3&amp;t=3D3531567643622641&amp;aref=3D1610745575484=
+951&amp;medium=3Demail&amp;mid=3DHMTYxMDc0NDM0MDkxNzA2MTpjb3Ntb0Bhd2FrZW50=
+aGVub3J0aC5vcmc6MTA3ODY&amp;n_m=3Dcosmo%40awakenthenorth.org" style=3D"    =
+   background-color:#da3039;       background-image:linear-gradient(45deg, =
+#ffd521, #f50000, #b900b4);       display: inline-block;       =
+width:380px;       color: #ffffff;       font-size: 18px;       =
+font-family: ArialMT, Arial, sans-serif; font-weight: bold;       padding: =
+12px 30px;             text-decoration:none;       border-radius: 100px;   =
+    -webkit-border-radius: 100px;       -moz-border-radius: 100px;       =
+text-align:center;">See Guide</a></td></tr><tr align=3D"center"><td =
+style=3D"width:100%;height:15px;"></td></tr></table></td></tr><tr =
+align=3D"center"><td style=3D"width:100%;height:30px;"></td></tr></table><=
+/td></tr></table><table style=3D"width:100%;" align=3D"center"><tr =
+align=3D"center"><td><table align=3D"center" =
+style=3D"max-width:600px;width:100%;" cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0"><tr align=3D"center"><td =
+style=3D"max-width:600px;padding:50px 40px 40px =
+40px;width:100%;background-color:#fbfbfc;padding:20px 0px 0px =
+0px;background-color:#f8f8f8;"><table align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" style=3D"width:100%;"><tr =
+align=3D"center"><td =
+style=3D"border-spacing:0;color:#4c4c4c;font-family:ArialMT, Arial, =
+sans-serif;font-size:15px;width:100%;color:#8f949b;font-size:12px;padding:=
+0 20px;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr style=3D""><td height=3D"30" =
+style=3D"line-height:30px;" colspan=3D"3">&nbsp;</td></tr><tr =
+align=3D"left"><td width=3D"0" =
+style=3D"display:block;width:0px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D"text-align:center;"><div><img class=3D"img" =
+src=3D"https://static.xx.fbcdn.net/rsrc.php/v3/y5/r/pTeXjRdVk8c.png" =
+height=3D"30" width=3D"77" alt=3D"" /><br /></div><div =
+style=3D"height:10px;"></div><div =
+style=3D"color:#abadae;font-size:11px;margin:0 auto 5px auto;">=C2=A9 =
+Instagram. Facebook Inc., 1601 Willow Road, Menlo Park, CA 94025</div><div =
+style=3D"color:#abadae;font-size:11px;margin:0 auto 5px auto;">This =
+message was sent to <a style=3D"color:#abadae;text-decoration:underline;">=
+cosmo&#064;awakenthenorth.org</a> and intended for awakenthenorthofficial. =
+Instagram sends updates like this to help you keep up with the latest on =
+Instagram. You can unsubscribe from these updates, or remove your email if =
+this isn&#039;t your Instagram account. <a href=3D"https://www.facebook.co=
+m/aymt/instagram/unsubscribed/?tip_id=3D3531567643622641&amp;channel_id=3D=
+4985761494831202&amp;notif_id=3D1610745575484951&amp;mac=3DAdgdeUdJhXdvurx=
+G&amp;unsubscribe_uri=3DaHR0cHM6Ly9pbnN0YWdyYW0uY29tL2VtYWlscy91bnN1YnNjcm=
+liZS9yZW1pbmRlcnM%2FdXNlcl9pZD0zNzA4MzY2MjIzMyZzaWc9QVU4UGR0OURsNVRTOGlDUg=
+%3D%3D" style=3D"color:#abadae;text-decoration:underline;">Unsubscribe</a> =
+or <a style=3D"color:#abadae;text-decoration:underline;">remove your =
+email</a> from this account.<br /></div></td><td width=3D"0" =
+style=3D"display:block;width:0px;">&nbsp;&nbsp;&nbsp;</td></tr></table></t=
+d></tr><tr align=3D"center"><td =
+style=3D"width:100%;height:15px;"></td></tr></table></td></tr><tr =
+align=3D"center"><td style=3D"width:100%;height:5px;"></td></tr></table></=
+td></tr></table></table><!--[if (gte mso 9)|(IE)]>
+                    </td>
+                  </tr>
+                </table>
+                <![endif]--></td></tr><tr align=3D"center"><td =
+style=3D"width:100%;height:32px"></td></tr><tr><td><span style=3D""><img =
+src=3D"https://facebook.com/aymt/aa/?e=3D%7B%22c%22%3A%2255bnwn5kqxwggr%22=
+%2C%22t%22%3A%22g6ldfofo%3D%3Dcze%22%2C%22n%22%3A%22k_wdvdvuh_h_d%22%7D" =
+style=3D"border:0;width:1px;height:1px;" =
+/></span></td></tr></table></body></html>
+

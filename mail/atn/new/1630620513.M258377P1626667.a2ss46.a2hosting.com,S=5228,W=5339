@@ -1,0 +1,111 @@
+Return-Path: <owen.king@octantech.com>
+Delivered-To: atn@awakenthenorth.org
+Received: from a2ss46.a2hosting.com
+	by a2ss46.a2hosting.com with LMTP
+	id iGnrDmFLMWEr0hgAjrpv+A
+	(envelope-from <owen.king@octantech.com>)
+	for <atn@awakenthenorth.org>; Thu, 02 Sep 2021 18:08:33 -0400
+Return-path: <owen.king@octantech.com>
+Envelope-to: atn@awakenthenorth.org
+Delivery-date: Thu, 02 Sep 2021 18:08:33 -0400
+Received: from mail-pg1-f170.google.com ([209.85.215.170]:38860)
+	by a2ss46.a2hosting.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <owen.king@octantech.com>)
+	id 1mLusr-006sad-3W
+	for atn@awakenthenorth.org; Thu, 02 Sep 2021 18:08:33 -0400
+Received: by mail-pg1-f170.google.com with SMTP id w8so3479749pgf.5
+        for <atn@awakenthenorth.org>; Thu, 02 Sep 2021 15:08:13 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=octantech-com.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=FJOAxx7bDHtRPLHxQixRYhW5sWMfxn0RfRlz7/9uRTQ=;
+        b=wPatjERqhKMCU217hCfWfoMaTyff2BAa9U7BGyjogGGbbvlqGQQClh3NT8Wgp866jK
+         x/hxXIZSWhuS+uMB3b76UvmZqmxKYK4E7zcf3usQfUgPOMlaHqFvgvGbqlgNxGGTEH12
+         sU6O/scYsOl1/XjqZ93sSb6Lu1xVL3bBHKMmNNRHRybCHrKwzZM/dX1/ne8KV6bQgZNr
+         irUGkzzbv0AlbCJZkTygR0GFviPy8ject6oOUHXFG9g41IJ87OjpO8Rqo52k8GTPptJ6
+         moEKPUmfIcA99gtTPhuU+7/JV4g3YxucWzc7jgvEUKEoxsjIlcxQNbwQwFAWrz3MhRK5
+         pG6Q==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=FJOAxx7bDHtRPLHxQixRYhW5sWMfxn0RfRlz7/9uRTQ=;
+        b=IEm7PwbLYlXnyueQQBW0qBJvpHb+s8ZWQGxXu9XvchjmxbWO5VwKRFlX/Pr/RdDg5n
+         z7vnDoudvyz+3/FLeXiQ329mLZyjcpw22cYrL8BHlBOf8mwjWx6aObaW7Fzda3uYnMSK
+         zTTMGYPHknLYFqLr/3syCibUlvVgyOvBWyhB/d+vWVo7cs4cMYgQAzoyRIZODtLPuGZx
+         3D1d/ga59Xd6lJo4lQBTRFSNHA+Jf4Mx9nMVLU81loGsIl2+n8fH1ZcsdJr3icp0rI4V
+         zjmFx7QHhaoVSE2zoonJX+jHcsb6q20JCLfFkjW35gQJTIwvADwSaUkhwdUYlB1VyVUb
+         /Yqg==
+X-Gm-Message-State: AOAM5323/aW+zmqtVvIaDodK7U+z8rXh9BCGzqgZqLZ6prwFjb4z76Vd
+	QY2WiHCo+K6PRyh2qlzuEgehtT7rTFjLE5UFnbt0
+X-Google-Smtp-Source: ABdhPJxyTYgszZKUgLlJHLHkgzcrCnABbLp3W33ams81BsVmg8dHmS3253xglOCgzXG5QoORBDnt1T15WxB+z9BHkvM=
+X-Received: by 2002:a62:14cc:0:b0:408:78f4:9b37 with SMTP id
+ 195-20020a6214cc000000b0040878f49b37mr336419pfu.13.1630620471873; Thu, 02 Sep
+ 2021 15:07:51 -0700 (PDT)
+MIME-Version: 1.0
+From: Owen King <owen.king@octantech.com>
+Date: Fri, 3 Sep 2021 03:37:10 -0500
+Message-ID: <CACsZPV6tZggzg=Ktji1=f+DinN0d_chYtQrtrjJKVSSnP8CRAw@mail.gmail.com>
+Subject: RemaDays Warsaw-2021-Attendees list
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary="000000000000fd704605cb0a6945"
+Bcc: atn@awakenthenorth.org
+
+--000000000000fd704605cb0a6945
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+*Dear Exhibitor,*
+
+
+
+*Are you interested in acquiring the =E2=80=9CRemaDays Warsaw-**2021**=E2=
+=80=9D Post
+Attendees list?*
+
+
+
+*Let me know your thoughts, so that I can send more info on this like cost,
+counts, and samples.*
+
+
+
+*Regards,*
+
+
+
+
+*Owen King*
+
+*Marketing Executive*
+
+--000000000000fd704605cb0a6945
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;li=
+ne-height:normal"><b><font color=3D"#073763" face=3D"verdana, sans-serif">D=
+ear Exhibitor,</font></b></p><p class=3D"MsoNormal" style=3D"margin:0in 0in=
+ 0.0001pt;line-height:normal"><b><font color=3D"#073763" face=3D"verdana, s=
+ans-serif">=C2=A0</font></b></p><p class=3D"MsoNormal" style=3D"margin:0in =
+0in 0.0001pt;line-height:normal"><font color=3D"#073763" face=3D"verdana, s=
+ans-serif"><b>Are you interested in acquiring the =E2=80=9CRemaDays Warsaw-=
+</b><b>2021</b><b>=E2=80=9D Post Attendees list?</b></font></p><p class=3D"=
+MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal"><b><font co=
+lor=3D"#073763" face=3D"verdana, sans-serif">=C2=A0</font></b></p><p class=
+=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal"><b><fon=
+t color=3D"#073763" face=3D"verdana, sans-serif">Let me know your thoughts,=
+ so that I can send more info on this like cost, counts, and samples.</font=
+></b></p><p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-heigh=
+t:normal"><b><font color=3D"#073763" face=3D"verdana, sans-serif">=C2=A0</f=
+ont></b></p><p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-he=
+ight:normal"><b><font color=3D"#073763" face=3D"verdana, sans-serif">Regard=
+s,</font></b></p><p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;li=
+ne-height:normal"><b><font color=3D"#073763" face=3D"verdana, sans-serif">=
+=C2=A0</font></b></p><p class=3D"MsoNormal" style=3D"margin:0in 0in 8pt;lin=
+e-height:13.91px"><font color=3D"#073763" face=3D"verdana, sans-serif"><b>O=
+wen King<br></b></font></p><p class=3D"MsoNormal" style=3D"margin:0in 0in 8=
+pt;line-height:13.91px"><b><font color=3D"#073763" face=3D"verdana, sans-se=
+rif">Marketing Executive</font></b></p></div>
+
+--000000000000fd704605cb0a6945--

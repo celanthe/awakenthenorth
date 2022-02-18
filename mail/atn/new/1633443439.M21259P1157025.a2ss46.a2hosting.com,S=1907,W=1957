@@ -1,0 +1,50 @@
+Return-Path: <noreply@awakenthenorth.org>
+Received: from a2ss46.a2hosting.com
+	by a2ss46.a2hosting.com with LMTP
+	id +Y4FAG9eXGGhpxEAjrpv+A
+	(envelope-from <noreply@awakenthenorth.org>); Tue, 05 Oct 2021 10:17:19 -0400
+Return-path: <noreply@awakenthenorth.org>
+Envelope-to: coma@awakenthenorth.org,
+ atn@awakenthenorth.org
+Delivery-date: Tue, 05 Oct 2021 10:17:19 -0400
+Received: from [66.198.240.52] (port=56858 helo=members.awakenthenorth.org)
+	by a2ss46.a2hosting.com with esmtpa (Exim 4.94.2)
+	(envelope-from <noreply@awakenthenorth.org>)
+	id 1mXlFu-004r16-Sh; Tue, 05 Oct 2021 10:17:18 -0400
+Message-ID: <4b023bb48531e3107c95981c2705b7e4@members.awakenthenorth.org>
+Date: Tue, 05 Oct 2021 08:17:18 -0600
+Subject: New Awaken the North Application
+From: Awaken The North <noreply@awakenthenorth.org>
+To: coma@awakenthenorth.org, chris.claus42@gmail.com, atn@awakenthenorth.org
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1633443438_bbf370ba7252c589e8915603cd39759b_=_"
+
+
+--_=_swift_1633443438_bbf370ba7252c589e8915603cd39759b_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+There is a new membership application!
+Member Name: Brian Brewer
+Preferred Name: Brian
+
+=A0
+Click here to view their application: https://members.awakenthenorth.org/ad=
+min/applications.php?page=3Dview&id=3D485
+
+--_=_swift_1633443438_bbf370ba7252c589e8915603cd39759b_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<p>There is a new membership application!</p>
+<p>Member Name: Brian Brewer</p>
+<p>Preferred Name: Brian</p>
+
+<p>=A0</p>
+<p>Click here to view their application: <a href=3D"https://members.awakent=
+henorth.org/admin/applications.php?page=3Dview&id=3D485">https://members.aw=
+akenthenorth.org/admin/applications.php?page=3Dview&id=3D485</a></p>
+
+--_=_swift_1633443438_bbf370ba7252c589e8915603cd39759b_=_--
+

@@ -1,0 +1,132 @@
+Return-Path: <lawrence.carter1981@gmail.com>
+Delivered-To: noreply@awakenthenorth.org
+Received: from a2ss46.a2hosting.com
+	by a2ss46.a2hosting.com with LMTP
+	id MCCYKzbBTGFOnjkAjrpv+A
+	(envelope-from <lawrence.carter1981@gmail.com>)
+	for <noreply@awakenthenorth.org>; Thu, 23 Sep 2021 14:02:30 -0400
+Return-path: <lawrence.carter1981@gmail.com>
+Envelope-to: noreply@awakenthenorth.org
+Delivery-date: Thu, 23 Sep 2021 14:02:30 -0400
+Received: from mail-ed1-f53.google.com ([209.85.208.53]:43848)
+	by a2ss46.a2hosting.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <lawrence.carter1981@gmail.com>)
+	id 1mTT3G-00GHwR-H0
+	for noreply@awakenthenorth.org; Thu, 23 Sep 2021 14:02:30 -0400
+Received: by mail-ed1-f53.google.com with SMTP id v10so21375975edj.10
+        for <noreply@awakenthenorth.org>; Thu, 23 Sep 2021 11:02:10 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to;
+        bh=1INfULXhXXKxnLutPZOp1MoVYLPhVPXr0lntfCEZ5rE=;
+        b=ODqvVz5C1Y7WmTAGzG2Otfff3aYQufh6ExxVDUcAxSipkdUOKe8VNq10h7kf7AhiPw
+         x+f/WADh8D+omMVQjLH4NGEDo8AgOE4CaGQXq09BvpQ651bD0n64TYHKWdMmyEyyZMyX
+         a5znKfrkgznuv8zWRVaWypvAJgb3/pZlg3VEIpAfOoLP5R8980/IclXWxLkiEKdKcU9F
+         mHoih+kYX9sELWtSW9b/7SlEUUH/VH24x76+uWUIUPB33tr5klB9C/Z++Tw9ULCznyXs
+         2MMfbrOLf10m+ORrl4wBj1CH3dnhUppf+aDBJ8PuPoVmFQACUhFBYvemE8kOgOM1OnZl
+         qYLg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:mime-version:references:in-reply-to:from:date
+         :message-id:subject:to;
+        bh=1INfULXhXXKxnLutPZOp1MoVYLPhVPXr0lntfCEZ5rE=;
+        b=p4qE0323DGmywGYdEwnsaFH2R8scKoxFSfxWF1Q/9D+7gN9coK3CCgflwnxgTEizJ2
+         OVnTtz+jB+167E0BkV5JXgafMmh/kfhfGzsRf8MJj/hCxNOlh9GhB2rekO0YyYDCO0/x
+         Txlu3/RYf211TxsrTd8ANyLXbxzwHTk7HQh+8cdKgm+I9L/Jor8RzYdB/MVAXMj8UrdX
+         /HcQop8cJsLvu1pXfE6Ys15hE2r+WQ/rcI3okYRH2xd85lSzHbLs2yzkl/5fsBZf35y8
+         yQxbxKDDgr06pkUbbIZgStHbKS3GvbidnA204g7OgZKttaHKup+94IE6U0oq50PI4oAF
+         IcJw==
+X-Gm-Message-State: AOAM533oW1h9oqTDl3923T/hE7enTW7FcIM6Ck2INOKkAb/x8tL3Ugy7
+	WMeFtzHyOE20OVJfVLHwkmT21EZp453zZGrgVT4rV9vmpQ4=
+X-Google-Smtp-Source: ABdhPJyrZ/3mc9ZHjKMvKfM7dgEB4G6G4TsIK631z5omTOH0WNCkanBzwamV79P/04HtXzqVAaVLNfRHTwOdVZezV5Y=
+X-Received: by 2002:a50:c949:: with SMTP id p9mr9168edh.326.1632420108788;
+ Thu, 23 Sep 2021 11:01:48 -0700 (PDT)
+MIME-Version: 1.0
+References: <47c36a6a607c539c54261f8475aa9425@members.awakenthenorth.org>
+In-Reply-To: <47c36a6a607c539c54261f8475aa9425@members.awakenthenorth.org>
+From: A Heathens Journey <lawrence.carter1981@gmail.com>
+Date: Thu, 23 Sep 2021 13:01:37 -0500
+Message-ID: <CAHpfO72HBM1Df9GFdZgP7b-jVqhrpWZkWArWuWrfXMuxa6AHdg@mail.gmail.com>
+Subject: Re: ATN: Please verify your email address.
+To: Awaken The North <noreply@awakenthenorth.org>
+Content-Type: multipart/alternative; boundary="000000000000b564ad05ccad6c91"
+
+--000000000000b564ad05ccad6c91
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Any idea of a status of my application???  I=E2=80=99m super excited to joi=
+n!!
+
+On Fri, Sep 17, 2021 at 7:40 AM Awaken The North <noreply@awakenthenorth.or=
+g>
+wrote:
+
+>
+> Dear Lawrence Carter,
+> Thank you for applying for membership to Awaken The North.
+>
+> There are two steps left before you become an AtN member.
+> First, you must verify your email address by clicking this link: Verify
+> my E-Mail
+> <http://members.awakenthenorth.org/verify.php?code=3D97e97775cc23d6347228=
+2d7ca410c72c>
+> Or by copying and pasting the following into the address bar of your
+> browser:
+> http://members.awakenthenorth.org/verify.php?code=3D97e97775cc23d63472282=
+d7ca410c72c
+>
+> Once you have verified your email address, your application will be
+> forwarded to our Chancellor of Member Affairs, Anja Solsystir for approva=
+l.
+> Unlike joining a typical website, to maintain a safe and inclusive
+> community, all applications are vetted before they are approved.
+> If for any reason we need more information from you in order to approve
+> your application, we will email you at the address you provided.
+>
+> We thank you for your patience and hope to have your application approved
+> soon.
+> -Awaken The North.
+> www.awakenthenorth.org
+> www.facebook.com/AwakenTheNorth
+>
+
+--000000000000b564ad05ccad6c91
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">Any idea of a status of my application???=C2=A0 I=E2=80=
+=99m super excited to join!!</div><div><br><div class=3D"gmail_quote"><div =
+dir=3D"ltr" class=3D"gmail_attr">On Fri, Sep 17, 2021 at 7:40 AM Awaken The=
+ North &lt;<a href=3D"mailto:noreply@awakenthenorth.org">noreply@awakenthen=
+orth.org</a>&gt; wrote:<br></div><blockquote class=3D"gmail_quote" style=3D=
+"margin:0px 0px 0px 0.8ex;border-left-width:1px;border-left-style:solid;pad=
+ding-left:1ex;border-left-color:rgb(204,204,204)">
+<img src=3D"https://members.awakenthenorth.org/logo2.png"><br>
+Dear Lawrence  Carter,<br>
+Thank you for applying for membership to Awaken The North.<br><br>
+There are two steps left before you become an AtN member.<br>
+First, you must verify your email address by clicking this link: <a href=3D=
+"http://members.awakenthenorth.org/verify.php?code=3D97e97775cc23d63472282d=
+7ca410c72c" target=3D"_blank">Verify my E-Mail</a><br>
+Or by copying and pasting the following into the address bar of your browse=
+r: <a href=3D"http://members.awakenthenorth.org/verify.php?code=3D97e97775c=
+c23d63472282d7ca410c72c" target=3D"_blank">http://members.awakenthenorth.or=
+g/verify.php?code=3D97e97775cc23d63472282d7ca410c72c</a><br><br>
+Once you have verified your email address, your application will be forward=
+ed to our Chancellor of Member Affairs, Anja Solsystir for approval.<br>
+Unlike joining a typical website, to maintain a safe and inclusive communit=
+y, all applications are vetted before they are approved. <br>
+If for any reason we need more information from you in order to approve you=
+r application, we will email you at the address you provided.<br><br>
+We thank you for your patience and hope to have your application approved s=
+oon.<br>
+-Awaken The North.<br>
+<a href=3D"http://www.awakenthenorth.org" target=3D"_blank">www.awakentheno=
+rth.org</a><br>
+<a href=3D"https://www.facebook.com/AwakenTheNorth/" target=3D"_blank">www.=
+facebook.com/AwakenTheNorth</a><br>
+</blockquote></div></div>
+
+--000000000000b564ad05ccad6c91--

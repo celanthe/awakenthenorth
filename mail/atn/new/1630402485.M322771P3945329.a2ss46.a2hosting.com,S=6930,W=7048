@@ -1,0 +1,118 @@
+Return-Path: <wayne@fovle.com>
+Delivered-To: ATN@awakenthenorth.org
+Received: from a2ss46.a2hosting.com
+	by a2ss46.a2hosting.com with LMTP
+	id tTCnErX3LWFxMzwAjrpv+A
+	(envelope-from <wayne@fovle.com>)
+	for <ATN@awakenthenorth.org>; Tue, 31 Aug 2021 05:34:45 -0400
+Return-path: <wayne@fovle.com>
+Envelope-to: ATN@awakenthenorth.org
+Delivery-date: Tue, 31 Aug 2021 05:34:45 -0400
+Received: from mailrelay1-4.pub.mailoutpod1-cph3.one.com ([193.202.110.144]:37926)
+	by a2ss46.a2hosting.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2)
+	(envelope-from <wayne@fovle.com>)
+	id 1mL0AH-00GYFD-0N
+	for ATN@awakenthenorth.org; Tue, 31 Aug 2021 05:34:45 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=fovle.com; s=20191106;
+	h=to:from:subject:mime-version:content-type:from;
+	bh=IOoOGs2cxwC4DPb31iS+C30opmeWNAcUez5dOy5mEIU=;
+	b=O9X88SAT1hAlA1HQR1rPpdMbLvpjcydoqyKswCuTF13D1TuvB1HC7kApwXN5/1JJ+t1E4890kejxy
+	 5R+/oJ9jhWic3R0LLMAlh0MAOXzTCnEG+LXOS1gkoIL1bRvYBl9t3PWQLymixVhCssQPR5WFGDWb4B
+	 3r26K06Mkzu3tCEm0epOlC4a3aRSYjqCOopAhZj7kIBilAP58U4GHYnyKti2LH54i8cy6lhIWDHlT5
+	 aSl3FRaieJgVp6mGXnsLy0TBGr74UoA44Z62UXSNE/uY9gkI38OgaRCMuE0GyMK0/TNZC6v2B8Wjxb
+	 v5I4B3mr0nAA5QaW/QCJo7oRQRHuHDQ==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=fovle.com; s=rsa1;
+	h=to:from:subject:mime-version:content-type:from;
+	bh=IOoOGs2cxwC4DPb31iS+C30opmeWNAcUez5dOy5mEIU=;
+	b=ZAxxgmGiZipniP92ERrR35KNadj3htkgfGR2mZGGYePqK7G6xpWfMVCZwQ20JeZUfz0lHIauZ/XyE
+	 MG31AcKlXhw7a7dDGOnwROxnCDBHunzt26UTHo07E+71mKKagMPGAnhlxGn6jf/aSBzfWtOboSNIHh
+	 mm1KItVYh9oSqOMnXVg9ARsHKiLouuAxBsLlR2QPRswixHabJh2KIiEcmTtShSVt9pUPdc7/Q1ke4i
+	 SREJP0gCKIeFEcKgK+m9O9YNxcq6oRiC7XLp2TXX4a8FbX61ft5PW2IhvRMaXo/6MnYN35QYdxRaAj
+	 Au0/tNlCIiCAISUJk1GN27sj0lgHAfw==
+DKIM-Signature: v=1; a=ed25519-sha256; c=relaxed/relaxed;
+	d=fovle.com; s=ed1;
+	h=to:from:subject:mime-version:content-type:from;
+	bh=IOoOGs2cxwC4DPb31iS+C30opmeWNAcUez5dOy5mEIU=;
+	b=rWexSpJOJhBZl5YSoRJQQvgvyML/t7prDu+57aapI1JxDKKzeor4uR4u98l95lgS9KK1uJ1NjMVyr
+	 TDK0cJcAA==
+X-HalOne-Cookie: 96f643c78a671d7ba0995928f7f54ad3460ad4c3
+X-HalOne-ID: 93a1c158-0a3e-11ec-b7ce-d0431ea8a283
+Received: from ip-172-31-39-34.eu-west-1.compute.internal (ec2-54-217-82-80.eu-west-1.compute.amazonaws.com [54.217.82.80])
+	by mailrelay1.pub.mailoutpod1-cph3.one.com (Halon) with ESMTPSA
+	id 93a1c158-0a3e-11ec-b7ce-d0431ea8a283;
+	Tue, 31 Aug 2021 09:34:02 +0000 (UTC)
+Content-Type: multipart/alternative; boundary="===============2625423925459690883=="
+MIME-Version: 1.0
+Subject: Doing our bit to help self-employed and small business in the pandemic
+From: Wayne Fovle<wayne@fovle.com>
+To: ATN@awakenthenorth.org
+
+--===============2625423925459690883==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+CkhlbGxvIEBBd2FrZW5UaGVOb3J0aCwKCkFzIExvbmRvbiBhbmQgb3RoZXIgY2l0aWVzIGluIHRo
+ZSBVSyBzdGFydCB0byBvcGVuIHVwLCBpdOKAmXMgaW1wb3J0YW50IHRoYXQgd2UgY29udGludWUg
+dG8gZm9sbG93IHRoZSBHb3Zlcm5tZW504oCZcyBhZHZpY2Ugb2YgSGFuZHMg4oCTIEZhY2Ug4oCT
+IFNwYWNlLgoKV2XigJlyZSBzdGlsbCBkb2luZyBvdXIgYml0IGF0IEZvdmxlIGJ5IHByb3ZpZGlu
+ZyBoaWdoIHF1YWxpdHkgZmFjZSBtYXNrcyBhY3Jvc3MgdGhlIFVLIGFuZCBub3cgd2XigJl2ZSBT
+TEFTSEVEIG91ciBwcmljZXMgc28gdGhhdCB5b3UgY2FuIHN0b2NrIHVwIG92ZXIgdGhlIG5leHQg
+Y291cGxlIG9mIHdlZWtzIGFuZCBtb250aHMuIEFsbCBvZiBvdXIgbWFza3MgYXJlIG9uIHNhbGUg
+YW5kIHlvdSBjYW4gZ2V0IGEgcGFjayBvZiBmYWNlIG1hc2tzIGZvciBhcyBsaXR0bGUgYXMgwqMw
+LjE1IHBlciBtYXNrISBPbmNlIHRoZXNlIG1hc2tzIGFyZSBnb25lLCB3ZSB3aWxsIG5vIGxvbmdl
+ciBiZSBzZWxsaW5nIG1hc2tzIGF0IHRoaXMgcHJpY2UuCgpXZSBoYXZlIHRlYW1lZCB1cCB3aXRo
+IGF0b3BseS5jb20sIFVLJ3MgbGVhZGluZyBvbmxpbmUgYWNjb3VudGluZyBwcmFjdGljZSB3aGlj
+aCBpcyBhbHNvIG9mZmVyaW5nIGFtYXppbmcgaGVscCB0byBpbmRpdmlkdWFscyBhbmQgc21hbGwg
+YnVzaW5lc3MgZHVyaW5nIHRoaXMgcGFuZGVtaWMuIFRoZWlyIFNlbGYtYXNzZXNzbWVudCBzZXJ2
+aWNlIHN0YXJ0cyBmcm9tIMKjOTkgKGhhbmR5IGZvciBhbnlvbmUgdG8gbWVldCBKYW51YXJ5IGRl
+YWRsaW5lKSBhbmQgQ29tcGFuaWVzIEFjY291bnRzIG9ubHkgwqMxOTkuIFdpdGggZGlzY291bnQg
+Y29kZSAxME9GRkFDQ1RTIHlvdSBjYW4gZXZlbiBnZXQgZnVydGhlciAxMCUgb2ZmLgoKU3RheSBz
+YWZlIG92ZXIgdGhlIGhvbGlkYXlzIGFuZCBoZXJl4oCZcyB0byBhIGJldHRlciAyMDIxIQoKVGhp
+cyBpcyBhIE9ORS1USU1FIGRlYWwgYW5kIHlvdSB3aWxsIG5vdCByZWNlaXZlIGFueSBmdXJ0aGVy
+IGNvbW11bmljYXRpb25zIGZyb20gdXMuIAoKV2F5bmUgQHRlYW1mb3ZsZQoKdy4gd3d3LmZvdmxl
+LmNvbQoKdC4gQGZvdmxlX29ubGluZQoKS2VtcCBIb3VzZSwgMTUyIC0gMTYwIENpdHkgUm9hZCwg
+TG9uZG9uIEVDMVYgMk5YCgogICAg
+
+--===============2625423925459690883==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+ICAgIDxodG1sPgogICAgICA8Ym9keT4KICAgICAgICA8cD5IZWxsbyBAQXdha2VuVGhlTm9ydGgs
+Cjxicj48YnI+CkFzIExvbmRvbiBhbmQgb3RoZXIgY2l0aWVzIGluIHRoZSBVSyBzdGFydCB0byBv
+cGVuIHVwLCBpdOKAmXMgaW1wb3J0YW50IHRoYXQgd2UgY29udGludWUgdG8gZm9sbG93IHRoZSBH
+b3Zlcm5tZW504oCZcyBhZHZpY2Ugb2YgPGI+SGFuZHMg4oCTIEZhY2Ug4oCTIFNwYWNlPC9iPi4K
+PGJyPjxicj4KV2XigJlyZSBzdGlsbCBkb2luZyBvdXIgYml0IGF0IDxhIGhyZWY9J2h0dHBzOi8v
+d3d3LmZvdmxlLmNvbSc+Rm92bGU8L2E+IGJ5IHByb3ZpZGluZyBoaWdoIHF1YWxpdHkgZmFjZSBt
+YXNrcyBhY3Jvc3MgdGhlIFVLIGFuZCBub3cgd2XigJl2ZSBTTEFTSEVEIG91ciBwcmljZXMgc28g
+dGhhdCB5b3UgY2FuIHN0b2NrIHVwIG92ZXIgdGhlIG5leHQgY291cGxlIG9mIHdlZWtzIGFuZCBt
+b250aHMuIEFsbCBvZiBvdXIgbWFza3MgYXJlIG9uIHNhbGUgYW5kIHlvdSBjYW4gZ2V0IGEgcGFj
+ayBvZiBmYWNlIG1hc2tzIGZvciBhcyBsaXR0bGUgYXMgPGEgaHJlZj0naHR0cHM6Ly9mb3ZsZS5j
+b20vc2hvcCMhL3Byb2R1Y3RzL3N1cmdpY2FsLWZhY2UtbWFzay01MC1wYWNrJz7CozAuMTUgcGVy
+IG1hc2s8L2E+ISBPbmNlIHRoZXNlIG1hc2tzIGFyZSBnb25lLCB3ZSB3aWxsIG5vIGxvbmdlciBi
+ZSBzZWxsaW5nIG1hc2tzIGF0IHRoaXMgcHJpY2UuCjxicj48YnI+CldlIGhhdmUgdGVhbWVkIHVw
+IHdpdGggYXRvcGx5ICg8YSBocmVmPSdodHRwczovL3d3dy5hdG9wbHkuY29tJz53d3cuYXRvcGx5
+LmNvbTwvYT4pLCBVSydzIGxlYWRpbmcgb25saW5lIGFjY291bnRpbmcgcHJhY3RpY2Ugd2hpY2gg
+aXMgYWxzbyBvZmZlcmluZyBhbWF6aW5nIGhlbHAgdG8gaW5kaXZpZHVhbHMgYW5kIHNtYWxsIGJ1
+c2luZXNzIGR1cmluZyB0aGlzIHBhbmRlbWljLiBUaGVpciA8YSBocmVmPSdodHRwczovL2F0b3Bs
+eS5jb20vc2VydmljZXMjIS9wcm9kdWN0cy9zZWxmLWFzc2Vzc21lbnQtdGF4LXJldHVybi0tLW11
+bHRpcGxlLXNvdXJjZXMtb2YtaW5jb21lJz5TZWxmLWFzc2Vzc21lbnQgc2VydmljZTwvYT4gc3Rh
+cnRzIGZyb20gwqM5OSAoaGFuZHkgZm9yIHlvdSB0byBtZWV0IEphbnVhcnkgZGVhZGxpbmUpIGFu
+ZCA8YSBocmVmPSdodHRwczovL2F0b3BseS5jb20vc2VydmljZXMjIS9wcm9kdWN0cy9jb21wYW55
+LWFjY291bnRzLWFuZC1jb3Jwb3JhdGlvbi10YXgtcmV0dXJuJz5Db21wYW5pZXMgQWNjb3VudHM8
+L2E+IG9ubHkgwqMxOTkuIFdpdGggZGlzY291bnQgY29kZSAxME9GRkFDQ1RTIHlvdSBjYW4gZXZl
+biBnZXQgYW5vdGhlciAxMCUgb2ZmLgo8YnI+PGJyPgpTdGF5IHNhZmUgb3ZlciB0aGUgaG9saWRh
+eXMgYW5kIGhlcmXigJlzIHRvIGEgYmV0dGVyIDIwMjEhCjxicj48YnI+ClRoaXMgaXMgYSBPTkUt
+VElNRSBkZWFsIGFuZCB5b3Ugd2lsbCBub3QgcmVjZWl2ZSBhbnkgZnVydGhlciBjb21tdW5pY2F0
+aW9ucyBmcm9tIHVzLgo8YnI+PGJyPgpXYXluZSBAdGVhbWZvdmxlCjxicj4Kdy4gPGEgaHJlZj0n
+aHR0cHM6Ly93d3cuZm92bGUuY29tJz53d3cuZm92bGUuY29tPC9hPgo8YnI+CnQuIDxhIGhyZWY9
+J2h0dHBzOi8vd3d3LnR3aXR0ZXIuY29tL2ZvdmxlX29ubGluZSc+QGZvdmxlX29ubGluZTwvYT4K
+PGJyPgo8aT5Gb3ZsZSBMdGQsIEtlbXAgSG91c2UsIDE1MiAtIDE2MCBDaXR5IFJvYWQsIExvbmRv
+biBFQzFWIDJOWDwvaT4KICAgICAgICA8L3A+CiAgICAgIDwvYm9keT4KICAgIDwvaHRtbD4KICAg
+IA==
+
+--===============2625423925459690883==--

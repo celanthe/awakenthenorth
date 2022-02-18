@@ -1,0 +1,497 @@
+Return-Path: <msprvs1=18648h6SO4ukx=bounces-182071@itemail.trello.com>
+Delivered-To: cosmo@awakenthenorth.org
+Received: from a2ss46.a2hosting.com
+	by a2ss46.a2hosting.com with LMTP
+	id qDY9Oe9wAGCJ9BkAjrpv+A
+	(envelope-from <msprvs1=18648h6SO4ukx=bounces-182071@itemail.trello.com>)
+	for <cosmo@awakenthenorth.org>; Thu, 14 Jan 2021 11:27:27 -0500
+Return-path: <msprvs1=18648h6SO4ukx=bounces-182071@itemail.trello.com>
+Envelope-to: cosmo@awakenthenorth.org
+Delivery-date: Thu, 14 Jan 2021 11:27:27 -0500
+Received: from mta-82-101.sparkpostmail.com ([192.174.82.101]:41134)
+	by a2ss46.a2hosting.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.93)
+	(envelope-from <msprvs1=18648h6SO4ukx=bounces-182071@itemail.trello.com>)
+	id 1l05T5-007AkU-Ml
+	for cosmo@awakenthenorth.org; Thu, 14 Jan 2021 11:27:27 -0500
+X-MSFBL: BuxbaBgXaLCqmGqXa81fNS28NOa5piESCdxZt8Ku+/A=|eyJjdXN0b21lcl9pZCI
+	6IjE4MjA3MSIsInN1YmFjY291bnRfaWQiOiIwIiwidGVuYW50X2lkIjoic3BjIiw
+	iciI6ImNvc21vQGF3YWtlbnRoZW5vcnRoLm9yZyIsIm1lc3NhZ2VfaWQiOiI1ZmZ
+	jYzI3MDAwNjA5MGZkZGEwYyJ9
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=trello.com;
+	s=scph0917; t=1610641602; i=@trello.com;
+	bh=SzQhaKQoWR6AencvBc2bXHJyxkEiAM1SWMpIixczDqk=;
+	h=To:Message-ID:Date:Content-Type:Subject:From;
+	b=Bxl0NZBIaiwptcbCeh9ZNBomW38EJLyClNMWOskOfvrTUKcla/+J2aLLQGLDgo4jt
+	 n/d/7A8O8/3mdk6ni18acCf6+oUawIsFeYei+57X7q6OIi077+mT6KjpWCX5ClQN3G
+	 WzQMHIAnPtQuh6z2qMfED1mJYh8Vyrfim89rOrbQ=
+To: "Chancellor of Social Media Outreach" <cosmo@awakenthenorth.org>
+Message-ID: <AD.C0.33836.2C070006@ac.mta1vrest.cc.prd.sparkpost>
+Date: Thu, 14 Jan 2021 16:26:42 +0000
+Content-Type: multipart/alternative; boundary="_----o+W2B+FXjPIMKo8Cu5C7CQ===_FC/C0-33836-2C070006"
+MIME-Version: 1.0
+Reply-To: taco@trello.com
+Subject: New: More Butler commands are now available
+X-Campaign-ID: 1890821
+From: "Taco from Trello" <taco@trello.com>
+X-Message-ID: 02603c5541354da09711451a09c626a2
+X-Feedback-ID: 2604509:1890821:6291:iterable
+Feedback-ID: 2604509:1890821:6291:iterable
+List-Unsubscribe: <mailto:unsubscribe@unsub.spmta.com?subject=unsubscribe:lFSCtl5FCwqBCq8J8sYXvHOCmuA82AtIXtM5C5RpTIs~|eyAicmNwdF90byI6ICJjb3Ntb0Bhd2FrZW50aGVub3J0aC5vcmciLCAidGVuYW50X2lkIjogInNwYyIsICJjdXN0b21lcl9pZCI6ICIxODIwNzEiLCAibWVzc2FnZV9pZCI6ICI1ZmZjYzI3MDAwNjA5MGZkZGEwYyIsICJzdWJhY2NvdW50X2lkIjogIjAiIH0~>
+List-Id: <spc.182071.0.sparkpostmail.com>
+
+--_----o+W2B+FXjPIMKo8Cu5C7CQ===_FC/C0-33836-2C070006
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="UTF-8"
+
+Better Together New year, new Trello board backgrounds =0A=0AView in Browse=
+r =E2=86=92 =0A<https://i.trellomail.com/e/evib=3F_t=3Dcce9a87967214196ae72=
+b08c7283fda9&_m=3D02603c5541354da09711451a09c626a2&_e=3D3ddllePxwHk4IlkZikt=
+IjbxTTHlfaWKH9mUSeFyWjQ396QWrEQUVikjHL4IPACfgT9Z7OPsolxLrd5rXjbLq6ooTs7-0FL=
+WzRlp1KZ2FLv4IlvriY-LTTabTD-awtB8F>=0A <https://trello.com> =0A=0A=C2=A0 =
+=0A <https://blog.trello.com/whats-new-with-butler> =0ANew Year, New Automa=
+tions: What's New With Butler  =0A<https://blog.trello.com/whats-new-with-b=
+utler> =0A=0AStart the new year strong by shaving steps from your workflow =
+with Butler =0Aautomation.  <https://blog.trello.com/whats-new-with-butler>=
+=0A=0ASee What's New <https://blog.trello.com/whats-new-with-butler> =0A <h=
+ttps://blog.trello.com/why-process-improvement-matters-for-your-team> =0AWh=
+y Process Improvement Matters For Your Team  =0A<https://blog.trello.com/wh=
+y-process-improvement-matters-for-your-team> =0A=0APrepare your team to nav=
+igate new trends and circumstances=E2=80=94no matter what your =0Aindustry,=
+ or the economy, brings.  =0A<https://blog.trello.com/why-process-improveme=
+nt-matters-for-your-team>=0A=0ARoll With The Changes =0A<https://blog.trell=
+o.com/why-process-improvement-matters-for-your-team> =0A <https://blog.trel=
+lo.com/team-reflection-and-planning> =0AThe Relationship Between Team Refle=
+ction and Planning  =0A<https://blog.trello.com/team-reflection-and-plannin=
+g> =0A=0AWhy teams must reflect on the past in order to move forward more e=
+fficiently, =0Aplus tips for a brighter future.  =0A<https://blog.trello.co=
+m/team-reflection-and-planning>=0A=0ALook Ahead <https://blog.trello.com/te=
+am-reflection-and-planning> =0A <https://blog.trello.com/achieve-restorativ=
+e-rest-productivity> =0AWhy Restorative Rest Makes You More Productive  =0A=
+<https://blog.trello.com/achieve-restorative-rest-productivity> =0A=0ATake =
+a real break from the hustle. Achieve the benefits of rest and learn ways =
+=0Ato make it actually restorative.  =0A<https://blog.trello.com/achieve-re=
+storative-rest-productivity>=0A=0AGet Energized <https://blog.trello.com/ac=
+hieve-restorative-rest-productivity> =0A=0A <https://trello.com/butler-auto=
+mation> =0A=0AAutomate Your Workflow  <https://trello.com/butler-automation=
+>=0A=0APowerful no-code automation is built into every board. =0A<https://t=
+rello.com/butler-automation>=0A=0ALearn More <https://trello.com/butler-aut=
+omation> =0AWant more=3F=0A Get your productivity fix at the Trello Blog =
+=E2=86=92 <https://blog.trello.com/> =0A <https://facebook.com/trelloapp>=
+=C2=A0=C2=A0  <https://twitter.com/trello>=C2=A0=C2=A0  =0A<https://www.lin=
+kedin.com/company/trello>=C2=A0=C2=A0  <https://instagram.com/trelloapp> =
+=0ACopyright =C2=A9 2021 Trello Inc., All rights reserved.=0A 888 Broadway =
+Floor 4 New York, NY 10003 =0AView in Browser =0A<https://i.trellomail.com/=
+e/evib=3F_t=3Dcce9a87967214196ae72b08c7283fda9&_m=3D02603c5541354da09711451=
+a09c626a2&_e=3D3ddllePxwHk4IlkZiktIjbxTTHlfaWKH9mUSeFyWjQ396QWrEQUVikjHL4IP=
+ACfgT9Z7OPsolxLrd5rXjbLq6ooTs7-0FLWzRlp1KZ2FLv4IlvriY-LTTabTD-awtB8F>=0A| P=
+rivacy Policy <https://trello.com/privacy-updated> | Manage Account =0A<htt=
+ps://trello.com/my/account> | Unsubscribe =0A<https://i.trellomail.com/e/en=
+cryptedUnsubscribe=3F_r=3Dcce9a87967214196ae72b08c7283fda9&_s=3D02603c55413=
+54da09711451a09c626a2&_t=3D3ddllePxwHk4IlkZiktIjbxTTHlfaWKH9mUSeFyWjQ2H5ofv=
+6xKTKkDsfsVo9zQcrgllNbwZ9CwCZDQeC6c_IEPiktSg64DNyMPR_SClLmEUdHpjh5bYBqBRKeL=
+om2kCrsBA-X0lxsHIlLB64MTVjPsxf875lwyh0d6pZ6ZQL_510-x6VFTJcDumPWjS8yWs>
+--_----o+W2B+FXjPIMKo8Cu5C7CQ===_FC/C0-33836-2C070006
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+
+<html lang=3D"en" xml:lang=3D"en" xmlns=3D"http://www.w3.org/1999/xhtml"> <=
+head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-=
+8"><meta name=3D"viewport" content=3D"width=3Ddevice-width"> <title>Better =
+Together</title> </head> <body bgcolor=3D"#00B1E1" data-gr-ext-installed da=
+ta-new-gr-c-s-check-loaded=3D"14.991.0" style=3D"padding: 0; margin: 0; wid=
+th: 100%; background:url('https://dm9d104elaxz5.cloudfront.net/Welcome%20se=
+ries/backgroundPixel.png') top center / auto 100% repeat-x #0079bf; font-fa=
+mily: 'Helvetica', 'Arial', san-serif; max-width: 100%; background-color: #=
+00B1E1;">=0D=0A<div style=3D"color:transparent;visibility:hidden;opacity:0;=
+font-size:0px;border:0;max-height:1px;width:1px;margin:0px;padding:0px;bord=
+er-width:0px!important;display:none!important;line-height:0px!important;"><=
+img border=3D"0" width=3D"1" height=3D"1" src=3D"http://i-sp.trellomail.com=
+/q/7KXp33Tu853_c1pc8Q_Rxw~~/AALHNwA~/RgRh4vXCPVcDc3BjQgpf_MJwAGCQ_doMUhhjb3=
+Ntb0Bhd2FrZW50aGVub3J0aC5vcmdYBAAAAAA~"/></div>=0D=0A<span style=3D"color:t=
+ransparent;visibility:hidden;display:none;opacity:0;height:0;width:0;font-s=
+ize:0;">New year, new Trello board backgrounds</span><img src=3D"https://i.=
+trellomail.com/e/eo=3F_t=3Dcce9a87967214196ae72b08c7283fda9&amp;_m=3D02603c=
+5541354da09711451a09c626a2&amp;_e=3D3ddllePxwHk4IlkZiktIjbxTTHlfaWKH9mUSeFy=
+WjQ2H5ofv6xKTKkDsfsVo9zQcrgllNbwZ9CwCZDQeC6c_IEPiktSg64DNyMPR_SClLmEUdHpjh5=
+bYBqBRKeLom2kCrsBA-X0lxsHIlLB64MTVjPsxf875lwyh0d6pZ6ZQL_510-x6VFTJcDumPWjS8=
+yWs" style=3D"border:0;width:1px;height:1px;border-width:0px!important;disp=
+lay:none!important;line-height:0!important;" width=3D"1" height=3D"1"/><!--=
+[if mso]><style type=3D=E2=80=9Dtext/css=E2=80=9D>body{font-family:Arial,sa=
+ns-serif}ul,li{list-style:none;list-style-type:none;padding:0}</style><![en=
+dif]--> <table bgcolor=3D"#00B1E1" style=3D"background-color:#00b1e1; backg=
+round:url('https://dm9d104elaxz5.cloudfront.net/Welcome%20series/background=
+Pixel.png') top center / auto 100% repeat-x #0079bf; font-family:'Helvetica=
+','Arial',san-serif; margin:0; max-width:100%; padding:0; width:100%"> <tbo=
+dy> <tr> <td> <center> <table class=3D"preheader" style=3D"margin:10px auto=
+; max-width:100%; width:600"> <tbody> <tr> <td align=3D"right" style=3D"fon=
+t-size:12px; font-style:italic; opacity:0.5; text-align:right" width=3D"600=
+"><a href=3D"https://i.trellomail.com/e/evib=3F_t=3Dcce9a87967214196ae72b08=
+c7283fda9&_m=3D02603c5541354da09711451a09c626a2&_e=3D3ddllePxwHk4IlkZiktIjb=
+xTTHlfaWKH9mUSeFyWjQ396QWrEQUVikjHL4IPACfgT9Z7OPsolxLrd5rXjbLq6ooTs7-0FLWzR=
+lp1KZ2FLv4IlvriY-LTTabTD-awtB8F"><font color=3D"#FFFFFF">View in Browser =
+=E2=86=92</font></a></td> </tr> <tr> <td style=3D"text-align:center"> <cent=
+er><a href=3D"https://i.trellomail.com/a/click=3F_t=3Dcce9a87967214196ae72b=
+08c7283fda9&_m=3D02603c5541354da09711451a09c626a2&_e=3DwioZy5vU3biOncuF4SoP=
+FpKLPGcmUFPycF8GwQXyWPD9ejEmyxJzmQIRh0fxYmy7T7VU28_5e825vd7AnM_TjiJkqwlBXZj=
+G16NoKKaQW6YQWUtDZMuQ4LJjxJOVjdVRoWMKJZ6XOFHj5M6TTLioRzV0RjPtqS6L5Et0Ldanrc=
+FD2Hor5vMoRfoX6b-Psls7WMAbAGd08Lxd1eZ4FiZH3ZSJ_heXWbLLr515zdZknqSD2xU3laNYM=
+LSVn4KwAlggrr7Kosbh8e1ElLPrN4rVn74hehZ0IMORssP5JP6P20WEpzGD6PC3BourJKIBOjlN=
+jCpYjeMR3yx26U_arsTwfWJSFfFhC-NJ7OA_qCus_m4%3D"><img alt=3D"Trello Logo" he=
+ight=3D"40" style=3D"display: block; margin:0 auto;" width=3D"130" src=3D"h=
+ttps://dm9d104elaxz5.cloudfront.net/Welcome%20series/soloWelcomeLogo.png"><=
+/a></center> </td> </tr> </tbody> </table> <table class=3D"email-wrap" styl=
+e=3D"margin:0 auto; max-width:100%; width:600px"> <tbody> <tr> <td><!-- CON=
+TENT --> <style type=3D"text/css">.content p{color:#444;font-size:18px;line=
+-height:24px}</style> <table bgcolor=3D"white" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" class=3D"content" style=3D"background:white; border-ra=
+dius:8px; border:0; margin:10px auto; width:100%"> <tbody> <tr> <td>&nbsp; =
+<font color=3D"#444444"> <!--/// BLOG POST LINKS --> </font> <table border=
+=3D"0" cellpadding=3D"35" cellspacing=3D"0"> <tbody><!-- --> <tr> <td align=
+=3D"center" style=3D"color:#444444; font-size:18px; line-height:24px"><font=
+ color=3D"#444444"><a style=3D"text-decoration:none; color:#444444" href=3D=
+"https://i.trellomail.com/u/click=3F_t=3Dcce9a87967214196ae72b08c7283fda9&_=
+m=3D02603c5541354da09711451a09c626a2&_e=3DwioZy5vU3biOncuF4SoPFtVxXohzPU1df=
+CjhR7xEtCOq7X_tUYvZeDHUltp8dxY7xqUsH1SKbqC1tKefHacvQfr0GQSDYQ1Syj7Rdx6om36e=
+gDMf3Qwj4Zt3GrT8E5uH-9Blio-2_dywoDWqmqu5rAe8qFXFA6VCOFYCSvgOY1nMxOxscTgGadb=
+h15eAFo1D4DRa-WkFIE1XXEyLZ7-Tk0RwVB6nYiZKnXeWSgcz0CTYUPmtJE7OeN2qFkHd9M67LK=
+kRqBxRwITwpn_fcbehzqh6TlrPlr6rXEsB1qEaeQnxaI1cVDOTtz3Zsst8cHEmbocuWHFdeAUDl=
+5_ynF4mOs50LAHASqWqkcB44B2RI_w2XRwxFk7k4XOk5v2YvNkXaxzXeMzRHpYgtoKnRzA_wQ%3=
+D%3D"><img align=3D"center" alt height=3D"250" style=3D"border-radius:6px;m=
+argin:0 auto;" width=3D"500" src=3D"https://blog.trello.com/hubfs/NewYearNe=
+wAutomationsFinal.png"></a> </font> <center> <p style=3D"color: #444444; te=
+xt-align: center; line-height: 28px; font-size: 26px;"><strong><a style=3D"=
+text-decoration:none; color:#444444" href=3D"https://i.trellomail.com/u/cli=
+ck=3F_t=3Dcce9a87967214196ae72b08c7283fda9&_m=3D02603c5541354da09711451a09c=
+626a2&_e=3DwioZy5vU3biOncuF4SoPFtVxXohzPU1dfCjhR7xEtCOq7X_tUYvZeDHUltp8dxY7=
+xqUsH1SKbqC1tKefHacvQfr0GQSDYQ1Syj7Rdx6om36egDMf3Qwj4Zt3GrT8E5uH-9Blio-2_dy=
+woDWqmqu5rAe8qFXFA6VCOFYCSvgOY1nMxOxscTgGadbh15eAFo1Dddvi4LPuYqZxhvDDRE8NoD=
+vF0bnwXkGImNDtpjid7byMV-ukVs9Wz2eQawuIowZ6SbqJPMzY7tKqWFwWf5iz2ZUYHVPNBsZvv=
+j9NfW3AM051vrjnIpSaIAdNQQPyKBUhKTqIwyaT4GKuxlS_e_d0FwBnRkQGGXi0_KLzphbKJJex=
+bBmV7esjnikz8kOoVLX-6YhCfUZ7rmQ-jQkFUB8phA%3D%3D"><font color=3D"#444444">N=
+ew Year, New Automations: What's New With Butler</font> </a> </strong></p> =
+<p style=3D"color: #444444; text-align: center; line-height: 28px; font-siz=
+e: 20px;"><a style=3D"text-decoration:none; color:#444444" href=3D"https://=
+i.trellomail.com/u/click=3F_t=3Dcce9a87967214196ae72b08c7283fda9&_m=3D02603=
+c5541354da09711451a09c626a2&_e=3DwioZy5vU3biOncuF4SoPFtVxXohzPU1dfCjhR7xEtC=
+Oq7X_tUYvZeDHUltp8dxY7xqUsH1SKbqC1tKefHacvQfr0GQSDYQ1Syj7Rdx6om36egDMf3Qwj4=
+Zt3GrT8E5uH-9Blio-2_dywoDWqmqu5rAe8qFXFA6VCOFYCSvgOY1nMxOxscTgGadbh15eAFo1D=
+gjdgkXUsKSVx-gBwloRcyqBgp2mXtEhOJQnFLC3HeI3Cu4iPDH8x7sdUqWsDQ8v_5OdEas46sN5=
+w-20vOJUuV5PONITZHc8krMpmNyoTHAhz5dfcfBPEosfq4dCmsZjhAKBaTCgeTqim6fRc4fjSgS=
+2Qkz9oTmyCm1laYlMfdDfAL1qVq717th5k2ipe0KepW6YC-7khYVUTps30sOlMTg%3D%3D"><fo=
+nt color=3D"#444444">Start the new year strong by shaving steps from your w=
+orkflow with Butler automation.</font> </a></p> </center> <font color=3D"#4=
+44444"> </font> <center> <table border=3D"0" cellpadding=3D"14" cellspacing=
+=3D"0" class=3D"button main" style=3D"background:#61bd4f; border-radius:6px=
+; color:#ffffff; cursor:pointer; display:inline-block; font-size:20px; font=
+-weight:bold; line-height:24px; margin:0px auto; text-align:center"> <tbody=
+> <tr> <td align=3D"center" class=3D"emailButtonContent" style=3D"vertical-=
+align:middle"><font color=3D"#444444"><a style=3D"text-decoration:none; pad=
+ding: 0 8px;" target=3D"_blank" href=3D"https://i.trellomail.com/u/click=3F=
+_t=3Dcce9a87967214196ae72b08c7283fda9&_m=3D02603c5541354da09711451a09c626a2=
+&_e=3DwioZy5vU3biOncuF4SoPFtVxXohzPU1dfCjhR7xEtCOq7X_tUYvZeDHUltp8dxY7xqUsH=
+1SKbqC1tKefHacvQfr0GQSDYQ1Syj7Rdx6om36egDMf3Qwj4Zt3GrT8E5uH-9Blio-2_dywoDWq=
+mqu5rAe8qFXFA6VCOFYCSvgOY1nMxOxscTgGadbh15eAFo1DCBNbde_-2JjzXW127413a1tt4tu=
+R-WdRh5w765QZqgdcs3MMBu_3f-H20YeVq-sKvCm88FPUuhiA18JCvK3hXXnhKFg60NOPoZhI7J=
+yslNG8uis9HfjaPVigmXTqjtc4kzB26kHzsJ8inokxYan8Xga48AY0l6P1q9dy_lbTOQZyrkv0o=
+feAMs-XKWimE5AlORLtxzbyWLj2ritCGRspig%3D%3D"><font color=3D"white">See What=
+'s New</font></a></font></td> </tr> </tbody> </table> </center> </td> </tr>=
+ <!-- --> <tr> <td align=3D"center" style=3D"color:#444444; font-size:18px;=
+ line-height:24px"><font color=3D"#444444"><a style=3D"text-decoration:none=
+; color:#444444" href=3D"https://i.trellomail.com/u/click=3F_t=3Dcce9a87967=
+214196ae72b08c7283fda9&_m=3D02603c5541354da09711451a09c626a2&_e=3DwioZy5vU3=
+biOncuF4SoPFtVxXohzPU1dfCjhR7xEtCNaUCFFpJqb1ds3b8w_N22iux1bqU4oO65oCAjYed4Z=
+wmB035FKDOmThA9ExLiAElSkwz55sbypPKDqRVhLZOz3Rhc7V4tagbh66UeOzuN1bQlcjcFVOzh=
+wxJsQV37O64t9Hx1RqzJhfwaFz-RrM_VT4U9tpqB8G-VBNLIVSSrj3tH86CO1aJALtpo44iCQcS=
+xWRr3l2ETAmoQ9IG5-MCg2vxvWjCDhwc7Hmm_BeK1ZmQ4XWpr-jhuslMcIyZWu1gqVr4FpXNetW=
+uSZzO6H1wrV_Lcew-3gSItjSD9iPEFh2HVPr7sNyAlwV87uxyfJTfJyn7upubmuzulu2ab-lGvf=
+-cfaij4w9lkKwXlHtEr2fj7KZXlMBwNEzPGSfPEWp6m-vurEpn8leI1JTQcLKR02"><img alig=
+n=3D"center" alt height=3D"250" style=3D"border-radius:6px;margin:0 auto;" =
+width=3D"500" src=3D"https://blog.trello.com/hubfs/What_Holds_Back_Process_=
+Improvement_%28and_What_You_Can_Do_About_It%29.png"></a> </font> <center> <=
+p style=3D"color: #444444; text-align: center; line-height: 28px; font-size=
+: 26px;"><strong><a style=3D"text-decoration:none; color:#444444" href=3D"h=
+ttps://i.trellomail.com/u/click=3F_t=3Dcce9a87967214196ae72b08c7283fda9&_m=
+=3D02603c5541354da09711451a09c626a2&_e=3DwioZy5vU3biOncuF4SoPFtVxXohzPU1dfC=
+jhR7xEtCNaUCFFpJqb1ds3b8w_N22iux1bqU4oO65oCAjYed4ZwmB035FKDOmThA9ExLiAElSkw=
+z55sbypPKDqRVhLZOz3Rhc7V4tagbh66UeOzuN1bQlcjcFVOzhwxJsQV37O64t9Hx1RqzJhfwaF=
+z-RrM_VT4U9tpqB8G-VBNLIVSSrj3i78C2E9f0UFJaSgAskcTh-ajxX61_uQcZhmR_F3QvY0O7Z=
+zoHDBHX2KI60zkDfkYw3cGQfhfu774An4ZmTr03_ayw-mQ3KvhZATJDvnOq9NDcL8DE6oMv2riT=
+Ah_MNP6d8_kQrUsMi-OzQkaDvHQ90jgB3LTZodZypEpA-Y9EW5j4PYo-Fvm5xXkkSDC-4nJqeud=
+kBCgGYmXu2FP3C9FkX-ZrFixElu2x2zAUlOPJjp"><font color=3D"#444444">Why Proces=
+s Improvement Matters For Your Team</font> </a> </strong></p> <p style=3D"c=
+olor: #444444; text-align: center; line-height: 28px; font-size: 20px;"><a =
+style=3D"text-decoration:none; color:#444444" href=3D"https://i.trellomail.=
+com/u/click=3F_t=3Dcce9a87967214196ae72b08c7283fda9&_m=3D02603c5541354da097=
+11451a09c626a2&_e=3DwioZy5vU3biOncuF4SoPFtVxXohzPU1dfCjhR7xEtCNaUCFFpJqb1ds=
+3b8w_N22iux1bqU4oO65oCAjYed4ZwmB035FKDOmThA9ExLiAElSkwz55sbypPKDqRVhLZOz3Rh=
+c7V4tagbh66UeOzuN1bQlcjcFVOzhwxJsQV37O64t9Hx1RqzJhfwaFz-RrM_VT4U9tpqB8G-VBN=
+LIVSSrj3kMBZIwr6rc6B7g88c_sqLy0Xr2k6eS4_v0vQgStj467FC90mO4AoI_8IISnfWYx1kzx=
+nN9lcWRKx_lIvYs9bEdP9uesVeCucV3-4gzUWyDwhrZYZOftJF3PN2nDk6lgIBgzwwJvhtaBE_3=
+BBh0BN24N667oU9a7d3YUwb-Df9ljtRVGYN-r4SOAbzUk6U1hJ6GTZerddzlE4hvpDJX8GxTRU5=
+QeFHJKU359aJ__9JmU"><font color=3D"#444444">Prepare your team to navigate n=
+ew trends and circumstances=E2=80=94no matter what your industry, or the ec=
+onomy, brings.</font> </a></p> </center> <font color=3D"#444444"> </font> <=
+center> <table border=3D"0" cellpadding=3D"14" cellspacing=3D"0" class=3D"b=
+utton main" style=3D"background:#61bd4f; border-radius:6px; color:#ffffff; =
+cursor:pointer; display:inline-block; font-size:20px; font-weight:bold; lin=
+e-height:24px; margin:0px auto; text-align:center"> <tbody> <tr> <td align=
+=3D"center" class=3D"emailButtonContent" style=3D"vertical-align:middle"><f=
+ont color=3D"#444444"><a style=3D"text-decoration:none; padding: 0 8px;" ta=
+rget=3D"_blank" href=3D"https://i.trellomail.com/u/click=3F_t=3Dcce9a879672=
+14196ae72b08c7283fda9&_m=3D02603c5541354da09711451a09c626a2&_e=3DwioZy5vU3b=
+iOncuF4SoPFtVxXohzPU1dfCjhR7xEtCNaUCFFpJqb1ds3b8w_N22iux1bqU4oO65oCAjYed4Zw=
+mB035FKDOmThA9ExLiAElSkwz55sbypPKDqRVhLZOz3Rhc7V4tagbh66UeOzuN1bQlcjcFVOzhw=
+xJsQV37O64t9Hx1RqzJhfwaFz-RrM_VT4U9tpqB8G-VBNLIVSSrj3pTTh7-g5O_X4KPCcgKrWWA=
+ZZaepLg0rdYaroAfbpg9N8TPSIM7HdSSukkyMipHWkDCHrKFMk1Gg2NjMTNIhoaAB6Fj_WJX-Dh=
+fBczh56NtZhdOzQKibOkpgGI7BCFO_Tem6Q1Ant7GFIykv9p8_d2XZw66S1VxVxUTgP2TsKDkvr=
+Qb-S0kVWApL92dyVTiL0x-1uOinTyzdgVh4E16iSVW7BzXGHqPwc287NwEzkabn"><font colo=
+r=3D"white">Roll With The Changes</font></a></font></td> </tr> </tbody> </t=
+able> </center> </td> </tr> <!-- --> <tr> <td align=3D"center" style=3D"col=
+or:#444444; font-size:18px; line-height:24px"><font color=3D"#444444"><a st=
+yle=3D"text-decoration:none; color:#444444" href=3D"https://i.trellomail.co=
+m/u/click=3F_t=3Dcce9a87967214196ae72b08c7283fda9&_m=3D02603c5541354da09711=
+451a09c626a2&_e=3DwioZy5vU3biOncuF4SoPFtVxXohzPU1dfCjhR7xEtCM2Uq6SDwncGDdpv=
+bnazKzodkmyPVjicE36AFZWCKaKgWjhyG9402HfIciuWk4CQftHo7f4OdZeHWcj0sW-wok08PdL=
+2wXJ82VV26XVVks-xGEnbDuwv-6X67HscVhoVG6dLH_QtRjQefnq2Jpk8Y4dkPHOp3KnSy0NB4h=
+e4FGNb7SSQY_RgtvrHdw7GH8tF4fABPKcLLebF-Hb36XkwVfN81T06QwtDMqpu7xCgjkQzrb2At=
+2rRbbepcWqDAfd59r15yQ1FwROyS6mgu0YLrT28CBsecXW_pqnnqZBx8iku4buam8RXLdOq0Rhg=
+xmDFjP5wvtI2nDNElBxmdSYOzR56aIK_U276X5ZOgQt23J__CXXd4qZrht-7zotj_jqEwA%3D">=
+<img align=3D"center" alt height=3D"250" style=3D"border-radius:6px;margin:=
+0 auto;" width=3D"500" src=3D"https://blog.trello.com/hubfs/Illo_The_Relati=
+onship_Between_Team_Reflections_And_Planning.png"></a> </font> <center> <p =
+style=3D"color: #444444; text-align: center; line-height: 28px; font-size: =
+26px;"><strong><a style=3D"text-decoration:none; color:#444444" href=3D"htt=
+ps://i.trellomail.com/u/click=3F_t=3Dcce9a87967214196ae72b08c7283fda9&_m=3D=
+02603c5541354da09711451a09c626a2&_e=3DwioZy5vU3biOncuF4SoPFtVxXohzPU1dfCjhR=
+7xEtCM2Uq6SDwncGDdpvbnazKzodkmyPVjicE36AFZWCKaKgWjhyG9402HfIciuWk4CQftHo7f4=
+OdZeHWcj0sW-wok08PdL2wXJ82VV26XVVks-xGEnbDuwv-6X67HscVhoVG6dLH_QtRjQefnq2Jp=
+k8Y4d65zUklp-PuhORJg4YC89eMuBhwDqzfVNwkIwz9zIacDobvfERVghrwFtonykAoHXSw00Fu=
+ptMhiUzdA76nLN9omaUOxSr1aXRRoG8Qfjv2ukRckhGngh-0XVYyVAq57GbCr7w9RKy-OMSFBzy=
+LBx8qDHx2D3usYoi_7_z_zFOkXXCA6kh__eyo7tfA4EPDFLvP-KdEYQctgV3pEE4VOVViRDy-nR=
+94-MbfCFvPlFOIQ%3D"><font color=3D"#444444">The Relationship Between Team R=
+eflection and Planning</font> </a> </strong></p> <p style=3D"color: #444444=
+; text-align: center; line-height: 28px; font-size: 20px;"><a style=3D"text=
+-decoration:none; color:#444444" href=3D"https://i.trellomail.com/u/click=
+=3F_t=3Dcce9a87967214196ae72b08c7283fda9&_m=3D02603c5541354da09711451a09c62=
+6a2&_e=3DwioZy5vU3biOncuF4SoPFtVxXohzPU1dfCjhR7xEtCM2Uq6SDwncGDdpvbnazKzodk=
+myPVjicE36AFZWCKaKgWjhyG9402HfIciuWk4CQftHo7f4OdZeHWcj0sW-wok08PdL2wXJ82VV2=
+6XVVks-xGEnbDuwv-6X67HscVhoVG6dLH_QtRjQefnq2Jpk8Y4dMQ01rJQ6UDUPmsFReifNAp9n=
+q3dlVnMMKbPK5WX0NNAIv6qU56fZRgjsGB35lx9F92dMzmGFdNyaj-zleDs3tHcjF9wlt8rlWYT=
+Y3oHXH-GBkf9rBwJSEm385D_a0zDJRjf4EHA5GRFSIKBYJm09inLN7FNxN2IGZ-5CSGho2ezBNJ=
+LXm7mhBQarEgDpW_RqrsW-KEhSSBVODKf8XHtwz-RTjbWTCuIdCWbFw7oOvWc%3D"><font col=
+or=3D"#444444">Why teams must reflect on the past in order to move forward =
+more efficiently, plus tips for a brighter future.</font> </a></p> </center=
+> <font color=3D"#444444"> </font> <center> <table border=3D"0" cellpadding=
+=3D"14" cellspacing=3D"0" class=3D"button main" style=3D"background:#61bd4f=
+; border-radius:6px; color:#ffffff; cursor:pointer; display:inline-block; f=
+ont-size:20px; font-weight:bold; line-height:24px; margin:0px auto; text-al=
+ign:center"> <tbody> <tr> <td align=3D"center" class=3D"emailButtonContent"=
+ style=3D"vertical-align:middle"><font color=3D"#444444"><a style=3D"text-d=
+ecoration:none; padding: 0 8px;" target=3D"_blank" href=3D"https://i.trello=
+mail.com/u/click=3F_t=3Dcce9a87967214196ae72b08c7283fda9&_m=3D02603c5541354=
+da09711451a09c626a2&_e=3DwioZy5vU3biOncuF4SoPFtVxXohzPU1dfCjhR7xEtCM2Uq6SDw=
+ncGDdpvbnazKzodkmyPVjicE36AFZWCKaKgWjhyG9402HfIciuWk4CQftHo7f4OdZeHWcj0sW-w=
+ok08PdL2wXJ82VV26XVVks-xGEnbDuwv-6X67HscVhoVG6dLH_QtRjQefnq2Jpk8Y4dKkBmsNzo=
+4E8kHRsFWOWo2e2ZyfdmSlK83VhnBImpsYx4qr09bk9QLRVnZvMipfslw9Y32kNxGcHbd0IpTjq=
+MTS_iS2QC57vRaPRPjes41y6CbtvvmdKsJA1X992fLcYGQh-dx4srBXT-TStU0SS8w3YM4KAgP1=
+_06M-AjDsQlUUzBcdHhAjK2HCDt1CEnWTSbM_1-xzG4XR8hZ8gitp60oZBJMfWfNr9PMJYG2yhf=
+yY%3D"><font color=3D"white">Look Ahead</font></a></font></td> </tr> </tbod=
+y> </table> </center> </td> </tr> <!-- --> <tr> <td align=3D"center" style=
+=3D"color:#444444; font-size:18px; line-height:24px"><font color=3D"#444444=
+"><a style=3D"text-decoration:none; color:#444444" href=3D"https://i.trello=
+mail.com/u/click=3F_t=3Dcce9a87967214196ae72b08c7283fda9&_m=3D02603c5541354=
+da09711451a09c626a2&_e=3DwioZy5vU3biOncuF4SoPFtVxXohzPU1dfCjhR7xEtCOSWrRqtN=
+6jSDSjPtJEFzhceizOcvOQoP5Jul1ODIlDmw76VMzrhE9RsyG1DGyi7_E5bgO2XARscLSgo5jFV=
+qBjYCoVziZfZ8qqBDCegxNrKl1K2U5Nw-9DPvshKXIlM7oAu5a3vchtGIjCEyqh5NYmb1j46Wj6=
+agiD3yJWH-1mOy1x275vWmQD97T8TfbgFAiLD2FG-BK4IWFrqAd2mmRbu_QEjJQAYZtauOn60e3=
+0KGl4qzkMkKucScC1TvsyaIMen3LxAPBchtEhGsUbuDOM0_ooxoKF1VhX3gzbkfVg3p8BWRXCpG=
+cDYjdIJeTYLLWr5camItsqJg7vVf5Ag7F6R_KeZPivm5sCQVLWOlBdFVJ3DDTwR2CGPhPndSvQP=
+ik%3D"><img align=3D"center" alt height=3D"250" style=3D"border-radius:6px;=
+margin:0 auto;" width=3D"500" src=3D"https://blog.trello.com/hubfs/Illo_X_R=
+easons_Why_Slowing_Down_Rest_Will_Make_You_More_Productive.png"></a> </font=
+> <center> <p style=3D"color: #444444; text-align: center; line-height: 28p=
+x; font-size: 26px;"><strong><a style=3D"text-decoration:none; color:#44444=
+4" href=3D"https://i.trellomail.com/u/click=3F_t=3Dcce9a87967214196ae72b08c=
+7283fda9&_m=3D02603c5541354da09711451a09c626a2&_e=3DwioZy5vU3biOncuF4SoPFtV=
+xXohzPU1dfCjhR7xEtCOSWrRqtN6jSDSjPtJEFzhceizOcvOQoP5Jul1ODIlDmw76VMzrhE9Rsy=
+G1DGyi7_E5bgO2XARscLSgo5jFVqBjYCoVziZfZ8qqBDCegxNrKl1K2U5Nw-9DPvshKXIlM7oAu=
+5a3vchtGIjCEyqh5NYmb1j46Wj6agiD3yJWH-1mOxH_5P5RfaxK2QwOCtaWsNW3NWbLY-J7AIYx=
+LbwnEqP3k6AjESYTHbrm-LU2CbvVm2ZBNZBXjR-i0Q1CVEpcRaLJLoYEKW_f-iljlBUDhYXvMgO=
+C-FqwJ2q2kk5qvaoziRcJZA-r-DM_ffUT-7CL3zNQONjvok7vWs9-1YgQjkaBIauQ9I_PkKodAH=
+m8qTMgmJf5zE2HIholYrLu3VRBNPw%3D"><font color=3D"#444444">Why Restorative R=
+est Makes You More Productive</font> </a> </strong></p> <p style=3D"color: =
+#444444; text-align: center; line-height: 28px; font-size: 20px;"><a style=
+=3D"text-decoration:none; color:#444444" href=3D"https://i.trellomail.com/u=
+/click=3F_t=3Dcce9a87967214196ae72b08c7283fda9&_m=3D02603c5541354da09711451=
+a09c626a2&_e=3DwioZy5vU3biOncuF4SoPFtVxXohzPU1dfCjhR7xEtCOSWrRqtN6jSDSjPtJE=
+FzhceizOcvOQoP5Jul1ODIlDmw76VMzrhE9RsyG1DGyi7_E5bgO2XARscLSgo5jFVqBjYCoVziZ=
+fZ8qqBDCegxNrKl1K2U5Nw-9DPvshKXIlM7oAu5a3vchtGIjCEyqh5NYmb1j46Wj6agiD3yJWH-=
+1mO_vZnfYLAjWuSy03Pe7JLy_uiUccuuwo4r7cciVXRew81RNRJif9uphH_nLnBtYHZilMzsnjn=
+Ss18mT4URbS2g282lMGRSmVU8ujA2vm0f5nbzs9-Vrgugrcqf82ryGGnzkbryyGOnlAM22Gc4b2=
+6ndNf3j8pZJMjF2GUvYuQEbEzKsgIsINC6_sFTckNEcJ5JaM9easN1OU3EYOTAEzm3s%3D"><fo=
+nt color=3D"#444444">Take a real break from the hustle. Achieve the benefit=
+s of rest and learn ways to make it actually restorative. </font> </a></p> =
+</center> <font color=3D"#444444"> </font> <center> <table border=3D"0" cel=
+lpadding=3D"14" cellspacing=3D"0" class=3D"button main" style=3D"background=
+:#61bd4f; border-radius:6px; color:#ffffff; cursor:pointer; display:inline-=
+block; font-size:20px; font-weight:bold; line-height:24px; margin:0px auto;=
+ text-align:center"> <tbody> <tr> <td align=3D"center" class=3D"emailButton=
+Content" style=3D"vertical-align:middle"><font color=3D"#444444"><a style=
+=3D"text-decoration:none; padding: 0 8px;" target=3D"_blank" href=3D"https:=
+//i.trellomail.com/u/click=3F_t=3Dcce9a87967214196ae72b08c7283fda9&_m=3D026=
+03c5541354da09711451a09c626a2&_e=3DwioZy5vU3biOncuF4SoPFtVxXohzPU1dfCjhR7xE=
+tCOSWrRqtN6jSDSjPtJEFzhceizOcvOQoP5Jul1ODIlDmw76VMzrhE9RsyG1DGyi7_E5bgO2XAR=
+scLSgo5jFVqBjYCoVziZfZ8qqBDCegxNrKl1K2U5Nw-9DPvshKXIlM7oAu5a3vchtGIjCEyqh5N=
+Ymb1j46Wj6agiD3yJWH-1mO90_5AWxd8g5mddsDXoqtVT4a2_pt0roclPOhV-SU4x8T0jXcBteq=
+c9-I8Mf93lSIWvxM9NLw6nDqF_WdMeny2I0uaabTBPgCaT3DJVwADbO62VekxREQbwXhFjz4j1D=
+--PPILUMm6IeyHE07tfa2SizAOSQ4HVHkNXXw2eXsKwq3pv7bfBZ0JHM9LhCx8Xzqt43U4UNb_3=
+lHj1K3scrAZU%3D"><font color=3D"white">Get Energized</font></a></font></td>=
+ </tr> </tbody> </table> </center> </td> </tr> <!-- --> </tbody> </table> <=
+/td> </tr> </tbody> </table> </td> </tr> </tbody> </table> <style type=3D"t=
+ext/css">.msoFix{mso-table-lspace:-1pt;mso-table-rspace:-1pt}</style> <!-- =
+BEGIN BOTTOM BANNER --> <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"background:#055A8C; border-radius:8px; margin-top:20px; max=
+-width:100%; width:600px"> <tbody> <tr> <td> <table align=3D"left" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"msoFix" style=3D"mso-ta=
+ble-lspace: -1pt; mso-table-rspace: -1pt; border-radius: 6px; max-width: 10=
+0%; overflow: hidden; width: 240px;" width=3D"240"> <tbody> <tr> <td style=
+=3D"padding:10px 0 0 25px"><a target=3D"_blank" href=3D"https://i.trellomai=
+l.com/a/click=3F_t=3Dcce9a87967214196ae72b08c7283fda9&_m=3D02603c5541354da0=
+9711451a09c626a2&_e=3DwioZy5vU3biOncuF4SoPFo9ZOtsvHZhsumT2NpkNEFyeOgKAXsJeD=
+Ml5ZAJZgnGF_-IhXu8YV_qbVOb_FHbPa4a1dtteFUzwMMpK96I8cBOxkNUBKcnQKowPIDHfnP7Q=
+sJ3qJxtNWwJLt0yEdtx6elO6oSP32_taXqRz_-yalib-qU9VXLWP1_maX7VZ7OCrim_0s9kzrdb=
+X_rrbXmUHHGbZJEifuATAckN2aoNfaHmhyMI1S9fT5LgBbMayR0PH5fkgZtxxiK6RztbXSgkXC1=
+g1XXZjxo44gOF2JLKvRwWlHQSiG9uhIx2mUVA3Xg4bmaCqydXwbpW1G7G41lbhBWbx7o2cV8kUH=
+c8REYQd95yy4qM8VccfkHQalx5pWWslVWhXz08IbS8-gYIqDz7YiA%3D%3D"><img alt=3D"Bu=
+tler, your automation assistant" height=3D"184" width=3D"230" src=3D"https:=
+//dm9d104elaxz5.cloudfront.net/Banners/butler_footer.png"></a></td> </tr> <=
+/tbody> </table> <table align=3D"right" border=3D"0" cellpadding=3D"30" cel=
+lspacing=3D"0" class=3D"msoFix" style=3D"mso-table-lspace: -1pt; mso-table-=
+rspace: -1pt; max-width: 100%; width: 330px;" width=3D"330"> <tbody> <tr> <=
+td style=3D"color:#ffffff; font-size:18px; line-height:24px; margin: 5px 0"=
+> <p style=3D"margin: 0 0 8px;font-family:'Helvetica','Arial',san-serif;"><=
+a style=3D"color:#ffffff; font-size:18px; line-height:24px; text-decoration=
+: none;" target=3D"_blank" href=3D"https://i.trellomail.com/a/click=3F_t=3D=
+cce9a87967214196ae72b08c7283fda9&_m=3D02603c5541354da09711451a09c626a2&_e=
+=3DwioZy5vU3biOncuF4SoPFo9ZOtsvHZhsumT2NpkNEFyeOgKAXsJeDMl5ZAJZgnGF_-IhXu8Y=
+V_qbVOb_FHbPa4a1dtteFUzwMMpK96I8cBOxkNUBKcnQKowPIDHfnP7QsJ3qJxtNWwJLt0yEdtx=
+6elO6oSP32_taXqRz_-yaliaTCGfPETxm-M9II-uHAdkJeUkEHvmFB3gfwsXQOIoUFyFUiHKp9L=
+N4IlpPMzoGxlHxFamX8rG1GQ3kfqMHE8JevIJcqYWiOqm4DdXeCieQM-zJ_Ig54SERGryVJHZ9K=
+1fdfE8bf8a0XRRCwQ-8iaPH54CpzHqCAqsfQxhH9cVhUS82PrxmfxXkooJ0X3Ua6DFyWbQ_E1Rn=
+g65xLBmG0z_eMZ0xhWcG27z_1NKa4ZbEJw%3D%3D"><strong>Automate Your Workflow</s=
+trong> </a></p> <p style=3D"margin:0 0 12px;font-family:'Helvetica','Arial'=
+,san-serif;"><a style=3D"color:#ffffff; font-size:18px; line-height:24px; t=
+ext-decoration: none;" target=3D"_blank" href=3D"https://i.trellomail.com/a=
+/click=3F_t=3Dcce9a87967214196ae72b08c7283fda9&_m=3D02603c5541354da09711451=
+a09c626a2&_e=3DwioZy5vU3biOncuF4SoPFo9ZOtsvHZhsumT2NpkNEFyeOgKAXsJeDMl5ZAJZ=
+gnGF_-IhXu8YV_qbVOb_FHbPa4a1dtteFUzwMMpK96I8cBOxkNUBKcnQKowPIDHfnP7QsJ3qJxt=
+NWwJLt0yEdtx6elO6oSP32_taXqRz_-yaliYNOPeWKtaZ_o9xfuyXx0jziNBcFIdZ_Rz1DelW-M=
+fO5U-mE94yrt7yLgEBRbjJvEjm88Pv81JNQXlo63SqMiMCvH7Miw664NFZ5aX8qDh3lk2E3enlV=
+jWnt0qTjXYgxTsuIywU30zKpzvZuGBhrooXZLq6dh4QuyFbAXRkerGgGcuibd116Z_PuDYimAzB=
+l9bfQL0jAxv6AwqMdrUjX5YNz0hGwegwDdaavLeE-IUVIw%3D%3D">Powerful no-code auto=
+mation is built into every board.</a></p> <table border=3D"0" cellpadding=
+=3D"14" cellspacing=3D"0" class=3D"button main" style=3D"background:#4f769c=
+; border-radius:6px; color:#ffffff; cursor:pointer; display:inline-block; f=
+ont-size:18px; font-weight:bold; line-height:24px; margin:0px auto; text-al=
+ign:center"> <tbody> <tr> <td align=3D"center" class=3D"emailButtonContent"=
+ style=3D"vertical-align:middle"><a style=3D"text-decoration:none;font-fami=
+ly:'Helvetica','Arial',san-serif;" target=3D"_blank" href=3D"https://i.trel=
+lomail.com/a/click=3F_t=3Dcce9a87967214196ae72b08c7283fda9&_m=3D02603c55413=
+54da09711451a09c626a2&_e=3DwioZy5vU3biOncuF4SoPFo9ZOtsvHZhsumT2NpkNEFyeOgKA=
+XsJeDMl5ZAJZgnGF_-IhXu8YV_qbVOb_FHbPa4a1dtteFUzwMMpK96I8cBOxkNUBKcnQKowPIDH=
+fnP7QsJ3qJxtNWwJLt0yEdtx6elO6oSP32_taXqRz_-yaliaqgj15029zeLVGDKPwxH9J1sDxgD=
+ndJ-e7e-y0ObHVZ-czspQiwox4723zdDES47jqSFueoVRVUnP6690aIOJrO3K-ADSZn4osz7scg=
+dDtGeNiqbAxIIqBFnAbtROy9lRmIsmYJGGwcB4k8z16e8W2y5kbowavktJkNVOBdgOF8M3mJDAI=
+5zbzh7KSP4LUvt5QJQAeqzkDeZk6gbSFtYC-eXlMWvfrZXq4HD5NXPMjAg%3D%3D"><font col=
+or=3D"white">Learn More</font></a></td> </tr> </tbody> </table> </td> </tr>=
+ </tbody> </table> </td> </tr> </tbody> </table> <!-- END BOTTOM BANNER -->=
+<!-- FOOTER --> <table align=3D"center" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"12" style=3D"border:0; font-size:14px; line-height:20px; max-wid=
+th:100%; width:100%"> <tbody> <tr> <td> <center><font color=3D"white"><em>W=
+ant more=3F<br/> Get your productivity fix at the </em></font><a style=3D"c=
+olor:white" href=3D"https://i.trellomail.com/u/click=3F_t=3Dcce9a8796721419=
+6ae72b08c7283fda9&_m=3D02603c5541354da09711451a09c626a2&_e=3DwioZy5vU3biOnc=
+uF4SoPFtVxXohzPU1dfCjhR7xEtCOCrnnPtJHzX5lSpK-eafEXusoS3nlqd7cortf8X-GXiOA3r=
+GxGBbg569xYKm5wnbEzSrNubJSzrQS2lPkLrKXQzbHxBvx4xF390l9sRkTDoW6xWRWH0xddmlQ1=
+hS9zeSrs9mmdJJEtDVewTI6fGcmJQWFVhVosv5rBWbDKTgkWyep1wrBKZEBCm8G7xzmTqbS-dLH=
+3-c8eK-ady2m1B36vCF-Bol6u8Bu0r_Kwou6wvON9j7x294Je4Ci4E1-clU0bPKqkbIQz0-CnyZ=
+RU5_JcQiX3lrWwEoWx7MSlLEQuQPk6_lPPp1UuRv_Afi6gf7Tkt66_3JtprsQ--QYw39gm"><fo=
+nt color=3D"white"><em>Trello Blog =E2=86=92</em></font></a></center> </td>=
+ </tr> <tr> <td> <center><a style=3D"text-decoration: none; padding:8px 0;"=
+ href=3D"https://i.trellomail.com/u/click=3F_t=3Dcce9a87967214196ae72b08c72=
+83fda9&_m=3D02603c5541354da09711451a09c626a2&_e=3DwioZy5vU3biOncuF4SoPFm1GQ=
+vlabRxEjf7TLCVwFjSuB_Ca1Z-s6EHaLXt0s2foYylZYG4JsjOoSSrr3H8aZuGBNS39mddJJ1mZ=
+P58w9EenRHndIig3ognMTPl5ut64TbSnWiVGynN_MazYhxr_DFND2-9Xnu_49Q-zd18wzhCAiei=
+B_-NK5iw4qxPD8zqeiPLl4BktKPLjMhezCG1RDEkucYNXzPFiSSOVCoR6ZAN1xHHCxsJw3sz88F=
+xXhY9KR8Hzn6-GqUZzv9Z20HbpklinL6tNhnN7TTzMZDFcuBVr9QJjmVWdmgFPdsZZuDbJKGo0g=
+owJXv1-CM5V9hXw-glVzDrPiHmP2Ul_0YPkWeBZtFo09mfXXkrvEVMZWsEB"><img width=3D"=
+32" height=3D"32" alt=3D"" style=3D"display: inline;" src=3D"https://dm9d10=
+4elaxz5.cloudfront.net/Newsletter/facebook-social.png"/> </a>&nbsp;&nbsp; <=
+a style=3D"text-decoration: none; padding:8px 0;" href=3D"https://i.trellom=
+ail.com/u/click=3F_t=3Dcce9a87967214196ae72b08c7283fda9&_m=3D02603c5541354d=
+a09711451a09c626a2&_e=3DwioZy5vU3biOncuF4SoPFr9dyeOSSGSCCR_gASx1TQqqc-FUktC=
+OdZeQ6uP8x1CtG0zgFEIv_bvUGhe6j2lHKVDbUl1xEGN3W4l5kZJqvC4i3QMnLT1-n0gMxyoNL3=
+1oA5WnEcRcyR8_zuCIV2iHLDCoO0qQeBko0gu7YszoiQFbf1vJy-ad8I1CL-EoMvHr7ZygR7f-G=
+RM_H3XBpjAOnQXNKQezbjpj5FVcCJ_GfBXRMEU1iNKeYpnJezREFbBKuviLJgItDBz9pkzBtAEE=
+eSbDT2ccCqfJyjF3qMdEheexQWQWBUOQ9ZzC6POzoLyIy8LC1xzOECkxOlO0P0dDTYykxrYjnSC=
+fOtDQ4azYQVY0iaaU1UhQ7AjUQTef569h"> <img width=3D"32" height=3D"32" alt=3D"=
+" style=3D"display: inline;" src=3D"https://dm9d104elaxz5.cloudfront.net/Ne=
+wsletter/twitter-social.png"/> </a>&nbsp;&nbsp; <a style=3D"text-decoration=
+: none; padding:8px 0;" href=3D"https://i.trellomail.com/u/click=3F_t=3Dcce=
+9a87967214196ae72b08c7283fda9&_m=3D02603c5541354da09711451a09c626a2&_e=3Dwi=
+oZy5vU3biOncuF4SoPFhDaBHSf4Dfvva-RdoCueHXWFbM31LbBVHx6DKRklQpWPTGvh5CAd8guY=
+xDS-PUvU6-e4SFIBMT-YmGj8XjKKZ4jsQ8AK4sHU71MfcPGy-sHyUbNfQ7BFT0lbf1jmg3alflK=
+Q2z5Anot0KipJab9jkcF1vAQyS4rrDxHnWCLjc2ypNiGZfsXgPXqFTD6BMU3kAdVgBM8Q6RyPr-=
+YuuWP3gksqpuSjVlOVCNL--2f-qOj52nQiQpXWelwFXzu3h3lzj1qDQnACuFr10I4citCQcDbW-=
+li-zMxCvplap-hv6sGVGmdOOaLms1fdmVjL8PZBQNVve4sUjAS5akpD7Ct5CfkUKjuRJY2lheMZ=
+_iwf59ytuG9cJ6IhVHy3Ojr9Hirqw%3D%3D"> <img width=3D"32" height=3D"32" alt=
+=3D"" style=3D"display: inline;" src=3D"https://dm9d104elaxz5.cloudfront.ne=
+t/Newsletter/linkedin-social.png"/> </a>&nbsp;&nbsp; <a style=3D"text-decor=
+ation: none; padding:8px 0;" href=3D"https://i.trellomail.com/u/click=3F_t=
+=3Dcce9a87967214196ae72b08c7283fda9&_m=3D02603c5541354da09711451a09c626a2&_=
+e=3DwioZy5vU3biOncuF4SoPFjsAdeyuErkSDxzXMeXMVVftMArpTysmC7EUNXvAXTVnoBHr8_M=
+vrcjjw7TgubZZOfJH6xx0hW0eroTLNNfe-VggoDSf72g59TCNFntJJMojFEIToVlLKfp39J7hhR=
+Qrn0sMByAQIOt6OTCYrZJKOX_lnWH2WpM2Z7yBWdJ_o8zvQ497hokvK0_74uBwPMx1JvLCVc7O0=
+zPjX9Ww1vYxjyLPe1IrdEZKDCr3GO006fXEm2lugNKrEmCqeqqDrm31yBzcS1906-ACTn9VgRqq=
+1r6JsbxzlUPApKh6Y4BQ0p4UsPqWYrs6qelYNxdQ8vg5gwig9PBWiEVnFTzGSPmpIMk57fdZrRY=
+Kycw1XtHSkPSv"> <img width=3D"32" height=3D"32" alt=3D"" style=3D"display: =
+inline;" src=3D"https://dm9d104elaxz5.cloudfront.net/Newsletter/insta-socia=
+l.png"/> </a></center> </td> </tr> <tr> <td> <center><font color=3D"white">=
+<em>Copyright =C2=A9 2021 Trello Inc., All rights reserved.<br/> 888 Broadw=
+ay Floor 4 New York, NY 10003</em></font></center> </td> </tr> <tr> <td> <c=
+enter><a style=3D"color:#FFFFFF" href=3D"https://i.trellomail.com/e/evib=3F=
+_t=3Dcce9a87967214196ae72b08c7283fda9&_m=3D02603c5541354da09711451a09c626a2=
+&_e=3D3ddllePxwHk4IlkZiktIjbxTTHlfaWKH9mUSeFyWjQ396QWrEQUVikjHL4IPACfgT9Z7O=
+PsolxLrd5rXjbLq6ooTs7-0FLWzRlp1KZ2FLv4IlvriY-LTTabTD-awtB8F"><span style=3D=
+"color:#ffffff"><em>View in Browser</em></span></a> <span style=3D"color:#f=
+fffff">|</span> <a style=3D"color:#FFFFFF" href=3D"https://i.trellomail.com=
+/a/click=3F_t=3Dcce9a87967214196ae72b08c7283fda9&_m=3D02603c5541354da097114=
+51a09c626a2&_e=3DwioZy5vU3biOncuF4SoPFtb9aDZyFmDaaB6dXDqjQiZtk6BE5B_sl5YFQr=
+5FmS-uJdLBKUmncAo02dfpkk9QXwoBi2XsrAfX01MTrg1vsAQWnnpCUlfDG-70lcBi53DwEDefU=
+JkppqK6AZyQDo21Yjnc8o7RUjG13sEPVCarNIUg-sqcgYVzoros88jYI9ehuqLpyjTeKEDsVibO=
+KhBP17nvM3gvMyjTY9lrDm95Kb8xfxUinPSFCCwpD2pTpe32jAv6lPJ8OBfYDmbEbew4Dt6nzoK=
+AfUk3e52Z-hejPYP6C-TKMRnAJO5bfzjaRqOlgQvAQvKq3Kta1c4e4fU8TKEJFVE9CSqIsbE_NC=
+kXWDJowtwZb3We6Q7GL8c5vEIU"><span style=3D"color:#ffffff"><em>Privacy Polic=
+y</em></span></a> <span style=3D"color:#ffffff">|</span> <a style=3D"color:=
+#FFFFFF" href=3D"https://i.trellomail.com/a/click=3F_t=3Dcce9a87967214196ae=
+72b08c7283fda9&_m=3D02603c5541354da09711451a09c626a2&_e=3DwioZy5vU3biOncuF4=
+SoPFkRLV0htuiA_OqbloS5he357Yq57gSwLs6Tf8dWVO_eZ3OZfKKV02e3qW7sGlfqBo8zTiIDO=
+NHfH0qvsXupykFkwGSEAry_wkWOct_xFTIdnO2sxdJ0QBxUzqoUY16yC16lzpchevNt3QcqzIz9=
+f5txOQGkMUw9WVhBhO2_Hd3SldDwWQXeo5nO9QmNxvfYJ8jv-OkND2kJVkcbrNOXcQyX9mfGc9M=
+59T5L8QfllngqrZXqE-X5NEhOubdFn7mfrtW2gCe1jT643jh0eCSGx3qBPejBoeo-y3KJhaMJ91=
+lavKOBgRJreMLxR2gwvfaI5GYYpLO1JQipnmgmax7TfTSv11GYo164HjVndmenVI1dV"><span =
+style=3D"color:#ffffff"><em>Manage Account</em></span></a> <span style=3D"c=
+olor:#ffffff">|</span> <a style=3D"color:#FFFFFF" href=3D"https://i.trellom=
+ail.com/e/encryptedUnsubscribe=3F_r=3Dcce9a87967214196ae72b08c7283fda9&_s=
+=3D02603c5541354da09711451a09c626a2&_t=3D3ddllePxwHk4IlkZiktIjbxTTHlfaWKH9m=
+USeFyWjQ2H5ofv6xKTKkDsfsVo9zQcrgllNbwZ9CwCZDQeC6c_IEPiktSg64DNyMPR_SClLmEUd=
+Hpjh5bYBqBRKeLom2kCrsBA-X0lxsHIlLB64MTVjPsxf875lwyh0d6pZ6ZQL_510-x6VFTJcDum=
+PWjS8yWs"><span style=3D"color:#ffffff"><em>Unsubscribe</em></span></a></ce=
+nter> </td> </tr> </tbody> </table> </center> </td> </tr> </tbody> </table>=
+ =0D=0A<img border=3D"0" width=3D"1" height=3D"1" alt=3D"" src=3D"http://i-=
+sp.trellomail.com/q/8LW9K1IcA4m7OXt5SVl-9w~~/AALHNwA~/RgRh4vXCPlcDc3BjQgpf_=
+MJwAGCQ_doMUhhjb3Ntb0Bhd2FrZW50aGVub3J0aC5vcmdYBAAAAAA~">=0D=0A</body> </ht=
+ml>
+--_----o+W2B+FXjPIMKo8Cu5C7CQ===_FC/C0-33836-2C070006--
+

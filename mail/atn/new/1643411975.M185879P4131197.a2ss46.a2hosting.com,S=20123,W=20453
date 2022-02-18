@@ -1,0 +1,330 @@
+Return-Path: <33nn0YREKA7kvnqjroZbd-mnqdokxfnnfkd.bnl9SMZvZjdmsgdmnqsg.nqf@scoutcamp.bounces.google.com>
+Delivered-To: ATN@awakenthenorth.org
+Received: from a2ss46.a2hosting.com
+	by a2ss46.a2hosting.com with LMTP
+	id UDeCCgd69GF9CT8Ajrpv+A
+	(envelope-from <33nn0YREKA7kvnqjroZbd-mnqdokxfnnfkd.bnl9SMZvZjdmsgdmnqsg.nqf@scoutcamp.bounces.google.com>)
+	for <ATN@awakenthenorth.org>; Fri, 28 Jan 2022 18:19:35 -0500
+Return-path: <33nn0YREKA7kvnqjroZbd-mnqdokxfnnfkd.bnl9SMZvZjdmsgdmnqsg.nqf@scoutcamp.bounces.google.com>
+Envelope-to: ATN@awakenthenorth.org
+Delivery-date: Fri, 28 Jan 2022 18:19:35 -0500
+Received: from mail-ua1-f69.google.com ([209.85.222.69]:56244)
+	by a2ss46.a2hosting.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <33nn0YREKA7kvnqjroZbd-mnqdokxfnnfkd.bnl9SMZvZjdmsgdmnqsg.nqf@scoutcamp.bounces.google.com>)
+	id 1nDaWl-00HKnX-0i
+	for ATN@awakenthenorth.org; Fri, 28 Jan 2022 18:19:35 -0500
+Received: by mail-ua1-f69.google.com with SMTP id i25-20020ab03759000000b00308e68dcb1fso3928933uat.22
+        for <ATN@awakenthenorth.org>; Fri, 28 Jan 2022 15:19:14 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20210112;
+        h=mime-version:date:reply-to:feedback-id:message-id:subject:from:to;
+        bh=ZDhhn1I3bqqC9yjbC8tfDNPOl2ZpSMSRlG6JR9OMSMA=;
+        b=FwL0LBCO7/UY0nLZEgmTxTWZIXIcVVz+9/FWkPfH6cUUo+lCDmOtRi2d1zkiCUJD4p
+         recgwOHJC2vvoHdgpf3ES+gGPH87YDPSbS7I/khhNxMPhhB8g3VLrLmHLPOz2H0QCVwg
+         5xO/7xXKHUUQfqrTrcb2lFCV3Lrpfof5w5PHpj9lKCFa6dSWNCBmMYDU24NnvWmYHvHM
+         kHfUMMMrV1S114OQNJox4ixRcDQEpEoCmteiGiiEKhqwVK3bcXN7ySrDpYFV57Na4Ov5
+         coKXCxUwESN/uaz72UXTSBEv1PBKgYNP7wZHbsrwUwLkgVyS5u0Cdo10eNOR8J/k/MYT
+         wEwg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:mime-version:date:reply-to:feedback-id
+         :message-id:subject:from:to;
+        bh=ZDhhn1I3bqqC9yjbC8tfDNPOl2ZpSMSRlG6JR9OMSMA=;
+        b=VJ69Z3bJe0XDk8sLNz7g4pERFybhCu2IXCCDssJXP1ijYZdKqH4uYH7Lf2IlqiUrpM
+         FFskeBqCNi26L8DkE7PIE5JO/fMHMbqvDXUtxjBoygQ6DnQmq3NnLk1qc9y4GDHHungW
+         YkuzIwEkukhoSRmQUA9eVcluQRQdbnKZBgyZ9/RpSWEOOyZlFWOAUnyh0uJNSuaWW3kj
+         HE0Jg6ncnFaqbmEuUL1BGN1z4PrCLcyhw3UpYAnvJlYMV4dzuFOmnNOTpE8ug075zerz
+         3W60SOgHZX0wLtfOE7N4EDWX1l30RZ/AAN1+quLLghGKuryBYXwstvxaPiSqnVo9RGbs
+         pcmA==
+X-Gm-Message-State: AOAM531bXtb0bdfOF47riOBMuGBnala6Za/gvt0sA26M4reNV/+ArFP8
+	j3HbDTnzVPPvB2g=
+X-Google-Smtp-Source: ABdhPJzs/21R3oUfjzrnzc053n7znZM8VtSQsnfdDkY/qWkrspcBkPmZlyqXzU7yEm8J9egAbocyBM0=
+MIME-Version: 1.0
+X-Received: by 2002:a9f:2464:: with SMTP id 91mr4960895uaq.47.1643411934444;
+ Fri, 28 Jan 2022 15:18:54 -0800 (PST)
+Date: Fri, 28 Jan 2022 15:18:54 -0800
+Reply-To: The Google Workspace Team <workspace-noreply@google.com>
+X-Google-Id: 4092147
+Feedback-ID: P-11-0:C20188999:M110509327-en:gamma
+X-Notifications: GAMMA:<043ea54b64afb02cfe0705c53ce6d9adf143102d-20188999-111071454@google.com>
+X-Notifications-Bounce-Info: AXvZQxf_z-TYKwI3sm0mGBvAaFTZ3LzhpHjSsrnB8z8Q6Bhc9SE77uiM4pqhn_YZz3IgjGKKedo_K2DvTAA4B0sLc-F_cH9WCaT7kPwORRE7kttV35rNpF7x7BgRmxMytPADfBIECDXiKmuxrs15dyJJsJgfCQKN8GU-EVsn_M7BCCTe_M-EvDFgytLATBNXo_qF6diY2D4aap8i1xkJVGyCQnSktfvNdaD0Y0MXS89jTBGYd7WPeZgR3ErfNz7jPbbTQp3O00oNjAwNjA0MDQxNTM1NTk2OTMzMg
+Message-ID: <043ea54b64afb02cfe0705c53ce6d9adf143102d-20188999-111071454@google.com>
+Subject: [Action Advised] Review new Workspace search history control for users
+From: The Google Workspace Team <workspace-noreply@google.com>
+To: ATN@awakenthenorth.org
+Content-Type: multipart/alternative; boundary="00000000000092803c05d6aca8e9"
+
+--00000000000092803c05d6aca8e9
+Content-Type: text/plain; charset="UTF-8"; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+R29vZ2xlIFdvcmtzcGFjZSBsb2dvDQoNCldlYiAmIEFwcCBBY3Rpdml0eSBhZG1pbiBzZXR0aW5n
+IHRvIGJlIHJlbW92ZWQgZnJvbSBBZGRpdGlvbmFsIEdvb2dsZSAgDQpzZXJ2aWNlcyBzdGFydGlu
+ZyBNYXJjaCAyOSwgMjAyMi4NCg0KSW50cm9kdWN0aW9uIG9mIHRoZSBuZXcgR29vZ2xlIFdvcmtz
+cGFjZSBzZWFyY2ggaGlzdG9yeSBjb250cm9sIGZvciB1c2Vycy4gIA0KTm90aWZ5IHlvdXIgdXNl
+cnMgYWJvdXQgdGhpcyBjaGFuZ2UsIGFuZCByZXZpZXcgdGhlIEFkZGl0aW9uYWwgR29vZ2xlICAN
+CnNlcnZpY2VzIGJlZm9yZSBNYXJjaCAyOSwgMjAyMi4NCg0KRGVhciBBZG1pbmlzdHJhdG9yLA0K
+DQpXZSdyZSB3cml0aW5nIHRvIGxldCB5b3Uga25vdyB0aGF0IHN0YXJ0aW5nIE1hcmNoIDI5LCAy
+MDIyLCB3ZSdsbCBpbnRyb2R1Y2UgIA0KY2hhbmdlcyB0byB0aGUgR29vZ2xlIFdvcmtzcGFjZSBh
+cHBzIHNlYXJjaCBleHBlcmllbmNlLiBUaGVzZSBjaGFuZ2VzIHdpbGwgIA0KZ2l2ZSB1c2VycyBp
+bmNyZWFzZWQgY29udHJvbCBvdmVyIHRoZWlyIHNlYXJjaCBkYXRhLCBhbmQgaGVscCBjbGFyaWZ5
+IGhvdyAgDQp0aGF0IGRhdGEgaXMgY29sbGVjdGVkIGFuZCB1c2VkLg0KDQpXaGF0IGRvIEkgbmVl
+ZCB0byBrbm93Pw0KDQpDdXJyZW50bHkgdGhlcmUgYXJlIHR3byBzZXR0aW5ncyB0aGF0IGNvbnRy
+b2wgc2VhcmNoIGRhdGEgY29sbGVjdGlvbiBhY3Jvc3MgIA0KR29vZ2xlIHNlcnZpY2VzLiBXaGVu
+IHR1cm5lZCBvbiwgdGhlc2Ugc2V0dGluZ3MgY2FuIGhlbHAgdXNlcnMgYW5kIGFkbWlucyAgDQpj
+aG9vc2UgdG8gc3RvcmUgc2VhcmNoIGhpc3RvcnkgZnJvbSBhbGwgR29vZ2xlIGFwcHMgKGNvcmUg
+R29vZ2xlIFdvcmtzcGFjZSAgDQpzZXJ2aWNlcyBhbmQgYWRkaXRpb25hbCBHb29nbGUgc2Vydmlj
+ZXMpIHRvIGFjY2VzcyBwcmV2aW91cyBzZWFyY2ggdGVybXMgIA0KYW5kIGdldCBiZXR0ZXIgc2Vh
+cmNoIHJlc3VsdHM6DQoNCg0KRm9yIEFkbWluczogdGhlIHNldHRpbmcgY2FsbGVkIFdlYiAmIEFw
+cCBBY3Rpdml0eSB0aGF0IGFwcGVhcnMgaW4gdGhlICANCkFkZGl0aW9uYWwgR29vZ2xlIHNlcnZp
+Y2VzIHNlY3Rpb24gb2YgdGhlIEFkbWluIGNvbnNvbGUuDQpGb3IgVXNlcnM6IGEgc2V0dGluZyBh
+bHNvIGNhbGxlZCBXZWIgJiBBcHAgQWN0aXZpdHkgYnV0IG9uIHRoZSBNeSBBY3Rpdml0eSAgDQpw
+YWdlLg0KDQpTb21lIG9yZ2FuaXphdGlvbnMgZGlzYWJsZSBhbGwgQWRkaXRpb25hbCBHb29nbGUg
+c2VydmljZXMgc28gZW5kIHVzZXJzICANCmRvbid0IGhhdmUgdGhlIG9wdGlvbiB0byB0dXJuIFdl
+YiAmIEFwcCBBY3Rpdml0eSBvbiBhbmQgdGhlcmVmb3JlIGRvbid0IGdldCAgDQphY2Nlc3MgdG8g
+cmVjZW50IHNlYXJjaGVzIGluIHRoZWlyIEdvb2dsZSBXb3Jrc3BhY2UgYXBwcy4NCg0KU3RhcnRp
+bmcgTWFyY2ggMjksIDIwMjIsIHdlJ2xsIHJlbW92ZSB0aGUgV2ViICYgQXBwIEFjdGl2aXR5IHNl
+dHRpbmcgaW4gdGhlICANCkFkbWluIGNvbnNvbGUgYW5kIGludHJvZHVjZSBhIG5ldyBlbmQgdXNl
+ciBzZXR0aW5nIG9uIHRoZSBNeSBBY3Rpdml0eSBwYWdlICANCmNhbGxlZCBHb29nbGUgV29ya3Nw
+YWNlIHNlYXJjaCBoaXN0b3J5LiBUaGlzIG1lYW5zIGVuZCB1c2VycyB3aWxsIGJlIGFibGUgIA0K
+dG8gY29udHJvbCB0aGUgc3RvcmFnZSBvZiB0aGVpciBjb3JlIEdvb2dsZSBXb3Jrc3BhY2Ugc2Vy
+dmljZXMgc2VhcmNoICANCmhpc3RvcnkgZGF0YSBhZnRlciBNYXJjaCAyOSwgMjAyMi4NCg0KV2hh
+dCBkb2VzIHRoaXMgbWVhbiBmb3IgbXkgb3JnYW5pemF0aW9uPw0KDQpVc2VycyB3aG8gaGF2ZSBH
+b29nbGUgV29ya3NwYWNlIHNlYXJjaCBoaXN0b3J5IGVuYWJsZWQg4oCUYW5kIHBlcmZvcm0gIA0K
+c2VhcmNoZXMgaW4gR29vZ2xlIFdvcmtzcGFjZSBhcHBzIGxpa2UgR21haWwgYW5kIERyaXZl4oCU
+IHdpbGwgc2VlIHRoZWlyICANCnNlYXJjaCBoaXN0b3J5IHNob3duIGFzIHN1Z2dlc3Rpb25zIGJl
+Zm9yZSBvciBhcyB0aGV5IHR5cGUgdGhlaXIgc2VhcmNoZXMgIA0KaW4gdGhlc2UgcHJvZHVjdHMu
+IFRoZXNlIGFwcHMgd2lsbCBzaG93IGEgbWVzc2FnZSBsZXR0aW5nIHVzZXJzIGtub3cgdGhhdCAg
+DQpzZWFyY2ggaGlzdG9yeSBpcyBlbmFibGVkLg0KDQoNCkluIGFkZGl0aW9uIHRvIHRoZSBuZXcg
+R29vZ2xlIFdvcmtzcGFjZSBzZWFyY2ggaGlzdG9yeSBzZXR0aW5nLCB0aGUgZW5kICANCnVzZXIg
+V2ViICYgQXBwIEFjdGl2aXR5IHNldHRpbmcgd2lsbCBjb250aW51ZSB0byBleGlzdC4gSG93ZXZl
+ciwgV2ViICYgQXBwICANCkFjdGl2aXR5IHdpbGwgY29udHJvbCBzdG9yYWdlIG9mIHNlYXJjaCBk
+YXRhIGZyb20gQWRkaXRpb25hbCBHb29nbGUgIA0Kc2VydmljZXMgb25seSwgYW5kIHdpbGwgcmVt
+YWluIGRpc2FibGVkIGJ5IGRlZmF1bHQgZm9yIG5ldyB1c2Vycy4NCg0KSW1wb3J0YW50IGRldGFp
+bHMgYWJvdXQgdGhlIG5ldyBzZWFyY2ggaGlzdG9yeSBzZXR0aW5nDQoNCg0KVGhlIG5ldyBHb29n
+bGUgV29ya3NwYWNlIHNlYXJjaCBoaXN0b3J5IHNldHRpbmcgd2lsbCBiZSBvbiBieSBkZWZhdWx0
+IGJ1dCAgDQphbGwgdXNlcnMgd2lsbCBoYXZlIHRoZSBvcHRpb24gdG8gdHVybiBpdCBvZmYuDQpV
+c2VycyB3aWxsIGJlIGFibGUgdG8gc2V0IGNvbnRyb2wgaG93IGxvbmcgdGhlaXIgR29vZ2xlIFdv
+cmtzcGFjZSBzZWFyY2ggIA0KaGlzdG9yeSBpcyBzdG9yZWQuDQpVc2VycyB3aWxsIGhhdmUgYW55
+IGV4aXN0aW5nIGRhdGEgcmV0ZW50aW9uIHNldHRpbmdzIGluIFdlYiAmIEFwcCBBY3Rpdml0eSAg
+DQphcHBsaWVkIHRvIEdvb2dsZSBXb3Jrc3BhY2Ugc2VhcmNoIGhpc3RvcnkuIFRoZSBkZWZhdWx0
+IHRpbWUgcGVyaW9kIGZvciB0aGUgIA0KZGF0YSByZXRlbnRpb24gc2V0dGluZyBpcyAxOCBtb250
+aHMuDQpBbnkgdXNlcnMgbWFya2VkIHVuZGVyIHRoZSBhZ2Ugb2YgMTggYnkgdGhlaXIgYWRtaW4g
+dGhhdCBoYXZlIGNvbnRyb2xsZWQgIA0KYWNjZXNzIHRvIEdvb2dsZSBzZXJ2aWNlcyBieSBhZ2Us
+IHdpbGwgaGF2ZSBXZWIgJiBBcHAgQWN0aXZpdHkgZGlzYWJsZWQgIA0KZnJvbSB0aGVpciBhY2Nv
+dW50IGFuZCB3aWxsIGJlIHVuYWJsZSB0byB0dXJuIGl0IG9uLg0KDQpBbnkgc2VhcmNoZXMgZG9u
+ZSBpbiBXb3Jrc3BhY2UgYXBwcyBiZWZvcmUgTWFyY2ggMjksIDIwMjIgd2lsbCBiZSBhdmFpbGFi
+bGUgIA0KaW4gdGhlIHVzZXIncyBHb29nbGUgV29ya3NwYWNlIHNlYXJjaCBoaXN0b3J5IGlmIGJv
+dGggZW5kIHVzZXIgYW5kIGFkbWluICANCldlYiAmIEFwcCBBY3Rpdml0eSBzZXR0aW5ncyBhcmUg
+ZW5hYmxlZCB3aGVuIHRoaXMgY2hhbmdlcyBnb2VzIGludG8gZWZmZWN0Lg0KDQpVc2VycyB3aXRo
+IEdvb2dsZSBXb3Jrc3BhY2Ugc2VhcmNoIGhpc3RvcnkgZW5hYmxlZCB3aWxsIGFsc28gYmUgYWJs
+ZSB0byBzZWUgIA0KYW5kIGRlbGV0ZSB0aGVpciBzZWFyY2ggZGF0YSwgYW5kIHRvIG9wdCBvdXQg
+b2YgY29sbGVjdGluZyB0aGlzIGRhdGEgIA0KYWx0b2dldGhlci4NCg0KTm90ZTogR29vZ2xlIFdv
+cmtzcGFjZSBkb2VzIG5vdCB1c2UgQ3VzdG9tZXIgRGF0YSBmb3IgYWR2ZXJ0aXNpbmcgcHVycG9z
+ZXMuDQoNCldoYXQgZG8gSSBuZWVkIHRvIGRvPw0KDQpZb3Ugc2hvdWxkIG5vdGlmeSB5b3VyIHVz
+ZXJzIGFib3V0IHRoZSBuZXcgR29vZ2xlIFdvcmtzcGFjZSBzZWFyY2ggaGlzdG9yeSAgDQpjb250
+cm9sIHdoaWNoIHdpbGwgYmUgYXV0b21hdGljYWxseSBhdmFpbGFibGUgdG8gYWxsIG9mIHlvdXIg
+dXNlcnMgc3RhcnRpbmcgIA0KTWFyY2ggMjksIDIwMjIuIFlvdSBjYW4gYWxzbyByZXZpZXcgYW55
+IEFkZGl0aW9uYWwgR29vZ2xlIHNlcnZpY2VzIG91dHNpZGUgIA0Kb2YgR29vZ2xlIFdvcmtzcGFj
+ZSBpZiB5b3UncmUgY29uY2VybmVkIGFib3V0IHlvdXIgc2VhcmNoIGFuZCBhY3Rpdml0eSBkYXRh
+ICANCmJlaW5nIGNvbGxlY3RlZCwgYW5kIGNvbnNpZGVyIHJlc3RyaWN0aW5nIGFjY2VzcyB0byB0
+aGVzZSBzZXJ2aWNlcyBieSAgDQp0dXJuaW5nIGEgc2VydmljZSBvbiBvciBvZmYgZm9yIEdvb2ds
+ZSBXb3Jrc3BhY2UgdXNlcnMsIG9yIHVzaW5nIGdyb3VwcyB0byAgDQpjdXN0b21pemUgc2Vydmlj
+ZSBhY2Nlc3MuDQoNCkZBUQ0KDQpTZWUgb3VyIEZBUXMgZm9yIG1vcmUgZGV0YWlscy4NCg0KV2Un
+cmUgaGVyZSB0byBoZWxwDQoNCklmIHlvdSBoYXZlIHF1ZXN0aW9ucyBvciBuZWVkIGFzc2lzdGFu
+Y2UsIHBsZWFzZSBjb250YWN0IEdvb2dsZSBXb3Jrc3BhY2UgIA0Kc3VwcG9ydC4NCldoZW4geW91
+IGNhbGwgb3Igc3VibWl0IHlvdXIgc3VwcG9ydCBjYXNlLCByZWZlcmVuY2UgaXNzdWUgbnVtYmVy
+IDE4MzYxNjYyMS4NCg0KVGhhbmtzIGZvciBjaG9vc2luZyBHb29nbGUgV29ya3NwYWNlLg0KDQri
+gJQgVGhlIEdvb2dsZSBXb3Jrc3BhY2UgVGVhbQ0KDQoNCsKpIDIwMjIgR29vZ2xlIExMQyAxNjAw
+IEFtcGhpdGhlYXRyZSBQYXJrd2F5LCBNb3VudGFpbiBWaWV3LCBDQSA5NDA0Mw0KDQpZb3UgaGF2
+ZSByZWNlaXZlZCB0aGlzIGltcG9ydGFudCB1cGRhdGUgYWJvdXQgeW91ciBHb29nbGUgV29ya3Nw
+YWNlIGFjY291bnQgIA0KYmVjYXVzZSB5b3UgZGVzaWduYXRlZCB0aGlzIGVtYWlsIGFkZHJlc3Mg
+YXMgYSBwcmltYXJ5IG9yIHNlY29uZGFyeSBjb250YWN0ICANCmZvciBtYW5kYXRvcnkgc2Vydmlj
+ZSBjb21tdW5pY2F0aW9ucyBpbiB5b3VyIEdvb2dsZSBBZG1pbiBjb25zb2xlIHByb2ZpbGUuDQoN
+Cg==
+--00000000000092803c05d6aca8e9
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!-- This contains CSS info, starts the body, and inserts the Google Worksp=
+ace logo header -->
+<span style=3D"font-family: Roboto, Arial, sans-serif; font-size: 14px; col=
+or: #000000;"> </span>
+<div style=3D"padding-top: 22px; padding-bottom: 6px; border-bottom-style: =
+solid; border-bottom-color: #dcdcdc; border-bottom-width: 1px" width=3D100%=
+><span style=3D"font-family: Roboto, Arial, sans-serif; font-size: 14px; co=
+lor: #000000;"><img alt=3D"Google Workspace logo" border=3D0 src=3Dhttp://s=
+ervices.google.com/fh/files/emails/google_workspace_750x96px_gray_lockup_go=
+ogle_product_624x96px_clr.png style=3D"display: block;" title=3DGoogle widt=
+h=3D250> </span></div>
+<span style=3D"font-family: Roboto, Arial, sans-serif; font-size: 14px; col=
+or: #000000;"> <!-- This is the beginning of the subject --> </span>
+<!-- Include the Pre-header snippet, copy HTML from TEMPLATE SNIPPET ID 916=
+0213 and add the pre-header text-->
+<div style=3D"height:0px; font-size:0px; max-height:0px; min-height: 0px; l=
+ine-height:0px; width: 100%; color: #fff; display:none;">Web &amp; App Acti=
+vity admin setting to be removed from Additional Google services starting M=
+arch 29, 2022.</div>
+
+<!-- If message includes Summary at top, copy HTML from TEMPLATE SNIPPET ID=
+ 9426325 and add the summary text. Otherwise delete this section.-->
+<!--SNAPPY SUMMARY START -->
+                  <div class=3Demphasis align=3Dcenter style=3D"
+                padding:20px 0 20px 0;
+                color: #263238;
+                font-weight: 400px;
+                font-size: 18px;
+                line-height:26px;">
+                <em>Introduction of the new Google Workspace search history=
+ control for users. Notify your users about this change, and review the Add=
+itional Google services before March 29, 2022.</em>
+              </div>
+              <!--SNAPPY SUMMARY END -->
+<!-- Please INSERT the relevant Customer Comm BODY snippet -->
+<p>Dear Administrator,</p>
+
+<p>We=E2=80=99re writing to let you know that starting <strong>March 29, 20=
+22,</strong> we=E2=80=99ll introduce changes to the <strong>Google Workspac=
+e apps</strong> search experience. These changes will give users increased =
+control over their search data, and help clarify how that data is collected=
+ and used.</p>
+
+<h3>What do I need to know?</h3>
+
+<p>Currently there are two settings that control search data collection acr=
+oss <strong>Google services</strong>. When turned <strong>on</strong>, thes=
+e settings can help users and admins choose to store search history from al=
+l <strong>Google apps</strong> (core <strong>Google Workspace services</str=
+ong> and <a href=3Dhttps://notifications.google.com/g/p/AD-FnEwabqb4alT1u_B=
+_HjnLhUj_oMgWfXexXkFMPOffgFfS-cVr18EySGl4Sk0EiT-yTXIJA00e0_e0HrZpaRW0nmCh9m=
+CACnxCbaMKqajhXQ target=3D_blank>additional <strong>Google services</strong=
+></a>) to access previous search terms and get better search results:</p>
+
+<ol>
+  <li><strong>For Admins:</strong> the setting called <a href=3Dhttps://not=
+ifications.google.com/g/p/AD-FnEzajscRRImpiWto_dt4C88vnb6STMgCLW8uXNEbVmOhP=
+i69b6aeW98Q3eTQlEWN2NCEniGAkDtSlhQJ9kZIqANkagHaz98vR-p5-nbjEaw target=3D_bl=
+ank>Web &amp; App Activity</a> that appears in the Additional Google servic=
+es section of the <strong>Admin console</strong>.</li>
+  <li><strong>For Users:</strong> a setting also called <a href=3Dhttps://n=
+otifications.google.com/g/p/AD-FnExr7eEJ8ZCYTLFRLBOyByJMLk9O-lPwssSHO5rOD7Y=
+kArIwmIa5dMzpIQutiuNaQYzjW_ZYGedL0BqjZFITC_ndI-b8sWv6s9Lh5GdWzcNbhLFgROQa-U=
+SAd39f1WTThJ6nWz412o_7AL39k0u2LpTzoOuPDgTxpGobuj6PyKt_DxRtaf18rEg4obraQZOcd=
+5Ij3Qzfq7xX0Rq6uBCZ_g8 target=3D_blank>Web &amp; App Activity</a> but on th=
+e <strong>My Activity</strong> page.</li>
+</ol>
+
+<p>Some organizations disable all <strong>Additional Google services</stron=
+g> so end users don=E2=80=99t have the option to turn Web &amp; App Activit=
+y on and therefore don=E2=80=99t get access to recent searches in their <st=
+rong>Google Workspace apps</strong>.</p>
+
+<p>Starting <strong>March 29, 2022</strong>, we=E2=80=99ll remove the Web &=
+amp; App Activity setting in the <strong>Admin console</strong> and introdu=
+ce a new end user setting on the <strong>My Activity</strong> page called <=
+strong>Google Workspace search history</strong>. This means end users will =
+be able to control the storage of their core <strong>Google Workspace</stro=
+ng> services search history data after <strong>March 29, 2022.</strong></p>
+
+<h3>What does this mean for my organization?</h3>
+
+<p>Users who have <strong>Google Workspace</strong> search history enabled =
+=E2=80=94and perform searches in <strong>Google Workspace</strong> apps lik=
+e <strong>Gmail</strong> and <strong>Drive</strong>=E2=80=94 will see their=
+ search history shown as suggestions before or as they type their searches =
+in these products. These apps will show a message letting users know that s=
+earch history is enabled.</p>
+
+<center><img alt=3D"" class=3Dcenter height=3D240 src=3Dhttps://services.go=
+ogle.com/fh/files/emails/b_184258386.png width=3D400></center>
+
+<p>In addition to the new <strong>Google Workspace</strong> search history =
+setting, the end user Web &amp; App Activity setting will continue to exist=
+. However, Web &amp; App Activity will control storage of search data from =
+<strong>Additional Google services</strong> only, and will remain disabled =
+by default for new users.</p>
+
+<h4>Important details about the new search history setting</h4>
+
+<ul>
+  <li>The new <strong>Google Workspace search history setting will be on by=
+ default</strong> but all users will have the option to turn it off.</li>
+  <li>Users will be able to set control how long their <strong>Google Works=
+pace search history</strong> is stored.</li>
+  <li>Users will have any existing data retention settings in Web &amp; App=
+ Activity applied to <strong>Google Workspace search history</strong>. The =
+default time period for the data retention setting is 18 months.</li>
+  <li>Any users marked under the age of 18 by their admin that have <a href=
+=3Dhttps://notifications.google.com/g/p/AD-FnEzdGGwrnKIJ2b7S-rGSUPN8NeZTCdg=
+pWzPnYSrQZ4IC2gJWsZYUxAsjKCwWmmetH3m6G6UqADwzWI3RKC5AzK22rA-I88XcifBdFqr3l1=
+l7 target=3D_blank>controlled access to Google services by age</a>, will ha=
+ve Web &amp; App Activity disabled from their account and will be unable to=
+ turn it on.</li>
+</ul>
+
+<p>Any searches done in Workspace apps before <strong>March 29, 2022</stron=
+g> will be available in the user=E2=80=99s <strong>Google Workspace search =
+history</strong> if both end user and admin Web &amp; App Activity settings=
+ are enabled when this changes goes into effect.</p>
+
+<p>Users with <strong>Google Workspace search history</strong> enabled will=
+ also be able to see and delete their search data, and to opt out of collec=
+ting this data altogether.</p>
+
+<p><strong>Note: Google Workspace</strong> does not use Customer Data for a=
+dvertising purposes.</p>
+
+<h4>What do I need to do?</h4>
+
+<p>You should notify your users about the new <strong>Google Workspace sear=
+ch history</strong> control which will be automatically available to all of=
+ your users starting <strong>March 29, 2022</strong>. You can also review a=
+ny <a href=3Dhttps://notifications.google.com/g/p/AD-FnEzFZCrELbdvs-gbldczQ=
+atLGR3b4DNll5GqOXLkgJlAFLW-6waGc9o-Ve2wQTwPP6Qo3iW1_UZ36im51eFY4kTB_afeAMWf=
+uozl9jok8xmSpL1bN1CRkzhDOjM95elttHM target=3D_blank>Additional Google servi=
+ces</a> outside of <strong>Google Workspace</strong> if you=E2=80=99re conc=
+erned about your search and activity data being collected, and consider res=
+tricting access to these services by <a href=3Dhttps://notifications.google=
+.com/g/p/AD-FnEyYtkzwGrdpodH4BchpyVXbVGvsnbGhcbg-wyDb_5unBpUuFF1Ee82LoiQY6v=
+Oa-y0u7EO98S-6nXx0nCCkVQG6hrTPU-x3KSAyI0grNA target=3D_blank>turning a serv=
+ice on or off for Google Workspace users</a>, or <a href=3Dhttps://notifica=
+tions.google.com/g/p/AD-FnExPlyLLRBMHQ5GVKZrcvGhLVIsT7U65idM_NGwotOTXr1vwvt=
+h6MGFnJ_ktLdhn-lztfwzLddfLler6XVTnFzPOjC33Wq2TbZ-nAELZbaQ target=3D_blank>u=
+sing groups to customize service access</a>.</p>
+
+<h3>FAQ</h3>
+
+<p>See our <a href=3Dhttps://notifications.google.com/g/p/AD-FnExpWsXzP2-1L=
+s8OEO4wxw00ksHqFo9zHctKKHaY5yLXFT8Wo-lQ-2mBSzU9iBzgRjAArKSGrT6-XNB6IyO8LqfT=
+9nYwF4-At4LxeB8R9bYX target=3D_blank>FAQs</a> for more details.</p>
+
+<h3>We=E2=80=99re here to help</h3>
+
+<p>If you have questions or need assistance, please <a href=3Dhttps://notif=
+ications.google.com/g/p/AD-FnEx3cGyUPgE_dJ6WztLv6HjMFN3yn2UFJWoiaaNXB40R-Wf=
+xWyGsqGFC6f3AaWbeGhi3nTby5G3XELSRbXAI-Ofsr7DRWXxPQg-1FGksfe4 target=3D_blan=
+k>contact Google Workspace support</a>.<br>
+  When you call or submit your support case, reference issue number 1836166=
+21.</p>
+
+<p>Thanks for choosing Google Workspace.</p>
+
+<p><strong>=E2=80=94 The Google Workspace Team</strong></p>
+
+<!-- Finally, include the standard footer. This also ends the body -->
+<div style=3D"font-size: 10px; color: #666666; padding-top: 8px; border-top=
+-style: solid; border-top-color: #dcdcdc; border-top-width: 1px">
+  <p>=C2=A9 2022=C2=A0 Google LLC=C2=A01600 Amphitheatre Parkway, Mountain =
+View, CA 94043</p>
+
+  <p><i>You have received this important update about your Google Workspace=
+ account because you=C2=A0designated this email address as a primary or sec=
+ondary contact for mandatory service communications in your Google=C2=A0<a =
+href=3Dhttp://notifications.google.com/g/p/AD-FnEz2CnQuLp53qI7dHcIIRP2GC0f-=
+kLJ_D68M6N4l1CFpd4RXuliSMmxv5TFZJpDMz3y6p4--dpey1nthGQ target=3D_blank>Admi=
+n console</a>=C2=A0profile.</i></p>
+</div>
+<img alt=3D"" height=3D1 width=3D3 src=3Dhttps://notifications.google.com/g=
+/img/AD-FnEwAyIRH8n8YixQwbNUjfMccZhLPqytER1a8xewMVRHVa70.gif>
+--00000000000092803c05d6aca8e9--

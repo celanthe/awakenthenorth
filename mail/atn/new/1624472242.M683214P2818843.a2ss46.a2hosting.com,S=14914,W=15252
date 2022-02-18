@@ -1,0 +1,338 @@
+Return-Path: <3inrTYB8KANkBJJBG9-RJMFNK579-5G9MON-IJM9KGTBJJBG9.7JH@scoutcamp.bounces.google.com>
+Delivered-To: ATN@awakenthenorth.org
+Received: from a2ss46.a2hosting.com
+	by a2ss46.a2hosting.com with LMTP
+	id eLUnKLJ602AbAysAjrpv+A
+	(envelope-from <3inrTYB8KANkBJJBG9-RJMFNK579-5G9MON-IJM9KGTBJJBG9.7JH@scoutcamp.bounces.google.com>)
+	for <ATN@awakenthenorth.org>; Wed, 23 Jun 2021 14:17:22 -0400
+Return-path: <3inrTYB8KANkBJJBG9-RJMFNK579-5G9MON-IJM9KGTBJJBG9.7JH@scoutcamp.bounces.google.com>
+Envelope-to: ATN@awakenthenorth.org
+Delivery-date: Wed, 23 Jun 2021 14:17:22 -0400
+Received: from mail-il1-f198.google.com ([209.85.166.198]:42582)
+	by a2ss46.a2hosting.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <3inrTYB8KANkBJJBG9-RJMFNK579-5G9MON-IJM9KGTBJJBG9.7JH@scoutcamp.bounces.google.com>)
+	id 1lw7RC-00BpnJ-Hn
+	for ATN@awakenthenorth.org; Wed, 23 Jun 2021 14:17:22 -0400
+Received: by mail-il1-f198.google.com with SMTP id d17-20020a9236110000b02901cf25fcfdcdso2328219ila.9
+        for <ATN@awakenthenorth.org>; Wed, 23 Jun 2021 11:17:02 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20161025;
+        h=mime-version:date:reply-to:feedback-id:message-id:subject:from:to;
+        bh=5rT05PLzj8ODa6p8wddR+x8GCBMW3jKpaEva5/qEFZM=;
+        b=L05AtHjS6tOpCgiuaPupGL2RB//jZOhf22S7nFNrh9iQKyquc96wBwxNl0D+dPmScJ
+         wCP7hQRE+cexIdAn74Vod2R3oJP4y+vkbjBQqe1MIC2kQwpZjSAebmWJTzgWjr3OMVrE
+         iHJ8x59zAa2hXeFLFqXYJYa/KtjnxGuUKbNMY0Pu9I7r00JGDy7R2mIh0C9GJDamVKn9
+         aQWeeiCA1ElwaKrhD6oPUFTdHnRvsmol881zrYAUOMQOpBNakJ8yvm+Wr7p+DT6q2tzC
+         rFw5Mc9WrD4PbYE+HCMb9jgJxkQG20X5PdIhrA148NTeIDd1N9bQRKgQZLlLyFJvEzRy
+         0SdA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:date:reply-to:feedback-id
+         :message-id:subject:from:to;
+        bh=5rT05PLzj8ODa6p8wddR+x8GCBMW3jKpaEva5/qEFZM=;
+        b=DtnOAQosFbJS4Kj7nk+SXR8Z8izfjbfkpHdosjZT4Om2ALs3ZIZBv7T8rUTKz/q2ie
+         oU3yD5HBUP5QjqQqn6axOLo0TVTtO4zWuKekldkeU5wIhF9c+QfFlg4SbOZpOk6dz3eN
+         JX3agt+1WxmqXzuru+kktG8hdlZXy5aewL8b/urkjFodzMyVW0fXjKfCVTj4xO9L88vn
+         cqsB2P1M002SOjX0VMxGqCR4WmeHKylkvpt/EngVwsKnwdBR8nCo7V1CVb+tXifl0KXc
+         LVaI9FwIStZjeWOJnDH/rK18Ya0N5XegOVc9fLePWhpdv9jWg0nEHdVw6bucbqumRo2y
+         K6+g==
+X-Gm-Message-State: AOAM532pnhAUbETzO3oM461vv1xrIGo/iKOV3nw4aQnwW1Vzr6mW4+Vo
+	WR1RDlijPyb0EuzS/DWfVabr
+X-Google-Smtp-Source: ABdhPJxA/XpIxLNRKky/h41ZaemAWwXgvzZaXKQCGVz7UOe7q3LdiR5gelpueothiXjwJptzBEO3jUE=
+MIME-Version: 1.0
+X-Received: by 2002:a6b:6604:: with SMTP id a4mr632262ioc.205.1624472202022;
+ Wed, 23 Jun 2021 11:16:42 -0700 (PDT)
+Date: Wed, 23 Jun 2021 11:16:42 -0700
+Reply-To: Google Workspace Alerts <google-workspace-alerts-noreply@google.com>
+X-Google-Id: 255795
+Feedback-ID: P1709-0:C20111380:M110283174-en:gamma
+X-Notifications: GAMMA:<e1d40abf3748ed772e460f8d95d0b0d4dfb6303e-20111380-110686322@google.com>
+Message-ID: <e1d40abf3748ed772e460f8d95d0b0d4dfb6303e-20111380-110686322@google.com>
+Subject:  Google Operations 
+From: Google Workspace Alerts <google-workspace-alerts-noreply@google.com>
+To: ATN@awakenthenorth.org
+Content-Type: multipart/alternative; boundary="0000000000008c930305c572e8ca"
+
+--0000000000008c930305c572e8ca
+Content-Type: text/plain; charset="UTF-8"; format=flowed; delsp=yes
+
+Google Operations
+
+
+
+Google Workspace Image
+
+
+
+Dear Google Workspace Administrator,
+
+You have an important notification from Google Operations that requires  
+your attention.
+
+Sincerely,
+The Google Operations Team
+
+
+
+Go to Alert Center
+
+
+
+You have received this important update about your Google Workspace account  
+because you are either the designated primary contact for mandatory service  
+communications or a designated admin recipient for this alert type. You can  
+change the email recipients in the System defined rules section of the  
+Admin Console.
+
+Google LLC 1600 Amphitheatre Parkway Mountain View, CA 94043
+
+
+
+
+
+--0000000000008c930305c572e8ca
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8"><met=
+a name=3Dviewport content=3Dwidth=3Ddevice-width><title>Google Operations</=
+title>
+<style type=3Dtext/css>@media only screen {
+      html {
+        min-height: 100%;
+        background: #fafafa
+      }
+    }
+
+    @media only screen and (max-width:640px) {
+      .small-float-center {
+        margin: 0 auto !important;
+        float: none !important;
+        text-align: center !important
+      }
+    }
+
+    @media only screen and (max-width:640px) {
+      table.body img {
+        width: auto;
+        height: auto
+      }
+      table.body center {
+        min-width: 0 !important
+      }
+      table.body .container {
+        width: 344px !important
+      }
+      table.body .columns {
+        height: auto !important;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        padding-left: 40px !important;
+        padding-right: 40px !important
+      }
+      table.body .columns .columns {
+        padding-left: 0 !important;
+        padding-right: 0 !important
+      }
+      table.body .collapse .columns {
+        padding-left: 0 !important;
+        padding-right: 0 !important
+      }
+      th.small-3 {
+        display: inline-block !important;
+        width: 25% !important
+      }
+      th.small-12 {
+        display: inline-block !important;
+        width: 100% !important
+      }
+      .columns th.small-12 {
+        display: block !important;
+        width: 100% !important
+      }
+      table.menu {
+        width: 100% !important
+      }
+      table.menu td,
+      table.menu th {
+        width: auto !important;
+        display: inline-block !important
+      }
+      table.menu.vertical td,
+      table.menu.vertical th {
+        display: block !important
+      }
+      table.menu[align=3Dcenter] {
+        width: auto !important
+      }
+    }
+</style>
+<span class=3Dpreheader style=3Dcolor:#fafafa;display:none!important;font-s=
+ize:1px;line-height:1px;max-height:0;max-width:0;mso-hide:all!important;opa=
+city:0;overflow:hidden;visibility:hidden></span>
+<table class=3Dbody style=3DMargin:0;background:#F8F9FA!important;border-co=
+llapse:collapse;border-spacing:0;color:#3C4043;font-family:Roboto,Helvetica=
+,Arial,sans-serif;font-size:14px;font-weight:400;height:100%;line-height:in=
+herit;margin:0;padding:0;vertical-align:top;width:100%>
+  <tbody>
+    <tr style=3Dpadding:0;vertical-align:top>
+      <td align=3Dcenter class=3Dcenter style=3D-moz-hyphens:none;-webkit-h=
+yphens:none;Margin:0;border-collapse:collapse!important;color:#3C4043;font-=
+family:Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;hyp=
+hens:none;line-height:inherit;margin:0;padding:0;vertical-align:top;word-wr=
+ap:keep-all valign=3Dtop>
+      <center data-parsed=3D"" style=3Dmin-width:600px;width:100%>
+      <table align=3Dcenter class=3D"container float-center" style=3D"Margi=
+n:0 auto;background:#fafafa;border-collapse:collapse;border-spacing:0;float=
+:none;margin:0 auto;padding:0;text-align:center;vertical-align:top;width:60=
+0px">
+        <tbody>
+          <tr style=3Dpadding:0;vertical-align:top>
+            <td style=3D-moz-hyphens:none;-webkit-hyphens:none;Margin:0;bor=
+der-collapse:collapse!important;color:#3C4043;font-family:Roboto,Helvetica,=
+Arial,sans-serif;font-size:14px;font-weight:400;hyphens:none;line-height:in=
+herit;margin:0;padding:0;vertical-align:top;word-wrap:keep-all>
+            <table class=3D"row header" style=3Dbackground:#F8F9FA;border-c=
+ollapse:collapse;border-spacing:0;display:table;font-size:12px;padding:0;po=
+sition:relative;text-align:left;vertical-align:top;width:100%>
+              <tbody>
+                <tr style=3Dpadding:0;vertical-align:top>
+                  <th class=3D"small-3 large-6 columns first" style=3D"Marg=
+in:0 auto;color:#3C4043;font-family:Roboto,Helvetica,Arial,sans-serif;font-=
+size:14px;font-weight:400;line-height:inherit;margin:0 auto;padding:0;paddi=
+ng-bottom:0;padding-left:40px;padding-right:20px;padding-top:40px;width:260=
+px">
+                  <table style=3Dborder-collapse:collapse;border-spacing:0;=
+margin-bottom:24px;padding:0;text-align:left;vertical-align:top;width:100%>
+                    <tbody>
+                      <tr style=3Dpadding:0;vertical-align:bottom>
+                        <th style=3DMargin:0;color:#3C4043;font-family:Robo=
+to,Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;line-height:in=
+herit;margin:0;padding:0><img alt=3D"Google Workspace Image" src=3Dhttps://=
+www.gstatic.com/apps/signup/resources/google-workspace-lockup.png style=3D"=
+clear: both; display: block; margin-top: 0px; outline: 0px; text-decoration=
+: none;"></th>
+                      </tr>
+                    </tbody>
+                  </table>
+                  </th>
+                  <th class=3D"small-3 large-6 columns last" style=3D"Margi=
+n:0 auto;color:#3C4043;font-family:Roboto,Helvetica,Arial,sans-serif;font-s=
+ize:14px;font-weight:400;line-height:inherit;margin:0 auto;padding:0;paddin=
+g-bottom:0;padding-left:0;padding-right:40px;padding-top:12px;width:260px">=
+=C2=A0</th>
+                </tr>
+              </tbody>
+            </table>
+
+            <table class=3D"row info" style=3Dalign-items:center;background=
+:#fff;border-collapse:collapse;border-color:#E8EAED;border-spacing:0;border=
+-style:solid;border-width:1px;display:table;padding:0;position:relative;tex=
+t-align:left;vertical-align:top;width:100%>
+              <tbody>
+                <tr style=3Dpadding:0;vertical-align:top>
+                  <th class=3D"small-12 large-12 columns first last" style=
+=3D"Margin:0 auto;color:#3C4043;font-family:Roboto,Helvetica,Arial,sans-ser=
+if;font-size:14px;font-weight:400;line-height:inherit;margin:0 auto;padding=
+:0;padding-bottom:0;padding-left:40px;padding-right:40px;width:560px">
+                  <table style=3Dborder-collapse:collapse;border-spacing:0;=
+padding:0;vertical-align:top;width:100%>
+                    <tbody>
+                      <tr style=3Dpadding:0;vertical-align:top>
+                        <th style=3DMargin:0;color:#3C4043;font-family:Robo=
+to,Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;line-height:in=
+herit;margin:0;padding:0>=C2=A0
+                        <p style=3DMargin:0;Margin-bottom:16px;color:#3C404=
+3;font-family:Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:=
+400;line-height:24px;margin:0;margin-bottom:16px;padding:0>Dear Google Work=
+space=C2=A0Administrator,</p>
+
+                        <p style=3DMargin:0;Margin-bottom:16px;color:#3C404=
+3;font-family:Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:=
+400;line-height:24px;margin:0;margin-bottom:16px;padding:0>You have an impo=
+rtant notification from Google Operations that requires your attention.</p>
+
+                        <p style=3DMargin:0;Margin-bottom:16px;color:#3C404=
+3;font-family:Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:=
+400;line-height:24px;margin:0;margin-bottom:16px;padding:0>Sincerely,<br>
+                          The Google Operations Team</p>
+
+                        <table class=3D"button radius thumbnail" style=3Dwi=
+dth:100%>
+                          <tbody>
+                            <tr>
+                              <td>
+                              <center><span class=3D"button radius thumbnai=
+l align-center" style=3D"-moz-hyphens:none;-webkit-hyphens:none;Margin:0;ba=
+ckground:rgb(74, 144, 226);border:none;border-collapse:collapse!important;b=
+order-radius:3px;color:#fff;font-family:Roboto,Helvetica,Arial,sans-serif;f=
+ont-size:14px;font-weight:400;hyphens:none;line-height:inherit;margin:0;pad=
+ding:0;vertical-align:top;word-wrap:keep-all;padding: 10px;"><a href=3Dhttp=
+s://notifications.google.com/g/p/AD-FnEyspfcJJYrW61xfwaqN0oImDkhkOiPJ_qEJ4K=
+zZsmAnvC_tn-6_jOdocNFngYjDy0WoujUx_lJlGqMEwdwZ4YrPLXPqTeJrIjzNay0naDZ43Ae-u=
+_sXj48_fCx4tY26XG0GTN2lp5pem1LjUHhGB2Av5EzqUezOqfjBaqfC style=3Dcolor:#fff;=
+display:inline-block;font-family:Roboto,Helvetica,Arial,sans-serif;font-siz=
+e:14px;font-weight:500;text-decoration:none;>Go to Alert Center</a></span><=
+/center>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+
+                        <p class=3Dalign-center>=C2=A0</p>
+                        </th>
+                      </tr>
+                    </tbody>
+                  </table>
+                  </th>
+                </tr>
+              </tbody>
+            </table>
+
+            <table class=3D"row footer" style=3Dbackground:#F8F9FA;border-c=
+ollapse:collapse;border-spacing:0;display:table;font-size:12px;padding:0;po=
+sition:relative;text-align:left;vertical-align:top;width:100%>
+              <tbody>
+                <tr style=3Dpadding:0;vertical-align:top>
+                  <th class=3D"small-3 large-6 columns first" style=3D"Marg=
+in:0 auto;color:#3C4043;font-family:Roboto,Helvetica,Arial,sans-serif;font-=
+size:14px;font-weight:400;line-height:inherit;margin:0 auto;padding:0;paddi=
+ng-bottom:0;padding-left:40px;padding-right:20px;padding-top:12px;width:260=
+px">
+                  <p style=3DMargin:0;Margin-bottom:16px;color:#6C737F;font=
+-family:Roboto,Helvetica,Arial,sans-serif;font-size:12px;font-weight:400;li=
+ne-height:16px;margin:0;margin-bottom:14px;padding:0>You have received this=
+ important update about your Google Workspace=C2=A0account because you are =
+either the designated primary contact for mandatory service communications =
+or a designated admin recipient for this alert type. You can change the ema=
+il recipients in the <a href=3Dhttp://notifications.google.com/g/p/AD-FnEzo=
+-FTcKQjl9FwRV3LQPI13GP0hQUtLyIEnnNhabpXvHI7kJgxtACXQ908K3qFpYSEYKz0arWPJdbG=
+wZOYwiY1dbSL4Osrbs1APF9NfAkwcKLQC3HdbMY_8f3JVgA>System defined rules</a> se=
+ction of the Admin Console.<br>
+                    <br>
+                    Google LLC 1600 Amphitheatre Parkway Mountain View, CA =
+94043</p>
+                  </th>
+                </tr>
+              </tbody>
+            </table>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      </center>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<!-- prevent Gmail on iOS font size manipulation -->
+
+<div style=3D"display:none;white-space:nowrap;font:15px courier;line-height=
+:0">=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0</div>
+<img alt=3D"" height=3D1 width=3D3 src=3Dhttps://notifications.google.com/g=
+/img/AD-FnEwg8t1Y5ip8ygRn8GDf1aQa-VwLKiyVsYppR5sg5BJQFlo.gif>
+--0000000000008c930305c572e8ca--

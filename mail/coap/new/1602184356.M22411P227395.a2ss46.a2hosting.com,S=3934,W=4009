@@ -1,0 +1,75 @@
+Return-Path: <dilanmotsenbocker@gmail.com>
+Delivered-To: CoAP@awakenthenorth.org
+Received: from a2ss46.a2hosting.com
+	by a2ss46.a2hosting.com with LMTP
+	id wLqsAKRkf19DeAMAjrpv+A
+	(envelope-from <dilanmotsenbocker@gmail.com>)
+	for <CoAP@awakenthenorth.org>; Thu, 08 Oct 2020 15:12:36 -0400
+Return-path: <dilanmotsenbocker@gmail.com>
+Envelope-to: CoAP@awakenthenorth.org
+Delivery-date: Thu, 08 Oct 2020 15:12:36 -0400
+Received: from mail-wr1-f43.google.com ([209.85.221.43]:40438)
+	by a2ss46.a2hosting.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.93)
+	(envelope-from <dilanmotsenbocker@gmail.com>)
+	id 1kQbL9-0011fz-Rv
+	for CoAP@awakenthenorth.org; Thu, 08 Oct 2020 15:12:35 -0400
+Received: by mail-wr1-f43.google.com with SMTP id j2so7794835wrx.7
+        for <CoAP@awakenthenorth.org>; Thu, 08 Oct 2020 12:12:11 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=sD2RgELf+x4TwKJ8H/5wmmF+O+Dv3GcWSeQHIbIK3V8=;
+        b=TJsqNcZMfLlxqjDlJ6L75iTkWZUlPObky/tySgaFFYGvyjy23KXOPLK/Unr9N+ahx3
+         at2TWFFde1scrOIQILPBkw+BwZL5H6Dw7tcSY5ZDeYQQDKZHTrDolpXHm5Ye38iNk/CU
+         uIgsxm9hu4latGzrykEEmIMLppf9xk5NTV815eGyIqjWBITROp6lalr1Rgx0BjuXBC6s
+         NVpbXzJAYSCqEuvEsSGML6qKUHYyUo7uRZ90TAfFnLTZKuFGNLfn3NbMeQEhfcm+CHuS
+         4t2NCBfpwwv7lIhBzmdmLQZUPlfAHys7SDSRdhD8U4QKqzxqEMdiVsGTGV496RsudUEM
+         cKTg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=sD2RgELf+x4TwKJ8H/5wmmF+O+Dv3GcWSeQHIbIK3V8=;
+        b=TFbQjyMNNfOVh3gVZBZ9BZ61G4t5iJp0bVD0lhl3iCDv+VF+RZx2xZzrVj9Z2oFljh
+         ZvAxPX5Q6Yj9/r+IPCjlDjHCsxJRUkXn1j4lybW4RByIrIh9kWRBd5qrhbONCZHN3jSg
+         l4308Ko4azP427iLhlxkrPOu3wY4USElSXaYpkqckeKux2cbNUfaVLCP3YJ3Telc2kIP
+         i6B7fkJ59GvnWKGw06dNbCB9bsodR0MGcN1fyCvsz0Wkvkg2ZdSXvQG9cw5pbHBKux+7
+         EHZGA0rucvrNRXpA2Uqnuh/oAm5AhbzhC7nMo66+tA/2tdNjSKRZg97rTBf+5AjJY5Fc
+         9vLw==
+X-Gm-Message-State: AOAM530wTQGYuidDZgxfKzHvso/8C+2KEA2doY3pVFdVp14yeBVR9Lyc
+	MjRn+ZJWfENVG58tVkcSAy46olQHbVsNbjDwx6P0rnRbpmM=
+X-Google-Smtp-Source: ABdhPJwVFWzHpxHYjcsyNQ4WnBKsREjuW+4sFLAN7dy4RQFvJ/FsDEZLO83yT7ZORG/qm/jELGpOXqJmRdUx+31CEIk=
+X-Received: by 2002:adf:9ec2:: with SMTP id b2mr11088301wrf.107.1602184310487;
+ Thu, 08 Oct 2020 12:11:50 -0700 (PDT)
+MIME-Version: 1.0
+From: Dilan Motsenbocker <dilanmotsenbocker@gmail.com>
+Date: Thu, 8 Oct 2020 14:11:38 -0500
+Message-ID: <CAKP5AXd8bJXSyTnYjD1YVnAj3BCoq53=U5mQ=hwg+092vJKQGQ@mail.gmail.com>
+Subject: =?UTF-8?Q?Bj=C7=ABrn_=C3=86tt_Kindred?=
+To: CoAP@awakenthenorth.org
+Content-Type: multipart/alternative; boundary="000000000000b0fd8905b12d9a28"
+
+--000000000000b0fd8905b12d9a28
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Before I found AtN I had began building my own local kindred, I've
+considered myself a Chieftain in that respect, our issue is reaching
+members of the old ways in my area and the fact that nobody has been
+educated to be a Go=C3=B0ar, as this is what we are lacking I've been havin=
+g to
+juggle the task of doing both, do we have any way as a group to get in
+contact with someone who could fill that roll for us?
+
+--000000000000b0fd8905b12d9a28
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">Before I found AtN I had began building my own local kind=
+red, I&#39;ve considered myself a Chieftain in that respect, our issue is r=
+eaching members of the old ways in my area and the fact that nobody has bee=
+n educated to be a Go=C3=B0ar, as this is what we are lacking I&#39;ve been=
+ having to juggle the task of doing both, do we have any way as a group to =
+get in contact with someone who could fill that roll for us?</div>
+
+--000000000000b0fd8905b12d9a28--

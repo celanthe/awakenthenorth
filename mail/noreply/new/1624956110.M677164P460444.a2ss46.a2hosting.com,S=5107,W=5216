@@ -1,0 +1,109 @@
+Return-Path: <asherdangero@gmail.com>
+Delivered-To: noreply@awakenthenorth.org
+Received: from a2ss46.a2hosting.com
+	by a2ss46.a2hosting.com with LMTP
+	id uGDnJ87c2mCcBgcAjrpv+A
+	(envelope-from <asherdangero@gmail.com>)
+	for <noreply@awakenthenorth.org>; Tue, 29 Jun 2021 04:41:50 -0400
+Return-path: <asherdangero@gmail.com>
+Envelope-to: noreply@awakenthenorth.org
+Delivery-date: Tue, 29 Jun 2021 04:41:50 -0400
+Received: from mail-qk1-f179.google.com ([209.85.222.179]:38614)
+	by a2ss46.a2hosting.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <asherdangero@gmail.com>)
+	id 1ly9JW-001vq1-Gl
+	for noreply@awakenthenorth.org; Tue, 29 Jun 2021 04:41:50 -0400
+Received: by mail-qk1-f179.google.com with SMTP id 65so12854153qko.5
+        for <noreply@awakenthenorth.org>; Tue, 29 Jun 2021 01:41:30 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to;
+        bh=MxKA2FS18sLMJ5x4b9idnzpeaf3BKHFKwDP/uOY1tj8=;
+        b=GWsRwVfnepS3LV1Cw3bR2tqXPFbHKIIX8HMRNTT14UpD4UXbmkRyo+DdFuzUe4ZOWG
+         uEH1Q6swJAntx94iVGwsoIVOrrqClHBBRyi4fb0QIgnIaED/uhfaLgthl6M0SAFKv7Vx
+         8xWzFVVhmYJp6ry9oagcAhN2tQKB0NM2hr5j9fRW/NFsGBVLh+eubUAn8nI37zDlTdp2
+         fotukMJQxxR9E0t/GSzMx57ztQ35ElaHwHIr6q458IU3P8v8FE3p8kRfYA1AqQ54mIH2
+         Us1E1M0ryj4ab0PCgkMQnac3zPzKrV8Rpu2NkoWvAlfEIxiIFj+GibV7yifOwDXWO0/w
+         rChQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:references:in-reply-to:from:date
+         :message-id:subject:to;
+        bh=MxKA2FS18sLMJ5x4b9idnzpeaf3BKHFKwDP/uOY1tj8=;
+        b=m7oI1vTcMaK0ZsUNPpGnqswd6ROXNL7PuvliY6yp7UlAc9S3Fo1PHY+9fv+Hhxz4qN
+         4jfxaIBtMJSs/we701b9+8z/9f+s0neoCh5pLq8QGU5PU01SeBhOAd3hqoxlzaq5qEAL
+         uBwH2/5iBgZbGTdugTIqh+G1x82AFoD0Je6J6C/V2AffxAlxjdZ2RyDl5MFpn/XJj8it
+         xssgPV6diVyW4mIk+vbPeRwZHZutW6wr/VfFCUKasgGVT7lIyqsmWeicCbS/8nswv20A
+         DWNXa3RxiAeDFjoqSnpUP8eOMj6o21otvcZ20JIBYs/YsqKcd/8lbsPRYKSjpQ34IWzF
+         X8Mg==
+X-Gm-Message-State: AOAM53272Hdv2JRNAmOOxAFZYrzS140mP0mwX+w+p1NsCqHBLhlBOMZO
+	gcoWZwAxioYJgG5/0tUcPfbR4vqEjLNdUVa7z3tYKzaz
+X-Google-Smtp-Source: ABdhPJwdnxjKMjOWP0Uhxwh0H1W2cMuWe6Wj1rwgTM9zpV8+TOzXuJv1zPmV8rZANc3MHs5h+bCskg83FaboioWtiio=
+X-Received: by 2002:a05:620a:21c3:: with SMTP id h3mr30349776qka.202.1624956069644;
+ Tue, 29 Jun 2021 01:41:09 -0700 (PDT)
+MIME-Version: 1.0
+References: <d131ef05184988c820fcd80f04423076@members.awakenthenorth.org>
+In-Reply-To: <d131ef05184988c820fcd80f04423076@members.awakenthenorth.org>
+From: Asher Owensby <asherdangero@gmail.com>
+Date: Tue, 29 Jun 2021 01:40:57 -0700
+Message-ID: <CAOwS-eJYP3Y9wpXt0WEbs4KwOPZnRkwTt7z5-_RbKmbSpGUuDg@mail.gmail.com>
+Subject: Re: About your Membership Application
+To: Awaken The North <noreply@awakenthenorth.org>
+Content-Type: multipart/alternative; boundary="0000000000004e8ccc05c5e391d4"
+
+--0000000000004e8ccc05c5e391d4
+Content-Type: text/plain; charset="UTF-8"
+
+Thanks for letting me know, have a great day!
+
+On Mon, Jun 28, 2021, 11:30 AM Awaken The North <noreply@awakenthenorth.org>
+wrote:
+
+> Dear Asher Owensby,
+>
+> After careful consideration, we have decided not to accept your membership
+> application to join Awaken the North. While reviewing your application, we
+> have determined that your application does not meet the criteria for
+> membership. The specific reasons found are listed below.
+> Should you wish to discuss this further, please reach out to me
+> personally.
+>
+> Denial Reasons:
+>
+> We require our members to be at least 18 years of age. I encourage you to
+> reapply then!
+>
+> We appreciate your interest and wish you well.
+>
+> Sincerely,
+>
+> Anja Solsystir
+> Chancellor of Member Affairs
+> Awaken the North
+>
+
+--0000000000004e8ccc05c5e391d4
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">Thanks for letting me know, have a=C2=A0great day!</div><=
+br><div class=3D"gmail_quote"><div dir=3D"ltr" class=3D"gmail_attr">On Mon,=
+ Jun 28, 2021, 11:30 AM Awaken The North &lt;<a href=3D"mailto:noreply@awak=
+enthenorth.org">noreply@awakenthenorth.org</a>&gt; wrote:<br></div><blockqu=
+ote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc s=
+olid;padding-left:1ex"><p>Dear Asher Owensby,</p>
+<p>After careful consideration, we have decided not to accept your membersh=
+ip application to join Awaken the North. While reviewing your application, =
+we have determined that your application does not meet the criteria for mem=
+bership. The specific reasons found are listed below.<br>Should you wish to=
+ discuss this further, please reach out to me personally. </p>
+<p>Denial Reasons:</p>
+<p>We require our members to be at least 18 years of age. I encourage you t=
+o reapply then!</p>
+<p>We appreciate your interest and wish you well.</p>
+<p>Sincerely,</p>
+<p>Anja Solsystir<br>Chancellor of Member Affairs<br>Awaken the North</p>
+</blockquote></div>
+
+--0000000000004e8ccc05c5e391d4--

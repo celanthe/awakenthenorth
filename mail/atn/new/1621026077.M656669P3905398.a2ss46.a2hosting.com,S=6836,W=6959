@@ -1,0 +1,123 @@
+Return-Path: <joshua.m.gillingham@gmail.com>
+Delivered-To: ATN@awakenthenorth.org
+Received: from a2ss46.a2hosting.com
+	by a2ss46.a2hosting.com with LMTP
+	id sNyhJh3lnmB2lzsAjrpv+A
+	(envelope-from <joshua.m.gillingham@gmail.com>)
+	for <ATN@awakenthenorth.org>; Fri, 14 May 2021 17:01:17 -0400
+Return-path: <joshua.m.gillingham@gmail.com>
+Envelope-to: ATN@awakenthenorth.org
+Delivery-date: Fri, 14 May 2021 17:01:17 -0400
+Received: from mail-wm1-f46.google.com ([209.85.128.46]:35831)
+	by a2ss46.a2hosting.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <joshua.m.gillingham@gmail.com>)
+	id 1lhevt-00GUsU-EL
+	for ATN@awakenthenorth.org; Fri, 14 May 2021 17:01:17 -0400
+Received: by mail-wm1-f46.google.com with SMTP id j3-20020a05600c4843b02901484662c4ebso2035356wmo.0
+        for <ATN@awakenthenorth.org>; Fri, 14 May 2021 14:00:57 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=o253jRjayM3SlA95BCv9K4Lt8G8QIoPIkIQbCF0BbNE=;
+        b=CG3uB+ZoZRjzFOcOe5/ZpQ92pSupNlHZTqbfU1VgwrZP9Ek4V386lwrwDuw7IxBj/N
+         nRKGGciq7muAXwlduuWM4oaVBJpTFmDMFuF58dbvb2qAu793KKjLeAhlj5wPLw4Z6BYN
+         Hy3kwfrRDwutYNMuAJ+jocuaTrTjB8F03CjE4x0pkIGs5A6FrFcIp61CCiu3MlkgwDH/
+         LwQls6WwZHcxQSZaMQqJhsZjPfantauScpifBSGgVCQSQHXV17SyQjrdOkkLCFFveuiq
+         yaoT/wRYOekSRrAUO4ET9wBn2zA5I6VTZNgH4t6P1tp1kX88R8PYcJBZMUDiI9BtkymZ
+         s+FA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=o253jRjayM3SlA95BCv9K4Lt8G8QIoPIkIQbCF0BbNE=;
+        b=J+BOv9oMnO8fbrNwot8WXXqu3X5FKoGLkNLbg1G5WGG/VGRrgUVgC0V8NuTguLtItp
+         VlfO3ajplaDEiCBf8r5ShqVSVH3H6ePjkxraGu9GO1ESHLdNYWODgTBkGD7nUKCgytGz
+         nXpUS9zQdB0fYbnCSwoueqsE6VPyHbqMJKfIXJy8Mr0D/vtPM6B8a0gbGvOXIuDdE2cv
+         7PfjvBs6PI1FxvkxIZ1swApwt8PuR+3xopMBwW0wFAZKHfJoBwFKTiQBtXdvNRsDf0sZ
+         hYzUb0GbsR+n6yFCvJGX/A8bkuLkv4SH+wLXd9ei0fy3B6mn1o/3RCzGtf758RHk9qzi
+         mdwA==
+X-Gm-Message-State: AOAM531FuW4HlI2qLknh0miV79onFV/t/1f8T4VjGgmLLX+qxYeHs3x6
+	bppMnqPleBGrCpj7BMzJCTxRa4FFqQ7Bkuz8iugDI0LtabOggQ==
+X-Google-Smtp-Source: ABdhPJwRfcm+rRbCfodTe0yXIpWxUbu1NcQDDxcfFH7rgCa1hQKG1axYDGo5AqKjl7uv0uNn0iuMdCELmcPuX78vZGI=
+X-Received: by 2002:a1c:9856:: with SMTP id a83mr6512442wme.121.1621026036122;
+ Fri, 14 May 2021 14:00:36 -0700 (PDT)
+MIME-Version: 1.0
+From: JM Gillingham <joshua.m.gillingham@gmail.com>
+Date: Fri, 14 May 2021 14:00:25 -0700
+Message-ID: <CAGc9aa4DagX8_deE_S_q76QJutNhbFf=T2F2R0Nu4C1CorsSKQ@mail.gmail.com>
+Subject: Viking History Project - Althingi: The Crescent & the Northern Star
+To: ATN@awakenthenorth.org
+Content-Type: multipart/alternative; boundary="0000000000000e092f05c2508990"
+
+--0000000000000e092f05c2508990
+Content-Type: text/plain; charset="UTF-8"
+
+Hei,
+
+ My name is Josh and I'm a Canadian author, game designer, and editor. My
+friend and co-editor Muhammad Aurangzeb Ahmad, founder of the Islamic
+Science Fiction project, and I have recently curated a collection of
+historical fiction that explores the fascinating connections between
+Vikings and Muslims at the height of the Viking Age titled 'Althingi: The
+Crescent & the Northern Star'. Particularly in Canada and the US there are
+many false narratives about Vikings that are propagated by (and that
+support) white supremcist histories which are harmful in so many ways. We
+hope to challenge these falsities through this project and better inform
+our readers which seems to align well with Awaken the North's mission.
+
+ We have already crowd-funded almost $10 000 to bring this project to life
+and are very close to meeting our goal. If you think that members of Awaken
+the North might be interested in challenging white supremicist narratives
+by supporting this project and learning more about this under-examined
+topic in history, please consider sharing it
+<https://www.kickstarter.com/projects/1330509990/althingi-the-crescent-and-the-northern-star>.
+Knowledge is power! We recently did a podcast interview with John Hijatt
+from Gifts of the Wyrd podcast
+<https://giftsofthewyrd.podbean.com/e/althingi/>if you are interested in
+hearing more about the project.
+
+ Thank you so much for your time!
+
+ Takk!
+
+ -Josh
+
+-- 
+<https://www.joshuagillingham.ca/>
+
+--0000000000000e092f05c2508990
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div>Hei, <br></div><div><br></div><div>=C2=A0My name is J=
+osh and I&#39;m a Canadian author, game designer, and editor. My friend and=
+ co-editor Muhammad Aurangzeb Ahmad, founder of the Islamic Science Fiction=
+ project, and I have recently curated a collection of historical fiction th=
+at explores the fascinating connections between Vikings and Muslims at the =
+height of the Viking Age titled &#39;Althingi: The Crescent &amp; the North=
+ern Star&#39;. Particularly in Canada and the US there are many false narra=
+tives about Vikings that are propagated by (and that support) white supremc=
+ist histories which are harmful in so many ways. We hope to challenge these=
+ falsities through this project and better inform our readers which seems t=
+o align well with Awaken the North&#39;s mission.</div><div><br></div><div>=
+=C2=A0We have already crowd-funded almost $10 000 to bring this project to =
+life and are very close to meeting our goal. If you think that members of A=
+waken the North might be interested in challenging white supremicist narrat=
+ives by supporting this project and learning more about this under-examined=
+ topic in history, please consider <a href=3D"https://www.kickstarter.com/p=
+rojects/1330509990/althingi-the-crescent-and-the-northern-star">sharing it<=
+/a>. Knowledge is power! We recently did a podcast interview with John Hija=
+tt from <a href=3D"https://giftsofthewyrd.podbean.com/e/althingi/">Gifts of=
+ the Wyrd podcast </a>if you are interested in hearing more about the proje=
+ct. <br></div><div><br></div><div>=C2=A0Thank you so much for your time! <b=
+r></div><div><br></div><div>=C2=A0Takk!</div><div><br></div><div>=C2=A0-Jos=
+h<br> </div><br>-- <br><div dir=3D"ltr" class=3D"gmail_signature" data-smar=
+tmail=3D"gmail_signature"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr=
+"><div dir=3D"ltr"><div dir=3D"ltr"><div style=3D"text-align:center"><a hre=
+f=3D"https://www.joshuagillingham.ca/" target=3D"_blank"><img src=3D"https:=
+//docs.google.com/uc?export=3Ddownload&amp;id=3D14w57WzJY8H4P3zkyNNMZZRAVD4=
+HKgDv5&amp;revid=3D0BwhdPzh8IMJuMDVPVHR4MFRpdU00cENuYitqR3haUnRWOGdzPQ" wid=
+th=3D"96" height=3D"96"></a><br></div><div style=3D"text-align:center"><br>=
+</div></div></div></div></div></div></div></div>
+
+--0000000000000e092f05c2508990--

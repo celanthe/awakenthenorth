@@ -1,0 +1,58 @@
+2022-01-21T18:25:04+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 27b51e253934d2a9a8334c0b5eb53ce1
+            [Date] => Jan 21, 2022 @ 18:25
+            [URL] => https://api.printful.com/hook/woocommerce?store=5411026
+            [Duration] => 0.19481
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/6.1.1 Hookshot (WordPress/5.8.3)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.awakenthenorth.org/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => JeoMQoIzquBOQ4upOOLxf6SxSuptaM4D7oh0b487Pxk=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 27b51e253934d2a9a8334c0b5eb53ce1
+                        )
+
+                )
+
+            [Body] => {\"id\":2929}
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 21 Jan 2022 18:25:04 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [cf-cache-status] => DYNAMIC
+                                    [expect-ct] => max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+                                    [set-cookie] => __cf_bm=H9aMFLJE2OC9AX0n87Hxn5tSdUDOTRAp4vuHuP8BjYQ-1642789504-0-ASem8uTm0X9Jlzl3HcMKwpdlUB86Phw6wwO2fwlluKYWprq2xATNwJphAspIrcD+UDrv6UJA+DjM/LzVv8M7bx8=; path=/; expires=Fri, 21-Jan-22 18:55:04 GMT; domain=.printful.com; HttpOnly; Secure; SameSite=None
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 6d1295401f672d70-ORD
+                                    [content-encoding] => gzip
+                                    [alt-svc] => h3=":443"; ma=86400, h3-29=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => OK
+                )
+
+        )
+
+)
+

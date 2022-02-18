@@ -1,0 +1,217 @@
+Return-Path: <3bb6BYBEKA_oyqtmurceg-pqtgrn0iqqing.eqoCVPcycmgpvjgpqtvj.qti@scoutcamp.bounces.google.com>
+Delivered-To: ATN@awakenthenorth.org
+Received: from a2ss46.a2hosting.com
+	by a2ss46.a2hosting.com with LMTP
+	id uL6hN5W+gWBadAUAjrpv+A
+	(envelope-from <3bb6BYBEKA_oyqtmurceg-pqtgrn0iqqing.eqoCVPcycmgpvjgpqtvj.qti@scoutcamp.bounces.google.com>)
+	for <ATN@awakenthenorth.org>; Thu, 22 Apr 2021 14:21:09 -0400
+Return-path: <3bb6BYBEKA_oyqtmurceg-pqtgrn0iqqing.eqoCVPcycmgpvjgpqtvj.qti@scoutcamp.bounces.google.com>
+Envelope-to: ATN@awakenthenorth.org
+Delivery-date: Thu, 22 Apr 2021 14:21:09 -0400
+Received: from mail-qk1-f198.google.com ([209.85.222.198]:52152)
+	by a2ss46.a2hosting.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94)
+	(envelope-from <3bb6BYBEKA_oyqtmurceg-pqtgrn0iqqing.eqoCVPcycmgpvjgpqtvj.qti@scoutcamp.bounces.google.com>)
+	id 1lZdwr-001V1v-Pg
+	for ATN@awakenthenorth.org; Thu, 22 Apr 2021 14:21:09 -0400
+Received: by mail-qk1-f198.google.com with SMTP id e4-20020a37b5040000b02902df9a0070efso12674762qkf.18
+        for <ATN@awakenthenorth.org>; Thu, 22 Apr 2021 11:20:49 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20161025;
+        h=mime-version:date:reply-to:feedback-id:message-id:subject:from:to;
+        bh=uJPN/xuaKibpmGDm3vrfslMKjrUxYB8V50t5g0BOLYM=;
+        b=wR8y2BV186+IBowzP9mWSJgthVFsXyxPcKHMfZGU5AQ3EPtCBtVzbRuRWrdaDMgyq5
+         hgswc1VMDuSkhvLafes7DvFGTVlhNSpcRZjPcxeBtYNVrEqJlhK5XAfq2unMGjy+WwOt
+         WFHuQ00I+vHLaC5tlp5399iqbD2HMk8wH25x3HqC5wlE21PkMyIfMKMagrSawGY40RhU
+         +OVhgPL/dKlNxEdw+y2X1xFILNVxmMbyG1JfVeRjOQ6n4aAmdZRQhrc9VJUH0x/msZYF
+         Xhqk8JxW4XqMRawtyKmWl+M1ww19fZ2QqAd0eVLWiUY7oXI8WHK6lO5TSJcuRAitx6Ce
+         5GJw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:date:reply-to:feedback-id
+         :message-id:subject:from:to;
+        bh=uJPN/xuaKibpmGDm3vrfslMKjrUxYB8V50t5g0BOLYM=;
+        b=cp+/LeGGVcHavJyW9/20ot5JLvZkCxDObuotdpwhpke+eP8ilfDcH+PVuSi1mATfOa
+         Sa9+3mNPTJ+fvfhG/SBFuXafEBdtNDW3fqv8BGmM+Rr9tVbfj2RLRUAeh/0aLO0ajQZO
+         0rqtmxd+v6t8Hx3e+dJrx34MfE24eBRAx6z/Zu10v7TIM3efLdnuZDOXP+T+yAuEctfW
+         w1XuUVn1uxvWi+kQei6onJQpMlxBiFpeJcT0dkhYrJuMoM25jUHATUgRtF+7kKG2ozcr
+         aoRw/tChXDU4M+WaxlEVWwLA6CL4FWhDIVmWflVimqwLjuJyYGudnQNNUs/Z+wjVUvbX
+         cbzA==
+X-Gm-Message-State: AOAM530dFpDuU89L5qI5Yh6gynL2B2g1lT/BQ6C9K+9UJ2UHxeT5NU1j
+	mrrMudCP9ph9eKc=
+X-Google-Smtp-Source: ABdhPJyoflGk1rt9cPM7lpWBAE9YxOnk1j+INbo4MAZ8Bx5Vo2HhZR3sRxZRrkEad5iwEJ0Q9yEjeQA=
+MIME-Version: 1.0
+X-Received: by 2002:a0c:f9c5:: with SMTP id j5mr171298qvo.36.1619115629023;
+ Thu, 22 Apr 2021 11:20:29 -0700 (PDT)
+Date: Thu, 22 Apr 2021 11:20:29 -0700
+Reply-To: The Google Workspace Team <workspace-noreply@google.com>
+X-Google-Id: 4022905
+Feedback-ID: P-11-0:C20152342:M110412599-en:gamma
+X-Notifications: GAMMA:<043e9353e288ac649ed3afff86e49edc77c4657b-20152342-110916596@google.com>
+Message-ID: <043e9353e288ac649ed3afff86e49edc77c4657b-20152342-110916596@google.com>
+Subject: New storage policies for Google Photos and Collaboration Apps
+From: The Google Workspace Team <workspace-noreply@google.com>
+To: ATN@awakenthenorth.org
+Content-Type: multipart/alternative; boundary="000000000000eb13d505c093bbad"
+
+--000000000000eb13d505c093bbad
+Content-Type: text/plain; charset="UTF-8"; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+R29vZ2xlIFdvcmtzcGFjZSBsb2dvDQoNCkhlbGxvIEFkbWluaXN0cmF0b3IsDQoNCldlIGFyZSB3
+cml0aW5nIHRvIGxldCB5b3Uga25vdyB0aGF0IHdlJ3JlIG1ha2luZyBjaGFuZ2VzIHRvIG91ciBz
+dG9yYWdlICANCnBvbGljaWVzIGZvciBHb29nbGUgUGhvdG9zLCBlZmZlY3RpdmUgSnVuZSAxLCAy
+MDIxLCBhbmQgR29vZ2xlIERyaXZlLCAgDQplZmZlY3RpdmUgRmVicnVhcnkgMSwgMjAyMi4gVGhp
+cyBjaGFuZ2UsIGFubm91bmNlZCBpbiBOb3ZlbWJlciAyMDIwLCAgDQplbmFibGVzIHVzIHRvIG1l
+ZXQgdGhlIGdyb3dpbmcgZGVtYW5kIGZvciBzdG9yYWdlLg0KDQpXaGF0IGRvZXMgdGhpcyBtZWFu
+IGZvciBteSBvcmdhbml6YXRpb24/DQoNClRoZSBmb2xsb3dpbmcgc3RvcmFnZSBwb2xpY3kgY2hh
+bmdlcyB3aWxsIHRha2UgZWZmZWN0Og0KDQoNCkdvb2dsZSBQaG90b3MNClN0YXJ0aW5nIEp1bmUg
+MSwgMjAyMSwgYW55IG5ldyBIaWdoLXF1YWxpdHkgcGhvdG9zIG9yIHZpZGVvcyB1cGxvYWRlZCB0
+byAgDQpHb29nbGUgUGhvdG9zIHdpbGwgY291bnQgdG93YXJkIHN0b3JhZ2UuIFBsZWFzZSBub3Rl
+IHRoYXQgYW55IEhpZ2gtcXVhbGl0eSAgDQpwaG90b3Mgb3IgdmlkZW9zIHVwbG9hZGVkIHByaW9y
+IHRvIEp1bmUgMSwgMjAyMSwgd2lsbCBub3QgYmUgaW1wYWN0ZWQgYnkgIA0KdGhpcyBjaGFuZ2Ug
+YW5kIHdpbGwgbm90IGNvdW50IHRvd2FyZCBzdG9yYWdlLiBSZXZpZXcgZG9jdW1lbnRhdGlvbiBv
+biAgDQpzdG9yYWdlIGZvciBHb29nbGUgUGhvdG9zLg0KDQoNCkdvb2dsZSBEb2NzLCBTaGVldHMs
+IFNsaWRlcywgRHJhd2luZ3MsIEZvcm1zLCBhbmQgSmFtYm9hcmQNClN0YXJ0aW5nIEZlYnJ1YXJ5
+IDEsIDIwMjIsIGFueSBuZXdseSBjcmVhdGVkIEdvb2dsZSBEb2NzLCBTaGVldHMsIFNsaWRlcywg
+IA0KRHJhd2luZ3MsIEZvcm1zLCBvciBKYW1ib2FyZCBmaWxlcyB3aWxsIGNvdW50IHRvd2FyZCBz
+dG9yYWdlLiBFeGlzdGluZyAgDQpmaWxlcyB3aXRoaW4gdGhlc2UgcHJvZHVjdHMgd2lsbCBub3Qg
+Y291bnQgdG93YXJkIHN0b3JhZ2UsIHVubGVzcyB0aGV5J3JlICANCm1vZGlmaWVkIG9uIG9yIGFm
+dGVyIEZlYnJ1YXJ5IDEsIDIwMjIuIFJlYWQgbW9yZSBpbiBvdXIgSGVscCBDZW50ZXIuDQoNCldo
+YXQgZG8gSSBuZWVkIHRvIGRvPw0KDQpUaGUgR29vZ2xlIFBob3RvcyBjaGFuZ2VzIHdpbGwgdGFr
+ZSBlZmZlY3QgSnVuZSAxLCAyMDIxLiBZb3UgY2FuIGNoZWNrIHlvdXIgIA0KdXNlcnMnIHN0b3Jh
+Z2UgdXNhZ2UgaW4gdGhlIEFwcHMgdXNhZ2UgdXNlciByZXBvcnQgaW4gdGhlIEFkbWluIGNvbnNv
+bGUuDQoNClRoZSBHb29nbGUgRG9jcywgU2hlZXRzLCBTbGlkZXMsIERyYXdpbmdzLCBGb3Jtcywg
+YW5kIEphbWJvYXJkIGNoYW5nZXMgZG8gIA0Kbm90IHRha2UgZWZmZWN0IHVudGlsIEZlYnJ1YXJ5
+IDEsIDIwMjIsIHNvIG5vIGFjdGlvbiBpcyByZXF1aXJlZCBvbiB5b3VyICANCnBhcnQgYXQgdGhp
+cyB0aW1lLg0KDQpTdG9yYWdlIGxpbWl0cyBkaWZmZXIgYWNyb3NzIEdvb2dsZSBXb3Jrc3BhY2Ug
+YW5kIEcgU3VpdGUgZWRpdGlvbnMsIGJ1dCB3ZSAgDQplc3RpbWF0ZSB0aGF0IHRoZSBtYWpvcml0
+eSBvZiB1c2VycyB3aWxsIG5vdCBiZSBhZmZlY3RlZCBieSB0aGVzZSBjaGFuZ2VzLiAgDQpZb3Ug
+Y2FuIGxlYXJuIG1vcmUgaW4gb3VyIERyaXZlIHN0b3JhZ2UgZG9jdW1lbnRhdGlvbi4NCg0KV2Un
+cmUgaGVyZSB0byBoZWxwDQoNCg0KUmVhZCBvdXIgYmxvZyBwb3N0IGFubm91bmNlbWVudC4NCkZp
+bmQgYW5zd2VycyB0byBjb21tb24gcXVlc3Rpb25zIGluIHRoZSBGQVEuDQpJZiB5b3UgaGF2ZSBh
+ZGRpdGlvbmFsIHF1ZXN0aW9ucyBvciBuZWVkIGFzc2lzdGFuY2UsIHBsZWFzZSBjb250YWN0IEdv
+b2dsZSAgDQpXb3Jrc3BhY2Ugc3VwcG9ydC4gV2hlbiB5b3UgY2FsbCBvciBzdWJtaXQgeW91ciBz
+dXBwb3J0IGNhc2UsIHJlZmVyZW5jZSAgDQppc3N1ZSBudW1iZXIgMTcyMjc3NjU3Lg0KDQpTaW5j
+ZXJlbHksDQoNClRoZSBHb29nbGUgV29ya3NwYWNlIFRlYW0NCg0KDQrCqSAyMDIxIEdvb2dsZSBM
+TEMgMTYwMCBBbXBoaXRoZWF0cmUgUGFya3dheSwgTW91bnRhaW4gVmlldywgQ0EgOTQwNDMNCg0K
+WW91IGhhdmUgcmVjZWl2ZWQgdGhpcyBpbXBvcnRhbnQgdXBkYXRlIGFib3V0IHlvdXIgR29vZ2xl
+IFdvcmtzcGFjZSBhY2NvdW50ICANCmJlY2F1c2UgeW91IGRlc2lnbmF0ZWQgdGhpcyBlbWFpbCBh
+ZGRyZXNzIGFzIGEgcHJpbWFyeSBvciBzZWNvbmRhcnkgY29udGFjdCAgDQpmb3IgbWFuZGF0b3J5
+IHNlcnZpY2UgY29tbXVuaWNhdGlvbnMgaW4geW91ciBHb29nbGUgQWRtaW4gY29uc29sZSBwcm9m
+aWxlLg0KDQo=
+--000000000000eb13d505c093bbad
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!-- This contains CSS info, starts the body, and inserts the Google Worksp=
+ace logo header -->
+<span style=3D"font-family: Roboto, Arial, sans-serif; font-size: 14px; col=
+or: #000000;"> </span>
+<div style=3D"padding-top: 22px; padding-bottom: 6px; border-bottom-style: =
+solid; border-bottom-color: #dcdcdc; border-bottom-width: 1px" width=3D100%=
+><span style=3D"font-family: Roboto, Arial, sans-serif; font-size: 14px; co=
+lor: #000000;"><img alt=3D"Google Workspace logo" border=3D0 src=3Dhttp://s=
+ervices.google.com/fh/files/emails/google_workspace_750x96px_gray_lockup_go=
+ogle_product_624x96px_clr.png style=3D"display: block;" title=3DGoogle widt=
+h=3D250> </span></div>
+<span style=3D"font-family: Roboto, Arial, sans-serif; font-size: 14px; col=
+or: #000000;"> <!-- This is the beginning of the subject --> </span>
+<!-- Please INSERT the relevant Customer Comm BODY snippet -->
+<p>Hello Administrator,</p>
+
+<p>We are writing to let you know that we&#39;re making changes to our stor=
+age policies for Google Photos, effective June 1, 2021, and Google Drive, e=
+ffective February 1, 2022. This change, announced in November 2020, enables=
+ us to meet the growing demand for storage.</p>
+
+<h3>What does this mean for my organization?</h3>
+
+<p>The following storage policy changes will take effect:</p>
+
+<ul>
+  <li><strong>Google Photos</strong><br>
+
+    Starting June 1, 2021, any <strong>new High-quality photos or videos up=
+loaded to Google Photos will count toward storage</strong>. Please note tha=
+t any High-quality photos or videos uploaded prior to June 1, 2021, will no=
+t be impacted by this change and will not count toward storage. Review docu=
+mentation on <a href=3Dhttps://notifications.google.com/g/p/AD-FnEwo2nUpXO-=
+kZS5Q-7NC7b5iTdt3FU5BmYOAkF3rKJRMWN6dLtL7fL22Y8ykayw-x-y_0aRZiG-EP-W9TUvqRe=
+xwhEfaqAlub81uj4axPrUYR6UhFWi2JjgkMvoThREntmagcIewfI9fTg target=3D_blank>st=
+orage for Google Photos</a>.
+  </li>
+</ul>
+
+<ul>
+  <li><strong>Google Docs, Sheets, Slides, Drawings, Forms, and Jamboard</s=
+trong><br>
+
+    Starting February 1, 2022, any <strong>newly created Google Docs, Sheet=
+s, Slides, Drawings, Forms, or Jamboard files will count toward storage</st=
+rong>. Existing files within these products will not count toward storage, =
+<em>unless they=E2=80=99re modified</em> on or after February 1, 2022. Read=
+ more in our <a href=3Dhttps://notifications.google.com/g/p/AD-FnEwkK8hnsAK=
+erdopSCOIoO0zpza3hV7FjBQ_jgq-2moEGnh4bDXm3HfWGHtU3DJM0menXfOlQdOJu6zQM83Nvf=
+TjEaXQRDs8Bm635pmuOA target=3D_blank>Help Center</a>.
+  </li>
+</ul>
+
+<h3>What do I need to do?</h3>
+
+<p>The Google Photos changes will take effect <strong>June 1, 2021</strong>=
+. You can check your users=E2=80=99 storage usage in the <a href=3Dhttps://=
+notifications.google.com/g/p/AD-FnEzyTKvToN7TGOuIS-GGoQnzco4k7H05g5tM8afGDU=
+EzqCbogk10XtCfgKZZi-m3Jby5C0tuXXCuOiAOJFzjCIV_lpTYD1njsvnfCzS5Xg target=3D_=
+blank>Apps usage user report</a> in the Admin console.</p>
+
+<p>The Google Docs, Sheets, Slides, Drawings, Forms, and Jamboard changes d=
+o not take effect <strong>until February 1, 2022</strong>, so <strong>no ac=
+tion is required on your part at this time</strong>.</p>
+
+<p><strong>Storage limits differ across Google Workspace and G Suite editio=
+ns</strong>, but we estimate that the majority of users will not be affecte=
+d by these changes. You can learn more in our <a href=3Dhttps://notificatio=
+ns.google.com/g/p/AD-FnEzmoIuuQe3G4-pfM5sntaH1rCRBuvZdXe1p2EcLQKmK1qUnYUb7H=
+Po9_4Vd-D5BqJeGjc5MxE7prhbyeltw05Na1ulk0zfPZXuPmPYWrUUw target=3D_blank>Dri=
+ve storage documentation</a>.</p>
+
+<h3>We=E2=80=99re here to help</h3>
+
+<ul>
+  <li>Read our blog post <a href=3Dhttps://notifications.google.com/g/p/AD-=
+FnEzvWsJX8_GzWBADrBm_MV0_Y7pwFvJGTbTpGcl6emrz34xeqnrhjCr13xZGJW2fY7LsSwqQ5c=
+6ueEPYjD0qSBSks9V6wpidZDFM5uVFL_fXWA8BoCCLso1UlMGx8iLNSdah-2xsOPFh3nPHs4MSR=
+qZosRmo595D8yrsRw target=3D_blank>announcement</a>.</li>
+  <li>Find answers to common questions in the <a href=3Dhttps://notificatio=
+ns.google.com/g/p/AD-FnEywd_6PHN0GGJ4UGvnqRL5MXLdY3nU-qFC5aQHHoL0ixW42QUS5V=
+MAsSpJ49mjAFcSpwd9fo_9TjoiurJfcQHeZFPXzy84BsQ3M3vPscaHdznDokI52 target=3D_b=
+lank>FAQ</a>.</li>
+  <li>If you have additional questions or need assistance, please contact <=
+a href=3Dhttps://notifications.google.com/g/p/AD-FnEyTuwQXw85ymVXR6ZW_oLFH3=
+aAf4VlSP5OUXPaozaxxBWyfcqgoTgkYJp_9FLm8vIhWnaV8R9Hv_pxr2Lu_XOtBd7UQF2bTpRU_=
+AX1zJd_2cdt6lPXwvLcs6m3iCWgFM7hDr5xJ5ntw3_n1OXh7rfOtQDNlImHh9w target=3D_bl=
+ank>Google Workspace support</a>. When you call or submit your support case=
+, reference issue number 172277657.</li>
+</ul>
+
+<p>Sincerely,</p>
+
+<p>The Google Workspace Team</p>
+
+<!-- Finally, include the standard footer. This also ends the body -->
+<div style=3D"font-size: 10px; color: #666666; padding-top: 8px; border-top=
+-style: solid; border-top-color: #dcdcdc; border-top-width: 1px">
+  <p>=C2=A9 2021=C2=A0 Google LLC=C2=A01600 Amphitheatre Parkway, Mountain =
+View, CA 94043</p>
+
+  <p><i>You have received this important update about your Google Workspace=
+ account because you=C2=A0designated this email address as a primary or sec=
+ondary contact for mandatory service communications in your Google=C2=A0<a =
+href=3Dhttp://notifications.google.com/g/p/AD-FnEzwGXgrCkdHyDn3BBiio-WmrogU=
+Anx3V-EJDh_vS9KCELoz6-K5M-OL3gR6pV6hYNrAGuZxMGYWNMfv target=3D_blank>Admin =
+console</a>=C2=A0profile.</i></p>
+</div>
+<img alt=3D"" height=3D1 width=3D3 src=3Dhttps://notifications.google.com/g=
+/img/AD-FnExOJ3cx06fQ2leXFiiWloObppTJ6gOINUltLaMFEvxqhg.gif>
+--000000000000eb13d505c093bbad--

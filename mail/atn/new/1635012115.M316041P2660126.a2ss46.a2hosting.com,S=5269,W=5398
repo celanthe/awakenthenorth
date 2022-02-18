@@ -1,0 +1,129 @@
+Return-Path: <cindy.steffens@globistictec.com>
+Delivered-To: atn@awakenthenorth.org
+Received: from a2ss46.a2hosting.com
+	by a2ss46.a2hosting.com with LMTP
+	id 0MJaEhNOdGEelygAjrpv+A
+	(envelope-from <cindy.steffens@globistictec.com>)
+	for <atn@awakenthenorth.org>; Sat, 23 Oct 2021 14:01:55 -0400
+Return-path: <cindy.steffens@globistictec.com>
+Envelope-to: atn@awakenthenorth.org
+Delivery-date: Sat, 23 Oct 2021 14:01:55 -0400
+Received: from mail-il1-f181.google.com ([209.85.166.181]:37431)
+	by a2ss46.a2hosting.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <cindy.steffens@globistictec.com>)
+	id 1meLL9-00BEI0-6g
+	for atn@awakenthenorth.org; Sat, 23 Oct 2021 14:01:55 -0400
+Received: by mail-il1-f181.google.com with SMTP id h20so1032341ila.4
+        for <atn@awakenthenorth.org>; Sat, 23 Oct 2021 11:01:35 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=globistictec.com; s=google;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=bx8EbK7cH4HafDXImeYxZOloUNpfZIBQfAAdEoiP23M=;
+        b=alrFBMaZygVzg76d3W6jQqidIElxl/mgGGE86hNyLomLwNrFenOvzQ1zi+CIWsmv2r
+         9BxaVqw27/fblZhj/l+5AUnY9tLZw6qkt4N4aR8JdCKmMb+fZOy0cwnVzyanDS/keeG4
+         +DmbWl9LLqo6HWzXPklUb1etaIXAV4SKcynTyyBWQq9iYlYPOTQzyEeyB07APDJreZsD
+         maPsJRhqFSa3tn/oJecq5wHBdoto4KBBdO9nd6h8afgTR6/kCLe3wEFAKrX7G12n2cTc
+         5MHUY4kii4mTUIUrcVqdlJju1IJ3Qd/vJyHW9nzt87yrDcktP/aPhkNAe0C5WpsHiFth
+         GoyA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=bx8EbK7cH4HafDXImeYxZOloUNpfZIBQfAAdEoiP23M=;
+        b=XLBKKWMPBrGL8+t1yd7sjMu3sHyQFS0+6A+1bRy8tr+bpoci0PJa/9q/aR4qJfaRjP
+         5rYt9LUqLOhHCT5NEP7JokVpbkhsZw7FTEqC/xp6oEpNuegXprroAziYPiGv3MBWLXcw
+         LPZ4JFsMyXJqgUhmcseS+iJiRICpsEVmy9wEDtBLB2L1rTkt6owBNO6ydZ3q5UVfVSFs
+         HlVyr6Yj5aX/Ev20ba4ZH2mHG4SObcA1QIeUwUQhcIxgSwKGZyiY6lX0O5zhHycLelYp
+         aGVhtnvByZry1YI3r671PpVDQmW5gH0MtoTir/xwvd2++3/WE27uw4brLqcxAENy5Rgj
+         0//g==
+X-Gm-Message-State: AOAM5320v+CRxIm7s6xkuAoS+5FZFDffcrPRqUOsaT0jQ9IPC3cibtJb
+	UCU/ZbSMKFTPHVUxx59DTf4axwxTkbRVjHrH8V4M1A==
+X-Google-Smtp-Source: ABdhPJywGneYe5iK6dclx82LVNlT6tZNZXvLCd1uwHaG4L5YzmchD8uFe2xSfWM7uFz3OkG7Ancc8ZwJTCwtHHt89Lg=
+X-Received: by 2002:a92:ccc3:: with SMTP id u3mr3974413ilq.186.1635012074395;
+ Sat, 23 Oct 2021 11:01:14 -0700 (PDT)
+MIME-Version: 1.0
+From: Cindy Steffens <cindy.steffens@globistictec.com>
+Date: Sat, 23 Oct 2021 13:00:00 -0500
+Message-ID: <CAEB4iR6_1rAMjnqHkQupwtMGKZu7SJsjqzNe4dfoq4JLaHXJOQ@mail.gmail.com>
+Subject: RemaDays Warsaw-2021-Attendees list
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary="000000000000e5f32105cf08e92b"
+Bcc: atn@awakenthenorth.org
+
+--000000000000e5f32105cf08e92b
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+*Dear Exhibitor,*
+
+
+
+*Are you interested in acquiring the =E2=80=9CRemaDays Warsaw-**2021**=E2=
+=80=9D Post
+Attendees list?*
+
+
+
+*Let me know your thoughts, so that I can send more info on this like cost,
+counts, and samples.*
+
+
+
+*Regards,*
+
+
+
+
+*Cindy Steffens*
+
+*Marketing Executive*
+
+--000000000000e5f32105cf08e92b
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;li=
+ne-height:normal"><b style=3D""><font color=3D"#073763" style=3D"" face=3D"=
+verdana, sans-serif">Dear Exhibitor,</font></b></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal"=
+><b><font color=3D"#073763" face=3D"verdana, sans-serif">=C2=A0</font></b><=
+/p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal"=
+><font color=3D"#073763" face=3D"verdana, sans-serif"><b>Are you interested=
+ in
+acquiring the =E2=80=9CRemaDays Warsaw-</b><b>2021</b><b>=E2=80=9D Post Att=
+endees list?</b></font></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal"=
+><b><font color=3D"#073763" face=3D"verdana, sans-serif">=C2=A0</font></b><=
+/p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal"=
+><b><font color=3D"#073763" face=3D"verdana, sans-serif">Let me know your
+thoughts, so that I can send more info on this like cost, counts, and sampl=
+es.</font></b></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal"=
+><b><font color=3D"#073763" face=3D"verdana, sans-serif">=C2=A0</font></b><=
+/p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal"=
+><b><font color=3D"#073763" face=3D"verdana, sans-serif">Regards,</font></b=
+></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal"=
+><b><font color=3D"#073763" face=3D"verdana, sans-serif">=C2=A0</font></b><=
+/p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 8pt;line-height:107%"><font =
+color=3D"#073763" face=3D"verdana, sans-serif"><b>Cindy Steffens<br></b></f=
+ont></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 8pt;line-height:107%"><b sty=
+le=3D""><font color=3D"#073763" style=3D"" face=3D"verdana, sans-serif">Mar=
+keting
+Executive</font></b></p></div>
+
+--000000000000e5f32105cf08e92b--

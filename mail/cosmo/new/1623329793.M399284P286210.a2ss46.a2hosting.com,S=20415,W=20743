@@ -1,0 +1,328 @@
+Return-Path: <business-noreply@mail.instagram.com>
+Delivered-To: cosmo@awakenthenorth.org
+Received: from a2ss46.a2hosting.com
+	by a2ss46.a2hosting.com with LMTP
+	id aLEfFwEMwmACXgQAjrpv+A
+	(envelope-from <business-noreply@mail.instagram.com>)
+	for <cosmo@awakenthenorth.org>; Thu, 10 Jun 2021 08:56:33 -0400
+Return-path: <business-noreply@mail.instagram.com>
+Envelope-to: cosmo@awakenthenorth.org
+Delivery-date: Thu, 10 Jun 2021 08:56:33 -0400
+Received: from 66-220-155-158.mail-mail.facebook.com ([66.220.155.158]:36461)
+	by a2ss46.a2hosting.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <business-noreply@mail.instagram.com>)
+	id 1lrKEb-001LyW-8L
+	for cosmo@awakenthenorth.org; Thu, 10 Jun 2021 08:56:33 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=mail.instagram.com;
+	s=s1024-2013-q3; t=1623329741;
+	bh=WWOGXUHWHo7XJZJBBo2G35VBujMHVabz7TONtFPrF6s=;
+	h=Date:To:Subject:From:MIME-Version:Content-Type;
+	b=YOwNssHAK8zhUowKevRR+umFPBkY/S72r/C/QszL/yqqXpwzERVWYbMmwYvvew4rz
+	 lTZaYJgmr9DvuStskGbzzx1T0RUQIfWKhnXYKJD4fhzigR4S0G2cTK0kE6kZIf4gSz
+	 vi6XAHFO/HwFb3gdlmxcisOyhrmJY+igpe0rK2ys=
+X-Facebook: from 2401:db00:232c:4f12:face:0:326:0 ([MTI3LjAuMC4x]) 
+	by async with HTTPS (ZuckMail);
+Date: Thu, 10 Jun 2021 05:55:41 -0700
+To: cosmo@awakenthenorth.org
+Subject: Access Covid-19 vaccination stickers
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+From: "Instagram Business" <business-noreply@mail.instagram.com>
+Reply-to: Instagram Business <business-noreply@mail.instagram.com>
+Errors-To: business-noreply@mail.instagram.com
+X-Facebook-Notify: aymt_instagram_email_tip_notif; mailid=HMTYyMzMyODUwNTk3OTkzODpjb3Ntb0Bhd2FrZW50aGVub3J0aC5vcmc6MTA3ODY
+List-Unsubscribe: </aymt/instagram/unsubscribed/?tip_id=4059407060812730&channel_id=4985761494831202&notif_id=1623329740547828&mac=AdhK7khZnlg9wm52&unsubscribe_uri=aHR0cHM6Ly9pbnN0YWdyYW0uY29tL2VtYWlscy91bnN1YnNjcmliZS9yZW1pbmRlcnM%2FdXNlcl9pZD0zNzA4MzY2MjIzMyZzaWc9QVU4UGR0OURsNVRTOGlDUg%3D%3D>
+Feedback-ID: 9999:aymt_instagram_email_tip_notif:Facebook
+X-FACEBOOK-PRIORITY: 0
+X-Auto-Response-Suppress: All
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+Message-ID: <29ac8354c9eb11eba60d98039bb262d8-5188760@mail.instagram.com>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional =
+//EN"><html><head><title>Facebook</title><meta http-equiv=3D"Content-Type" =
+content=3D"text/html; charset=3Dutf-8" /></head><body =
+style=3D"margin:0;padding:0;" dir=3D"ltr" bgcolor=3D"#ffffff"><table =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" =
+id=3D"email_table" style=3D"border-collapse:collapse;"><tr><td =
+id=3D"email_content" style=3D"font-family:ArialMT, Arial, =
+sans-serif;background:#ffffff;font-size:16px;max-width:720px;padding:0;"><=
+table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td height=3D"1" colspan=3D"3" =
+style=3D"line-height:1px;"><span =
+style=3D"color:#FFFFFF;font-size:1px;opacity:0;">Share vaccination =
+stickers and Covid-19 information with your =
+followers.</span></td></tr><tr><td style=3D""><html><head><meta =
+http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" /><meta =
+name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.0" =
+/><meta name=3D"x-apple-disable-message-reformatting" /><title>Facebook =
+for Business</title></head><body style=3D"padding:0;"><table =
+align=3D"center" style=3D"background-color:#f8f8f8;width:100%;max-width:10=
+0%;min-width:100%;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"100%"><tr align=3D"center"><td =
+style=3D"width:100%;height:32px"></td></tr><tr align=3D"center"><td =
+align=3D"center"><!--[if (gte mso 9)|(IE)]>
+                <table
+                  align=3D"center"
+                  border=3D"0"
+                  cellspacing=3D"0"
+                  cellpadding=3D"0"
+                  width=3D"600">
+                  <tr>
+                    <td align=3D"center" valign=3D"top" width=3D"600">
+                <![endif]--><table border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" style=3D"background-color:#f8f8f8;min-width:360px;max-wi=
+dth:600pxwidth:100%;" width=3D"100%"><table align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" style=3D"display:none; font-size:1px; =
+color:#333333; line-height:1px; max-height:0px; max-width:0px; opacity:0; =
+overflow:hidden;background-color: #fff;" width=3D"100%"><tr><td>Share =
+vaccination stickers and Covid-19 information with your followers. =
+=C2=A0=E2=80=8C </td></tr></table><table align=3D"center" =
+style=3D"max-width:600px;width:100%;" cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0"><tr align=3D"center"><td =
+style=3D"max-width:600px;padding:50px 40px 40px 40px;width:100%;background=
+-color:#fbfbfc;padding:0;background-color:#f8f8f8"><table align=3D"center" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width:100%;"><tr =
+align=3D"center"><td style=3D"text-align:center;border-spacing:0;color:#4c=
+4c4c;font-family:ArialMT, Arial, =
+sans-serif;font-size:15px;width:100%;"><img src=3D"https://scontent.xx.fbc=
+dn.net/v/t39.2365-6/166097199_1553329181533309_6181615263846179537_n.png?_=
+nc_cat=3D103&amp;ccb=3D1-3&amp;_nc_sid=3Dad8a9d&amp;_nc_ohc=3DVc-TS55ThXIA=
+X8tTJAN&amp;_nc_ad=3Dz-m&amp;_nc_cid=3D0&amp;_nc_ht=3Dscontent.xx&amp;oh=
+=3Dee799b5d6c022b30047ca42706416162&amp;oe=3D60E890AA" =
+style=3D"border:0;max-width:100%;" width=3D"150" alt=3D"Header" =
+title=3D"Image" /></td></tr><tr align=3D"center"><td =
+style=3D"width:100%;height:0;"></td></tr></table></td></tr><tr =
+align=3D"center"><td =
+style=3D"width:100%;height:21px;"></td></tr></table><style =
+nonce=3D"V5UQXmWH"> body {background-color: #fff;} p {color: #6B7075; =
+line-height:26px; font-size:17px;} </style><table align=3D"center" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"500" =
+style=3D"text-align:center; margin-left: auto;margin-right: auto; =
+"><tr><td class=3D""><table align=3D"center" =
+style=3D"max-width:600px;width:100%;" cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0"><tr align=3D"center"><td =
+style=3D"max-width:600px;padding:50px 40px 40px =
+40px;width:100%;background-color:#fbfbfc;padding:0 0 0 0; =
+background-color:#ffffff"><table align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" style=3D"width:100%;"><tr =
+align=3D"center"><td =
+style=3D"border-spacing:0;color:#4c4c4c;font-family:ArialMT, Arial, =
+sans-serif;font-size:15px;width:100%;padding:40px 30px 0 30px;"><table =
+align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%;"><tr align=3D"center"><td style=3D"text-align:left;bo=
+rder-spacing:0;color:#4c4c4c;font-family:ArialMT, Arial, =
+sans-serif;font-size:15px;width:100%;line-height:24px;"><table =
+align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%;"><tr align=3D"center"><td =
+style=3D"border-spacing:0;color:#4c4c4c;font-family:ArialMT, Arial, =
+sans-serif;font-size:15px;width:100%;text-align:left;color:#333333;font-si=
+ze:27px;font-family:ArialMT, Arial, =
+sans-serif;font-weight:light;line-height:36px;font-size: 34px; =
+line-height:44px; font-weight:bold; "> For Your Instagram Account =
+awakenthenorthofficial</td></tr><tr align=3D"center"><td =
+style=3D"width:100%;height:0;"></td></tr></table></td></tr><tr =
+align=3D"center"><td =
+style=3D"width:100%;height:0;"></td></tr></table></td></tr><tr =
+align=3D"center"><td =
+style=3D"width:100%;height:15px;"></td></tr></table></td></tr><tr =
+align=3D"center"><td =
+style=3D"width:100%;height:0;"></td></tr></table><table align=3D"center" =
+style=3D"max-width:600px;width:100%;" cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0"><tr align=3D"center"><td =
+style=3D"max-width:600px;padding:50px 40px 40px =
+40px;width:100%;background-color:#fbfbfc;padding:0 30px 40px =
+30px;background-color:#ffffff"><table align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" style=3D"width:100%;"><tr =
+align=3D"center"><td =
+style=3D"border-spacing:0;color:#4c4c4c;font-family:ArialMT, Arial, =
+sans-serif;font-size:15px;width:100%;"><table align=3D"center" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width:100%;"><tr =
+align=3D"center"><td style=3D"text-align:left;border-spacing:0;color:#4c4c=
+4c;font-family:ArialMT, Arial, =
+sans-serif;font-size:15px;width:100%;line-height:24px;"><p =
+style=3D"margin-bottom:0; margin-top:0"> You can now access and share =
+vaccination stickers and the Covid-19 Information Center on Instagram. =
+</p></td></tr><tr align=3D"center"><td =
+style=3D"width:100%;height:30px;"></td></tr></table></td></tr><tr =
+align=3D"center"><td =
+style=3D"width:100%;height:0;"></td></tr></table><table align=3D"center" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width:100%;"><tr =
+align=3D"center"><td =
+style=3D"border-spacing:0;color:#4c4c4c;font-family:ArialMT, Arial, =
+sans-serif;font-size:15px;width:100%;"><a href=3D"http://www.instagram.com=
+/coronavirus_info?channel_id=3D4985761494831202&amp;tip_id=3D4059407060812=
+730&amp;is_aymt_tip=3D1"><img class=3D"img" src=3D"https://external.xx.fbc=
+dn.net/safe_image.php?d=3DAQEnI3lb4DZC9KPU&amp;url=3Dhttps%3A%2F%2Flookasi=
+de.fbsbx.com%2Felementpath%2Fmedia%2F%3Fmedia_id%3D1404988966500821&amp;cc=
+b=3D3-5&amp;_nc_hash=3DAQFqS2doKVUMpe-J" width=3D"500" alt=3D"" =
+style=3D"width:100%; max-width:500px;" /></a></td></tr><tr =
+align=3D"center"><td =
+style=3D"width:100%;height:0px;"></td></tr></table><table align=3D"center" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width:100%;"><tr =
+align=3D"center"><td =
+style=3D"border-spacing:0;color:#4c4c4c;font-family:ArialMT, Arial, =
+sans-serif;font-size:15px;width:100%;"><table align=3D"center" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width:100%;"><tr =
+align=3D"center"><td style=3D"text-align:left;border-spacing:0;color:#4c4c=
+4c;font-family:ArialMT, Arial, =
+sans-serif;font-size:15px;width:100%;line-height:24px;"><p =
+style=3D"margin-bottom:0"><i>This sticker directs people to the Covid =
+Information Center, which is a great way to help your followers and =
+customers know where they can get vaccinated. Will you join us in our =
+effort to connect people to accurate information about =
+Covid-19?</i></p></td></tr><tr align=3D"center"><td =
+style=3D"width:100%;height:30px;"></td></tr></table><table =
+align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%;"><tr align=3D"center"><td style=3D"text-align:left;bo=
+rder-spacing:0;color:#4c4c4c;font-family:ArialMT, Arial, =
+sans-serif;font-size:15px;width:100%;line-height:24px;"><a =
+href=3D"http://www.instagram.com/coronavirus_info?channel_id=3D49857614948=
+31202&amp;tip_id=3D4059407060812730&amp;is_aymt_tip=3D1" =
+name=3D"1_LearnMore_Button" style=3D"                           =
+background-color:#da3039;                           =
+background-image:linear-gradient(45deg, #ffd521, #f50000, #b900b4);        =
+                   display: inline-block;                           =
+width:380px;                           color: #ffffff;                     =
+      font-size: 17px;                           font-family: ArialMT, =
+Arial, sans-serif; font-weight: bold;                           padding: =
+12px 30px;                           border-radius: 100px;                 =
+          -webkit-border-radius: 100px;                           =
+-moz-border-radius: 100px;                           text-decoration:none; =
+                          text-align:center;"> Learn More =
+</a></td></tr><tr align=3D"center"><td =
+style=3D"width:100%;height:30px;"></td></tr></table><table =
+align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%;"><tr align=3D"center"><td style=3D"text-align:left;bo=
+rder-spacing:0;color:#4c4c4c;font-family:ArialMT, Arial, =
+sans-serif;font-size:15px;width:100%;line-height:24px;"><p><u>As a =
+reminder, the Covid Information Center helps people access reliable =
+information from trusted health experts, including:</u></p><ul =
+class=3D"uiList -cx-PRIVATE-uiList__bulleted _4of -cx-PRIVATE-uiList__vert =
+_4kg" style=3D"color: #6B7075; padding-left:10px"><li><div =
+class=3D"fcb"><p style=3D"font-size:16px; margin-bottom:0">Who can get a =
+vaccine, based on where you are</p></div></li><li><div class=3D"fcb"><p =
+style=3D"font-size:16px; margin-bottom:0; margin-top:4px">Facts about =
+Covid-19</p></div></li><li><div class=3D"fcb"><p style=3D"font-size:16px;  =
+margin-top:4px">Recognized health organizations to follow for further =
+Covid-19 information</p></div></li></ul></td></tr><tr align=3D"center"><td =
+style=3D"width:100%;height:0;"></td></tr></table><table align=3D"center" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width:100%;"><tr =
+align=3D"center"><td style=3D"text-align:left;border-spacing:0;color:#4c4c=
+4c;font-family:ArialMT, Arial, =
+sans-serif;font-size:15px;width:100%;line-height:24px;"><p><u>What you can =
+do today: </u></p><p style=3D"font-size:16px;"><b>Use the sticker in a =
+story to share the Covid-19 Information Center with your =
+audience.</b></p><ul class=3D"uiList -cx-PRIVATE-uiList__bulleted _4of =
+-cx-PRIVATE-uiList__vert _4kg" style=3D"padding-left:10px"><li><div =
+class=3D"fcb"><p style=3D"font-size:16px; margin-bottom:0; =
+margin-top:0">The sticker has 3 options: =E2=80=98Let=E2=80=99s Get =
+Vaccinated,=E2=80=99 =E2=80=98I Got Vaccinated,=E2=80=99 and =
+=E2=80=98Vaccines Save Lives=E2=80=99</p></div></li></ul><p =
+style=3D"font-size:16px;"><b>Visit the Covid-19 Information =
+Center</b></p><ul class=3D"uiList -cx-PRIVATE-uiList__bulleted _4of =
+-cx-PRIVATE-uiList__vert _4kg" style=3D"padding-left:10px"><li><div =
+class=3D"fcb"><p style=3D"font-size:16px; margin-bottom:0; =
+margin-top:0">Access the resource by tapping <span><img =
+src=3D"https://scontent.xx.fbcdn.net/v/t39.2365-6/178028406_27873460723229=
+3_388686098306249173_n.png?_nc_cat=3D103&amp;ccb=3D1-3&amp;_nc_sid=3Dad8a9=
+d&amp;_nc_ohc=3DrpFMLtDQVJMAX8eLbvu&amp;_nc_ad=3Dz-m&amp;_nc_cid=3D0&amp;_=
+nc_ht=3Dscontent.xx&amp;oh=3D7ce0457554ee2b53c37442c85dff0242&amp;oe=3D60E=
+72D92" style=3D"border:0;max-width:20px;" width=3D"30" title=3D"Image" =
+/></span> in the top right corner of your Profile then tapping =
+=E2=80=98Covid-19 Information Center=E2=80=99</p></div></li></ul><p =
+style=3D"font-size:16px;"><b>You can also share the Covid-19 Information =
+Center in Stories</b></p><ul class=3D"uiList -cx-PRIVATE-uiList__bulleted =
+_4of -cx-PRIVATE-uiList__vert _4kg" style=3D"padding-left:10px"><li><div =
+class=3D"fcb"><p style=3D"font-size:16px; margin-top:0">Tap the <span><img =
+src=3D"https://scontent.xx.fbcdn.net/v/t39.2365-6/180320591_92646011811559=
+0_3372791026545106731_n.png?_nc_cat=3D111&amp;ccb=3D1-3&amp;_nc_sid=3Dad8a=
+9d&amp;_nc_ohc=3DlcyJpdLwvHoAX_9Zhlg&amp;_nc_ad=3Dz-m&amp;_nc_cid=3D0&amp;=
+_nc_ht=3Dscontent.xx&amp;oh=3D6ddefff8269de3873139bcbcc6bbd39f&amp;oe=3D60=
+E6F045" style=3D"border:0;max-width:20px;" width=3D"30" title=3D"Image" =
+/></span> icon in the top corner to share to =
+Stories</p></div></li></ul></td></tr><tr align=3D"center"><td =
+style=3D"width:100%;height:30px;"></td></tr></table></td></tr><tr =
+align=3D"center"><td =
+style=3D"width:100%;height:0;"></td></tr></table><table align=3D"center" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width:100%;"><tr =
+align=3D"center"><td style=3D"text-align:left;border-spacing:0;color:#4c4c=
+4c;font-family:ArialMT, Arial, =
+sans-serif;font-size:15px;width:100%;line-height:24px;"><a =
+href=3D"http://www.instagram.com/coronavirus_info?channel_id=3D49857614948=
+31202&amp;tip_id=3D4059407060812730&amp;is_aymt_tip=3D1" =
+name=3D"2_LearnMore_Button" style=3D"                         =
+background-color:#da3039;                         =
+background-image:linear-gradient(45deg, #ffd521, #f50000, #b900b4);        =
+                 display: inline-block;                         =
+width:380px;                         color: #ffffff;                       =
+  font-size: 17px;                         font-family: ArialMT, Arial, =
+sans-serif; font-weight: bold;                         padding: 12px 30px; =
+                        border-radius: 100px;                         =
+-webkit-border-radius: 100px;                         -moz-border-radius: =
+100px;                         text-decoration:none;                       =
+  text-align:center;"> Learn More </a></td></tr><tr align=3D"center"><td =
+style=3D"width:100%;height:40px;"></td></tr></table><table =
+align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%;"><tr align=3D"center"><td =
+style=3D"border-spacing:0;color:#4c4c4c;font-family:ArialMT, Arial, =
+sans-serif;font-size:15px;width:100%;"><img class=3D"img" =
+src=3D"https://external.xx.fbcdn.net/safe_image.php?d=3DAQGT3WwBwprar20X&a=
+mp;url=3Dhttps%3A%2F%2Flookaside.fbsbx.com%2Felementpath%2Fmedia%2F%3Fmedi=
+a_id%3D258434176017124&amp;ccb=3D3-5&amp;_nc_hash=3DAQFJkFr3Ubf_07rF" =
+width=3D"500" alt=3D"" style=3D"width:100%; max-width:500px;" =
+/></td></tr><tr align=3D"center"><td =
+style=3D"width:100%;height:0px;"></td></tr></table></td></tr><tr =
+align=3D"center"><td =
+style=3D"width:100%;height:0;"></td></tr></table></td></tr></table><table =
+style=3D"width:100%;" align=3D"center"><tr align=3D"center"><td><table =
+align=3D"center" style=3D"max-width:600px;width:100%;" cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0"><tr align=3D"center"><td =
+style=3D"max-width:600px;padding:50px 40px 40px =
+40px;width:100%;background-color:#fbfbfc;padding:20px 0px 0px =
+0px;background-color:#f8f8f8;"><table align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" style=3D"width:100%;"><tr =
+align=3D"center"><td =
+style=3D"border-spacing:0;color:#4c4c4c;font-family:ArialMT, Arial, =
+sans-serif;font-size:15px;width:100%;color:#8f949b;font-size:12px;padding:=
+0 20px;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr style=3D""><td height=3D"30" =
+style=3D"line-height:30px;" colspan=3D"3">&nbsp;</td></tr><tr =
+align=3D"left"><td width=3D"0" =
+style=3D"display:block;width:0px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D"text-align:center;"><div><img class=3D"img" =
+src=3D"https://static.xx.fbcdn.net/rsrc.php/v3/yw/r/f6e8MqUsenn.png" =
+height=3D"24" width=3D"72" alt=3D"from Facebook" /><br /></div><div =
+style=3D"height:10px;"></div><div =
+style=3D"color:#abadae;font-size:11px;margin:0 auto 5px auto;">=C2=A9 =
+Instagram. Facebook Inc., 1601 Willow Road, Menlo Park, CA 94025</div><div =
+style=3D"color:#abadae;font-size:11px;margin:0 auto 5px auto;">This =
+message was sent to <a style=3D"color:#abadae;text-decoration:underline;">=
+cosmo&#064;awakenthenorth.org</a> and intended for awakenthenorthofficial. =
+Instagram sends updates like this to help you keep up with the latest on =
+Instagram. You can unsubscribe from these updates, or remove your email if =
+this isn&#039;t your Instagram account. <a href=3D"https://www.facebook.co=
+m/aymt/instagram/unsubscribed/?tip_id=3D4059407060812730&amp;channel_id=3D=
+4985761494831202&amp;notif_id=3D1623329740547828&amp;mac=3DAdhK7khZnlg9wm5=
+2&amp;unsubscribe_uri=3DaHR0cHM6Ly9pbnN0YWdyYW0uY29tL2VtYWlscy91bnN1YnNjcm=
+liZS9yZW1pbmRlcnM%2FdXNlcl9pZD0zNzA4MzY2MjIzMyZzaWc9QVU4UGR0OURsNVRTOGlDUg=
+%3D%3D" style=3D"color:#abadae;text-decoration:underline;">Unsubscribe</a> =
+or <a style=3D"color:#abadae;text-decoration:underline;">remove your =
+email</a> from this account.<br /></div></td><td width=3D"0" =
+style=3D"display:block;width:0px;">&nbsp;&nbsp;&nbsp;</td></tr></table></t=
+d></tr><tr align=3D"center"><td =
+style=3D"width:100%;height:15px;"></td></tr></table></td></tr><tr =
+align=3D"center"><td style=3D"width:100%;height:5px;"></td></tr></table></=
+td></tr></table></table><!--[if (gte mso 9)|(IE)]>
+                    </td>
+                  </tr>
+                </table>
+                <![endif]--></td></tr><tr align=3D"center"><td =
+style=3D"width:100%;height:32px"></td></tr><tr><td><span style=3D""><img =
+src=3D"https://facebook.com/aymt/aa/?e=3D%7B%22c%22%3A%2255bnwn5kqxwggr%22=
+%2C%22t%22%3A%22xngqayqqqs45a%22%2C%22n%22%3A%22z9yt64oza4jz9%22%7D" =
+style=3D"border:0;width:1px;height:1px;" /></span></td></tr></table></body=
+></html></td></tr></table></td></tr></table></body></html>
+

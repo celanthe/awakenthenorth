@@ -1,0 +1,136 @@
+Return-Path: <no-reply@mail.instagram.com>
+Delivered-To: cosmo@awakenthenorth.org
+Received: from a2ss46.a2hosting.com
+	by a2ss46.a2hosting.com with LMTP
+	id NZPPEkwvtl/Q6iIAjrpv+A
+	(envelope-from <no-reply@mail.instagram.com>)
+	for <cosmo@awakenthenorth.org>; Thu, 19 Nov 2020 03:39:40 -0500
+Return-path: <no-reply@mail.instagram.com>
+Envelope-to: cosmo@awakenthenorth.org
+Delivery-date: Thu, 19 Nov 2020 03:39:40 -0500
+Received: from 66-220-144-214.mail-pages.facebook.com ([66.220.144.214]:38269)
+	by a2ss46.a2hosting.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.93)
+	(envelope-from <no-reply@mail.instagram.com>)
+	id 1kffTg-009ax2-6d
+	for cosmo@awakenthenorth.org; Thu, 19 Nov 2020 03:39:40 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=mail.instagram.com;
+	s=s1024-2013-q3; t=1605775124;
+	bh=zysZLDywbVRKTAeAeA4lF9brFMfmMq7iH6A/TkROh8I=;
+	h=Date:To:Subject:From:MIME-Version:Content-Type;
+	b=D0moEddRbsU9nT/ZWw8qJfZzqd4dEDc03fk7oEsdjr7QdJAOJgbf9MMeieN/QTRRv
+	 CAzAhFg7C/+gNW8agwNoCPw1Q2aXhd9e7lHzDHGivWSfDZDOvM92HIihpPataJYq45
+	 L+X1UKV1pvJvAR9CBQx+lXqQaYsMEB0r/9l7YK9s=
+X-Facebook: from 2401:db00:106c:4329:face:0:333:0 ([MTI3LjAuMC4x]) 
+	by www.facebook.com with HTTPS (ZuckMail);
+Date: Thu, 19 Nov 2020 00:38:44 -0800
+To: cosmo@awakenthenorth.org
+Subject: =?UTF-8?B?V2XigJl2ZSB1cGRhdGVkIG8=?=
+ =?UTF-8?B?dXIgVGVybXMgb2YgVXNl?=
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+From: "Instagram" <no-reply@mail.instagram.com>
+Reply-to: Instagram <no-reply@mail.instagram.com>
+Errors-To: no-reply@mail.instagram.com
+X-Facebook-Notify: qp_notifs_ig_legal_email_qn_test_743912166; mailid=5b4715e494674G24bc357d560799G5b471a7df4946G2f93
+Feedback-ID: 9999:qp_notifs_ig_legal_email_qn_test_743912166:Facebook
+X-FACEBOOK-PRIORITY: 0
+X-Auto-Response-Suppress: All
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+Message-ID: <a24db52e2a4211eb96b0b8599fb41740-c87fc7e0@mail.instagram.com>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional =
+//EN"><html><head><title>Facebook</title><meta http-equiv=3D"Content-Type" =
+content=3D"text/html; charset=3Dutf-8" /><style nonce=3D"kCwg4X1G">@media =
+all and (max-width: 480px){*[class].ib_t{min-width:100% =
+!important}*[class].ib_row{display:block =
+!important}*[class].ib_ext{display:block !important;padding:10px 0 5px =
+0;vertical-align:top !important;width:100% =
+!important}*[class].ib_img,*[class].ib_mid{vertical-align:top =
+!important}*[class].mb_blk{display:block =
+!important;padding-bottom:10px;width:100% =
+!important}*[class].mb_hide{display:none =
+!important}*[class].mb_inl{display:inline =
+!important}*[class].d_mb_flex{display:block =
+!important}}.d_mb_show{display:none}.d_mb_flex{display:flex}@media only =
+screen and (max-device-width: 480px){.d_mb_hide{display:none =
+!important}.d_mb_show{display:block !important}.d_mb_flex{display:block =
+!important}}.mb_text h1,.mb_text h2,.mb_text h3,.mb_text h4,.mb_text =
+h5,.mb_text h6{line-height:normal}.mb_work_text =
+h1{font-size:18px;line-height:normal;margin-top:4px}.mb_work_text =
+h2,.mb_work_text =
+h3{font-size:16px;line-height:normal;margin-top:4px}.mb_work_text =
+h4,.mb_work_text h5,.mb_work_text =
+h6{font-size:14px;line-height:normal}.mb_work_text =
+a{color:#1270e9}.mb_work_text p{margin-top:4px}</style></head><body =
+style=3D"margin:0;padding:0;" dir=3D"ltr" bgcolor=3D"#ffffff"><table =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" =
+id=3D"email_table" style=3D"border-collapse:collapse;"><tr><td =
+id=3D"email_content" style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;background:#ffffff;"><table =
+border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr style=3D""><td height=3D"20" =
+style=3D"line-height:20px;" colspan=3D"3">&nbsp;</td></tr><tr><td =
+height=3D"1" colspan=3D"3" style=3D"line-height:1px;"><span =
+style=3D"color:#FFFFFF;font-size:1px;"> Updates to Instagram=E2=80=99s =
+terms are effective December 20, 2020. </span></td></tr><tr><td =
+width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td width=3D"15px" =
+style=3D"width:15px;"></td><td style=3D""><table border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td =
+style=3D"width:100%;text-align:left;height:33px;"><img height=3D"33" =
+src=3D"https://static.xx.fbcdn.net/rsrc.php/v3/yb/r/QTa-gpOyYBa.png" =
+style=3D"border:0;" /></td></tr></table></td><td width=3D"15px" =
+style=3D"width:15px;"></td></tr><tr><td width=3D"15px" =
+style=3D"width:15px;"></td><td style=3D""></td><td width=3D"15px" =
+style=3D"width:15px;"></td></tr></table></td><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td></tr><tr><td =
+width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table border=3D"0" width=3D"100%" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr style=3D""><td =
+height=3D"28" style=3D"line-height:28px;">&nbsp;</td></tr><tr><td =
+style=3D""><span class=3D"mb_text" style=3D"font-family:Helvetica =
+Neue,Helvetica,Lucida Grande,tahoma,verdana,arial,sans-serif;font-size:16p=
+x;line-height:21px;color:#141823;"> Hi =
+awakenthenorthofficial,</span></td></tr><tr style=3D""><td height=3D"28" =
+style=3D"line-height:28px;">&nbsp;</td></tr><tr><td style=3D""><span =
+class=3D"mb_text" style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;font-size:16px;line-height:21px;col=
+or:#141823;"> We wanted to let you know that we=E2=80=99re making a few =
+updates to our <a href=3D"https://help.instagram.com/1215086795543252?help=
+ref=3Dpage_content" target=3D"_blank" =
+style=3D"color:#3b5998;text-decoration:none;"> Terms of Use </a> to make =
+them clearer. We=E2=80=99re making it easier to understand what is allowed =
+on Instagram and how our service works. These terms will be effective on =
+December 20, 2020, and continuing to use the app will mean you accept =
+them. </span></td></tr><tr style=3D""><td height=3D"28" =
+style=3D"line-height:28px;">&nbsp;</td></tr></table></td><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td></tr><tr><td =
+width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table border=3D"0" width=3D"430px" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;margin:0 auto 0 =
+auto;width:430px;"><tr style=3D""><td height=3D"5" =
+style=3D"line-height:5px;" colspan=3D"3">&nbsp;</td></tr><tr><td =
+width=3D"0" style=3D"display:block;width:0px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><div><img class=3D"img" =
+src=3D"https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/ARZq-vP6uSX.png" =
+height=3D"30" width=3D"77" alt=3D"" /><br /></div><div =
+style=3D"height:10px;"></div><div>=C2=A9 Instagram. Facebook Inc., 1601 =
+Willow Road, Menlo Park, CA 94025<br /></div></td><td width=3D"0" =
+style=3D"display:block;width:0px;">&nbsp;&nbsp;&nbsp;</td></tr></table></t=
+d><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td></tr><tr =
+style=3D""><td height=3D"20" style=3D"line-height:20px;" =
+colspan=3D"3">&nbsp;</td></tr></table><span style=3D""><img =
+src=3D"https://www.facebook.com/email_open_log_pic.php?mid=3D5b4715e494674=
+G24bc357d560799G5b471a7df4946G2f93" =
+style=3D"border:0;width:1px;height:1px;" =
+/></span></td></tr></table></body></html>
+

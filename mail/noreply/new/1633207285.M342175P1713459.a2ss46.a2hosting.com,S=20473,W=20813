@@ -1,0 +1,340 @@
+Return-Path: <briistanley418@yahoo.com>
+Delivered-To: noreply@awakenthenorth.org
+Received: from a2ss46.a2hosting.com
+	by a2ss46.a2hosting.com with LMTP
+	id hxvcE/XDWGEzJRoAjrpv+A
+	(envelope-from <briistanley418@yahoo.com>)
+	for <noreply@awakenthenorth.org>; Sat, 02 Oct 2021 16:41:25 -0400
+Return-path: <briistanley418@yahoo.com>
+Envelope-to: noreply@awakenthenorth.org
+Delivery-date: Sat, 02 Oct 2021 16:41:25 -0400
+Received: from sonic314-14.consmr.mail.bf2.yahoo.com ([74.6.132.124]:35691)
+	by a2ss46.a2hosting.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <briistanley418@yahoo.com>)
+	id 1mWloz-007BbT-5M
+	for noreply@awakenthenorth.org; Sat, 02 Oct 2021 16:41:25 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1633207244; bh=Wg458r8e2VfJ/6SmozP9ZnFoTeDbRZ42lUIxQJxLYLU=; h=Date:From:Reply-To:To:In-Reply-To:References:Subject:From:Subject:Reply-To; b=ajMDM9PavnheVXwWg9ep0xQg95LWLTarf4gkjmh8QIcfJwAEvMqTXmEbXsRgR0MN7YvHQ+lthUeUKvkrDxWdWHk8gEffsnXihHLGdgTsYlk1KCD9hR7LbeoQJ9QoT09CeuM5btiWGGQXroY2wFAxO2KHsjV1FadEPp1vKIfrqnL7LdV8LXGPXE1KptegAZdx8mKmNx/v0lsbYB3fI/jw8eWDpE4tDZOVJlidR+tMUEgf/wrx5zu8PXD+sXjopQGHMX0CXL5fyAqExfGzfwVmWUiS/YXAhlS8jeJrcWq2aam2lG8n9WRLwBtJSgrRRal1uPVmpNFwoN7SZMtgZoDKwQ==
+X-SONIC-DKIM-SIGN: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1633207244; bh=o7uYIBXsZJz+A35/eJKPoJkqQhRfEW1DmDAOPVnjjuw=; h=X-Sonic-MF:X-Sonic-MF:Date:From:To:Subject:From:Subject; b=j/85Hz64jVw6eA+XcbbC8tIMdt8yfAPiYQAzpvVUPEuozKPCjB/L9ADO470OIHbrPtFGG3RT9o2viH54ZpY/g1bIOZgicX1bj+UuQ+nYaTDdaddv5Ay/hGT90yfCWRvk6mYuk23JOYqu1bTB3FTayXIwBR+f2ixbJuXcXEYTn06RgRL25ncJD7ovmMBWpOyunsD/x0rtP6RwmRHLi7PB6mSnGWmF5R/ZQgGRSs/+TGYNvtUY1p1b69f82trpdpagTrBCBIa45kdeQUDBmbgFdQFlv1fFEauhwX1EAnPAbGpzOrlutv9RjFaPwI3qAj5HcjJtSLYy1oitduzPVqg2Og==
+X-YMail-OSG: 6bWB4f0VM1l6a1Z3DNXHybPu1E.L5xPuDJUAZQcgXe6criJVnwjdVdksVS8X4nI
+ jgL1UtwXMRrnA3ovxSzUY65Sv.g9z9DZmO1i67w7e9CjGUurEHcSkWO_CN6qMvhB.Zx4sDIvvRMw
+ mS3SkD0qmlcatnI52NrcQHI0tow54iESAvRp5fyy9kamF0D_9_LDJPqD45JYiGNbaJewKAyO2_jc
+ 9l6L0UjxjJTqbKUYqy_9yIlQgKkP7nfHA96mPxopRA_o77YnsgTdALHEb05FrXVCkOvmudNGcEg3
+ 50IfwSCv.0frHnghR6ruSuSos_EBAo3l4owVCMdXtny1qugL3G1rK4yXMwQpNDbPpwN8D4TZBYJ5
+ GVkOY2vE3KsUv9h0nINoU_1487y_IEhyJOJu1_D3Hxu.2rV.B25B.JYINV70F5jiM3qoQ64FoSMp
+ nTlZQEJRxh36_hfOCxH1ILro1m5t2DkemtPFJs8VlG.EisFYMo04EqVrmkXBfv0CgxzOjOIwMXvz
+ 5tKsrCSQm4tSy8IxAzObRjV7cnY25DvKSmDIRkcdfzdn5m5etipp3zt5ggjTEhgfMwNOyCKF7eNd
+ ejYMWXzuiwQ7fEhB4nF3mLD7EDIHq3GPiiCYt6Y8N8flwgoMnp4mqiGe8u_m855_LKLKtbW9ISmF
+ sq0NcNYCISjxS1Sajf.BDikcLhC4JaVuLXNqrthiYCUABhNNbW8ZFixtKwbz98nJo.kOnlG1PyfQ
+ h1.qJ2ybkCgyVdKIHIw7MGaqOKZ9oXrEH_K.gNEEPZ0.yTS00OA0hud7EbxEFlhTwyODPyw_bHlX
+ LWVJ32V8fjA2TUW6twoLXQaOWBcDmuESftRbOmM8Q8PUcEmVipRHeHCacc16.PqApYd3bcXyIUYh
+ 9XfWu_YhRTRy9erTyU0zy_tOubrdq07TlW9jbDJqj5BtKJE.zSCBF2Yexn4zxZuDyxHaOGltsUGU
+ Yz0YB7AMYT9uN30VzPJpWAsQ2qs5UnPxqbcJ49Oe875r8KB2v8zLklDYJAuiZK1iXCoIcGmEUUyh
+ duXzQ03QIdM07w3X6jdbXUnx8idWsIre4O3PLk7WqgXhvVxl0P6wbpYZXDCNmiHQSPLYc0smalI0
+ AZt6VVMdXflTg_VgnY..0gwN3B3V6LYiETmAoF_2Lic1W59ipqxoW.umGhQtoW9ZX4VX13j.uJek
+ _3S5dlm2zCmV1YFTKXN22gp6IcmdU1xrh0suaOy4uL.HUrDGMmInjjWsuxqxVpTT1aswCohPXTeX
+ 5FOYT1b7a3coNTfQlZMZe5wZv9ZpafRopEJZkkv9NwQ08U6zQ2C6ilPzs0D2u363hjUK4C6iqM2K
+ VESOX53rdRsSEEKP9v5ye.OSYiQwEnAnrRRZ6NFYLWd3wwMboICc0pJLWvm39a0b76axOyiIAG6D
+ EA6gsR5CtQomHMVwl9FrBCZvRf0al8xGIzu7N8_cnxnNPLw36jWh_vi.Crc.LXtM68O8O2Go2zMM
+ udXXkhVCJ_d.0OEUwtoSac3b1yiccRD5_UWARJOMni6d3mCb.jtcp50l67rfMedu7hfbR96JxW4O
+ yt4gLzv6CjAUhkcnSfRiRsG62jOH.Jtqss6XvNCpV2OcIALdvylQknJAwV7UsUhE7tg_cNVIPNe3
+ VVbuUhV4Y79AZWXI_xfZTZjy6pBPVArqrmkSm8733OWTx3jpRvkE.IhV_7Inj_.zZYoBoRriO3mj
+ hNAbv_FEyN9u6hnWWFzGm8ZEzKzUt6Bof9I0KDxYTSgdliRqb1j6A6EihZbIsanu0wJRhdnixn0U
+ BrQkGKP2LURVsg4i9eZ8qUISfRBc_CkVvgya3VxZ60N5nlmlF3STt2Bfz8TQNE3f20J27x44Red.
+ puFrZeBNxeodSUTf0DLu_WFmK3tbiV7vuaZBAMMbksMqDjgTpXNQxoegm5tST.gRj12ruuKeK5kz
+ TWJVE5eG_jk4zswiI_T8bilYGB1x1qIpfHKcSwHganK7U_V4Q5m7LhH9hA5PA0lD6JvUZ.7bDHdo
+ 6yJzvqmg7IzLZOIKFVtmSSgz3vzSklDraadaz9PnnzGjfz4DNjG8fsYj.am9PH2wYcVyokOTbNIr
+ xtSBANYNGoJ3Ld1aYL8JWDZtV8JsQNNkPIwh7sacer6OitPodrCUn.LTuwKr4fwLwpdqFN9bsMdd
+ QaMIj7KsOr7dRKeUWJYsofFQa39hKn9ttTmV.s_AgM6kJZC.9lRjlVHDnhCwE1DPaS0bgW18fdq6
+ RUJW2WW4hH1fUrZpAoefJuZmzMfH9fNshqXn4o98RaRRjFvnmHD8PBd6qfr7cKxXsBTaZiR239mv
+ bU2_aMKpVMGxRk8FF4XYFjdotPfpT_AckRqX3xNFloHIYl_C09JxdrcZVURKSxKKbQ79YtQ8jzmO
+ 9jdl03IP56j1aM6rOvANwFa3V0Agm70TF8SC3F3YY8_mNSd2jYPEoAu9n_IA.8e9yrmLQh.yaoKT
+ l3AfyYkPzHDIcWw2o6.bgcXi4kx3MkMfmYeU_fdyUsw3HRYTqwc7fDN1Ii7GH9gI6Xsr9wPKToLt
+ nwSPDJI_LXJMSqX7J2QCUdJX9H4N2F0wTOPdBSaKGK6G.o.gb9fYCVV2LKKOymHyCw6I0IH64NM5
+ wtCKA1N44eNlVCwDkchaxrGdClJT_maqq
+X-Sonic-MF: <briistanley418@yahoo.com>
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic314.consmr.mail.bf2.yahoo.com with HTTP; Sat, 2 Oct 2021 20:40:44 +0000
+Received: by kubenode533.mail-prod1.omega.ne1.yahoo.com (VZM Hermes SMTP Server) with ESMTPA ID 1772aca03220f4e6fb057d09d1a506af;
+          Sat, 02 Oct 2021 20:40:39 +0000 (UTC)
+X-YMail-OSG: 61dA4QYVM1nZ.e3MdbPeIX_ztyw5SukMziSlSFV1OsTVQVDQfqo4vhIFP0tQyp9
+ HrAvSzSrnyUxAGHFr0kQz9axzoIwjSi8J7F0zTgTCv4ZNBfpVeJVeiLGs8YTLkERLdxaTFbB_mWW
+ g23XxZBJ0IQR.znSN1T7.GDOB6e6C5aponrQwt_m1PD4Pm80i0Hl95PTXXTD6zv1gbGwQUoMgJi5
+ zBt4GMpZdqaIRGxW5MhQ.gTUo26IVASh35r9SAc3W8mu7TPN5AVG2t.2COWpfVnoDpnqwZu.VF1F
+ KlXbDX6AvvEflIguqUNcUpqEuwLS4mITsbzC4BwbFd3TYrS_G53BBZBdFJwAjzUNNCCMWcyrla0c
+ SRA7PMBQYpj9mtX1DcS89AmaHJpxS1WN9zvfHvKV.ePb4AR_QhTCqvJHmbG1phEdt6ST4bkjCi6l
+ 4NDl3zRIPyvdk9ez6M.V9hFJPDLmVIXy3eY7p1dGq9jtZVStcpbepYihrLuqO2TuGEh.ZnSZoC1N
+ eFEj9ailjS4CIQR1V98w9cZyWt0_g6luxSUFBpF1T8LHLxGTHK0JOm3vcQG5i0x3OZX0pwnrEGcK
+ ew7mYfxB.CG80vldxv4parR4uzcvsPR3jF7Kwlcg9MsHIk0M69JsJZ0nXgqBQg88Bal0DosEpGjN
+ 9vaxY.alQHlXdQvOowDnp4eQmVWplrkHAYzQHwx155MRWsoDDeWbmO6cp_V3VqrN2SmfWyZFzudH
+ C9Rs65Xire8UkSobiHU4_desWqg9cgrXPk13zeGdiBjPDcT3G9a_oYOiFWRexKVQxJptSE2PNis1
+ aiRWwC6ojE3s6UIaR2ckavMTxayXHJDtipCKMAnGtOVetfz9lQQgNRemK9.1x1xjy1B_rqKf67a_
+ BIl_mxm724QMddNuvfeJiwP1PF6qdGw6OqZmAhmY3W1HgjLOikSVTRJONCof1aaQzkbDnoPXP6F3
+ pzowZhrQuDxt3tg_i2KkAe7EZIVakUBBcqPIeWwlNHnLhM3ddIErvnOfvDnFiE_9Erv_9ImGQDBn
+ ovfbP2XHJdHCPsMjWa45bQ12YX8faUZvRunXYS7XIAUdRo2yAZMAYM7nekHUo76AZDgwB92.PZy2
+ TXG5CABwfC1.0Q5Kfus6UNW7I4IQ9gj32qFVrzQv3AHi62TVwp_IWza0qgR4mxnqJbyLuctv7ZDM
+ 6cEoC9JGFslieklswN2upiEMuFmxi3Lx8qML4XVNI5WZn5LQjc8alLE2K2fUltRU.8AR1l4hh.qq
+ Ic94UIdzKv3kNY2oc5kAs_VjMLCo8DAKcqolYLKIdHBzGoOqGGCh8twaWelhWP7p4iroRyLwRsu7
+ 8oWMPbsjWiW1lBz.nym1tbkcPOW.Z3S9GVO3HbybXmnIpdfXiBfVUmnsM7i00uzIV7B38grKfDI4
+ DsBGbXQc2HixYITKcplgyTlyouvoRRX_ecFudIJ1EpXFPajul76fjiAf6uEp7DWc3LvIUCKmt._Z
+ XfIlRL9pxx257B_g7ca_81Fc0ixkVDquKcv3xdmiiW6OGW4KbF81Rdf_97OhtjjrAv0kky6tsFYb
+ 0Jqt4CyNDZ5dYU_5pCMM9gA9VERfcwXChFelqTSIXre9jdjuODCpxrK8x6_QwbZZk3nIQc8OlyHC
+ TYTBNbTIrjFWeCQm6jxJRtlE1Usbz7lGHPqft8wxdl_CTwC4MFfnPRc3yzSyii_ulCzp84INoupy
+ zRfyVpN9GKX_Boe7M.YpcUxDF_ScUxhtEOk2PMPGuYSnGpCmxYV.q6S8on.BkQmbARG1ppm0Rt.I
+ Oxpk_MoMhFYVcA5MeqhsmncxIEpDocL181EAjRbXHQ_T9Km26OyhBHdRP312BAfKeDfjUTTD90gO
+ BzNEPojBJgCKUS05uutqkm8PVRhh0NPLh0PiTpec5QmRrrHpeAX6cuUQy68SzrUqrOa49tbfGpfl
+ rsxqTuI143Y9ZgQZcn5rv_NSV9X.GJDSDs0oa6cgxZLExFh6IbRDHz_uSb9d3n4jBFg3eGNvmOwK
+ 6CInr1bH9ZWAE0zwy9317_1iPPb3sWHZJuaVq4MPYj6IwEHzxvo0IwUfPmP5dEMhcJLebmFl6m8C
+ hOVroadGbJ8hNTHdN4WfWGKZpLiQc5L1tu8hzgIGG2siOpiOEf7mkG4NgzakcLxSPvMaRcoU4fxs
+ 0RRLSaRmd_Jq.KYxGgKyg47sGrn3xDkBskqIBhczARjxBAR9sPK26nkghhZtycUlkLlATwM8Q1Wy
+ Ya_nx3eCYcTiepRVoOgvafVyGcydBlHpgJJ4L_kaTtpTgKAkS6jMq5efr.TR4c3CUmyZexBsoxdM
+ vlftVpazVoHFUMDXzo.FYSmPU7kPRbogcT.AEGYUWdWw.47_l4eOupiHHmn5yCylTGiZYT7wn2hN
+ iTaMxSjyDgtLFjmQmheIQNQtKZ28HU8uKtqEdjG5w43nHudFdf8M.sGET7mDcV7muoJ1.hM8RPrF
+ TEQbGN8xnj_jE5FbjjWQ50z7OTA5FoAYvHByCOmatdGgK5wRtbxQR7p0MzMo9RzEN8ClCg9L3VxF
+ OIzPHf8YXrJDfU.cMIZ6R2UXIOdHsqqVzYMVq_vBZc5K6QP3NExKSoZYyZOQ7G_Xs_T.PfBAF71V
+ Q4fMEAakyOXeGMWQSr_nM3N7muOM0bR5BOH4dg2OR44VLFtMPKtPJZAN7L5klDiMoXUDCefMM7mL
+ jwxngmmV6ZFwPTxV4sKZI..ywCElCl77aFilT.zkvTmOZiTA-
+X-Sonic-MF: <briistanley418@yahoo.com>
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic308.consmr.mail.ne1.yahoo.com with HTTP; Sat, 2 Oct 2021 20:40:39 +0000
+Date: Sat, 2 Oct 2021 20:24:43 +0000 (UTC)
+From: "briistanley418@yahoo.com" <briistanley418@yahoo.com>
+Reply-To: "briistanley418@yahoo.com" <briistanley418@yahoo.com>
+To: noreply@awakenthenorth.org
+Message-ID: <149181727.1342977.1633206283070@mail.yahoo.com>
+In-Reply-To: <86304518289ce955a342c5a293b5cac5@members.awakenthenorth.org>
+References: <86304518289ce955a342c5a293b5cac5@members.awakenthenorth.org>
+Subject: Re: Welcome to Awaken The North!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1342976_449533547.1633206283068"
+X-Mailer: WebService/1.1.19076 YahooMailAndroidMobile
+Content-Length: 11868
+
+------=_Part_1342976_449533547.1633206283068
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hey sorry to bother you and all. But no matter how much I try to sign in I =
+cannot. Tried password reset and it says my email isn't connected to the we=
+bsite.=C2=A0
+
+Sent from Yahoo Mail on Android=20
+=20
+  On Fri, Oct 1, 2021 at 9:06 AM, Awaken The North<noreply@awakenthenorth.o=
+rg> wrote:  =20
+
+
+Legal Name: briana stanley
+Preferred Name: brii
+Member Number: 379
+
+
+
+Hail and welcome friend to our amazing community, Awaken the North!
+
+We are excited to have you here with us and we look forward to your partici=
+pation in the
+community. My name is Anja Solsystir and I am the Chancellor of Member
+Affairs.
+
+I wanted to take a moment to introduce myself as well as welcome you to our
+community and share with you some of the amazing things we have to offer.
+
+As a member, you have access to several perks which includes things such as=
+ access
+to our social media group, free copies of all newsletters, access to our Cl=
+ergy training
+program, invitations to join virtual moots, and access to our Kindred assoc=
+iation
+program. As a member, your voice is also considered important to the Counci=
+l.
+
+We encourage all members to review all meeting minutes as we strive for tra=
+nsparency. If
+you ever have an issue or specific question you would like to ask, you can =
+always
+contact any Chancellor by visiting the Council page on our main website
+https://www.awakenthenorth.org/about-us/the-council/ or by sending an email=
+ to one of the following
+Chancellor's listed below.
+
+Visiting the Council page will also help you understand more
+about what each Council member does and how they represent you in the commu=
+nity.
+  =20
+   - Chancellor of Religious Studies: CoRS@AwakentheNorth.org
+   - Chancellor of the Emissary Program: CoAP@AwakentheNorth.org
+   - Chancellor of Public Affairs: CoPA@AwakentheNorth.org
+   - Chancellor of Affiliated Partners: CoAP@AwakentheNorth.org
+   - High Drighton: HD@AwakentheNorth.org
+   - Chancellor of the Treasury: CoTT@AwakentheNorth.org
+   - Chancellor of Military Services: CoMS@AwakentheNorth.org
+   - Chancellor of Member Affairs: CoMA@AwakentheNorth.org
+
+
+To stay up to date on the latest events in our community, please keep an ey=
+e out for
+newsletters and announcements in our Facebook group as well as on the main =
+website.
+We post regularly and most announcements will be made there in real time. I=
+f you are
+interested in serving as an Emissary please contact the Chancellor of the
+Emissary Program for more information as well as to learn how to apply.
+
+=C2=A0
+
+As part of your membership, you have access to a few different things.
+The Awaken The North Member Portal. This portal is where you will be able t=
+o update your=20
+personal information, change your privacy settings, search for other member=
+s,=20
+see the financial information for AtN, among other functions.
+You can access that at members.awakenthenorth.org with the username and pas=
+sword you provided in your application.
+
+The Awaken The North Website.=20
+While our website does have a lot of information available to the public, t=
+here is more that is only available to members.=20
+You can access that by clicking on the Member Login link on the website or =
+by going to www.awakenthenorth.org/member-login
+Awaken The North Supporters Patreon.
+For those that want to help support AtN on a recurring basis, we have start=
+ed a patreon.
+Starting at just $2 per month, we have a few tiers with different perks.=20
+https://www.patreon.com/awakenthenorth/
+The Awaken The North Members Discord. https://discord.gg/EA6CMJEHXx
+Please do not share that invite link with anyone. We will be verifying all =
+members that
+join and only official AtN members will be approved.
+
+The Members Only Facebook Group. You may already be a member of the public =
+facebook group,=20
+but we also have a private Members Only Facebook Group. You can join that h=
+ere: https://www.facebook.com/groups/atnmembers/
+
+You will also have the option to take our various training programs.
+Please note that we are still developing all of this, so not everything wil=
+l be available right away.
+
+
+Again, I would like to thank you for joining our organization and becoming =
+a part of its
+growth. I welcome you on behalf of our Heathen community and may your time =
+with us
+be educational as well as pleasurable!
+
+
+Blessings of the Gods and Ancestors be upon you friend!
+Anja Solsystir
+Chancellor of Member Affairs
+ =20
+
+------=_Part_1342976_449533547.1633206283068
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hey sorry to bother you and all. But no matter how much I try to sign in I =
+cannot. Tried password reset and it says my email isn't connected to the we=
+bsite.&nbsp;<br><br><div id=3D"ymail_android_signature"><a id=3D"ymail_andr=
+oid_signature_link" href=3D"https://go.onelink.me/107872968?pid=3DInProduct=
+&amp;c=3DGlobal_Internal_YGrowth_AndroidEmailSig__AndroidUsers&amp;af_wl=3D=
+ym&amp;af_sub1=3DInternal&amp;af_sub2=3DGlobal_YGrowth&amp;af_sub3=3DEmailS=
+ignature" target=3D"_blank" rel=3D"noreferrer noopener">Sent from Yahoo Mai=
+l on Android</a></div> <br> <blockquote style=3D"margin: 0 0 20px 0;"> <div=
+ style=3D"font-family:Roboto, sans-serif; color:#6D00F6;"> <div>On Fri, Oct=
+ 1, 2021 at 9:06 AM, Awaken The North</div><div>&lt;noreply@awakenthenorth.=
+org&gt; wrote:</div> </div> <div style=3D"padding: 10px 0 0 20px; margin: 1=
+0px 0 0 0; border-left: 1px solid #6D00F6;"> <div id=3D"yiv4816676014"><p><=
+img src=3D"https://members.awakenthenorth.org/logo2.png" width=3D"250px" id=
+=3D"ymail_ctr_id_-683108-2"><br><br>Legal Name: briana stanley<br>Preferred=
+ Name: brii<br>Member Number: 379<br><br></p>
+<p>Hail and welcome friend to our amazing community, Awaken the North!</p>
+<p>We are excited to have you here with us and we look forward to your part=
+icipation in the<br>community. My name is Anja Solsystir and I am the Chanc=
+ellor of Member<br>Affairs.</p>
+<p>I wanted to take a moment to introduce myself as well as welcome you to =
+our<br>community and share with you some of the amazing things we have to o=
+ffer.</p>
+<p>As a member, you have access to several perks which includes things such=
+ as access<br>to our social media group, free copies of all newsletters, ac=
+cess to our Clergy training<br>program, invitations to join virtual moots, =
+and access to our Kindred association<br>program. As a member, your voice i=
+s also considered important to the Council.</p>
+<p>We encourage all members to review all meeting minutes as we strive for =
+transparency. If<br>you ever have an issue or specific question you would l=
+ike to ask, you can always<br>contact any Chancellor by visiting the Counci=
+l page on our main website<br><a href=3D"https://www.awakenthenorth.org/abo=
+ut-us/the-council/" target=3D"_blank" rel=3D"noreferrer noopener">https://w=
+ww.awakenthenorth.org/about-us/the-council/</a> or by sending an email to o=
+ne of the following<br>Chancellor's listed below.</p>
+<p>Visiting the Council page will also help you understand more<br>about wh=
+at each Council member does and how they represent you in the community.</p=
+>
+<ul>
+<li>Chancellor of Religious Studies: <a ymailto=3D"mailto:CoRS@AwakentheNor=
+th.org" href=3D"mailto:CoRS@AwakentheNorth.org" target=3D"_blank" rel=3D"no=
+referrer noopener">CoRS@AwakentheNorth.org</a></li>
+<li>Chancellor of the Emissary Program: <a ymailto=3D"mailto:CoEP@Awakenthe=
+North.org" href=3D"mailto:CoEP@AwakentheNorth.org" target=3D"_blank" rel=3D=
+"noreferrer noopener">CoAP@AwakentheNorth.org</a></li>
+<li>Chancellor of Public Affairs: <a ymailto=3D"mailto:CoPA@AwakentheNorth.=
+org" href=3D"mailto:CoPA@AwakentheNorth.org" target=3D"_blank" rel=3D"noref=
+errer noopener">CoPA@AwakentheNorth.org</a></li>
+<li>Chancellor of Affiliated Partners: <a ymailto=3D"mailto:CoAP@AwakentheN=
+orth.org" href=3D"mailto:CoAP@AwakentheNorth.org" target=3D"_blank" rel=3D"=
+noreferrer noopener">CoAP@AwakentheNorth.org</a></li>
+<li>High Drighton: <a ymailto=3D"mailto:HD@AwakentheNorth.org" href=3D"mail=
+to:HD@AwakentheNorth.org" target=3D"_blank" rel=3D"noreferrer noopener">HD@=
+AwakentheNorth.org</a></li>
+<li>Chancellor of the Treasury: <a ymailto=3D"mailto:CoTT@AwakentheNorth.or=
+g" href=3D"mailto:CoTT@AwakentheNorth.org" target=3D"_blank" rel=3D"norefer=
+rer noopener">CoTT@AwakentheNorth.org</a></li>
+<li>Chancellor of Military Services: <a ymailto=3D"mailto:CoMS@AwakentheNor=
+th.org" href=3D"mailto:CoMS@AwakentheNorth.org" target=3D"_blank" rel=3D"no=
+referrer noopener">CoMS@AwakentheNorth.org</a></li>
+<li>Chancellor of Member Affairs: <a ymailto=3D"mailto:CoMA@AwakentheNorth.=
+org" href=3D"mailto:CoMA@AwakentheNorth.org" target=3D"_blank" rel=3D"noref=
+errer noopener">CoMA@AwakentheNorth.org</a></li>
+</ul>
+<p><br>To stay up to date on the latest events in our community, please kee=
+p an eye out for<br>newsletters and announcements in our Facebook group as =
+well as on the main website.<br>We post regularly and most announcements wi=
+ll be made there in real time. If you are<br>interested in serving as an Em=
+issary please contact the Chancellor of the<br>Emissary Program for more in=
+formation as well as to learn how to apply.</p>
+<p>&nbsp;</p>
+<p>As part of your membership, you have access to a few different things.<b=
+r>The Awaken The North Member Portal. This portal is where you will be able=
+ to update your <br>personal information, change your privacy settings, sea=
+rch for other members, <br>see the financial information for AtN, among oth=
+er functions.<br>You can access that at <a target=3D"_blank" rel=3D"norefer=
+rer noopener">members.awakenthenorth.org</a> with the username and password=
+ you provided in your application.<br><br>The Awaken The North Website. <br=
+>While our website does have a lot of information available to the public, =
+there is more that is only available to members. <br>You can access that by=
+ clicking on the Member Login link on the website or by going to <a href=3D=
+"https://www.awakenthenorth.org/member-login/" target=3D"_blank" rel=3D"nor=
+eferrer noopener">www.awakenthenorth.org/member-login</a><br>Awaken The Nor=
+th Supporters Patreon.<br>For those that want to help support AtN on a recu=
+rring basis, we have started a patreon.<br>Starting at just $2 per month, w=
+e have a few tiers with different perks. <br><a href=3D"https://www.patreon=
+.com/awakenthenorth/" target=3D"_blank" rel=3D"noreferrer noopener">https:/=
+/www.patreon.com/awakenthenorth/</a><br>The Awaken The North Members Discor=
+d. <a href=3D"https://discord.gg/EA6CMJEHXx" target=3D"_blank" rel=3D"noref=
+errer noopener">https://discord.gg/EA6CMJEHXx</a><br>Please do not share th=
+at invite link with anyone. We will be verifying all members that<br>join a=
+nd only official AtN members will be approved.<br><br>The Members Only Face=
+book Group. You may already be a member of the public facebook group, <br>b=
+ut we also have a private Members Only Facebook Group. You can join that he=
+re: <a href=3D"https://www.facebook.com/groups/atnmembers/" target=3D"_blan=
+k" rel=3D"noreferrer noopener">https://www.facebook.com/groups/atnmembers/<=
+/a><br><br>You will also have the option to take our various training progr=
+ams.<br>Please note that we are still developing all of this, so not everyt=
+hing will be available right away.</p>
+<p><br>Again, I would like to thank you for joining our organization and be=
+coming a part of its<br>growth. I welcome you on behalf of our Heathen comm=
+unity and may your time with us<br>be educational as well as pleasurable!</=
+p>
+<p><br>Blessings of the Gods and Ancestors be upon you friend!<br>Anja Sols=
+ystir<br>Chancellor of Member Affairs</p>
+</div> </div> </blockquote>
+------=_Part_1342976_449533547.1633206283068--

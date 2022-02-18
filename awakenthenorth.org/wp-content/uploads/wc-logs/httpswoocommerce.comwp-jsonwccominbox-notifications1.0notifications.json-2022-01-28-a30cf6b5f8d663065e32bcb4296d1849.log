@@ -1,0 +1,60 @@
+2022-01-28T16:35:17+00:00 ERROR Spec is invalid because the status is missing or empty in feed
+2022-01-28T16:35:17+00:00 ERROR stdClass Object
+(
+    [slug] => stripe_applepay_holiday2021
+    [type] => marketing
+    [status] => unactioned
+    [is_snoozable] => 0
+    [source] => woocommerce.com
+    [locales] => 
+    [actions] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [name] => stripe_applepay_holiday2021
+                    [locales] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [locale] => en_US
+                                    [label] => Accept Apple Pay
+                                )
+
+                        )
+
+                    [url] => https://woocommerce.com/apple-pay/
+                    [url_is_admin_query] => 
+                    [is_primary] => 1
+                    [status] => actioned
+                )
+
+        )
+
+    [rules] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [type] => publish_after_time
+                    [publish_after] => 2021-11-08 00:00:00
+                )
+
+            [1] => stdClass Object
+                (
+                    [type] => publish_before_time
+                    [publish_before] => 2021-12-26 00:00:00
+                )
+
+            [2] => stdClass Object
+                (
+                    [type] => plugins_activated
+                    [plugins] => Array
+                        (
+                            [0] => woocommerce-gateway-stripe
+                        )
+
+                )
+
+        )
+
+)
+

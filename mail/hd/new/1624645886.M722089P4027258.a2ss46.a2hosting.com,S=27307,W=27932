@@ -1,0 +1,625 @@
+Return-Path: <messages@announcements.mt.gov>
+Delivered-To: hd@awakenthenorth.org
+Received: from a2ss46.a2hosting.com
+	by a2ss46.a2hosting.com with LMTP
+	id +JqSKv4g1mB6cz0Ajrpv+A
+	(envelope-from <messages@announcements.mt.gov>)
+	for <hd@awakenthenorth.org>; Fri, 25 Jun 2021 14:31:26 -0400
+Return-path: <messages@announcements.mt.gov>
+Envelope-to: hd@awakenthenorth.org
+Delivery-date: Fri, 25 Jun 2021 14:31:26 -0400
+Received: from mailer087076.service.govdelivery.com ([69.5.87.76]:35789)
+	by a2ss46.a2hosting.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2)
+	(envelope-from <messages@announcements.mt.gov>)
+	id 1lwqbt-00H0Fj-QG
+	for hd@awakenthenorth.org; Fri, 25 Jun 2021 14:31:26 -0400
+Received: from prod-smailer-eds2-3.as.gdi ([10.43.0.32])
+	by mailer087076.service.govdelivery.com (-); Fri, 25 Jun 2021 18:30:40 +0000
+X-VirtualServer: VSG003, mailer087076.service.govdelivery.com, 172.25.30.76
+X-VirtualServerGroup: VSG003
+X-MailingID: 17174544::20210625.42428251::1001::MDB-PRD-BUL-20210625.42428251::hd@awakenthenorth.org::42303_0_0
+X-SMHeaderMap: mid="X-MailingID"
+X-Destination-ID: hd@awakenthenorth.org
+X-SMFBL: aGRAYXdha2VudGhlbm9ydGgub3Jn
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=announcements.mt.gov; s=17q1; i=@announcements.mt.gov; h=Content-Transfer-Encoding:
+	Content-Type:x-subscriber:X-Accountcode:Errors-To:MIME-Version:
+	Message-ID:X-ReportingKey:Subject:Date:To:Reply-To:From; bh=kDtN
+	bti2FOepfJsGFS8bbzF1VjxURIkz6j3fPf2ubHc=; b=bwnSHGiu7kq+I8gscUFq
+	BTQelx7O2y/otc6YUXhvM7uBQsgGTdTGKecIoUF90bswvPYecwnbBYw3yI4mDYf7
+	3BMndcH4BrBTBJ8csZWXh/z9SkVpw+SN+xf+cbLIlahkyCjWNUFRU6LkSdQh1SUu
+	hhud4bAM1Ej1l0Ivo/klUFp1HE5kASSTYuoWQHc/Etq1iExlJOTk/qhY6bdnw4Rw
+	ZoWc9njXJz4T4LSuvbCeIsqLdy2tAkxtWUryddhaOI3Z9dEGjSeB4ADLpc6Lo01G
+	633FfF/VqFrtMW4xsHombYNLJJNyl2BCeplciCk+ztdbBdeypP3W+XDvH5IiCoz9
+	mg==
+Content-Transfer-Encoding: 7bit
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_597_C361_567A50DB.34FFAD76"
+x-subscriber: 3.FZj+H1JyOunjKafD7y/XVYlxXX4u3sSghG7GqO5Fa+xU1jR7kdErj69OtrV8I/cDi13kbcdKwEJD+v2/uyj4TQt/ROMgjQHHdo3gwarxkuY+fZepTrRVVWJzvgeyRyty/rVmKMBk8rjyA/wSR+ZVNw==
+X-Accountcode: MTSOS
+Errors-To: messages@announcements.mt.gov
+MIME-Version: 1.0
+Message-ID: <17174544.42303@announcements.mt.gov>
+X-ReportingKey: MJJJ2EWJK30HCJJJ633SJJJ::hd@awakenthenorth.org::hd@awakenthenorth.org
+Subject: =?US-ASCII?Q?Montana_Secretary_of_State's_Office_anno?= =?US-ASCII?Q?unces_enhancement_to_online_filing_system?=
+Date: Fri, 25 Jun 2021 18:30:39 +0000
+To: hd@awakenthenorth.org
+Reply-To: MTSOS@announcements.mt.gov
+From: "=?US-ASCII?Q?Christi_Jacobsen?=" <MTSOS@announcements.mt.gov>
+
+
+------=_NextPart_597_C361_567A50DB.34FFAD76
+Content-Type: text/plain;
+	charset="Cp1252"
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+Christi Jacobsen =20
+
+=20
+
+=20
+
+Having trouble viewing this email? View the Web Version [ https://content=
+.govdelivery.com/accounts/MTSOS/bulletins/2e56c97 ] here.
+
+=20
+=20
+=20
+=20
+
+Christi Header=20
+=20
+=20
+=20
+=20
+
+NEW TO THE MONTANA
+BUSINESS SERVICES DIVISION
+
+Dear Montana Business Customer --
+
+The Business Services Division of the Montana Secretary of State=92s Offi=
+ce is excited to announce the launch of an enhancement to SOS Enterprise,=
+ the online filing system.
+
+A new shopping cart feature allows Montana business customers to file and=
+ pay for multiple documents in one transaction. Business filings, notary =
+filings, and UCC liens can be added to the cart and paid for at the same =
+time, with the same payment method.
+
+The Secretary of State=92s Office also revealed the Montana Business Econ=
+omic Report, which offers an in-depth look at Montana=92s business landsc=
+ape over the last decade. It provides detailed information such as the to=
+tal number of active businesses each year, the number of new businesses r=
+egistered each year, and a heat map highlighting where new businesses are=
+ being created in Montana.
+
+The new Montana Business Economic Report, which will be updated annually,=
+ can be found on the Secretary of State=92s website by clicking here [ ht=
+tps://sosmt.gov/economic-report/ ].
+
+________________________________________________________________________
+
+The Mission of the Office of the Secretary of State is to protect the int=
+egrity of elections, be an asset to businesses and preserve official hist=
+ory.
+
+=20
+=20
+=20
+=20
+
+*State Capitol Building=A0|=A01301 E. 6th Avenue=A0|=A0Helena, MT 59601=A0=
+|=A0406.444.2034
+sosmt.gov [ https://sosmt.gov/ ]=A0 |=A0 Privacy Policy [ http://sitsd.mt=
+.gov/content/policy/policies/Risk/1240-X06 ]*
+
+=20
+=20
+=20
+=20
+ =20
+=20
+________________________________________________________________________
+
+Manage Preferences [ https://public.govdelivery.com/accounts/MTSOS/subscr=
+iber/edit?preferences=3Dtrue#tab1 ] | Unsubscribe [ https://public.govdel=
+ivery.com/accounts/MTSOS/subscriber/one_click_unsubscribe?verification=3D=
+5.c56b183e80a4dd0f1232367556ecb8d1&destination=3Dhd%40awakenthenorth.org =
+] |=A0Help [ https://subscriberhelp.granicus.com/s/ ]=20
+________________________________________________________________________
+
+This email was sent to hd@awakenthenorth.org on behalf of Christi Jacobse=
+n.
+=0A
+------=_NextPart_597_C361_567A50DB.34FFAD76
+Content-Type: text/html;
+	charset="Cp1252"
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"en" lang=3D"en">=
+
+<head>
+<title>    Montana Secretary of State&#39;s Office announces enhancement =
+to online filing system
+</title>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF=
+-8">
+<meta name=3D"viewport" content=3D"initial-scale=3D1.0">
+<meta name=3D"format-detection" content=3D"telephone=3Dno">
+<!--[if (gte mso 9)|(IE)]>
+  <style type=3D"text/css">
+      table {border-collapse: collapse;}
+  </style>
+  <![endif]-->
+<style type=3D"text/css">
+  /* Make columns expand to 100% on small screens */
+  @media only screen and (max-width: 480px) {
+    .abe-column-block {
+      min-width: 100%;
+    }
+  }
+  /* Disables Apple clients adding blue color and underline to links and =
+other text */
+  a[x-apple-data-detectors] {
+    color: inherit !important;
+    text-decoration: none !important;
+    font-size: inherit !important;
+    font-family: inherit !important;
+    font-weight: inherit !important;
+    line-height: inherit !important;
+  }
+</style>
+
+
+</head>
+<body style=3D"margin:0;padding:0;margin:0;padding:0;width:100% !importan=
+t;">
+<table bgcolor=3D'#ffffff' border=3D'0' cellpadding=3D'0' cellspacing=3D'=
+0' style=3D'width: 100%;'>
+<tbody>
+<tr bgcolor=3D'#ffffff'>
+<td align=3D'center' style=3D'background-color: #ffffff; padding: 0px; fo=
+nt-size:1px; font-family:&#39;Helvetica Neue&#39;, Helvetica, Arial, sans=
+-serif; color:#ffffff' valign=3D'top'>
+Christi Jacobsen
+</td>
+</tr>
+</tbody>
+</table>
+
+
+<!--[if (gte mso 9)|(IE)]>
+  <table style=3D"display:none"><tr><td><a name=3D"gd_top" id=3D"gd_top">=
+</a></td></tr></table>
+<![endif]-->
+<a name=3D"gd_top" id=3D"gd_top"></a>
+
+ =20
+
+
+
+ =20
+  <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" =
+align=3D"center" class=3D"gd_tbl_wrap"><tr><td style=3D"background-color:=
+ #FAFAFA; margin: 0; padding: 0; width: 100% !important" bgcolor=3D"#FAFA=
+FA">
+<table id=3D"flexible-abe-main-table" width=3D"100%" align=3D"center" bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"-webkit-text-size-=
+adjust: 100%; -ms-text-size-adjust: 100%; border-spacing: 0; mso-table-ls=
+pace: 0pt; mso-table-rspace: 0pt; padding-top: 20px; padding-bottom: 20px=
+;">
+  <tr>
+    <td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 10=
+0%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"></td>
+    <!-- centered column -->
+    <td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 10=
+0%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+<!--[if (gte mso 9)|(IE)]>
+  <table width=3D"600" align=3D"center" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0">
+    <tr>
+      <td>
+<![endif]-->
+<div class=3D"abe-section-block" data-block-type=3D"FancyBlockSection" da=
+ta-block-id=3D"57373151">
+  <table class=3D"abe-section-table" width=3D"100%" align=3D"center" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D=
+"max-width: 600px; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: =
+100%; border-spacing: 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+    <tr id=3D"abe-section-row-fcdd5b45-8f22-49b0-a561-24269cf2affe" class=
+=3D"abe-section-row" style=3D"background-color: #FAFAFA;" bgcolor=3D"#FAF=
+AFA">
+      <td style=3D"text-align: center; vertical-align: top; font-size: 0;=
+ -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-ls=
+pace: 0pt; mso-table-rspace: 0pt;" align=3D"center" valign=3D"top">
+        <!--[if (gte mso 9)|(IE)]>
+  <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-a=
+djust: 100%; border-spacing: 0; mso-table-lspace: 0pt; mso-table-rspace: =
+0pt;">
+    <tr>
+<![endif]-->
+<!--[if (gte mso 9)|(IE)]>
+  <td width=3D"600" valign=3D"top" id=3D"abe-column-block-1798a094-a1ae-4=
+af8-9f84-2b2ea5eb4f98-outlook-only" class=3D"abe-column-block-outlook-onl=
+y" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; m=
+so-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 15px;">
+<![endif]-->
+<div id=3D"abe-column-block-1798a094-a1ae-4af8-9f84-2b2ea5eb4f98" class=3D=
+"abe-column-block" data-block-type=3D"FancyBlockColumn" data-block-id=3D"=
+57373152" style=3D"width: 100%; box-sizing: border-box; display: inline-b=
+lock; font-size: 16px; vertical-align: top;">
+  <div id=3D"abe-column-block-1798a094-a1ae-4af8-9f84-2b2ea5eb4f98-paddin=
+g" class=3D"abe-column-block-padding" style=3D"padding: 15px;">
+    <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" role=3D"presentation" style=3D"table-layout: fixed; ov=
+erflow-wrap: break-word; word-wrap: break-word; text-align: left; -webkit=
+-text-size-adjust: 100%; -ms-text-size-adjust: 100%; border-spacing: 0; m=
+so-table-lspace: 0pt; mso-table-rspace: 0pt;">
+      <tr>
+        <td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust=
+: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><p style=3D"text-a=
+lign: center; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;=
+ line-height: 1.4; font-family: helvetica; font-size: 15px; margin: 0 0 0=
+px;" align=3D"center">Having trouble viewing this email? View the <a href=
+=3D"https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMD=
+AsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMTA2MjUuNDI0MjgyNTEiLCJ=
+1cmwiOiJodHRwczovL2NvbnRlbnQuZ292ZGVsaXZlcnkuY29tL2FjY291bnRzL01UU09TL2J1=
+bGxldGlucy8yZTU2Yzk3In0.P98l6j6dC2aracTLPhH6EMzedOBaoaR71azi0-RiIEA/s/136=
+1938373/br/108458768989-l" target=3D"_blank" title=3D"Web Version" rel=3D=
+"noopener" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust:=
+ 100%; color: #D7A013;">Web Version</a> here.</p></td>
+      </tr>
+    </table>
+  </div>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+  </td>
+<![endif]-->
+<!--[if (gte mso 9)|(IE)]>
+  </tr>
+  </table>
+<![endif]-->
+      </td>
+    </tr>
+  </table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+<!--[if (gte mso 9)|(IE)]>
+  <table width=3D"600" align=3D"center" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0">
+    <tr>
+      <td>
+<![endif]-->
+<div class=3D"abe-section-block" data-block-type=3D"FancyBlockSection" da=
+ta-block-id=3D"57373154">
+  <table class=3D"abe-section-table" width=3D"100%" align=3D"center" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D=
+"max-width: 600px; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: =
+100%; border-spacing: 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+    <tr id=3D"abe-section-row-2d61d1fd-88c3-46d2-bb83-174f3b9efc60" class=
+=3D"abe-section-row" style=3D"background-color: #FFFFFF;" bgcolor=3D"#FFF=
+FFF">
+      <td style=3D"text-align: center; vertical-align: top; font-size: 0;=
+ -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-ls=
+pace: 0pt; mso-table-rspace: 0pt;" align=3D"center" valign=3D"top">
+        <!--[if (gte mso 9)|(IE)]>
+  <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-a=
+djust: 100%; border-spacing: 0; mso-table-lspace: 0pt; mso-table-rspace: =
+0pt;">
+    <tr>
+<![endif]-->
+<!--[if (gte mso 9)|(IE)]>
+  <td width=3D"600" valign=3D"top" id=3D"abe-column-block-83943657-e80f-4=
+f91-8334-19892dde6019-outlook-only" class=3D"abe-column-block-outlook-onl=
+y" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; m=
+so-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0px;">
+<![endif]-->
+<div id=3D"abe-column-block-83943657-e80f-4f91-8334-19892dde6019" class=3D=
+"abe-column-block" data-block-type=3D"FancyBlockColumn" data-block-id=3D"=
+57373155" style=3D"width: 100%; box-sizing: border-box; display: inline-b=
+lock; font-size: 16px; vertical-align: top; border: none;">
+  <div id=3D"abe-column-block-83943657-e80f-4f91-8334-19892dde6019-paddin=
+g" class=3D"abe-column-block-padding" style=3D"padding: 0px;">
+    <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" role=3D"presentation" style=3D"table-layout: fixed; ov=
+erflow-wrap: break-word; word-wrap: break-word; text-align: left; -webkit=
+-text-size-adjust: 100%; -ms-text-size-adjust: 100%; border-spacing: 0; m=
+so-table-lspace: 0pt; mso-table-rspace: 0pt;">
+      <tr>
+        <td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust=
+: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><table width=3D"10=
+0%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"-webkit-tex=
+t-size-adjust: 100%; -ms-text-size-adjust: 100%; border-spacing: 0; mso-t=
+able-lspace: 0pt; mso-table-rspace: 0pt;"><tr><td align=3D"center" style=3D=
+"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-ls=
+pace: 0pt; mso-table-rspace: 0pt;"><img class=3D"govd_template_image" src=
+=3D"https://content.govdelivery.com/attachments/fancy_images/MTSOS/2021/0=
+5/4553340/christi-header-granicus_original.jpg" style=3D"width: 600px; he=
+ight: auto; -ms-interpolation-mode: bicubic; line-height: 1; outline: non=
+e; text-decoration: none; max-width: 100%; border: none;" alt=3D"Christi =
+Header" width=3D"600" height=3D"228"></td></tr></table></td>
+      </tr>
+    </table>
+  </div>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+  </td>
+<![endif]-->
+<!--[if (gte mso 9)|(IE)]>
+  </tr>
+  </table>
+<![endif]-->
+      </td>
+    </tr>
+  </table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+<!--[if (gte mso 9)|(IE)]>
+  <table width=3D"600" align=3D"center" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0">
+    <tr>
+      <td>
+<![endif]-->
+<div class=3D"abe-section-block" data-block-type=3D"FancyBlockSection" da=
+ta-block-id=3D"57373157">
+  <table class=3D"abe-section-table" width=3D"100%" align=3D"center" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D=
+"max-width: 600px; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: =
+100%; border-spacing: 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+    <tr id=3D"abe-section-row-567a15d6-7f8b-4add-b111-e07a8131e545" class=
+=3D"abe-section-row" style=3D"background-color: #E9E9E9;" bgcolor=3D"#E9E=
+9E9">
+      <td style=3D"text-align: center; vertical-align: top; font-size: 0;=
+ -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-ls=
+pace: 0pt; mso-table-rspace: 0pt;" align=3D"center" valign=3D"top">
+        <!--[if (gte mso 9)|(IE)]>
+  <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-a=
+djust: 100%; border-spacing: 0; mso-table-lspace: 0pt; mso-table-rspace: =
+0pt;">
+    <tr>
+<![endif]-->
+<!--[if (gte mso 9)|(IE)]>
+  <td width=3D"600" valign=3D"top" id=3D"abe-column-block-891351a5-dfce-4=
+97f-8dba-5614ad10c3ea-outlook-only" class=3D"abe-column-block-outlook-onl=
+y" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; m=
+so-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 30px;">
+<![endif]-->
+<div id=3D"abe-column-block-891351a5-dfce-497f-8dba-5614ad10c3ea" class=3D=
+"abe-column-block" data-block-type=3D"FancyBlockColumn" data-block-id=3D"=
+57373158" style=3D"width: 100%; box-sizing: border-box; display: inline-b=
+lock; font-size: 16px; vertical-align: top;">
+  <div id=3D"abe-column-block-891351a5-dfce-497f-8dba-5614ad10c3ea-paddin=
+g" class=3D"abe-column-block-padding" style=3D"padding: 30px;">
+    <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" role=3D"presentation" style=3D"table-layout: fixed; ov=
+erflow-wrap: break-word; word-wrap: break-word; text-align: left; -webkit=
+-text-size-adjust: 100%; -ms-text-size-adjust: 100%; border-spacing: 0; m=
+so-table-lspace: 0pt; mso-table-rspace: 0pt;">
+      <tr>
+        <td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust=
+: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+<h1 style=3D"text-align: center; line-height: 1.2; font-family: helvetica=
+; font-size: 30px; margin: 0 0 20px;" align=3D"center">NEW TO THE MONTANA=
+<br>BUSINESS SERVICES DIVISION</h1>
+<div class=3D"breadcrumbs-container"></div>
+<p style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; l=
+ine-height: 1.4; font-family: helvetica; font-size: 15px; margin: 0 0 15p=
+x;">Dear Montana Business Customer --</p>
+<p style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; l=
+ine-height: 1.4; font-family: helvetica; font-size: 15px; margin: 0 0 15p=
+x;">The Business Services Division of the Montana Secretary of State=92s =
+Office is excited to announce the launch of an enhancement to SOS Enterpr=
+ise, the online filing system.</p>
+<p style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; l=
+ine-height: 1.4; font-family: helvetica; font-size: 15px; margin: 0 0 15p=
+x;">A new shopping cart feature allows Montana business customers to file=
+ and pay for multiple documents in one transaction. Business filings, not=
+ary filings, and UCC liens can be added to the cart and paid for at the s=
+ame time, with the same payment method.</p>
+<p style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; l=
+ine-height: 1.4; font-family: helvetica; font-size: 15px; margin: 0 0 15p=
+x;">The Secretary of State=92s Office also revealed the Montana Business =
+Economic Report, which offers an in-depth look at Montana=92s business la=
+ndscape over the last decade. It provides detailed information such as th=
+e total number of active businesses each year, the number of new business=
+es registered each year, and a heat map highlighting where new businesses=
+ are being created in Montana.</p>
+<p style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; l=
+ine-height: 1.4; font-family: helvetica; font-size: 15px; margin: 0 0 15p=
+x;">The new Montana Business Economic Report, which will be updated annua=
+lly, can be found on the Secretary of State=92s website by clicking <a hr=
+ef=3D"https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjox=
+MDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMTA2MjUuNDI0MjgyNTEiL=
+CJ1cmwiOiJodHRwczovL3Nvc210Lmdvdi9lY29ub21pYy1yZXBvcnQvIn0.9HgCfIv1t1QKJM=
+gw4duXb-yZqTEqGa_QdhOyQpFPctU/s/1361938373/br/108458768989-l" target=3D"_=
+blank" rel=3D"noopener" style=3D"-webkit-text-size-adjust: 100%; -ms-text=
+-size-adjust: 100%; color: #D7A013;">here</a>.</p>
+<div class=3D"govd_hr"><div class=3D"govd_hr_inner"><hr></div></div>
+<p align=3D"center" style=3D"-webkit-text-size-adjust: 100%; -ms-text-siz=
+e-adjust: 100%; line-height: 1.4; font-family: helvetica; font-size: 15px=
+; margin: 1em 0 15px;">The Mission of the Office of the Secretary of Stat=
+e is to protect the integrity of elections, be an asset to businesses and=
+ preserve official history.</p>
+</td>
+      </tr>
+    </table>
+  </div>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+  </td>
+<![endif]-->
+<!--[if (gte mso 9)|(IE)]>
+  </tr>
+  </table>
+<![endif]-->
+      </td>
+    </tr>
+  </table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+<!--[if (gte mso 9)|(IE)]>
+  <table width=3D"600" align=3D"center" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0">
+    <tr>
+      <td>
+<![endif]-->
+<div class=3D"abe-section-block" data-block-type=3D"FancyBlockSection" da=
+ta-block-id=3D"57373163">
+  <table class=3D"abe-section-table" width=3D"100%" align=3D"center" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D=
+"max-width: 600px; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: =
+100%; border-spacing: 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+    <tr id=3D"abe-section-row-4b0290fe-f5c1-418c-ba61-d0b731d12a6f" class=
+=3D"abe-section-row" style=3D"background-color: #000000;" bgcolor=3D"#000=
+000">
+      <td style=3D"text-align: center; vertical-align: top; font-size: 0;=
+ -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-ls=
+pace: 0pt; mso-table-rspace: 0pt;" align=3D"center" valign=3D"top">
+        <!--[if (gte mso 9)|(IE)]>
+  <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-a=
+djust: 100%; border-spacing: 0; mso-table-lspace: 0pt; mso-table-rspace: =
+0pt;">
+    <tr>
+<![endif]-->
+<!--[if (gte mso 9)|(IE)]>
+  <td width=3D"600" valign=3D"top" id=3D"abe-column-block-675f4d94-2b4d-4=
+4b8-b6f0-a9bbffcc7879-outlook-only" class=3D"abe-column-block-outlook-onl=
+y" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; m=
+so-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 15px;">
+<![endif]-->
+<div id=3D"abe-column-block-675f4d94-2b4d-44b8-b6f0-a9bbffcc7879" class=3D=
+"abe-column-block" data-block-type=3D"FancyBlockColumn" data-block-id=3D"=
+57373164" style=3D"width: 100%; box-sizing: border-box; display: inline-b=
+lock; font-size: 16px; vertical-align: top;">
+  <div id=3D"abe-column-block-675f4d94-2b4d-44b8-b6f0-a9bbffcc7879-paddin=
+g" class=3D"abe-column-block-padding" style=3D"padding: 15px;">
+    <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" role=3D"presentation" style=3D"table-layout: fixed; ov=
+erflow-wrap: break-word; word-wrap: break-word; text-align: left; -webkit=
+-text-size-adjust: 100%; -ms-text-size-adjust: 100%; border-spacing: 0; m=
+so-table-lspace: 0pt; mso-table-rspace: 0pt;">
+      <tr>
+        <td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust=
+: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><p style=3D"text-a=
+lign: center; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;=
+ line-height: 1.4; color: #FFFFFF; font-size: 12px; font-family: arial, h=
+elvetica, sans-serif; margin: 0 0 5px;" align=3D"center"><strong>State Ca=
+pitol Building=A0<span class=3D"gold" style=3D"line-height: 1.4;">|=A0</s=
+pan>1301 E. 6th Avenue=A0<span class=3D"gold" style=3D"line-height: 1.4;"=
+>|=A0</span>Helena, MT 59601=A0<span class=3D"gold" style=3D"line-height:=
+ 1.4;">|=A0</span>406.444.2034<br><a href=3D"https://lnks.gd/l/eyJhbGciOi=
+JIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDIsInVyaSI6ImJwMjpjbGljayIsImJ1bG=
+xldGluX2lkIjoiMjAyMTA2MjUuNDI0MjgyNTEiLCJ1cmwiOiJodHRwczovL3Nvc210Lmdvdi8=
+ifQ.sD8WyEoAgw_O0gCV9TJBg9gCxiMLfiVnMzVmFcwbtpE/s/1361938373/br/108458768=
+989-l" target=3D"_blank" title=3D"Montana Secretary of State Website" rel=
+=3D"noopener" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adju=
+st: 100%; color: #FFFFFF;">sosmt.gov</a>=A0 |=A0 <a href=3D"https://lnks.=
+gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDMsInVyaSI6ImJwMjp=
+jbGljayIsImJ1bGxldGluX2lkIjoiMjAyMTA2MjUuNDI0MjgyNTEiLCJ1cmwiOiJodHRwOi8v=
+c2l0c2QubXQuZ292L2NvbnRlbnQvcG9saWN5L3BvbGljaWVzL1Jpc2svMTI0MC1YMDYifQ.CB=
+Q3WKM4ON09puppEJPteCzq46G5F-O6T0_VKGrLw48/s/1361938373/br/108458768989-l"=
+ target=3D"_blank" title=3D"Privacy Policy" rel=3D"noopener" style=3D"-we=
+bkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; color: #FFFFFF;"=
+>Privacy Policy</a></strong></p></td>
+      </tr>
+    </table>
+  </div>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+  </td>
+<![endif]-->
+<!--[if (gte mso 9)|(IE)]>
+  </tr>
+  </table>
+<![endif]-->
+      </td>
+    </tr>
+  </table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+</td>
+    <td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 10=
+0%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"></td>
+  </tr>
+</table>
+</td></tr></table>
+ =20
+
+
+<div id=3D"mail_footer">
+    <hr><center>
+<a href=3D"https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2l=
+kIjoxMDQsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMTA2MjUuNDI0Mjgy=
+NTEiLCJ1cmwiOiJodHRwczovL3B1YmxpYy5nb3ZkZWxpdmVyeS5jb20vYWNjb3VudHMvTVRTT=
+1Mvc3Vic2NyaWJlci9lZGl0P3ByZWZlcmVuY2VzPXRydWUjdGFiMSJ9.-QQogdp1b9qAD9U4a=
+eCcfDyqQ8wl-s2Co2KuEx6uOEA/s/1361938373/br/108458768989-l" target=3D"_bla=
+nk" title=3D"" rel=3D"noopener">Manage Preferences</a> | <a href=3D"https=
+://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDUsInF1ZXJ=
+5X3BhcmFtcyI6WyJ2ZXJpZmljYXRpb24iLCJkZXN0aW5hdGlvbiJdLCJ1cmkiOiJicDI6Y2xp=
+Y2siLCJidWxsZXRpbl9pZCI6IjIwMjEwNjI1LjQyNDI4MjUxIiwidXJsIjoiaHR0cHM6Ly9wd=
+WJsaWMuZ292ZGVsaXZlcnkuY29tL2FjY291bnRzL01UU09TL3N1YnNjcmliZXIvb25lX2NsaW=
+NrX3Vuc3Vic2NyaWJlIn0.6uz20YcY4hCKQ526rVlrzGp2Cl5chukuKKYoqJjP6vo/s/13619=
+38373/br/108458768989-l?verification=3D5.c56b183e80a4dd0f1232367556ecb8d1=
+&destination=3Dhd%40awakenthenorth.org" target=3D"_blank" title=3D"Unsubs=
+cribe" rel=3D"noopener">Unsubscribe</a> |=A0<a href=3D"https://lnks.gd/l/=
+eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDYsInVyaSI6ImJwMjpjbGlj=
+ayIsImJ1bGxldGluX2lkIjoiMjAyMTA2MjUuNDI0MjgyNTEiLCJ1cmwiOiJodHRwczovL3N1Y=
+nNjcmliZXJoZWxwLmdyYW5pY3VzLmNvbS9zLyJ9.djnWGjGxTF3dbYzUrejxiQ2bCDUnLkdv_=
+aPp7dvmq_s/s/1361938373/br/108458768989-l" target=3D"_blank" title=3D"" r=
+el=3D"noopener">Help</a>
+</center>
+
+</div>
+<div id=3D"tagline">
+    <hr>
+<table style=3D"height: 40px; width: 407px;" border=3D"0" width=3D"700" c=
+ellspacing=3D"0" cellpadding=3D"0" align=3D"center">
+<tbody>
+<tr style=3D"height: 24px;">
+<td style=3D"width: 402.444px; height: 24px;"><font size=3D"1">This email=
+ was sent to hd@awakenthenorth.org on behalf of Christi Jacobsen.</font><=
+/td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+<IMG SRC=3D"https://links.govdelivery.com/track?enid=3DZWFzPTEmYnVsbGV0aW=
+5yZWNpcGllbnRpZD0xMDg0NTg3Njg5ODktbCZzdWJzY3JpYmVyaWQ9MTM2MTkzODM3MyZtc2l=
+kPSZhdWlkPSZtYWlsaW5naWQ9MjAyMTA2MjUuNDI0MjgyNTEmbWVzc2FnZWlkPU1EQi1QUkQt=
+QlVMLTIwMjEwNjI1LjQyNDI4MjUxJmRhdGFiYXNlaWQ9MTAwMSZ0eXBlPW9wZW4mc2VyaWFsP=
+TE3MTc0NTQ0JmVtYWlsaWQ9aGRAYXdha2VudGhlbm9ydGgub3JnJnVzZXJpZD1oZEBhd2FrZW=
+50aGVub3J0aC5vcmcmdGFyZ2V0aWQ9JmZsPSZtdmlkPSZleHRyYT0mJiY=3D" WIDTH=3D"1"=
+ HEIGHT=3D"1" STYLE=3D"border-width:0; border-style:hidden;" ALT=3D""/></=
+body>
+</html>
+=0A
+------=_NextPart_597_C361_567A50DB.34FFAD76--
+

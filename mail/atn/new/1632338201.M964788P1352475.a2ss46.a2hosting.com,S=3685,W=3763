@@ -1,0 +1,78 @@
+Return-Path: <allanwood2310@gmail.com>
+Delivered-To: atn@awakenthenorth.org
+Received: from a2ss46.a2hosting.com
+	by a2ss46.a2hosting.com with LMTP
+	id CE0NORmBS2EboxQAjrpv+A
+	(envelope-from <allanwood2310@gmail.com>)
+	for <atn@awakenthenorth.org>; Wed, 22 Sep 2021 15:16:41 -0400
+Return-path: <allanwood2310@gmail.com>
+Envelope-to: atn@awakenthenorth.org
+Delivery-date: Wed, 22 Sep 2021 15:16:41 -0400
+Received: from mail-wr1-f41.google.com ([209.85.221.41]:36824)
+	by a2ss46.a2hosting.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <allanwood2310@gmail.com>)
+	id 1mT7jV-005rCj-PC
+	for atn@awakenthenorth.org; Wed, 22 Sep 2021 15:16:41 -0400
+Received: by mail-wr1-f41.google.com with SMTP id g16so10073971wrb.3
+        for <atn@awakenthenorth.org>; Wed, 22 Sep 2021 12:16:21 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=mime-version:reply-to:from:date:message-id:subject:to;
+        bh=c8Gw+uDZgQcXp7cdYxiKIGDNRlWNShMXzorprGRQNnY=;
+        b=IWDcwq5XbXSrj1ttEEOSBVbnscxDzzn+SPFpBhOWz7z7ggYnRCUATBzTK3K8gRaz5T
+         IiwoXC4hoGlxDlhC5lpIRPX3nxy8rGu+9JEGIwrt3LTQnlBkVmiF1oh9BVQTgVnyGfUm
+         MaszIflwWCI6dbnxY+xJt6yAxMHzFXXsM1/yMwkWl/txi3jjwjckpGrswt5hyFWgXYX4
+         3q6VhPI0WrX60/ZGhwndcSzubvsy6s8+rA1zchdxgHB+tgW0JMXq7pvbGC6vMA34lZre
+         cvs0bNdvjEGmXHrStq7h6B+zKY43qUmuwgMtBAIf3RBWon7cIEpoavu0qv2PdDibcV1s
+         XXfw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:mime-version:reply-to:from:date:message-id
+         :subject:to;
+        bh=c8Gw+uDZgQcXp7cdYxiKIGDNRlWNShMXzorprGRQNnY=;
+        b=E/GP6wRRjC3FlRSn8o9vglw+ssiTa9ICZvKxkFsUzoXsgB89p/+eO2tZDXsrAI6jtj
+         z+GAq7Mj/K1PY0ByqIKLIZTlq096OFzDMi3zgaQ5Nmjsr6FJ+BOiMLgqq2kBf1ZBDvln
+         CKaNf33wpQi03LMOKunP01ivyuCYpVrewbOWWmVGtSe6sA4eG3hONDXS/ikTqY8KtCdC
+         wBzWmHyVwUeq4wPGuJugi/L1Nx6/hFF8hKjqg65CQERjrd7Gtv/prFdKVnL6AtslrcUl
+         WNHkf6r2BZsDncAw/4OlrLQ0yFYXou2lcDE/U7mAf1PllnV2gcxJPPFRZFblBuc19+B6
+         ZPFA==
+X-Gm-Message-State: AOAM530adjLtqWrLRT4dA/RE4xTDOZBjkexpYF9erbqF/D6WtyiHVDQr
+	Ps6SBnZc6W7cF60YAtM/N1r6a0P3BbR/gycYjLk=
+X-Google-Smtp-Source: ABdhPJx8BC3tJtd0m4eb344+dJaLRk1Zm7aOpWDc+uiovXM4b/HLXXUDPx1qtXJf4KHhORth8cduOLiLAzNDFrOkKeo=
+X-Received: by 2002:a5d:5241:: with SMTP id k1mr647519wrc.227.1632338160784;
+ Wed, 22 Sep 2021 12:16:00 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 2002:a7b:cd87:0:0:0:0:0 with HTTP; Wed, 22 Sep 2021 12:16:00
+ -0700 (PDT)
+Reply-To: sl55633@ukr.net
+From: Anton Hansen <allanwood2310@gmail.com>
+Date: Wed, 22 Sep 2021 19:16:00 +0000
+Message-ID: <CABXdW3Vpz7xOioGf92ouO0wNXgnyAaM8JCi_t60yhaQP-zXy0g@mail.gmail.com>
+Subject: Help An Orphan.
+To: undisclosed-recipients:;
+Content-Type: text/plain; charset="UTF-8"
+Bcc: atn@awakenthenorth.org
+
+-- 
+Hi,
+
+I hope you find this letter in the pink of your health. I wanted to
+talk to you about a personal matter.
+
+I sent you an email before about an inheritance without hearing from
+you. Let me reintroduce my email again to you and please reply
+immediately. My name is Anton Hansen an orphan based in Hurup Thy
+Denmark. I am contacting you because of my deceased foster parents
+that died recently due to COVID-19. I sincerely appeal for your
+assistance to help claim my inheritance deposited in a bank, pending
+my arrival to your country to further my education.
+
+Please, you don't have to worry, the process will be done legally
+without any problem. If you are interested, I can give you more
+information about my proposal as soon as I get your reply.
+
+Thanking you in advance.
+
+Warm Regards,
+Anton Hansen.

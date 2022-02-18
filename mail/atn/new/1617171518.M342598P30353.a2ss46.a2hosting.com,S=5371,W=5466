@@ -1,0 +1,95 @@
+Return-Path: <zora@trade-product.com>
+Delivered-To: atn@awakenthenorth.org
+Received: from a2ss46.a2hosting.com
+	by a2ss46.a2hosting.com with LMTP
+	id wwLQEz4UZGCRdgAAjrpv+A
+	(envelope-from <zora@trade-product.com>)
+	for <atn@awakenthenorth.org>; Wed, 31 Mar 2021 02:18:38 -0400
+Return-path: <zora@trade-product.com>
+Envelope-to: atn@awakenthenorth.org
+Delivery-date: Wed, 31 Mar 2021 02:18:38 -0400
+Received: from [117.51.138.107] (port=42452 helo=server1.bvyugyudewv.com)
+	by a2ss46.a2hosting.com with esmtp (Exim 4.93)
+	(envelope-from <zora@trade-product.com>)
+	id 1lRUBZ-0007jp-3G
+	for atn@awakenthenorth.org; Wed, 31 Mar 2021 02:18:38 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=liusheng; d=trade-product.com;
+ h=Date:From:To:Subject:Message-ID:Mime-Version:Content-Type; i=zora@trade-product.com;
+ bh=1DKL+AdebSFqPTUywGjf2vsUnzg=;
+ b=jFAKF/3EXmP3WOJ2bgVhfvGEnyoYmff380nmICHusfGGC/pylL7nkxlF1YNNn/20IynR4dtg6gso
+   +IeZPiU9H1OAeN+0ULLzDAhp0hawGIQW0qEPzFf4KRFJMQTAme0do5lCeYSGEE8ermGQP8VtA72K
+   R8H/nXKLFwz0WfUI5WI=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=liusheng; d=trade-product.com;
+ b=WGIzABTVgB6GWN9SCSLPfYxdpRCXrJgdVwvCazWkoXHUZD4+5sMteOtgMx71ai7pM5aad3URSX8+
+   2UHi2b3WlBcYFCQoWx0ewRNG5e6nFYEEQm1P5Ge/Byue8wzuKwprf4lREgAm17iZcwZQDHB8f2Hx
+   Obg57+iB+I+raxIxqP0=;
+Received: from yahoo2.com.cn (14.221.96.64) by server1.bvyugyudewv.com id hcga3q0e97ci for <atn@awakenthenorth.org>; Wed, 31 Mar 2021 14:17:54 +0800 (envelope-from <zora@trade-product.com>)
+Date: Wed, 31 Mar 2021 14:17:45 +0800
+From: "John Lee" <zora@trade-product.com>
+To: <atn@awakenthenorth.org>
+Subject: We are looking for partners for various anti-counterfeiting RFID tags around the world
+Message-ID: <20210331141753562106@trade-product.com>
+X-Priority: 1 (Highest)
+X-mailer: Foxmail 6, 13, 102, 15 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon735312204001_====="
+
+This is a multi-part message in MIME format.
+
+--=====003_Dragon735312204001_=====
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: base64
+
+SGkNCknigJltIEpvaG4gTGVlLCBPdXIgZmFjdG9yeSBzcGVjaWFsaXplcyBpbiB0aGUgZGVzaWdu
+IGFuZCBwcm9kdWN0aW9uIG9mIGFudGktY291bnRlcmZlaXRpbmcgUkZJRCB0YWdzLCBhbnRpLWNv
+dW50ZXJmZWl0aW5nIFJGSUQgZWxlY3Ryb25pYyB0YWdzLCBSRklEIHNlY3VyaXR5IHN0aWNrZXJz
+LCBhbmQgUkZJRCBjdXN0b21pemVkIHRhZ3MuIEl0cyB1c2VzIGFyZSB3aWRlbHkgdXNlZCBpbiBw
+cm9kdWN0IHRyYWNlYWJpbGl0eSwgc2VjdXJpdHkgaWRlbnRpZmljYXRpb24sIHZlaGljbGUgaW5z
+cGVjdGlvbiwgdmVoaWNsZSBpbnN1cmFuY2UgbWFuYWdlbWVudCwgZWxlY3Ryb25pYyB0b2xsIGNv
+bGxlY3Rpb24sIGVsZWN0cm9uaWMgcGFya2luZywgYW5kIGFydGljbGVzLiBTZWFsaW5nIGFuZCB0
+aWNrZXQgbWFuYWdlbWVudCwgZXRjLiBJbiB0aGUgcGFzdCwgdHJhZGVycyBib3VnaHQgb3VyIHBy
+b2R1Y3RzIGFuZCBzb2xkIHRoZW0gYWJyb2FkLiBUaGlzIHllYXIsIG91ciBmYWN0b3J5IGRlY2lk
+ZWQgdG8gZGlyZWN0bHkgbG9vayBmb3IgZm9yZWlnbiBwYXJ0bmVycyBhbmQgc2tpcCB0cmFkZXJz
+LiBPdXIgcHJpY2UgbXVzdCBiZSB2ZXJ5IGZhdm9yYWJsZS4gSSBjYW4gc2VuZCB5b3UgcHJvZHVj
+dCBicm9jaHVyZXMgb3IgcHJvdmlkZSBzYW1wbGVzDQpJZiB5b3Ugb3IgeW91ciBmcmllbmRzIG5l
+ZWQgdG8gYnV5IGFuZCBzZWxsIGFudGktY291bnRlcmZlaXRpbmcgUkZJRCB0YWdzIGFuZCBvdGhl
+ciBwcm9kdWN0cywgd2UgY2FuIGRpc2N1c3MgcG9zc2libGUgY29vcGVyYXRpb24uDQpPZiBjb3Vy
+c2UsIEkgaG9wZSB0byBiZSBmcmllbmRzIHdpdGggeW91IGZpcnN0Lg0KQmVzdCBSZWdhcmRz77yB
+DQpKb2huIExlZQ0KTWFuYWdlciANCkUtbWFpbDp6b3JhQHRyYWRlLXByb2R1Y3QuY29tDQpUZWw6
+Kys4NiAxMzYwNjkxNTc3NQ0KV2hhdHNhcHA6Kys4NiAxMzYwNjkxNTc3NQ0KWGlhbWVuIElubm92
+IEluZm9ybWF0aW9uIFNjaWVuY2UgJiBUZWNoLiBDby4sIEx0ZA==
+
+--=====003_Dragon735312204001_=====
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: base64
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwv
+L0VOIj4NCjxIVE1MPjxIRUFEPg0KPE1FVEEgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PXV0
+Zi04IiBodHRwLWVxdWl2PUNvbnRlbnQtVHlwZT4NCjxNRVRBIG5hbWU9R0VORVJBVE9SIGNvbnRl
+bnQ9Ik1TSFRNTCAxMS4wMC4xMDU3MC4xMDAxIj48L0hFQUQ+DQo8Qk9EWT4NCjxQPkhpPC9QPg0K
+PFA+SeKAmW0gSm9obiBMZWUsIE91ciBmYWN0b3J5IHNwZWNpYWxpemVzIGluIHRoZSBkZXNpZ24g
+YW5kIHByb2R1Y3Rpb24gb2YgDQphbnRpLWNvdW50ZXJmZWl0aW5nIFJGSUQgdGFncywgYW50aS1j
+b3VudGVyZmVpdGluZyBSRklEIGVsZWN0cm9uaWMgdGFncywgUkZJRCANCnNlY3VyaXR5IHN0aWNr
+ZXJzLCBhbmQgUkZJRCBjdXN0b21pemVkIHRhZ3MuIEl0cyB1c2VzIGFyZSB3aWRlbHkgdXNlZCBp
+biBwcm9kdWN0IA0KdHJhY2VhYmlsaXR5LCBzZWN1cml0eSBpZGVudGlmaWNhdGlvbiwgdmVoaWNs
+ZSBpbnNwZWN0aW9uLCB2ZWhpY2xlIGluc3VyYW5jZSANCm1hbmFnZW1lbnQsIGVsZWN0cm9uaWMg
+dG9sbCBjb2xsZWN0aW9uLCBlbGVjdHJvbmljIHBhcmtpbmcsIGFuZCBhcnRpY2xlcy4gDQpTZWFs
+aW5nIGFuZCB0aWNrZXQgbWFuYWdlbWVudCwgZXRjLiBJbiB0aGUgcGFzdCwgdHJhZGVycyBib3Vn
+aHQgb3VyIHByb2R1Y3RzIGFuZCANCnNvbGQgdGhlbSBhYnJvYWQuIFRoaXMgeWVhciwgb3VyIGZh
+Y3RvcnkgZGVjaWRlZCB0byBkaXJlY3RseSBsb29rIGZvciBmb3JlaWduIA0KcGFydG5lcnMgYW5k
+IHNraXAgdHJhZGVycy4gT3VyIHByaWNlIG11c3QgYmUgdmVyeSBmYXZvcmFibGUuIEkgY2FuIHNl
+bmQgeW91IA0KcHJvZHVjdCBicm9jaHVyZXMgb3IgcHJvdmlkZSBzYW1wbGVzPC9QPg0KPFA+SWYg
+eW91IG9yIHlvdXIgZnJpZW5kcyBuZWVkIHRvIGJ1eSBhbmQgc2VsbCBhbnRpLWNvdW50ZXJmZWl0
+aW5nIFJGSUQgdGFncyBhbmQgDQpvdGhlciBwcm9kdWN0cywgd2UgY2FuIGRpc2N1c3MgcG9zc2li
+bGUgY29vcGVyYXRpb24uPC9QPg0KPFA+T2YgY291cnNlLCBJIGhvcGUgdG8gYmUgZnJpZW5kcyB3
+aXRoIHlvdSBmaXJzdC48L1A+DQo8UD5CZXN0IFJlZ2FyZHPvvIE8L1A+DQo8UD5Kb2huIExlZTxC
+Uj5NYW5hZ2VyIDxCUj5FLW1haWw6em9yYUB0cmFkZS1wcm9kdWN0LmNvbTxCUj5UZWw6Kys4NiAN
+CjEzNjA2OTE1Nzc1PEJSPldoYXRzYXBwOisrODYgMTM2MDY5MTU3NzU8QlI+WGlhbWVuIElubm92
+IEluZm9ybWF0aW9uIFNjaWVuY2UgDQomYW1wOyBUZWNoLiBDby4sIEx0ZDwvUD48L0JPRFk+PC9I
+VE1MPg0K
+
+--=====003_Dragon735312204001_=====--
+

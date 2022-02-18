@@ -1,0 +1,260 @@
+Return-Path: <3MrWnYREKA08D58196rtv-458v62Fx55x2v.t53RkerDr1v4Ayv458Ay.58x@scoutcamp.bounces.google.com>
+Delivered-To: ATN@awakenthenorth.org
+Received: from a2ss46.a2hosting.com
+	by a2ss46.a2hosting.com with LMTP
+	id APx7I1u1p2GWTQEAjrpv+A
+	(envelope-from <3MrWnYREKA08D58196rtv-458v62Fx55x2v.t53RkerDr1v4Ayv458Ay.58x@scoutcamp.bounces.google.com>)
+	for <ATN@awakenthenorth.org>; Wed, 01 Dec 2021 12:48:11 -0500
+Return-path: <3MrWnYREKA08D58196rtv-458v62Fx55x2v.t53RkerDr1v4Ayv458Ay.58x@scoutcamp.bounces.google.com>
+Envelope-to: ATN@awakenthenorth.org
+Delivery-date: Wed, 01 Dec 2021 12:48:11 -0500
+Received: from mail-qv1-f70.google.com ([209.85.219.70]:41935)
+	by a2ss46.a2hosting.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <3MrWnYREKA08D58196rtv-458v62Fx55x2v.t53RkerDr1v4Ayv458Ay.58x@scoutcamp.bounces.google.com>)
+	id 1msTiF-000Mq6-FP
+	for ATN@awakenthenorth.org; Wed, 01 Dec 2021 12:48:11 -0500
+Received: by mail-qv1-f70.google.com with SMTP id q9-20020ad45749000000b003bdeb0612c5so35418139qvx.8
+        for <ATN@awakenthenorth.org>; Wed, 01 Dec 2021 09:47:51 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20210112;
+        h=mime-version:date:reply-to:feedback-id:message-id:subject:from:to;
+        bh=1eDSYihwHOuhSxpXFNDPaGM0WXxwgcjKvaTNFjpN4Vc=;
+        b=icP3TR7IWG7jUtQ8fLngM/mRj3/bkZHiprUOTgTXmmOLrM60kQAqxtD5M+RJLJf0Gs
+         J1fsKXpyEeWiKms/ECuN4NlcEyy3YIzVv1wyVRgdevNYmrpdfpdk1Hd3EPARcc3tRxO6
+         uJz8XbTub9lm4ojhr6oAmQvASZRKriC9wLuKTspFG492/QiKwrPdVnwdXQOwE0l0l5N5
+         oXwgDHsu1IzcbLOaeBW6YCdJKKCIvaoYWVxDPX9o0YYk6w/x79vVpKIMnkRYld9s902V
+         MIkRR31DOYH4bSCWYQVQ9RjdeeqqHg2Y4WRshTEbaxEP3P1afeDenkmNhlrAL0GtGQvB
+         LRAg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:mime-version:date:reply-to:feedback-id
+         :message-id:subject:from:to;
+        bh=1eDSYihwHOuhSxpXFNDPaGM0WXxwgcjKvaTNFjpN4Vc=;
+        b=qlPO87WjdO/e5EBvTfr0bwsSj40/9+chFOjs7l82aRMsoiUPHIGjr9PFWxm07c+txm
+         panU82ir9/oFxs3nHSVoHPoro4vC2/Ov+w861jQpWXTFSj84nBML3AxMysq2cZw0FsgS
+         OLymGRcB7Yi06HD4PB6GTJLqgX/7Ac8+LzY+vc6HRsVHFHQqOvGa1OcQBMyCcPBw1D9z
+         jW/YedNcDtz0uz6MYKb+/da1f3D5vyHZECzloyMeBH2HC/l5NPsQHWjcK5IvL4XKuhG4
+         SV5DyTd9soDGrbh76yWh3lb5qtlhUdoJKMbv2zUfIZ8YxTdh4tHbNeNwbI1ebcZT9EP+
+         V4pg==
+X-Gm-Message-State: AOAM530v4pDKra9kubkA8q7tuRB3lt/667SyLZaCTKVLRgWfwgZICbyf
+	RMrJxbLAiZ8mOP0=
+X-Google-Smtp-Source: ABdhPJwT+Q6otthmBf3M/Z3EL7+2pC+0/I8vFa7Gl5Gu8S+ggkLXB4vQn4s591h6sKhBIRXs+b2YJV4=
+MIME-Version: 1.0
+X-Received: by 2002:a05:620a:4406:: with SMTP id v6mr7668150qkp.627.1638380850936;
+ Wed, 01 Dec 2021 09:47:30 -0800 (PST)
+Date: Wed, 01 Dec 2021 09:47:30 -0800
+Reply-To: The Google Workspace Team <workspace-noreply@google.com>
+X-Google-Id: 4092147
+Feedback-ID: P-11-0:C20184612:M110497675-en:gamma
+X-Notifications: GAMMA:<bd9e262894b2c12905bd6f73893b8bb9e32a3ba3-20184612-111051610@google.com>
+X-Notifications-Bounce-Info: AXvZQxcdazU1EVsnw4aqZCErxMPI4RjIGD4n4GPtBmxWjpqW0tY9r0LoIUu00f5bCF11gEIx5Foa70K5_Z1tal3S1k0WBWWCeoLxEh7-4jwI81IxByaEoQUEXOd4N1gfCsuQ82eYORJyfAkW8SlIHrEI0tnF9N4Xxgb8bnO9GaMgLSESv2JqeGs6A4FMXfs6FvX54YOFiMmioXxN3otaZl3kUgisEHz-Rls54BbAWQoS1iL9pP9naYr9EmkRMDj6gkLFa2JyApcNjAwNjA0MDQxNTM1NTk2OTMzMg
+Message-ID: <bd9e262894b2c12905bd6f73893b8bb9e32a3ba3-20184612-111051610@google.com>
+Subject: [Legal Notice] Changes to our end user-facing Terms of Service
+From: The Google Workspace Team <workspace-noreply@google.com>
+To: ATN@awakenthenorth.org
+Content-Type: multipart/alternative; boundary="000000000000a07b8d05d21944c8"
+
+--000000000000a07b8d05d21944c8
+Content-Type: text/plain; charset="UTF-8"; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+R29vZ2xlIFdvcmtzcGFjZSBsb2dvDQoNCldlIHdpbGwgdXBkYXRlIG91ciBlbmQgdXNlci1mYWNp
+bmcgVGVybXMgb2YgU2VydmljZSBlZmZlY3RpdmUgSmFudWFyeSA1LCAgDQoyMDIyLg0KDQpXZSdy
+ZSB1cGRhdGluZyBvdXIgVGVybXMgb2YgU2VydmljZSBmb3IgdXNlcnMgd2l0aCBhY2Nlc3MgdG8g
+R29vZ2xlICANCkFkZGl0aW9uYWwgU2VydmljZXMuIFJldmlldyB3aGF0IHRoZXNlIGNoYW5nZXMg
+d2lsbCBtZWFuIGZvciB5b3VyIHVzZXJzIGJ5ICANCkphbnVhcnkgNSwgMjAyMi4NCg0KRGVhciBB
+ZG1pbmlzdHJhdG9yLA0KDQpXZSdyZSByZWFjaGluZyBvdXQgYmVjYXVzZSBvbiBKYW51YXJ5IDUs
+IDIwMjIsIHdlJ3JlIG1ha2luZyBzb21lIGNoYW5nZXMgdG8gIA0Kb3VyIFRlcm1zIG9mIFNlcnZp
+Y2UgdGhhdCB3aWxsIGFwcGx5IHRvIHVzZXJzIGluIHlvdXIgZG9tYWluICANCihhd2FrZW50aGVu
+b3J0aC5vcmcpIGlmIHlvdSd2ZSBlbmFibGVkIEdvb2dsZSBBZGRpdGlvbmFsIFNlcnZpY2VzIGZv
+ciB0aGVtLg0KDQpXaGF0IGRvZXMgdGhpcyBtZWFuIGZvciBteSBvcmdhbml6YXRpb24/DQoNCk91
+ciBuZXcgVGVybXMgb2YgU2VydmljZSB3b24ndCBhZmZlY3QgdGhlIHdheSB5b3VyIHVzZXJzIGV4
+cGVyaWVuY2UgR29vZ2xlICANCnNlcnZpY2VzLCBidXQgdGhleSdsbCBtYWtlIGl0IGVhc2llciBm
+b3IgeW91ciB1c2VycyB0byB1bmRlcnN0YW5kIHdoYXQgdGhleSAgDQpjYW4gZXhwZWN0IGZyb20g
+R29vZ2xlIOKAlGFuZCB3aGF0IHdlIGV4cGVjdCBmcm9tIHRoZW3igJQgYXMgdGhleSB1c2Ugb3Vy
+ICANCnNlcnZpY2VzLiBUaGVzZSBjaGFuZ2VzIHdvbid0IGFmZmVjdCB0aGUgYWdyZWVtZW50IGJl
+dHdlZW4gR29vZ2xlIGFuZCB5b3VyICANCm9yZ2FuaXphdGlvbi4NCg0KV2hhdCdzIGNoYW5naW5n
+Pw0KDQpZb3VyIHVzZXJzIGNhbiByZXZpZXcgdGhlIG5ldyBHb29nbGUgVGVybXMgb2YgU2Vydmlj
+ZS4gV2UndmUgYWxzbyBwcm92aWRlZCAgDQphIHN1bW1hcnkgb2YgdGhlIGtleSBjaGFuZ2VzIGZv
+ciB1c2VycyBpbiB0aGUgRXVyb3BlYW4gRWNvbm9taWMgQXJlYSAoRUVBKS4gIA0KQXQgYSBnbGFu
+Y2UsIGhlcmUncyB3aGF0IHRoaXMgdXBkYXRlIG1lYW5zIGZvciB5b3VyIHVzZXJzOg0KDQoNCk1v
+cmUgY2xhcml0eSBvbiB3aGF0IHdlIGV4cGVjdCBmcm9tIHVzZXJzLCBhbmQgd2hhdCB1c2VycyBj
+YW4gZXhwZWN0IGZyb20gIA0KdXM6IFdlJ3JlIHByb3ZpZGluZyBtb3JlIGV4YW1wbGVzIHRvIGRl
+c2NyaWJlIHRoZSBtdXR1YWxseSByZXNwZWN0ZnVsICANCmNvbmR1Y3QgdGhhdCB3ZSBleHBlY3Qg
+ZnJvbSBhbGwgb2Ygb3VyIHVzZXJzLg0KSW1wcm92ZWQgcmVhZGFiaWxpdHk6IFdoaWxlIG91ciB0
+ZXJtcyByZW1haW4gYSBsZWdhbCBkb2N1bWVudCwgd2UndmUgZG9uZSAgDQpvdXIgYmVzdCB0byBt
+YWtlIHRoZW0gZWFzaWVyIHRvIHVuZGVyc3RhbmQsIGluY2x1ZGluZyBieSByZW9yZ2FuaXppbmcg
+c29tZSAgDQp0b3BpY3Mgc28gdGhhdCB0aGV5J3JlIGVhc2llciB0byBmaW5kLg0KRm9yIEVFQS1i
+YXNlZCB1c2VyczoNCg0KRGV2ZWxvcGluZywgaW1wcm92aW5nLCBhbmQgdXBkYXRpbmcgb3VyIHNl
+cnZpY2VzOiBXZSdyZSBjbGFyaWZ5aW5nIGhvdyB3ZSAgDQpkZXZlbG9wLCBpbXByb3ZlLCBhbmQg
+dXBkYXRlIG91ciBkaWdpdGFsIGNvbnRlbnQsIHNlcnZpY2VzLCBhbmQgZ29vZHMgIA0K4oCUaW5j
+bHVkaW5nIG1vcmUgZGV0YWlsIGFib3V0IHRoZSByZWFzb25zIHdlIG1ha2UgY2hhbmdlcyBhbmQg
+bGVnYWxseeKAlCAgDQpyZXF1aXJlZCB1cGRhdGVzLCB0aGUgYWR2YW5jZWQgbm90aWNlIHdlIHBy
+b3ZpZGUgdG8gdXNlcnMsIGFuZCB0aGVpciByaWdodCAgDQp0byB3aXRoZHJhdyBmcm9tIHRoZWly
+IGNvbnRyYWN0IHdpdGggdXMuDQpMZWdhbCBndWFyYW50ZWU6IFdlJ3JlIHN1bW1hcml6aW5nIHRo
+ZSBsZWdhbCBndWFyYW50ZWVzIHRoYXQgdXNlcnMgcmVjZWl2ZSAgDQp1bmRlciBFRUEgY29uc3Vt
+ZXIgbGF3cyB3aGVuIHRoZXkgdXNlIG91ciBkaWdpdGFsIGNvbnRlbnQsIHNlcnZpY2VzLCBhbmQg
+IA0KZ29vZHMuDQpXaXRoZHJhd2FsIHJpZ2h0OiBXZSdyZSBwcm92aWRpbmcgaW5mb3JtYXRpb24g
+YWJvdXQgYSB1c2VyJ3MgbGVnYWwgcmlnaHQgdG8gIA0Kd2l0aGRyYXcgZnJvbSB0aGUgdGVybXMg
+d2l0aGluIDE0IGRheXMgb2YgYWdyZWVpbmcgdG8gdGhlbSBpZiB0aGV5J3JlIGFuICANCkVFQS1i
+YXNlZCBjb25zdW1lci4gV2UncmUgYWxzbyBpbmNsdWRpbmcgYSBjb3B5IG9mIHRoZSBFVSBNb2Rl
+bCAgDQpJbnN0cnVjdGlvbnMgb24gV2l0aGRyYXdhbCBpbiBjYXNlIHRoZXkgd2FudCB0byBleGVy
+Y2lzZSB0aGF0IHJpZ2h0Lg0KQWRkaXRpb25hbCBkZWZpbml0aW9uczogV2UncmUgYWRkaW5nIG1v
+cmUgZXhwbGFuYXRvcnkgdGV4dCB0byBoZWxwIHVzZXJzICANCnVuZGVyc3RhbmQgY2VydGFpbiBs
+ZWdhbCBjb25jZXB0cyB0aGF0IHdlIHJlZmVyIHRvIGluIG91ciB0ZXJtcywgaW5jbHVkaW5nICAN
+CuKAnGNvbW1lcmNpYWwgZ3VhcmFudGVl4oCdLCDigJxsZWdhbCBndWFyYW50ZWXigJ0sIGFuZCDi
+gJxsYWNrIG9mIGNvbmZvcm1pdHnigJ0uDQoNCkZvciBVUy1iYXNlZCB1c2VyczoNCg0KUmV2aXNl
+ZCB3YXJyYW50eSBkaXNjbGFpbWVycyBhbmQgbGltaXRhdGlvbnMgb2YgbGlhYmlsaXR5OiBXZSdy
+ZSBpbmNsdWRpbmcgIA0KbmV3IHdhcnJhbnR5IGRpc2NsYWltZXJzIGFuZCBsaW1pdGF0aW9ucyBv
+ZiBsaWFiaWxpdHkgdG8gcmVmbGVjdCBpbmR1c3RyeSAgDQpzdGFuZGFyZHMuDQpJbmNyZWFzZWQg
+Y2xhcml0eSBhbmQgY2VydGFpbnR5IGluIGNhc2Ugb2YgcHJvYmxlbXMgb3IgZGlzYWdyZWVtZW50
+czogV2UgIA0KY2hhbmdlZCBzb21lIG9mIHRoZSBsYW5ndWFnZSBpbiB0aGUgVGFraW5nIGFjdGlv
+biBpbiBjYXNlIG9mIHByb2JsZW1zIGFuZCAgDQpTZXR0bGluZyBkaXNwdXRlcywgZ292ZXJuaW5n
+IGxhdywgYW5kIGNvdXJ0cyBzZWN0aW9ucyB0byBtYWtlIGl0IGNsZWFyZXIgIA0Kd2hhdCB3b3Vs
+ZCBoYXBwZW4gaW4gdGhvc2Ugc2l0dWF0aW9ucy4NCg0KDQpXaGF0IGRvIEkgbmVlZCB0byBkbz8N
+Cg0KTm8gYWN0aW9uIGlzIHJlcXVpcmVkLiBZb3UgY2FuIG1hbmFnZSB3aGV0aGVyIHlvdXIgdXNl
+cnMgaGF2ZSBhY2Nlc3MgdG8gIA0KQWRkaXRpb25hbCBTZXJ2aWNlcywgYW5kIHdoaWNoIG9uZXMs
+IGluIHRoZSBBZG1pbiBjb25zb2xlLg0KDQpUaGFuayB5b3UgZm9yIGNob29zaW5nIEdvb2dsZSBX
+b3Jrc3BhY2UuDQoNCuKAkyBUaGUgR29vZ2xlIFdvcmtzcGFjZSBUZWFtDQoNCg0KwqkgMjAyMSBH
+b29nbGUgTExDIDE2MDAgQW1waGl0aGVhdHJlIFBhcmt3YXksIE1vdW50YWluIFZpZXcsIENBIDk0
+MDQzDQoNCllvdSBoYXZlIHJlY2VpdmVkIHRoaXMgaW1wb3J0YW50IHVwZGF0ZSBhYm91dCB5b3Vy
+IEdvb2dsZSBXb3Jrc3BhY2UgYWNjb3VudCAgDQpiZWNhdXNlIHlvdSBkZXNpZ25hdGVkIHRoaXMg
+ZW1haWwgYWRkcmVzcyBhcyBhIHByaW1hcnkgb3Igc2Vjb25kYXJ5IGNvbnRhY3QgIA0KZm9yIG1h
+bmRhdG9yeSBzZXJ2aWNlIGNvbW11bmljYXRpb25zIGluIHlvdXIgR29vZ2xlIEFkbWluIGNvbnNv
+bGUgcHJvZmlsZS4NCg0K
+--000000000000a07b8d05d21944c8
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!-- This contains CSS info, starts the body, and inserts the Google Worksp=
+ace logo header -->
+<span style=3D"font-family: Roboto, Arial, sans-serif; font-size: 14px; col=
+or: #000000;"> </span>
+<div style=3D"padding-top: 22px; padding-bottom: 6px; border-bottom-style: =
+solid; border-bottom-color: #dcdcdc; border-bottom-width: 1px" width=3D100%=
+><span style=3D"font-family: Roboto, Arial, sans-serif; font-size: 14px; co=
+lor: #000000;"><img alt=3D"Google Workspace logo" border=3D0 src=3Dhttp://s=
+ervices.google.com/fh/files/emails/google_workspace_750x96px_gray_lockup_go=
+ogle_product_624x96px_clr.png style=3D"display: block;" title=3DGoogle widt=
+h=3D250> </span></div>
+<span style=3D"font-family: Roboto, Arial, sans-serif; font-size: 14px; col=
+or: #000000;"> <!-- This is the beginning of the subject --> </span>
+<!-- Include the Pre-header snippet, copy HTML from TEMPLATE SNIPPET ID 916=
+0213 and add the pre-header text-->
+<div style=3D"height:0px; font-size:0px; max-height:0px; min-height: 0px; l=
+ine-height:0px; width: 100%; color: #fff; display:none;">We will update our=
+ end user-facing Terms of Service effective January 5, 2022.</div>
+
+<!-- If message includes Summary at top, copy HTML from TEMPLATE SNIPPET ID=
+ 9426325 and add the summary text. Otherwise delete this section.-->
+<div align=3Dcenter class=3Demphasis style=3D"
+                font-family: Arial;
+                padding:20px 0 20px 0;
+                color: #263238;
+                font-weight: 400px;
+                font-size: 18px;
+                line-height:26px;"><em>We=E2=80=99re updating our Terms of =
+Service for users with access to Google Additional Services. Review what th=
+ese changes will mean for your users by January 5, 2022.</em></div>
+
+<!-- Please INSERT the relevant Customer Comm BODY snippet -->
+<p>Dear Administrator,</p>
+
+<p>We=E2=80=99re reaching out because on <strong>January 5, 2022</strong>, =
+we=E2=80=99re making some changes to our Terms of Service that will apply t=
+o users in your domain (<a rel=3Dnofollow style=3Dtext-decoration:none>awak=
+enthenorth.org</a>) if you=E2=80=99ve enabled <a target=3D_blank href=3Dhtt=
+ps://notifications.google.com/g/p/AD-FnExOpBjqE8sBiETEr4AABDzn2qDR0JHHEEVxC=
+MH1Wik6xa7cpSl_DVIVY1RtijIxicswChFUft5ae69ojGX3QNhRuaB8yxJXnC_57GHujg><stro=
+ng>Google Additional Services</strong></a> for them.</p>
+
+<h3>What does this mean for my organization?</h3>
+
+<p>Our new Terms of Service won=E2=80=99t affect the way your users experie=
+nce Google services, but they=E2=80=99ll make it easier for your users to u=
+nderstand what they can expect from Google =E2=80=94and what we expect from=
+ them=E2=80=94 as they use our services. These changes won=E2=80=99t affect=
+ the agreement between Google and your organization.</p>
+
+<h3>What=E2=80=99s changing?</h3>
+
+<p>Your users can review the <a target=3D_blank href=3Dhttps://notification=
+s.google.com/g/p/AD-FnEwZaGOjXw1LVt2mnWPtyoWpM6eiPkC1ktLnBjpYitWztSpWgeOYrE=
+zEGRzBVj2r89Uq6z6dPzxtIW-NvOOw7P8-ZPCqXqCGJVirUpc>new Google Terms of Servi=
+ce</a>. We=E2=80=99ve also provided a <a target=3D_blank href=3Dhttps://not=
+ifications.google.com/g/p/AD-FnEw80-LZa1dl_YROOtos9WE_a6b2Tqz0j2fsi8tvCnoY6=
+aWBOoHApFUy9LkvFGrUMy_ymzAocPPBpADxsrklfrkf_EHnHuT5xg577qfz>summary of the =
+key changes</a> for users in the European Economic Area (EEA). At a glance,=
+ here=E2=80=99s what this update means for your users:</p>
+
+<ul>
+  <li><strong>More clarity on what we expect from users, and what users can=
+ expect from us:</strong> We=E2=80=99re providing more examples to describe=
+ the mutually respectful conduct that we expect from all of our users.</li>
+  <li><strong>Improved readability:</strong> While our terms remain a legal=
+ document, we=E2=80=99ve done our best to make them easier to understand, i=
+ncluding by reorganizing some topics so that they=E2=80=99re easier to find=
+.</li>
+  <li><strong>For EEA-based users:</strong>
+    <ul>
+      <li><strong>Developing, improving, and updating our services:</strong=
+> We=E2=80=99re clarifying how we develop, improve, and update our digital =
+content, services, and goods =E2=80=94including more detail about the reaso=
+ns we make changes and legally=E2=80=94 required updates, the advanced noti=
+ce we provide to users, and their right to withdraw from their contract wit=
+h us.</li>
+      <li><strong>Legal guarantee:</strong> We=E2=80=99re summarizing the l=
+egal guarantees that users receive under EEA consumer laws when they use ou=
+r digital content, services, and goods.</li>
+      <li><strong>Withdrawal right:</strong> We=E2=80=99re providing inform=
+ation about a user=E2=80=99s legal right to withdraw from the terms within =
+14 days of agreeing to them if they=E2=80=99re an EEA-based consumer. We=E2=
+=80=99re also including a copy of the EU Model Instructions on Withdrawal i=
+n case they want to exercise that right.</li>
+      <li><strong>Additional definitions:</strong> We=E2=80=99re adding mor=
+e explanatory text to help users understand certain legal concepts that we =
+refer to in our terms, including =E2=80=9Ccommercial guarantee=E2=80=9D, =
+=E2=80=9Clegal guarantee=E2=80=9D, and =E2=80=9Clack of conformity=E2=80=9D=
+.</li>
+    </ul>
+  </li>
+  <li><strong>For US-based users:</strong>
+    <ul>
+      <li><strong>Revised warranty disclaimers and limitations of liability=
+:</strong> We=E2=80=99re including new warranty disclaimers and limitations=
+ of liability to reflect industry standards.</li>
+      <li><strong>Increased clarity and certainty in case of problems or di=
+sagreements:</strong> We changed some of the language in the <em>Taking act=
+ion in case of problems</em> and <em>Settling disputes, governing law, and =
+courts</em> sections to make it clearer what would happen in those situatio=
+ns.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3>What do I need to do?</h3>
+
+<p><strong>No action is required</strong>. You can manage whether your user=
+s have access to Additional Services, and which ones, in the Admin console.=
+</p>
+
+<p>Thank you for choosing Google Workspace.</p>
+
+<p><strong>=E2=80=93 The Google Workspace Team</strong></p>
+<!-- Finally, include the standard footer. This also ends the body -->
+<div style=3D"font-size: 10px; color: #666666; padding-top: 8px; border-top=
+-style: solid; border-top-color: #dcdcdc; border-top-width: 1px">
+  <p>=C2=A9 2021=C2=A0 Google LLC=C2=A01600 Amphitheatre Parkway, Mountain =
+View, CA 94043</p>
+
+  <p><i>You have received this important update about your Google Workspace=
+ account because you=C2=A0designated this email address as a primary or sec=
+ondary contact for mandatory service communications in your Google=C2=A0<a =
+href=3Dhttp://notifications.google.com/g/p/AD-FnEyhkIvbfpTLUvkOIfv6yck-qbX2=
+V1WaN0N0COnWB58Qt48xykbCUidrRGnb_GgJ74nM2Km_spc4aR07bw target=3D_blank>Admi=
+n console</a>=C2=A0profile.</i></p>
+</div>
+<img alt=3D"" height=3D1 width=3D3 src=3Dhttps://notifications.google.com/g=
+/img/AD-FnExbHzmMxL1L9BYZxhYAh7Gj0E0KL7b1ciWBDCO2qmEwY00.gif>
+--000000000000a07b8d05d21944c8--

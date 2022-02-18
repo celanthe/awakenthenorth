@@ -1,0 +1,2 @@
+[06-Apr-2021 04:42:34 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 65536 bytes) in /home/intheexp/atn.bigskyheathen.com/wp-content/plugins/facebook-for-woocommerce/class-wc-facebookcommerce.php on line 130
+[06-Apr-2021 04:42:34 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 65536 bytes) in /home/intheexp/atn.bigskyheathen.com/wp-content/plugins/mailchimp-for-woocommerce/bootstrap.php on line 75

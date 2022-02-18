@@ -1,0 +1,188 @@
+Return-Path: <>
+Delivered-To: noreply@awakenthenorth.org
+Received: from a2ss46.a2hosting.com
+	by a2ss46.a2hosting.com with LMTP
+	id 8PMVBhyd6WCg5ycAjrpv+A
+	(envelope-from <>)
+	for <noreply@awakenthenorth.org>; Sat, 10 Jul 2021 09:14:04 -0400
+Return-path: <>
+Envelope-to: noreply@awakenthenorth.org
+Delivery-date: Sat, 10 Jul 2021 09:14:04 -0400
+Received: from anteater.oak.relay.mailchannels.net ([23.83.215.3]:33568)
+	by a2ss46.a2hosting.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2)
+	id 1m2Cnz-00B08N-RZ
+	for noreply@awakenthenorth.org; Sat, 10 Jul 2021 09:14:04 -0400
+Received: by relay.mailchannels.net (Postfix)
+	id 6FAF2922468; Sat, 10 Jul 2021 13:13:21 +0000 (UTC)
+Date: Sat, 10 Jul 2021 13:13:21 +0000 (UTC)
+From: MAILER-DAEMON@mailchannels.net (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: noreply@awakenthenorth.org
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="39C0E922520.1625922801/relay.mailchannels.net"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20210710131321.6FAF2922468@relay.mailchannels.net>
+
+This is a MIME-encapsulated message.
+
+--39C0E922520.1625922801/relay.mailchannels.net
+Content-Description: Notification
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+This is the mail system at host relay.mailchannels.net.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<Heathens.hearth@yahoo.con>: Host or domain name not found. Name service error
+    for name=yahoo.con type=A: Host not found
+
+--39C0E922520.1625922801/relay.mailchannels.net
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+Content-Transfer-Encoding: 8bit
+
+Reporting-MTA: dns; relay.mailchannels.net
+X-Postfix-Queue-ID: 39C0E922520
+X-Postfix-Sender: rfc822; noreply@awakenthenorth.org
+Arrival-Date: Sat, 10 Jul 2021 13:13:21 +0000 (UTC)
+
+Final-Recipient: rfc822; Heathens.hearth@yahoo.con
+Original-Recipient: rfc822;Heathens.hearth@yahoo.con
+Action: failed
+Status: 5.4.4
+Diagnostic-Code: X-Postfix; Host or domain name not found. Name service error
+    for name=yahoo.con type=A: Host not found
+
+--39C0E922520.1625922801/relay.mailchannels.net
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <noreply@awakenthenorth.org>
+Received: from relay.mailchannels.net (localhost [127.0.0.1])
+	by relay.mailchannels.net (Postfix) with ESMTP id 39C0E922520
+	for <Heathens.hearth@yahoo.con>; Sat, 10 Jul 2021 13:13:21 +0000 (UTC)
+Received: from a2ss46.a2hosting.com (100-98-55-150.trex-nlb.outbound.svc.cluster.local [100.98.55.150])
+	(Authenticated sender: a2hosting)
+	by relay.mailchannels.net (Postfix) with ESMTPA id BC85A922420
+	for <Heathens.hearth@yahoo.con>; Sat, 10 Jul 2021 13:13:18 +0000 (UTC)
+X-Sender-Id: a2hosting|x-authuser|noreply@awakenthenorth.org
+Received: from a2ss46.a2hosting.com (a2ss46.a2hosting.com [66.198.240.52])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384)
+	by 100.98.55.150 (trex/6.3.3);
+	Sat, 10 Jul 2021 13:13:21 +0000
+X-MC-Relay: Neutral
+X-MailChannels-SenderId: a2hosting|x-authuser|noreply@awakenthenorth.org
+X-MailChannels-Auth-Id: a2hosting
+X-Cold-Tank: 48d1fd267a3b82bb_1625922800939_1613342496
+X-MC-Loop-Signature: 1625922800939:2168113882
+X-MC-Ingress-Time: 1625922800939
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=awakenthenorth.org; s=default; h=Content-Type:MIME-Version:To:From:Subject:
+	Date:Message-ID:Sender:Reply-To:Cc:Content-Transfer-Encoding:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=srIC0vWacHqFj3vcDz/D2mBTZRKDZp4GwvTGuqwFCsM=; b=YbUhfg5i62V0H3t8GFbHVFtaFC
+	hPHIS2Av7aboHM9hYjbroXxge+DwUanDXzZ2EImso0gSaDfdYtDjm/r2NF7LzcGfo1hnIBvUznOos
+	JPTKX7v/E3aQ8bgOLcjQNHxZS6Irk6WNu63KVIk/oT/nlnEEVU5KJ1cS2tDoPi8Hs3YpS5S4ql3Fu
+	Ro+TdDsRaxTTsAysZpb9ZUSiuTw0Zyfgze+xj2nuwa5ZM3UJMX5O8H5h8t4tUIcKi+XjuNcHbzeO1
+	6wrpFGFRBRKvI1473jKT0CKJ9sGNzEufCewWL7wIVN3zk0qa6hF7Hma93iZWF5QSthKEsyc82OG/H
+	tiasjprw==;
+Received: from [66.198.240.52] (port=38846 helo=members.awakenthenorth.org)
+	by a2ss46.a2hosting.com with esmtpa (Exim 4.94.2)
+	(envelope-from <noreply@awakenthenorth.org>)
+	id 1m2CnF-00B00f-Md
+	for Heathens.hearth@yahoo.con; Sat, 10 Jul 2021 09:13:17 -0400
+Message-ID: <9a06febfea9b62686f207e605dd82f27@members.awakenthenorth.org>
+Date: Sat, 10 Jul 2021 07:13:17 -0600
+Subject: ATN: Please verify your email address.
+From: Awaken The North <noreply@awakenthenorth.org>
+To: Heathens.hearth@yahoo.con
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1625922797_c3a300ab8f2d7aa7c97c627b17fef425_=_"
+X-AuthUser: noreply@awakenthenorth.org
+
+
+--_=_swift_1625922797_c3a300ab8f2d7aa7c97c627b17fef425_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Sarah Camp,
+Thank you for applying for membership to Awaken The Nort=
+h.
+There are two steps left before you become an AtN member.
+First, you=
+ must verify your email address by copying and pasting the following into t=
+he address bar of your browser: http://members.awakenthenorth.org/verify.ph=
+p?code=3D6ecec354859d007b99d35644c8b3c14a
+Once you have verified your ema=
+il address, your application will be forwarded to our Chancellor of Member =
+Affairs, Anja Solsystir for approval.
+Unlike joining a typical website, t=
+o maintain a safe and inclusive community, all applications are vetted befo=
+re they are approved.
+If for any reason we need more information from you=
+ in order to approve your application, we will email you at the address you=
+ provided.
+
+We thank you for your patience and hope to have your applic=
+ation approved soon.
+-Awaken The North.
+www.awakenthenorth.org
+www.fa=
+cebook.com/AwakenTheNorth
+
+--_=_swift_1625922797_c3a300ab8f2d7aa7c97c627b17fef425_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+<img src=3D"https://members.awakenthenorth.org/logo2.png"><br>
+Dear Sa=
+rah Camp,<br>
+Thank you for applying for membership to Awaken The North.<=
+br><br>
+There are two steps left before you become an AtN member.<br>
+F=
+irst, you must verify your email address by clicking this link: <a href=3D"=
+http://members.awakenthenorth.org/verify.php?code=3D6ecec354859d007b99d3564=
+4c8b3c14a">Verify my E-Mail</a><br>
+Or by copying and pasting the followi=
+ng into the address bar of your browser: http://members.awakenthenorth.org/=
+verify.php?code=3D6ecec354859d007b99d35644c8b3c14a<br><br>
+Once you have =
+verified your email address, your application will be forwarded to our Chan=
+cellor of Member Affairs, Anja Solsystir for approval.<br>
+Unlike joining=
+ a typical website, to maintain a safe and inclusive community, all applica=
+tions are vetted before they are approved. <br>
+If for any reason we need=
+ more information from you in order to approve your application, we will em=
+ail you at the address you provided.<br><br>
+We thank you for your patien=
+ce and hope to have your application approved soon.<br>
+-Awaken The North=
+.<Br>
+<a href=3D"http://www.awakenthenorth.org">www.awakenthenorth.org</a=
+><br>
+<a href=3D"https://www.facebook.com/AwakenTheNorth/">www.facebook.c=
+om/AwakenTheNorth</a><br>
+
+--_=_swift_1625922797_c3a300ab8f2d7aa7c97c627b17fef425_=_--
+
+
+--39C0E922520.1625922801/relay.mailchannels.net--

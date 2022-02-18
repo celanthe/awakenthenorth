@@ -1,0 +1,128 @@
+Return-Path: <stella.skylar@oc10tech.com>
+Delivered-To: atn@awakenthenorth.org
+Received: from a2ss46.a2hosting.com
+	by a2ss46.a2hosting.com with LMTP
+	id 8GcfJHel3GE7piEAjrpv+A
+	(envelope-from <stella.skylar@oc10tech.com>)
+	for <atn@awakenthenorth.org>; Mon, 10 Jan 2022 16:30:31 -0500
+Return-path: <stella.skylar@oc10tech.com>
+Envelope-to: atn@awakenthenorth.org
+Delivery-date: Mon, 10 Jan 2022 16:30:31 -0500
+Received: from mail-vk1-f175.google.com ([209.85.221.175]:33615)
+	by a2ss46.a2hosting.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <stella.skylar@oc10tech.com>)
+	id 1n72FL-009GPS-FL
+	for atn@awakenthenorth.org; Mon, 10 Jan 2022 16:30:31 -0500
+Received: by mail-vk1-f175.google.com with SMTP id g5so5237593vkg.0
+        for <atn@awakenthenorth.org>; Mon, 10 Jan 2022 13:30:11 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=oc10tech.com; s=google;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=B8DiiWQOsCBccKQ+v/QPkGeGSRwdxAcEA3PUfqoq0bw=;
+        b=DimOJGjEjmRwT3x+F/FSC3GBW54d2NhrHuDyhFahrdJ4ypkUkrfNLDLEz4bvbvkznx
+         OxcNVgojESsWfwEHvZHyy9h3ndrVN4uLhF/uwv4vdjfDbHeQ6vMVPy7aRWrzjD8WLi6s
+         RY0EV3CHc19gHteg+ZTGGGJny75eWAgM31iSr5Y6i4F5RL8ZIIb0DfmIKVFndb6+nowJ
+         Q2fhDrR8xa3leWpYOST04Z+LW75ZijzyYgk8SU1FYuyFLW1jE+J6+nsAY5kqC9YLW2S2
+         qGPwJ6bDBLejAGhl+3Sd72FvMWDGbsPikGnP0wDik4pl/I+qb6Ucf8yFg/5bqo/kqgtV
+         rLxQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=B8DiiWQOsCBccKQ+v/QPkGeGSRwdxAcEA3PUfqoq0bw=;
+        b=xaovRQqJvzspBcbJbRGGtBR7h1JhNH0AD1ypUMRMI3clIOeY1zB3SeG792P+qNbFAn
+         b5hDh51biXvfTOwHwc3eVfYpD0kKvIChFpIEnkt3PD7dkx+ASoVT5e8IgEY0lPxXdrxt
+         tc8jeHudKNAjKSHLrpnFRl+7vuMSUXQtbHepRlQ1Bd5QsJmxSPuOLUurnAfUqJ/MedVN
+         paT05VU0NTsQpxf/Y4q1vThY4rzd0OK1pdqSMCLdI862mA5LQ8Owx4Bx/5JdoTKepFx4
+         T1z2s+cJijikFkcv4l0QT4zQqQ/A6y5mjOEpJmI9OrcxlllAJ5Wmbnotias717jO/Apq
+         gbbQ==
+X-Gm-Message-State: AOAM532x8QQG8uSLLN5L5Wut8Uwu1boYVrNW/Em7nSZ/hAg/k8cL4T5N
+	UczeOQhAP8wE1bvqFB8cxQv75XMIZUn9epcBVZzp8Q==
+X-Google-Smtp-Source: ABdhPJyEwEZY8SWSvS178djxXpPhCqivP/aVrZiz7eVsEVmyvnAFSLaetgO/s50PFqyEwvijasJzJaPy6+IHlWK1aTQ=
+X-Received: by 2002:ac5:cc4f:: with SMTP id l15mr702182vkm.2.1641850190375;
+ Mon, 10 Jan 2022 13:29:50 -0800 (PST)
+MIME-Version: 1.0
+From: Stella Skylar <stella.skylar@oc10tech.com>
+Date: Tue, 11 Jan 2022 02:59:42 -0500
+Message-ID: <CAEiL5CrPnXieu47CF++fOV=vdEmM--1uaudjnTYtsK_4k05Yog@mail.gmail.com>
+Subject: RemaDays Warsaw-2022 Attendees list
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary="0000000000005f426705d54109be"
+Bcc: atn@awakenthenorth.org
+
+--0000000000005f426705d54109be
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+*Dear Exhibitor,*
+
+
+
+*Are you interested in acquiring the =E2=80=9C**RemaDays Warsaw-2022**=E2=
+=80=9D Post
+Attendees list?*
+
+
+
+*Let me know your thoughts, so that I can send more info on this like cost,
+counts, and samples.*
+
+
+
+*Regards,*
+
+
+
+
+*Stella Skylar*
+
+*Marketing Executive*
+
+--0000000000005f426705d54109be
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;li=
+ne-height:normal"><b style=3D""><font color=3D"#073763" style=3D"" face=3D"=
+verdana, sans-serif">Dear
+Exhibitor,</font></b></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal"=
+><b><font color=3D"#073763" face=3D"verdana, sans-serif">=C2=A0</font></b><=
+/p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal"=
+><font color=3D"#073763" face=3D"verdana, sans-serif"><b>Are you
+interested in acquiring the =E2=80=9C</b><b>RemaDays Warsaw-2022</b><b>=E2=
+=80=9D Post Attendees list?</b></font></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal"=
+><b><font color=3D"#073763" face=3D"verdana, sans-serif">=C2=A0</font></b><=
+/p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal"=
+><b><font color=3D"#073763" face=3D"verdana, sans-serif">Let me know
+your thoughts, so that I can send more info on this like cost, counts, and
+samples.</font></b></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal"=
+><b><font color=3D"#073763" face=3D"verdana, sans-serif">=C2=A0</font></b><=
+/p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal"=
+><b><font color=3D"#073763" face=3D"verdana, sans-serif">Regards,</font></b=
+></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal"=
+><b><font color=3D"#073763" face=3D"verdana, sans-serif">=C2=A0</font></b><=
+/p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 8pt;line-height:107%"><font =
+color=3D"#073763" face=3D"verdana, sans-serif"><b>Stella Skylar<br></b></fo=
+nt></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 8pt;line-height:107%"><b sty=
+le=3D""><font color=3D"#073763" style=3D"" face=3D"verdana, sans-serif">Mar=
+keting Executive</font></b></p></div>
+
+--0000000000005f426705d54109be--

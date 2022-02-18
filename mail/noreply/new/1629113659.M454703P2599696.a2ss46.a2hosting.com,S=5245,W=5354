@@ -1,0 +1,109 @@
+Return-Path: <amandasueemerson@gmail.com>
+Delivered-To: noreply@awakenthenorth.org
+Received: from a2ss46.a2hosting.com
+	by a2ss46.a2hosting.com with LMTP
+	id mNesGjtNGmEQqycAjrpv+A
+	(envelope-from <amandasueemerson@gmail.com>)
+	for <noreply@awakenthenorth.org>; Mon, 16 Aug 2021 07:34:19 -0400
+Return-path: <amandasueemerson@gmail.com>
+Envelope-to: noreply@awakenthenorth.org
+Delivery-date: Mon, 16 Aug 2021 07:34:19 -0400
+Received: from mail-yb1-f173.google.com ([209.85.219.173]:44653)
+	by a2ss46.a2hosting.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <amandasueemerson@gmail.com>)
+	id 1mFasl-00Az6a-Ah
+	for noreply@awakenthenorth.org; Mon, 16 Aug 2021 07:34:19 -0400
+Received: by mail-yb1-f173.google.com with SMTP id w17so32083416ybl.11
+        for <noreply@awakenthenorth.org>; Mon, 16 Aug 2021 04:33:59 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to;
+        bh=bD12SI8F/Ac58jIIIieYN1T2k6UTdnCmjgCvzgmp3Ig=;
+        b=IkscYZ1TApJDfEjysdIYEyAbPDDMOCBQEfpFpim/CK4m2LOCWeuqDfvA+DjTsOF/gi
+         ygWjNCaG2/RneDgrDfONhkfN7z7TCmpQv48AXJx0RiHzoMzna37p+mfXL6GWyiQAEQ1B
+         7+fT2/IRtdHzKAV2WfXFt3ZeFpe+P03giU7ycokHGMO+SmyJiFKVbpbtmP7afj+Ejsoj
+         zR8J27XFiKN0LFUHwlYRxJ5XRRtSOrBpUvhb3apajzyCYSzgf0vkERWxzOfuOMYjNX1A
+         G2QVkIrJnQkRt2H7sZpen8qv7l4pK82dP4vjztHYBxu9FwfbxTKQfRqrFs4rqX6qZLEp
+         yycw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:references:in-reply-to:from:date
+         :message-id:subject:to;
+        bh=bD12SI8F/Ac58jIIIieYN1T2k6UTdnCmjgCvzgmp3Ig=;
+        b=QRG/ST7lZZJCECxMKmp/w83K02Uz6LW9opFtzT5Dsuq0K6wsJqAaxlbBw33rT30ZCP
+         bf7hKqw30fFtfNdu59VxXRLf4pknbf2SxWNizscE9epqr+147KTcaY/D0wS14OllPFnF
+         il0jLhXk79WmesdWCyrmipR7qwUBcJphHnqqKEgKV+Bav2Xx+zGPtqbxvdlCc6H5Ud7T
+         R5THubgu5Roh8xP3OXkH/pKYyhhhmjLcDnJHTnl0nY29L/MaTSjtIAaCFTjUkZ/xxsyD
+         zPnB9Z/IvILWq0CAJ90mvrSSfGMnzVEybVf+rD1hA75eqSlKb+9VgplOpD4dDCVv9v+2
+         5yAg==
+X-Gm-Message-State: AOAM530sVYBrsB3ItTzQXR1LBRvOmTAdfScihhg3/pEsLte5wFFtU6q6
+	zPKn3tiY8hsnGIWNxn8XtLFuX5XO8h7T6eRc/eyRHaSo/3w=
+X-Google-Smtp-Source: ABdhPJy5D3hzmXmq0A3mHu311FCPUZ5uNGOgeYEOs3Ct5FKVVHdojwhwtpxz12soEFC0kI03xI/95k3J2bKFlrLE3Kk=
+X-Received: by 2002:a25:f803:: with SMTP id u3mr20000327ybd.515.1629113618450;
+ Mon, 16 Aug 2021 04:33:38 -0700 (PDT)
+MIME-Version: 1.0
+References: <bcdb8d1f73cf5a5d6f064f85c161c0c6@members.awakenthenorth.org>
+In-Reply-To: <bcdb8d1f73cf5a5d6f064f85c161c0c6@members.awakenthenorth.org>
+From: Amanda Emerson <amandasueemerson@gmail.com>
+Date: Mon, 16 Aug 2021 06:33:27 -0500
+Message-ID: <CACQyOCNBgyMB-JsZjUgqCCMrTLpOvdusoKmrV8Ma_tHRK1=B9Q@mail.gmail.com>
+Subject: Re: About your Membership Application
+To: Awaken The North <noreply@awakenthenorth.org>
+Content-Type: multipart/alternative; boundary="00000000000086cdbc05c9ab9287"
+
+--00000000000086cdbc05c9ab9287
+Content-Type: text/plain; charset="UTF-8"
+
+I would love to hear your opinions as to why, does it have anything to do
+with the fact that I wouldn't donate money right away to an organization
+that I'm not apart of yet? Any insight would be greatly appreciated. Thank
+you.
+
+On Sun, Aug 15, 2021, 11:06 PM Awaken The North <noreply@awakenthenorth.org>
+wrote:
+
+> Dear Amanda Emerson,
+>
+> After careful consideration, we have decided not to accept your membership
+> application to join Awaken the North. While reviewing your Application, we
+> do not think your principles are aligned with ours and do not believe you
+> are a good fit for our community. Should you wish to discuss this further,
+> please reach out to me personally.
+>
+>
+>
+> We appreciate your interest and wish you well.
+>
+> Sincerely,
+>
+> Anja Solsystir
+> Chancellor of Member Affairs
+> Awaken the North
+>
+
+--00000000000086cdbc05c9ab9287
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">I would love to hear your opinions as to why, does it hav=
+e anything to do with the fact that I wouldn&#39;t donate money right away =
+to an organization that I&#39;m not apart of yet? Any insight would be grea=
+tly appreciated. Thank you.</div><br><div class=3D"gmail_quote"><div dir=3D=
+"ltr" class=3D"gmail_attr">On Sun, Aug 15, 2021, 11:06 PM Awaken The North =
+&lt;<a href=3D"mailto:noreply@awakenthenorth.org">noreply@awakenthenorth.or=
+g</a>&gt; wrote:<br></div><blockquote class=3D"gmail_quote" style=3D"margin=
+:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><p>Dear Amanda Eme=
+rson,</p>
+<p>After careful consideration, we have decided not to accept your membersh=
+ip application to join Awaken the North. While reviewing your Application, =
+we do not think your principles are aligned with ours and do not believe yo=
+u are a good fit for our community. Should you wish to discuss this further=
+, please reach out to me personally. </p>
+<p>=C2=A0</p>
+<p>We appreciate your interest and wish you well.</p>
+<p>Sincerely,</p>
+<p>Anja Solsystir<br>Chancellor of Member Affairs<br>Awaken the North</p>
+</blockquote></div>
+
+--00000000000086cdbc05c9ab9287--

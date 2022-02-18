@@ -1,0 +1,533 @@
+Return-Path: <3xyX3YBEKA_w0svowtegi-rsvitp2ksskpi.gsqexre0eoirxlirsvxl.svk@scoutcamp.bounces.google.com>
+Delivered-To: atn@awakenthenorth.org
+Received: from a2ss46.a2hosting.com
+	by a2ss46.a2hosting.com with LMTP
+	id wIb1GPAl92BLqz8Ajrpv+A
+	(envelope-from <3xyX3YBEKA_w0svowtegi-rsvitp2ksskpi.gsqexre0eoirxlirsvxl.svk@scoutcamp.bounces.google.com>)
+	for <atn@awakenthenorth.org>; Tue, 20 Jul 2021 15:37:20 -0400
+Return-path: <3xyX3YBEKA_w0svowtegi-rsvitp2ksskpi.gsqexre0eoirxlirsvxl.svk@scoutcamp.bounces.google.com>
+Envelope-to: atn@awakenthenorth.org
+Delivery-date: Tue, 20 Jul 2021 15:37:20 -0400
+Received: from mail-qk1-f199.google.com ([209.85.222.199]:55879)
+	by a2ss46.a2hosting.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <3xyX3YBEKA_w0svowtegi-rsvitp2ksskpi.gsqexre0eoirxlirsvxl.svk@scoutcamp.bounces.google.com>)
+	id 1m5vYO-0003eD-8C
+	for atn@awakenthenorth.org; Tue, 20 Jul 2021 15:37:20 -0400
+Received: by mail-qk1-f199.google.com with SMTP id e13-20020a37e50d0000b02903ad5730c883so19299624qkg.22
+        for <atn@awakenthenorth.org>; Tue, 20 Jul 2021 12:37:00 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20161025;
+        h=mime-version:date:reply-to:precedence:list-unsubscribe:feedback-id
+         :list-id:message-id:subject:from:to;
+        bh=et0Yrwz5T0TKexi9NsbMZLpKa3hjhE17f/C6WKTTxDU=;
+        b=L+DtByr3orX9UoEAGMyiJSGZ2T1O/Vm48Dokp2sNwLVo9uNtdgmIYAgCArdrP50Hbg
+         9yJbVIy+eGaTSgfSefikI8GIwTrdEmzIST7Rqv+jITZmarLtMz6NpkUA+Y1BkfzlzSsD
+         GyXGcCxSuL9aLdJurJscfDV633THrkCPrBs7oFjMt4Rt9eLDJZ01Yi6IqBjhFwp3IZLX
+         83Orrngvs1SmmRqspdxxL3Azf33JoUx2mmw7LKBPXHoNVYLbfKu/Xb5VyyteLj4PcQUg
+         hlOiSu7AfL5iZNbr0MRKOSxF4Jmc/K0WtalQAPzC3bnpqdM/dKBfM1n654cq1cKYLM5K
+         tqBQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:date:reply-to:precedence
+         :list-unsubscribe:feedback-id:list-id:message-id:subject:from:to;
+        bh=et0Yrwz5T0TKexi9NsbMZLpKa3hjhE17f/C6WKTTxDU=;
+        b=bY1RVKRhnbvnZGfSpCSvxNQ37NhcR53oKU9xhY7bWU4R9f6sMZv5uQ7hgVDHy+vi47
+         6/wm9Qrc06KYtO8AqxEFC1TzS6FvW3lL+ei+9hC3X+TA5TjSDiLhczV3LUtdcRETP8wi
+         CM0LdMbKyI1DHmu67ixijk0F+NcX4y3nbwfAGPECflOBs1MeBChOx8kZa0a2iKul+EcN
+         1/Fb6iGdx5yeHYrTNmNsHvEwgbR5i6T9q1e3t9z1VWfD7iy3xt2oW6aGQCNrGh5+3hw0
+         woyKK4e47vZknOOfnHJBJ4UoDKdYSkBozK9+jnulZRT9+s9C9VvUNQI21u3TwTDLvZ//
+         0BpA==
+X-Gm-Message-State: AOAM533JyT1MvbojxkDhci00Due/krv9TjuDBsiQejOygfuYKTxritH8
+	CKCmxE4/Puj6eOk=
+X-Google-Smtp-Source: ABdhPJxvEL/9TYxpLNNHNJecfrc4JF3+ZEBeqb64FcHh/iLG3wkWElgz3d09vkq3i8ElxbHWa53vTwU=
+MIME-Version: 1.0
+X-Received: by 2002:a37:9586:: with SMTP id x128mr20338951qkd.49.1626809799683;
+ Tue, 20 Jul 2021 12:36:39 -0700 (PDT)
+Date: Tue, 20 Jul 2021 12:36:39 -0700
+Reply-To: The Google Workspace Team <workspace-noreply@google.com>
+X-Google-Id: 4050799
+Precedence: bulk
+List-Unsubscribe: <mailto:list-unsubscribe@google.com?subject=optout-AD-FnExyF6zeUzvoHgJe4Pu89dj1zoPQ52MyHD90ATWghIzzS7v-rJHakVuG6GRCIP3waLm_gyA5We35TU0rBoJWVB4_MDJYlg4D0-_KwcKxwg-token&body=optout-AD-FnExyF6zeUzvoHgJe4Pu89dj1zoPQ52MyHD90ATWghIzzS7v-rJHakVuG6GRCIP3waLm_gyA5We35TU0rBoJWVB4_MDJYlg4D0-_KwcKxwg-token>,
+ <https://notifications.google.com/g/optout/AD-FnExyF6zeUzvoHgJe4Pu89dj1zoPQ52MyHD90ATWghIzzS7v-rJHakVuG6GRCIP3waLm_gyA5We35TU0rBoJWVB4_MDJYlg4D0-_KwcKxwg?hl=en>
+Feedback-ID: P-11-802:C20139459:M110383518-en:gamma
+List-Id: <4b5323da7a4c0018c821b19102d7f6bc97de0ed9.google.com>
+X-Notifications: GAMMA:<4bdca910898cc3ba1deb4ee724c4270be31ee0ee-20139459-110861071@google.com>
+X-Notifications-Bounce-Info: ARgXy4CA9RhQCs3ZW0FR5iagu2uAm7ijBpVLjsyD2FswmwV-rqNUAYZHAHPaLLXb6p2MmP3aOiuisObH5X0Cgg8ZUxazn967joWfauR_V0zWmQz_CK562ENfnOZw80Ng6UTHqaNT6cXT9HYFfAUVK5Y4GrdyiFemqvo2HPY8F8hNMyNGvtRRomLgZCA8OHtYQx_w9-kgdWxD6VcZA9iKPsklM0YrQLGJUb8cKo3JO9ot_7CkZO-8S8GuEHchG0R3qw2Wsbq93fk
+Message-ID: <4bdca910898cc3ba1deb4ee724c4270be31ee0ee-20139459-110861071@google.com>
+Subject: Take your business further with Google Ads
+From: The Google Workspace Team <workspace-noreply@google.com>
+To: atn@awakenthenorth.org
+Content-Type: multipart/alternative; boundary="0000000000003a2efd05c7932cfe"
+
+--0000000000003a2efd05c7932cfe
+Content-Type: text/plain; charset="UTF-8"; format=flowed; delsp=yes
+
+Getting started is simple.
+
+Build your business by reaching new customers
+
+We'll partner with you to help ensure your ads effectively reach and  
+connect with new customers. Our team of experts is here to help you get  
+started.
+
+18552358841 *
+
+Google Ads helps you build your business by showing your ads to customers  
+who are searching for your product or service online. You can:
+
+Create a great ad in minutes
+
+Easily manage your budget
+
+Pay only for engagement
+
+Try Google Ads  
+<https://notifications.google.com/g/p/AD-FnEyBNy4Z7-hA2nOTlTHUJtbK850F2iypU3esoCTubj3nz8JL9iLAvsF4s5kKbxLEmjNd914y_BxdAf3TD2TYD_JNah0W_51cLrZdOao38T5dkJol1rSO_Q7zQrusqWbyhKK4pz6szCN4QwY8f7twSGFns-JyldRpLiFnvl0v937_Hw>
+
+See you there,
+
+The Google Workspace Team
+
+Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043
+
+This email was sent to atn@awakenthenorth.org because you indicated that  
+you'd like to receive offers from Google. If you don't want to receive such  
+emails in the future, please unsubscribe here:  
+<https://notifications.google.com/g/optout/AD-FnEx31Dj34tCc7xnlep929JR5qRT8Db_QuaSfe2BURrHUqdbcmRio5KdHkTxJKQkWPXIN5spO7kT2FHRN4GIifQwADoqFGBxzkdDgCew?hl=en>  
+You can also change your preferences on your account's profile page by  
+logging in at admin.google.com.
+
+*Phone support operating hours are Mon-Fri, 9am-9pm ET
+
+
+--0000000000003a2efd05c7932cfe
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html lang=3Den xmlns=3Dhttp://www.w3.org/1999/xhtml xmlns:v=3Durn:schemas-=
+microsoft-com:vml xmlns:o=3Durn:schemas-microsoft-com:office:office>
+<head>
+<title>Get started with Google Ads</title>
+<!--[if !mso]><!-- -->
+<meta http-equiv=3DX-UA-Compatible content=3DIE=3Dedge>
+<!--<![endif]-->
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3DUTF-8">
+<meta name=3Dviewport content=3D"width=3Ddevice-width, initial-scale=3D1">
+<meta name=3Dcolor-scheme content=3D"light dark">
+<meta name=3Dsupported-color-schemes content=3D"light dark">
+<style>
+@font-face {
+font-family: Noto Naskh Arabic;
+font-style: normal;
+font-weight: 400;
+src: url(https://fonts.gstatic.com/ea/notonaskharabic/v4/NotoNaskhArabic-Re=
+gular.eot);
+src: url(https://fonts.gstatic.com/ea/notonaskharabic/v4/NotoNaskhArabic-Re=
+gular.eot?#iefix) format('embedded-opentype'),
+url(https://fonts.gstatic.com/ea/notonaskharabic/v4/NotoNaskhArabic-Regular=
+.woff2) format('woff2'),
+url(https://fonts.gstatic.com/ea/notonaskharabic/v4/NotoNaskhArabic-Regular=
+.woff) format('woff'),
+url(https://fonts.gstatic.com/ea/notonaskharabic/v4/NotoNaskhArabic-Regular=
+.ttf) format('truetype');
+}
+</style>
+<style type=3Dtext/css>
+/* Basic reset & common css classes for mobile email clients */
+#outlook a{padding:0}
+body{margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size-adjust:=
+100%}
+table,td{border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0}
+img{border:0;height:auto;line-height:100%;outline:0;text-decoration:none;-m=
+s-interpolation-mode:bicubic;}
+p{display:block;margin:0;}
+.mobile_only { display:none; font-size:0px; line-height:0; height:0px; max-=
+height:0px; overflow:hidden; }
+@media screen and (max-width:900px){
+.desktop_only{display:none!important;font-size:0!important;line-height:0!im=
+portant;height:0!important;max-height:0!important;overflow:hidden!important=
+}
+.mobile_only{height:auto!important;overflow:visible!important;display:block=
+!important;max-height:inherit!important;width:100%!important;font-size:inhe=
+rit!important;line-height:inherit!important}
+.margin-auto{ margin-left:auto !important; margin-right:auto !important;}
+.width-100{width:100% !important;}
+.width-480{ width:480px !important; min-width:480px !important;}
+.inline{ display:inline !important;}
+.inline-block{display:inline-block !important;}
+.d-block{ display:block !important;}
+.d-table-row{display: table-row !important;}
+.d-table{display: table !important;}
+.mobile-spacing{padding-left:20px !important; padding-right:20px !important=
+; }
+.text-center{ text-align:center !important;}
+.p-t-0{ padding-top:0 !important; }
+.p-t-20{ padding-top:20px !important; }
+.p-b-0{ padding-bottom:0 !important; }
+.p-l-0{ padding-left:0 !important; }
+.p-r-0{ padding-right:0 !important; }
+.m-t-0{margin-top:0 !important;}
+.m-b-0{margin-bottom:0 !important;}
+.p-t-50{ padding-top:50px !important; }
+.p-t-30{ padding-top:30px !important; }
+.p-b-30{ padding-bottom:30px !important; }
+.hero-headline { font-size:24px !important; }
+.font_size_mob {font-size:13px !important;}
+}
+</style>
+<style type=3Dtext/css>
+@media screen and (max-width:900px){
+.mobile-email-width { width:100% !important; max-width:480px !important; }
+}
+</style>
+<style>
+@media screen and (min-device-width: 360px) and (max-device-width: 374px) a=
+nd (orientation: portrait){
+}
+</style>
+<style>
+@media only screen and (min-width: 393px) and (max-width: 767px) and (orien=
+tation:portrait){
+}
+</style>
+<style>
+@media screen and (min-width:732px) and (max-width:823px){
+}
+</style>
+<style type=3Dtext/css>
+@media (prefers-color-scheme: dark ) {
+html, table, tr, td { background-color:transparent !important; }
+.dt-email-bg{background-color:#242526 !important;}
+.dt-email-body-bg{ background-color:#202124 !important;}
+.dt-email-border{ border: 10px solid #242526 !important; }
+.dt-text-white { color:#ffffff !important; }
+.dt-text-gray { color:#D4D4D4 !important;}
+.dt-darkblue-bg{ background-color: #262b36 !important; }
+.dt-darkblue-border-top{ border-top:2px solid #262b36 !important; }
+.dt-darkblue-border-top-1px{ border-top:1px solid #262b36 !important; }
+.dt-darkblue-border-bottom-1px{ border-bottom:1px solid #262b36 !important;=
+ }
+}
+</style>
+<style type=3Dtext/css>
+@media screen and (min-width: 812px) and (max-width: 812px),
+screen and (min-width: 736px) and (max-width: 736px),
+screen and (min-width: 667px) and (max-width: 667px),
+screen and (min-width: 568px) and (max-width: 568px),
+screen and (min-width: 414px) and (max-width: 414px),
+screen and (min-width: 375px) and (max-width: 375px),
+screen and (min-width: 320px) and (max-width: 320px) {
+.body {
+min-width: 100vw !important;
+}
+}
+</style>
+<!--[if mso]>
+<style>span, td, table, div,a ,p{font-family: Arial, serif !important; }</s=
+tyle>
+<xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+</head>
+<body style=3D"margin:0;padding:0;width:100%; background-color:#F8F9FA;" bg=
+color=3D#F8F9FA class=3D"body dt-email-bg">
+<table role=3Dpresentation align=3Dcenter cellpadding=3D0 cellspacing=3D0 s=
+tyle=3D"width: 600px; margin:0 auto;padding:0; border: 10px solid #F8F9FA;"=
+ class=3D"mobile-email-width dt-email-border" bgcolor=3D#F8F9FA>
+<!--[if !mso]><!-- --> <tr>
+<td style=3D"padding-left:20px;padding-right:20px;padding-top:18px;padding-=
+bottom:20px;font-size: 16px;font-family: Google sans, Roboto, Open Sans, ar=
+ial,sans-serif; line-height: 20px; color:#5f6368;direction:ltr;text-align:l=
+eft; display:none;">Getting started is simple.</td>
+</tr>
+<![endif]-->
+<tr>
+<td style=3D"direction:ltr; padding-bottom: 34px; padding-top:20px; width:1=
+00%;">
+<table role=3Dpresentation dir=3Dltr cellpadding=3D0 cellspacing=3D0 style=
+=3D"border-spacing:0; border-collapse:collapse; width:100%;">
+<tr>
+<td class=3Dmobile-spacing align=3Dleft style=3D"padding-left:25px; padding=
+-top:0;padding-bottom:0; padding-right:25px; text-align:left;font-size:1px;=
+">
+<img height=3D21 src=3Dhttps://services.google.com/fh/files/emails/google_w=
+orkspace_logo_2x.png width=3D161>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class=3D"mobile-email-width mobile-spacing dt-email-body-bg" style=3D"b=
+ackground-color:#ffffff; padding-top:32px; padding-left:51px; padding-right=
+:44px; padding-bottom:33px; border-radius:3px;">
+<table cellspacing=3D0 cellpadding=3D0 border=3D0 width=3D100% role=3Dprese=
+ntation style=3D"width:100%; border:0; border-spacing:0; border-collapse:co=
+llapse;">
+<tr>
+<td style=3D"font-family:Google sans, Roboto, Open Sans, arial,sans-serif;f=
+ont-style:normal;font-weight:normal;font-size:32px;line-height:40px;color:#=
+3C4043; padding-bottom:32px;direction:ltr; text-align:left; word-break:norm=
+al" class=3D"hero-headline dt-text-white">Build your business by reaching n=
+ew customers
+</td>
+</tr>
+<tr>
+<td align=3Dcenter>
+<!--[if !mso]><!-- --> <img src=3Dhttps://services.google.com/fh/files/emai=
+ls/workspace_rem2_hero_2x.png width=3D100%>
+<![endif]--><!--[if gte mso 9]> <img src=3D"https://services.google.com/fh/=
+files/emails/workspace_rem2_hero_2x.png" width=3D"504"/>
+<![endif]--></td>
+</tr>
+<tr>
+<td style=3D"font-family:Roboto, Open Sans, arial,sans-serif;font-style:nor=
+mal;font-weight:normal;font-size:14px;line-height:24px;color: #3B4044; padd=
+ing-top:24px; padding-bottom:24px;direction:ltr; text-align:left; word-brea=
+k:normal;" class=3Ddt-text-white>We&#39;ll partner with you to help ensure =
+your ads effectively reach and connect with new customers. Our team of expe=
+rts is here to help you get started.</td>
+</tr>
+<tr>
+<td class=3Ddt-darkblue-border-bottom-1px style=3D"border-bottom:1px solid =
+#E8EAED; font-family:Roboto, Open Sans, arial,sans-serif;">
+<table role=3Dpresentation cellpadding=3D0 cellspacing=3D0 width=3D100% dir=
+=3Dltr>
+<tbody><tr>
+<td class=3Dsamsung_pad style=3D"padding-top:11px; width:17px;direction: lt=
+r;" valign=3Dtop align=3Dleft dir=3D" ltr">
+<!--[if !mso]><!-- -->
+<a class=3Dmobile_only style=3Ddisplay:none; href=3Dtel:18552358841><img sr=
+c=3Dhttps://services.google.com/fh/files/emails/gmb_gls_hero_dialer_2x.png =
+width=3D11 height=3D11 align=3Dleft style=3Dfloat:left;></a>
+<!--<![endif]-->
+<!--[if mso]>
+<table role=3D"presentation" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" dir=3D" ltr"><tr><td style=3D"padding-top:5px;">
+<![endif]-->
+<span class=3Ddesktop_only style=3D"font-family:Roboto, Open Sans, arial,sa=
+ns-serif; font-size: 16px; text-decoration:none;color:#448aff; direction: l=
+tr;" dir=3D" ltr"><img src=3Dhttps://services.google.com/fh/files/emails/gm=
+b_gls_hero_dialer_2x.png width=3D11 height=3D11 align=3Dleft style=3Dfloat:=
+left;></span>
+<!--[if mso]>
+</td></tr></table>
+<![endif]-->
+</td>
+<!--[if mso]>
+<td style=3D"padding-bottom:31px; font-weight:bold; direction: ltr;color:#1=
+A73E8;text-align: left;" valign=3D"top" class=3D"mobile" dir=3D"ltr"><![end=
+if]-->
+<!--[if !mso]><!-->
+<td style=3D"padding-bottom:31px;font-size:14px;font-family:Roboto, Open Sa=
+ns, arial,sans-serif; line-height:21px;text-align: left; direction: ltr;wor=
+d-break:normal;color:#1A73E8;" valign=3Dtop class=3Dmobile dir=3Dltr>
+<!--<![endif]-->
+<a href=3Dtel:18552358841 style=3D"text-decoration:none; color: #1A73E8; fo=
+nt-weight:bold;">
+</a><a class=3Ddesktop_only style=3D"text-decoration:none; color: #1A73E8; =
+font-weight:bold; direction: ltr;" dir=3Dltr>18552358841</a>
+<a class=3D"mobile_only inline" href=3Dtel:18552358841 style=3D"text-decora=
+tion:none; color: #1A73E8; font-weight:bold; mso-hide: all; direction: ltr;=
+ display:none;" dir=3D" ltr">18552358841</a>
+<sup style=3D"font-size:14px;font-family:Roboto, Open Sans, arial,sans-seri=
+f; line-height:21px;text-align: center; word-break:normal;color:#3C4043;" c=
+lass=3Ddt-text-white>*</sup>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td style=3D"font-family:Roboto, Open Sans, arial,sans-serif;font-style:nor=
+mal;font-weight:normal;font-size:14px;line-height:24px;color: #3B4044; padd=
+ing-top:24px; padding-bottom:32px; direction:ltr; text-align:left; word-bre=
+ak:normal" class=3D"dt-text-white ">Google Ads helps you build your busines=
+s by showing your ads to customers who are searching for your product or se=
+rvice online. You can:</td>
+</tr>
+<tr>
+<td style=3Dpadding-bottom:8px;>
+<table role=3Dpresentation dir=3Dltr cellpadding=3D0 cellspacing=3D0 bgcolo=
+r=3D#ffffff style=3D"background: #ffffff;width:100%;direction:ltr;">
+<tr>
+<td valign=3Dtop style=3D"padding-right:15px;direction:ltr; font-size:14px;=
+line-height:24px; text-align:center; width:36px; padding-top:4px; mso-paddi=
+ng-top-alt:0pt;" width=3D36 class=3Dbullet-mobile-spacing>
+<!--[if gte mso 9]> <table role=3D"presentation" align=3D"center" dir=3D" l=
+tr" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ffffff" style=3D"width:=
+100%; mso-margin-top-alt: 4pt;">
+<tr>
+<td style=3D"font-size:14px;line-height:24px;">
+<![endif]--> <img alt=3D"" src=3Dhttps://services.google.com/fh/files/email=
+s/workspace_build_icon_2x.png width=3D18 style=3Dborder:0;>
+<!--[if gte mso 9]> </td>
+</tr>
+</table>
+<![endif]--> </td>
+<td style=3D"font-size: 14px;font-family:Roboto, Open Sans, arial,sans-seri=
+f;line-height: 24px;padding-top: 0px; color: #3C4043;direction:ltr; word-br=
+eak:normal; padding-bottom:24px;" valign=3Dmiddle dir=3Dltr class=3Ddt-text=
+-white>Create a great ad in minutes</td>
+</tr>
+<tr>
+<td valign=3Dtop style=3D"padding-right:15px;direction:ltr; font-size:14px;=
+line-height:24px; text-align:center; width:36px; padding-top:4px; mso-paddi=
+ng-top-alt:0pt;" width=3D36 class=3Dbullet-mobile-spacing>
+<!--[if gte mso 9]> <table role=3D"presentation" align=3D"center" dir=3D" l=
+tr" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ffffff" style=3D"width:=
+100%; mso-margin-top-alt: 4pt;">
+<tr>
+<td style=3D"font-size:14px;line-height:24px;">
+<![endif]--> <img alt=3D"" src=3Dhttps://services.google.com/fh/files/email=
+s/workspace_budget_icon_2x.png width=3D11 style=3Dborder:0;>
+<!--[if gte mso 9]> </td>
+</tr>
+</table>
+<![endif]--> </td>
+<td style=3D"font-size: 14px;font-family:Roboto, Open Sans, arial,sans-seri=
+f;line-height: 24px;padding-top: 0px; color: #3C4043;direction:ltr; word-br=
+eak:normal; padding-bottom:24px;" valign=3Dmiddle dir=3Dltr class=3Ddt-text=
+-white>Easily manage your budget</td>
+</tr>
+<tr>
+<td valign=3Dtop style=3D"padding-right:15px;direction:ltr; font-size:14px;=
+line-height:24px; text-align:center; width:36px; padding-top:4px; mso-paddi=
+ng-top-alt:0pt;" width=3D36 class=3Dbullet-mobile-spacing>
+<!--[if gte mso 9]> <table role=3D"presentation" align=3D"center" dir=3D" l=
+tr" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ffffff" style=3D"width:=
+100%; mso-margin-top-alt: 4pt;">
+<tr>
+<td style=3D"font-size:14px;line-height:24px;">
+<![endif]--> <img alt=3D"" src=3Dhttps://services.google.com/fh/files/email=
+s/workspace_engagement_icon_2x.png width=3D23 style=3Dborder:0;>
+<!--[if gte mso 9]> </td>
+</tr>
+</table>
+<![endif]--> </td>
+<td style=3D"font-size: 14px;font-family:Roboto, Open Sans, arial,sans-seri=
+f;line-height: 24px;padding-top: 0px; color: #3C4043;direction:ltr; word-br=
+eak:normal; padding-bottom:24px;" valign=3Dmiddle dir=3Dltr class=3Ddt-text=
+-white>Pay only for engagement</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class=3Dtext-center style=3Dpadding-bottom:56px;><table role=3Dpresenta=
+tion style=3D"white-space: nowrap; border-spacing:0; border-collapse:collap=
+se; height:44px;" cellpadding=3D0 cellspacing=3D0 border=3D0 height=3D44 cl=
+ass=3D" margin-auto text-center">
+<tr>
+<td style=3D"background-color: #1A73E8; border-radius:2px; font-size:16px;"=
+ height=3D46 dir=3Dltr>
+<a href=3Dhttps://notifications.google.com/g/p/AD-FnExy-IPXBXH1h_RG7TDQylG8=
+uef5NOAolLfG67216XwPT64ToPwkjoA4ggcJaVfi06vnosyhKhpQjE1xTTbmcamEhSo6FtBTjzd=
+wYaR7UO2NhGSKL8Dl3lrrIGGEFwPMoLt3rFSBiZjQ6FOrtQOsgonFUkm4kY-7BhFnXFIp0DIdue=
+Jm target=3D_blank style=3D"padding: 15px 32px;background-color: #1A73E8; b=
+ackground: #1A73E8;color:#ffffff; text-decoration:none;text-align:center;-w=
+ebkit-text-size-adjust:none; border-radius: 2px;display:block; mso-border-a=
+lt: solid #1A73E8 20pt; direction:ltr;">
+<span style=3D"color:#ffffff;font-family: Google sans, Roboto, Open Sans, a=
+rial,sans-serif;text-align:center;white-space:nowrap;font-weight: normal;">=
+Try <span style=3D"white-space:nowrap; word-break: break-word; " class=3D"s=
+pan " dir=3D"">Google Ads</span></span>
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellspacing=3D0 cellpadding=3D0 border=3D0 width=3D100% role=3Dprese=
+ntation style=3D"width:100%; border:0; border-spacing:0; border-collapse:co=
+llapse;">
+<tr>
+<td style=3D"font-family:Google sans, Roboto, Open Sans, arial,sans-serif;f=
+ont-style:normal;font-weight:normal;font-size:14px;line-height:24px;color:#=
+3C4043; padding-top:0px; direction:ltr;" class=3Ddt-text-white>See you ther=
+e,<br><strong>The Google Workspace Team</strong></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td><table role=3Dpresentation cellspacing=3D0 cellpadding=3D0 border=3D0 w=
+idth=3D100% style=3D"width:100%; border:0; border-spacing:0; border-collaps=
+e:collapse;">
+<tr>
+<td style=3D"padding:24px; padding-right:50px; padding-left:50px;" class=3D=
+mobile-spacing>
+<table role=3Dpresentation cellspacing=3D0 cellpadding=3D0 border=3D0 width=
+=3D100% style=3D"width:100%; border:0; border-spacing:0; border-collapse:co=
+llapse;" dir=3Dltr>
+<tr>
+<td align=3Dleft style=3Dfont-size:1px;><img src=3Dhttps://services.google.=
+com/fh/files/emails/google_footer_tm_logo.png width=3D85></td>
+<td align=3Dright style=3Dfont-size:1px;><img src=3Dhttps://services.google=
+.com/fh/files/emails/footer_google_products_icon_2x.png width=3D137></td>
+</tr>
+</table>
+<table role=3Dpresentation cellspacing=3D0 cellpadding=3D0 border=3D0 width=
+=3D100% style=3D"width:100%; border:0; border-spacing:0; border-collapse:co=
+llapse;">
+<tr>
+<td style=3D"padding-top:40px; font-family:Roboto, Open Sans, arial,sans-se=
+rif;font-style:normal;font-weight:normal;font-size:12px;line-height:18px;co=
+lor: #5F6368; direction:ltr; text-align:left">
+<span style=3D"font-size:inherit; color:inherit; font-weight:inherit; line-=
+height:inherit; font-family:inherit;">Google LLC 1600 Amphitheatre Parkway,=
+ Mountain View, CA 94043</span>
+</td>
+</tr>
+<tr>
+<td style=3D"padding-top:20px; font-family:Roboto, Open Sans, arial,sans-se=
+rif;font-style:normal;font-weight:normal;font-size:12px;line-height:18px;co=
+lor: #5F6368; direction:ltr;">
+<table role=3Dpresentation cellspacing=3D0 cellpadding=3D0 border=3D0 width=
+=3D100% style=3D"width:100%; border:0; border-spacing:0; border-collapse:co=
+llapse; word-break:break-all;"><tr><td style=3D"font-family:Roboto, Open Sa=
+ns, arial,sans-serif;font-style:normal;font-weight:normal;font-size:12px;li=
+ne-height:18px;color: #5F6368; direction:ltr;">
+<span style=3D"font-size:inherit; color:inherit;font-weight:inherit;">This =
+email was sent to atn@awakenthenorth.org because you indicated that you&#39=
+;d like to receive offers from Google. If you don&#39;t want to receive suc=
+h emails in the future, please unsubscribe here: <a style=3Dword-break:brea=
+k-all; href=3Dhttps://notifications.google.com/g/optout/AD-FnExyF6zeUzvoHgJ=
+e4Pu89dj1zoPQ52MyHD90ATWghIzzS7v-rJHakVuG6GRCIP3waLm_gyA5We35TU0rBoJWVB4_MD=
+JYlg4D0-_KwcKxwg?hl=3Den>https://notifications.google.com/g/optout/AD-FnExy=
+F6zeUzvoHgJe4Pu89dj1zoPQ52MyHD90ATWghIzzS7v-rJHakVuG6GRCIP3waLm_gyA5We35TU0=
+rBoJWVB4_MDJYlg4D0-_KwcKxwg?hl=3Den</a> You can also change your preference=
+s on your account&#39;s profile page by logging in at admin.google.com.</sp=
+an>
+</td></tr></table>
+</td>
+</tr>
+<tr>
+<td style=3D"padding-top:15px; font-family:Roboto, Open Sans, arial,sans-se=
+rif;font-style:normal;font-weight:normal;font-size:12px;line-height:18px;co=
+lor: #5F6368; direction:ltr; word-break:normal"><sup>
+*</sup>Phone support operating hours are Mon-Fri, 9am-9pm ET</td>
+</tr>
+<tr>
+<td align=3Dleft style=3D"font-size:1px; padding-bottom:0px; padding-top:36=
+px; "><img src=3Dhttps://services.google.com/fh/files/emails/footer_social_=
+icons_2x.png width=3D125></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<img alt=3D"" height=3D1 width=3D3 src=3Dhttps://notifications.google.com/g=
+/img/AD-FnExMHrypPe0X_MZZ2ze5V4pn4M2Vks0fOrndhR10uXUBr4G6.gif></body>
+</html>
+--0000000000003a2efd05c7932cfe--

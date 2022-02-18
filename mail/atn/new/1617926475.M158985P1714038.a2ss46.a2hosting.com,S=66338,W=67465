@@ -1,0 +1,1127 @@
+Return-Path: <badgoddess1983@gmail.com>
+Delivered-To: ATN@awakenthenorth.org
+Received: from a2ss46.a2hosting.com
+	by a2ss46.a2hosting.com with LMTP
+	id 0AvzCEuZb2B2JxoAjrpv+A
+	(envelope-from <badgoddess1983@gmail.com>)
+	for <ATN@awakenthenorth.org>; Thu, 08 Apr 2021 20:01:15 -0400
+Return-path: <badgoddess1983@gmail.com>
+Envelope-to: ATN@awakenthenorth.org
+Delivery-date: Thu, 08 Apr 2021 20:01:15 -0400
+Received: from mail-ej1-f47.google.com ([209.85.218.47]:42538)
+	by a2ss46.a2hosting.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94)
+	(envelope-from <badgoddess1983@gmail.com>)
+	id 1lUeaI-007Cs1-LN
+	for ATN@awakenthenorth.org; Thu, 08 Apr 2021 20:01:15 -0400
+Received: by mail-ej1-f47.google.com with SMTP id hq27so5825800ejc.9
+        for <ATN@awakenthenorth.org>; Thu, 08 Apr 2021 17:00:54 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=3MLRDrI5+YaVD/HmgnY5GmubQqiG8EksVEHLl0q/YRg=;
+        b=cr6kWHjjMqmd3qIqe5xmN5GCEnKl00KJU4Y578jNAXO3kxzGiFMPJDqIctInGUcjqi
+         ui7WNNhNVZEniDPzATJEhqavRi7fU8R2qaHu4jT2FdivY4gRo0wlDHwt4oF7uyAYCBHK
+         c1cbM89u6oY9ryVyhokxhanSu2MAH/cq0FTprOc6bka1BH4IT5eX3O0wu9dSwUSBSkhh
+         Rh577OEOYpOqZEtI6bclGoV/7ERZLQvPV6zmqlcr8wFmvc3JaCCuRYPqC/mfC4HtSvfY
+         Gb5e2aNZIPKv82e+kdWQUD/FquBrJ1Xbpx/eRYNKKR1fHtQkWNkvmEeXlKu/ORgt5OwB
+         hLgA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=3MLRDrI5+YaVD/HmgnY5GmubQqiG8EksVEHLl0q/YRg=;
+        b=nyTs5iHqZUiWPWfRE6Y383qGTOhuvbBSOmCwLOhCyeZE8whPXb6v74FEnhlJQkL9hU
+         L9JGhZskfsAHYyIxz90+PfmuUE5xuvEn3mLBg0CQf0VjpGqjASN5pCldD3dUVD+eQhsI
+         E2CjAS6dP0OpX7WX4UWmPLs7oL3ndH1vWrbUaW7UvESZ3mMWvUYCehOg/ku40cEd/JS1
+         Fg7hjaP4F6KJT5EXxJbqUowIbQkjHR7mIB9ATibghnnwW2MwDzWZAJm1o1VicN1ACLiA
+         0gfKQYtZtiVBC5k/2UWpmxh2wrfgPp6zDt94zKJXkcuBXY3mDzxiJw3B0/fjuJMiea3Y
+         C++g==
+X-Gm-Message-State: AOAM533D9g9JV5RHzPxB28uQ7c/iCalT9rH+SNIc9m1O3kP9h5bOAi7o
+	ZEeH7a3TjmzlHPu7GkaRjsxMxXLtkFrewDchyvH9DWEBtpo=
+X-Google-Smtp-Source: ABdhPJx9N1Qg0m1Z9RRiKcSyCcfXnRG5ymTvNCCwCvxLgQ45GDwOda7rWHhZrZJTjFKZtpH8e9LQtf7s0RDqCpSY4I8=
+X-Received: by 2002:a17:906:4c96:: with SMTP id q22mr13403824eju.269.1617926432434;
+ Thu, 08 Apr 2021 17:00:32 -0700 (PDT)
+MIME-Version: 1.0
+From: Kevin Neece <badgoddess1983@gmail.com>
+Date: Thu, 8 Apr 2021 19:00:13 -0500
+Message-ID: <CAD4F6wGgpqGAxP3tt3rMzv1rmzSDM5Xr6a520tkcQCXyDQGq6w@mail.gmail.com>
+Subject: The "It Could Happen to You" Experiment
+To: ATN@awakenthenorth.org
+Content-Type: multipart/alternative; boundary="000000000000472b3705bf7edad7"
+
+--000000000000472b3705bf7edad7
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+The "It Could Happen to You" Experiment
+
+Note for the New York 60th Precinct Police. Please humor me for a moment
+because this next experiment may involve you. I've been performing these
+bizarre paranormal research experiments recently where I run fictional
+movies into my bedroom mirror late at night during the invocation of
+Goddess Spirits and Demons and such, and then a few days later an incident
+winds up on Social Media News that ironically mirrors the effects of the
+fictional movie plots I screened. However, in order for this gag to work,
+the film has to have some kind of basis element that can be translated into
+scientific reality.
+
+I'll try to keep the opening short to bring you up to speed. The Curse of
+Ah My Goddess, the anime show, is when the Three Real Goddesses from Norse
+Mythology are invoked, they showcase themselves by causing a "glitch in the
+matrix" where stranger than fiction incidents happen surrounded by IRONY,
+SERENDIPITY, or COINCIDENCE, sometimes relating back to the names Verdandi,
+Urdr, Skolde, Mara, or Norse Mythology in General.
+
+What I have stumbled upon, within the making of a fan film version of the
+Ah My Goddess anime series, is like if a Tales from the Crypt scenario were
+to happen in real life. The show has developed a spiritual attachment like
+a Ouija Board Haunting because Kosuke Fujishima named the characters after
+real life spiritual deities from a Pagan Witchcraft religion that we all
+assumed to be a work of fiction. But all of the evidence I've seen suggests
+these Spirits that manipulate Fate are Real, thought they may be called by
+different names. The implication is that the Franchise Success behind the
+Ah My Goddess anime in Japan is that Kosuke Fujishima was so obsessed with
+his subject matter, that he accidentally invoked the Real Goddesses, and
+they interpreted his Manga Series as a Sacrificial Offering to them in the
+form of publicity for their Goddesses and their Religion so they rewarded
+his series with extreme Good Fortune, and now their images are Franchise
+plastered all over Japan Pop Culture everywhere like Mickey Mouse, unaware
+to Kodansha Ltd that what they've basically done is they've accidentally
+created a brand new form of False Idolatry for the Goddesses because all of
+their fans who find out they have a basis in reality wishfully believe that
+the real Goddesses in the Afterlife are the ones they've fallen in love
+with from the Television Show. But they're not. In real life, those
+Goddesses are responsible for the Birth, Life, and Deaths of everyone on
+Planet Earth including everyone reading this email. And that gives them an
+unexpected Dark Side that nobody appears to be taking seriously except
+Kevin Neece himself.
+
+One night during an Spirit Invocation, Kevin Neece screened Gone With the
+Wind, then he said out loud that the reason he did this was because
+Kodansha Ltd was about to become "Gone with the Wind" due to a curse he had
+placed on their Company CEO for refusing to respond to him about the matter
+for four years and putting him on an industry blacklist. When the movie was
+over, it was announced online that a 7.6 Earthquake hit Miyagi Prefecture
+in Japan.
+
+https://www.cbsnews.com/news/japan-earthquake-shaking-buildings-even-in-tok=
+yo/
+
+I then got the most twisted unbelievable idea ever. This was jokingly
+inspired by a Sean Connery villain from the 1998 Avengers movie with Uma
+Thurman and Ralph Fiennes. In the movie, Sean Connery plays Sir Augustus
+DeWynter, who takes the world hostage by staging a bunch of terrorist
+attacks in the form of Natural Disaster events using a machine that can
+control the weather.
+
+Starting near the end of March 20th 2021:
+
+For the first experiment, this immediate thought came to mind. If I were to
+screen Dante's Peak and Tommy Lee Jones Volcano, does that mean that a
+dormant volcano would erupt? That's exactly what I did. And during the
+movie, I jokingly dared them to do it over and over again. The next
+morning, it was announced on the News that a 6,000 year old dormant volcano
+erupted in Iceland, which is where Norse Mythology originates from.
+
+https://www.cbsnews.com/news/iceland-volcano-fagradals-mountain-eruption-do=
+rmant-for-6000-years/
+
+Taking the experiment even further, on the next night I screened Jan De
+Bont's Twister, daring them to touch down several F5 tornadoes within the
+next 48 hours. The next day, it looked like everything was calm and nothing
+on the horizon, with only a slight 30% on a Wednesday. Within 48 hours the
+dynamic drastically changed and it was reported that multiple F4 and F5
+tornadoes touched down in the Mississippi areas.
+
+https://abcnews.go.com/US/storm-produce-tornadoes-south-weekend/story?id=3D=
+76700550
+
+As Police Officers, I would have you all take note that all of these
+Natural Disaster Events are happening within days of each other near the
+end of March. It's because I screened the Disaster movies within days of
+each other during that time period.
+
+I also screened Wolfgang Peterson's The Perfect Storm and Poseidon
+Adventure remake that night. I believe the reason the Perfect Storm test
+failed is because I requested a recreation of the events on location
+unaware that the incident took place in October, thus being called "The
+Halloween Storm". The Poseidon Adventure cruise ship capsize failed to hit
+it's 48 hour mark as well but on April 4, 2021 it was reported that a
+Cruise Ship capsized in China, which falls within a week or so of the
+screening.
+
+https://newstalk941.com/hundreds-missing-after-china-cruise-ship-capsizes/
+
+The next day or so, I went for the ridiculous one. I screened Michael Bay's
+Armageddon and Deep Impact, my curse victim was Vladimir Putin, and I was
+trying to dare the Goddesses to smash Russia with a Meteor. While this
+incident did not happen, it isn't as stupid as you think it is. After
+checking online, I discovered that two days earlier a Meteor large enough
+to destroy a whole country just passed by Planet Earth missing it, and in
+2013, Russia was hit by a meteor that killed and injured nearly 1,000
+people. I had the right idea, I just missed the mark by a few days.
+
+https://www.cnet.com/news/huge-asteroid-2021-eq3-zoomed-safely-past-the-ear=
+th/
+
+Next on the disaster list was an experiment in Fate where I screened the
+Dwayne Johnson movies San Andreas and Skyscraper to see if Fate could be
+manipulated to put Dwayne Johnson through the motions of real life similar
+events to what was in the movie, only being played out in real life back to
+back in one week. Basically Dwayne Johnson is Fate's Guinea Pig.This
+experiment was run around March 28, 2021 and this was reported on April
+5th. Dwayne Johnson's whereabouts during the incident are still unknown to
+me. If he was halfway around the world shooting a movie at the time the
+incident happend then the experiment kind of failed to be honest even
+though an earthquake did happen. It wasn't THE BIG ONE because the San
+Andreas movie is over the top Hollywood Green Screen bullshit that does not
+match up to Reality.
+
+https://www.cnn.com/2021/04/05/us/earthquake-california-los-angeles/index.h=
+tml
+
+The final test involving War Games, Watchmen Ultimate Cut, The Day the
+Earth Stood Still, Roland Emmerich's The Day after Tomorrow and 2012 were
+specifically curse aimed at the countries threatening the United States
+with Nuclear War, CHINA, RUSSIA, NORTH KOREA, with no set due date other
+than a few warning signs for the CIA and the Pentagon to watch out for. The
+idea is inspired by the movie Watchmen. The reason the United States is
+afraid to attack these countries in pre-emptive self defense is because
+they will launch their missiles in retaliation. But what if these countries
+Nuclear Weapons were disarmed by Hackers leaving them defenseless, and then
+they were wiped out by a Natural Disaster Act of God, unaware that it was
+secretly an attack by someone playing "God in the Machine" in the United
+States, such as the Earthquake in Roland Emmerich's 2012. It's exactly like
+the end of the movie Watchmen. Ozymandias harnessed the Destructive Power
+of the Gods launching an attack that wiped out millions, but it was done in
+the service of deterring and preventing a Nuclear War standoff that would
+have killed billions. Ozymandias "practical joke" was a blood sacrifice
+intended to prevent the total destruction of Planet Earth. Mankind's
+punishment for flirting with the possibility of Nuclear War like it was a
+North Korean Dick Measuring Contest. Kevin Neece is Ozymandias, and the
+Three Goddesses of Fate and their "Natural Disaster Acts of God" represent
+Doctor Manhattan. The Pirate Captain's Quest in Tales of the Black
+Freighter represents the damnation of Kevin Neece's soul as these
+experiments have resulted in him being spirit wife married to an unknown
+Succubus Demon, with the side effect that he can now invoke these dangerous
+entities without suffering from any kind of misfortune backlash side
+effects..
+
+Moving on however, we now come to the 60th Precinct of New York City, which
+is where I'm told Officer Robert Cunningham used to work during the 1985
+Lottery Winning Incident that inspired Nicolas Cage's "It Could Happen to
+You". Once again, in order for these spells to work, there has to be a
+basis in reality, so using a film that was based on a true story makes
+sense in this paranormal experiment.
+
+For more info on the curse of Bad Goddess:
+https://www.linkedin.com/pulse/bad-goddess-cheat-sheet-kevin-sorbo-dean-cai=
+n-kevin-neece
+
+Now that you are all brought up to speed, here is the final article.
+---------------------------------------------------------------------------
+The "It Could Happen to You" Experiment
+
+Last night, as Kevin Neece was running movies through the witchcraft
+invocation process the four movies were as follows:
+My Super Ex-Girlfriend, Valley Girl, Moonstruck, It Could Happen to You.
+Three of which star Nicolas Cage.
+
+The next morning, today, Kevin Neece woke up and then it suddenly dawned on
+him. If screening movies on his television set during the invocation
+process results in the manifestation of fictional movie plots into real
+life, based on whether they were based on scientific reality, and It Could
+Happen to You was based on a true story, then does that mean that lottery
+lighting will strike twice?
+
+And more than that, how is this going to translate into real life? Because
+there are multiple alternate options in front of us.
+
+Does this mean that Kevin Neece is going to win the lottery if he plays?
+
+But It Could Happen to You is about a New York Police Officer sharing his
+winnings with a Waitress.
+
+Does this mean the Spell effects ANY police officer, or just the ones in
+New York?
+
+It's truly puzzling, isn't it? Since Kevin Neece is the spell petitioner,
+we are going to have to assume that the Three Fates are going to relate the
+spell to him.
+
+Let's see if Kevin Neece can crack Verthandi's Lottery Algorithm through
+pure obsessive compulsive gambler logic and crackhead insanity shall we?
+
+Be warned however that Kevin Neece's witchcraft experiments are somewhat
+inspired by the Jim Carrey movie Bruce Almighty.
+
+In Bruce Almighty, Jim Carrey clicked the Yes button to everybody's Prayer
+Emails and it resulted in the entire city of Los Angeles winning the
+lottery at the same time, then they rioted and burned down the city when
+they realized that the payout was only $1 because of the prize money being
+split between the entire city.
+
+Texas Lottery Mega Millions Featuring Megaplier $184 Million
+The Next Draw Today is 4/6/2021 at 10:00pm
+
+Texas Lottery Lotto Texas Extra $8.75 Million Est Cash Value $6.5 Million
+The Next Draw is 4/7/2021 at 10:00pm
+
+Lindsay Ashley Neece's birthday is April 7th, 2004
+
+"For it is easier for a Camel to pass through the eye of the needle, than
+for a Rich Man to Enter into the Kingdom of Heaven"
+
+"God favors the Humble"
+
+Translation:
+Don't Be Greedy, Be Humble and Personal.
+
+I'm going for the 4/7/2021 draw on Lindsay Ashley Neece's Birthday.
+Because who the flying fuck needs $184 Million anyways?
+
+Cash Payout for Lotto Texas is $6 Million.
+
+Officer Robert Cunningham only won $6 Million
+then he shared $3 Million with Phyllis Penzo.
+
+Spell Logic states to go for the Lottery Drawing
+where the cash payouts are close to $6 Million.
+
+The Numbers played in the Movie are
+
+6 - 12 - 16 - 26 - 64 - 84
+
+My guess however, is that some poor bastard on the New York Police Force
+has been playing Robert Cunningham's numbers for decades without luck. It's
+just too easy and highly unlikely, but we'll play them anyways.
+
+24 Years Phyllis Penzo was a Waitress for 24 Years Sal's Pizzeria
+30 Years Robert Cunningham was a 30 Year Veteran
+03 March One Day in March 1984
+19 Year One Day in March 1984
+84 Year One Day in March 1984
+33 Split Cunningham picked 3 numbers, Penzo picked 3 numbers
+
+24 - 30 - 03 - 19 - 84 - 33
+
+David Grogan Article
+"After 24 Years Pushing Pizza,
+Waitress Gets a Tip to Remember"
+April 23, 1984 (p.119)
+
+4 - 23 - 19 - 84 - 11 - 9
+
+Nicolas Cage was born January 7th 1964
+Bridget Fonda was born January 27th 1964
+Kevin Neece was born February 9th, 1983
+
+01 - 07 - 27 - 19 - 64 - 83
+
+Catch 22. Robert Cunningham attended the restaurant Sal's Pizzeria. Danny
+Aiello ran Sal's Pizzeria in Spike Lee's Do the Right Thing which is the
+central basis for Kevin Neece's Fan Film A Certain Magical Pimpdex.
+
+Danny Aiello was born June 20th, 1933
+Do the Right Thing was released in America on June 30th, 1989
+Do the Right Thing was released in the Netherlands (Norse Mythology) on
+July 27th 1989
+
+06 - 20 - 33 - 30 - 19 - 89
+
+06 - 20 - 33 - 7 - 27 - 89
+
+Belldandy's Birthday in the Manga is October 1st
+Her First Appearance in Afternoon is August 25th 1988
+
+10 - 1 - 07 - 25 - 19 - 88
+
+Belldandy's Birthday in the Manga is October 1st
+Her First Appearance in Oh My Goddess OVA is February 21 1993
+
+10 - 1 - 02 - 21 - 19 - 93
+
+Belldandy's Birthday in the Manga is October 1st
+Her First Appearance in Ah My Goddess Anime is January 6th 2005
+
+10 - 1 - 16 - 20 - 05 - 83
+
+Kevin Neece's birthday is 02/09/1983
+Honoku Inoue's birthday is 02/09/1998
+
+10 - 01 - 02 - 09 - 83 - 98
+
+Note Belldandy is Fictional. The real Belldandy is Verthandi from Voluspa.
+
+First Modern Printing of Voluspa was in 1665 by Peder Hansen Resen
+
+Peder Hansen Resen was born June 17, 1625 - June 1, 1688
+
+06 - 17 - 16 - 25 - 1 - 88
+
+Voluspa first appeared in the Codex Regius written during the 1270s.
+Made up of 45 vellum leaves. originally contained further 8 leaves now
+missing.
+The codex was discovered in 1643
+
+12 - 70 - 45 - 8 - 16 - 43 First Discovery Date
+
+or
+
+12 - 70 - 45 - 8 - 16 - 65 First Modern Printing Date
+
+Snorri's Edda (GKS 2367 4to) is also named Codex Regius.
+Composed of 55 vellum pages, dating from the early 14th century.
+It was returned to Iceland in 1985.
+
+23 - 67 - 55 - 14 - 19 - 85
+
+19. An ash I know, | Yggdrasil its name,
+With water white | is the great tree wet;
+Thence come the dews | that fall in the dales,
+Green by Urth's well | does it ever grow.
+
+20. Thence come the maidens | mighty in wisdom,
+Three from the dwelling | down 'neath the tree;
+Urth is one named, | Verthandi the next,--
+On the wood they scored,-- | and Skuld the third.
+Laws they made there, and life allotted
+To the sons of men, and set their fates.
+
+19. Yggdrasil: cf. stanza 2 and note, and Grimnismol, 29-35 and notes. Urth
+("The Past"): one of the three great Norns. The world-ash is kept green by
+being sprinkled with the marvelous healing water from her well.
+
+20. The maidens: the three Norns; possibly this stanza should follow stanza
+8. Dwelling: Regius has "s=C3=A6" (sea) instead of "sal" (hall, home), and =
+many
+editors have followed this reading, although Snorri's prose paraphrase
+indicates "sal." Urth, Verthandi and Skuld: "Past," "Present" and "Future."
+Wood, etc.: the magic signs (runes) controlling the destinies of men were
+cut on pieces of wood. Lines 3-4 are probably interpolations from some
+other account of the Norns.]
+
+19 - 2 - 29 - 35 - 20 - 34
+
+Now that we've gathered up all of these numbers, there is just one more to
+collect, one that cannot be deciphered through research.
+
+Robert Cunningham came up with three numbers himself, and he got the other
+three numbers from Waitress Phyllis Penzo in a pizza parlor.
+
+The Fantasy Relationship presented in the movie is Bullshit. They never
+fell in love in real life. They were both happily married and remained
+friends.
+
+Once Kevin Neece obtains these secret numbers the game is set and he's
+running this experiment through the Burn Sigil Process at 8:00pm tonight.
+
+And we will see if Kevin Neece was able to crack Verthandi's Lottery
+Algorithm.
+
+Remember Gods, Goddesses, Police Officers, and Demon Queens, the point of
+this experimental game isn't to get rich quick.
+
+It's to see which number the Goddesses of Fate chose to apply the winner to
+and decipher the meaning of their intentions.
+
+------------------------
+UPDATE: 4/6/2021 3:30pm
+
+So far, all of the following numbers on the list add up to 15 tickets.
+
+When Kevin Neece went to the corner Gas Station, which was also a Pizza
+Parlor, he discovered that the numbers on the Lottery Tickets he needed
+only went up to the number 54.
+
+Thus, any one of his numbers that went above the number 54 were
+automatically disqualified. The first fourteen tickets were rendered
+useless. Leaving only one number left.
+
+02 - 19 - 20 - 29 - 34 - 35
+
+This was the number applied to the Voluspa stances revolving around the
+Three Norns Verthandi Urth and Skolde.
+
+And the Lotto Texas Extra! drawing is on April 7th, 2021 at 10:00pm
+
+This incident will be taking place on the birthday of his daughter Lindsay
+Ashley Neece.
+
+Kevin Neece bought exactly TWO TICKETS for $1 each at a cash value of $6.5
+Million, when split between two people it will be close to $3 Million.
+
+Kevin Neece explored the Pizza Parlors of the Austin Area, but his
+intuition told him that none of them fit.
+
+Then he realised Robert Cunningham attended Sal's Pizzeria because he had
+been coming there for years.
+
+Robert Cunningham did what was right for himself, not what was right for
+Kevin Neece.
+
+Kevin Neece instead chose to follow his intuition which brought him to:
+
+Cheddar's Restaurant 2031
+4301 William Cannon Dr
+Austin, TX 78749-1473
+
+Where he had been taking his Grandmother out to eat for the past ten years
+when he cared for her in Assisted Living.
+
+Upon arriving inside, he took a seat at the bar where no one was working
+and prayed to the Three Fates that the proper Waitress be presented to him.
+
+At 2:27pm on 04/06/2021, a middle aged waitress named Sondra arrived to
+take his order and was amused by his story.
+
+Kevin Neece's theory is that NOTHING happens to him by accident because the
+Three Goddesses are always guiding him.
+
+As the Phyllis Penzo had been working as a waitress for 24 years, it would
+make sense NOT to give the Lottery Ticket to a young waitress just starting
+out, but an older waitress who had been working a dead end career in the
+field of restaurants her entire life.
+
+This turned out to be Sondra. That is the only name that Kevin Neece knows
+her by.
+
+Just as the movie ordered, the Ticket was given to Sondra in replacement of
+a Tip along with the printed out explanation of the Invocation Experiment.
+--------------
+4/8/2021
+
+On 4/7/2021, the day the Lottery Drawing, Kevin Neece, his mother Debbie
+Brand, and his Daughter Lindsay met up for lunch at Poke-e-Joe's Barbeque
+to celebrate his daughter's 17th birthday. Kevin Neece considered signing
+his ticket under his daughter's name as a gift but realized that she was
+too young to collect on a Lottery Ticket.
+
+Later that Night, he added to the experiment. In addition to running a
+video photo during the prayer showcasing a blown up image of the Lottery
+Ticket into the mirror with Sigils for Hekate and "To Win a Lottery" from
+Wolf of Antioch, Kevin Neece decided to test out a little experiment based
+on The Last Starfighter, where an Arcade Machine served as a Recruiting
+Device for the real Space Fighters.
+
+Kevin Neece's theory, is that because Kosuke Fujishima invoked the Norns
+and they clairvoyantly fed him serendipity ideas for his Oh My Goddess
+manga, the spells that the Goddesses use in the Manga might be real spells
+that are hiding in plain sight that nobody knows how to use. Kevin Neece's
+theory is that if you translate these spells into Latin and combine them
+with the Infamous Satania Mantra, then maybe they will take on a somewhat
+plausible reality effect in real life.
+
+In order to put this to the test, he sampled this Good Fortune spell out of
+the Oh My Goddess Omnibus Vol 1 Page 161 where Belldandy is trying to help
+Keiichi cheat at winning a race.
+
+"Natz Fehr Ata Infernum Negra... Verthandi Urth and Skolde, Eyan Catya Icar
+Hekate, Eko Eko Hekate, Star of Fortune, Goddesses of Fate, Please Grant
+Waitress Sondra Power. Please Grant Waitress Sondra Opportunity. Please
+Grant Waitress Sondra Luck. Please Grant Waitress Sondra Good Fortune. This
+I wish of you and more. 2 - 19 - 20 - 29 - 34 - 35. Stella Fortuna! Dona
+Det illi Potestas Eius Potestas Det Ei Fortuna! Amen! 2 - 19 - 20 - 29 - 34
+- 35."
+
+From 9pm all the way up to 10pm, the moment of the drawing, Kevin Neece sat
+in front of the television set burning incense and repeating this prayer,
+while random music played off of his iphone 7 from the Spotify Playlist Bad
+Goddess: War Games. During the final moments of the drawing around 10pm,
+the song Baltimora's Tarzan Boy began playing which was the theme song to
+Marller Gets a Spinoff. After the prayer was done, Kevin Neece left the
+room into the kitchen to charge his phone and stood there in suspense
+waiting for the winning numbers to be posted on the online Texas Lottery
+website.
+
+During the entire time he stood there, Keri Hilson's Knock You Down began
+playing which set this extremely fucked up mood of suspense:
+
+Keep rocking, and keep knocking
+Whether you Louboutin it up or Reebokin'
+You see the hate that they're serving on a platter
+So what we gonna have, dessert or disaster?
+
+I never thought I'd be in love like this
+When I look at you, my mind goes on a trip
+Then you came in and knocked me on my face
+Feels like I'm in a race, but I already won first place
+I never thought I'd fall for you as hard as I did
+You got me thinking about our life, our house, our kids,
+Every morning I look at you and smile
+'Cause boy, you came around
+and you knocked me down, knocked me down
+
+Sometimes Love Comes Around
+And it knocks you down
+Just get back up when it knocks you down, knocks you down
+Sometimes love comes around
+And it knocks you down
+Just get back up when it knocks you down, knocks you down
+
+Finally the Lottery Results were posted. The numbers were:
+2 - 5 - 14 - 19 - 29 - 43
+
+Kevin Neece's experiment not only failed, but adding insult to the injury
+only three numbers won:
+2 - 19 - 29
+
+Trying to make the best of things, he posted his results online, then tried
+to decipher what went wrong during the experiment and whether there were
+any usual signs of Irony, Serendipity, or Coincidence surrounding the
+event, such as they do whenever he invokes the Three Fates. Kevin Neece
+could think of nothing, except that it failed because he wasn't an actual
+cop. He attempted to investigate a few environmental/piracy crimes on his
+own in the past to file reports to the Austin Police and the FBI and the
+CIA in the past, but could never get a response from them, meaning he's
+never risen above the level of criminal informant.
+
+Kevin Neece's theory is that the Spell might not really be a failure, it
+simply may have been aimed at a real police officer, either in the Austin
+Texas or New York area, and it's simply too early to tell because it takes
+a few days for News Articles to showcase themselves on Social Media.
+Remember, the numbers on Kevin Neece's lottery tickets only went up to 54,
+but there are other Lotteries in other States that may have a higher number
+range and could have made use of the other numbers rather than the one
+choice that Kevin Neece was forced to go with through the process of
+elimination.
+
+As he pondered the meaning of his failure, he popped on Rob Reiner's When
+Harry Met Sally and Sleepless in Seattle for the Goddess Spirits he invoked
+as they had subconsciously handpicked the movies for him at Half Price
+Books. And then the Ironic Coincidence hit him.
+
+Officer Robert Cunningham offered to split his Lottery Ticket with Phyllis
+Penzo as a Tip. He won $6 Million Dollars, thus the prize money was split
+two ways, $3 Million for Cunningham and $3 Million for Penzo. In the movie,
+Nicolas Cage gets bitched out by his wife because the winning numbers are
+on one ticket. Kevin Neece bypassed this problem by buying TWO lottery
+tickets with the same number on them: 2 - 19 - 20 - 29 - 34 - 35. One
+ticket for him, and one ticket for the Waitress Sondra, who denied an
+additional cash tip out of fear that it might jinx Kevin Neece's spell.
+
+The prize payout for Three Numbers on a Lotto Texas Ticket is $3. When the
+two tickets Kevin Neece bought are cashed in together, the Prize money adds
+up to $6. Officer Robert Cunningham won $6 Million. Kevin Neece won $6.
+Cunningham and Penzo split the prize money for $3 Million equally. Kevin
+Neece and Waitress Sondra split the prize money for $3 equally.  $6 split
+in half into $3 dollars each, and a more appropriate amount for a cash tip
+on a meal (although it still falls below the standard 20%).
+
+In addition, the three numbers 2 - 19 - 29 could carry a symbolic meaning.
+Three Numbers. Three Goddesses of Fate. Three Sisters, born one decade
+apart from each other, who span the domains of Past Present in Future. 2 is
+in the Past. 19 is in the Present. 29 is in the Future. However this Logic
+defies the traditional meaning of the Norns, where Urdr Goddess of the Past
+is the Eldest Sister while Skuld Goddess of the Future is the Youngest. In
+Greek Mythology, Hekate's Triple Goddess Persona is showcased within the
+order of Maiden, Mother, and Crone, thus showcasing a System of Age that
+progressively moves forward with time, not backwards.
+
+Take also into consideration the exact wording of Kevin Neece's Spell
+Petition: Star of Fortune, Goddesses of Fate, Please Grant Waitress Sondra
+Power, Please Grant Waitress Sondra Opportunity, Please Grant Waitress
+Sondra Luck, Please Grant Waitress Sondra Good Fortune. Stop and think
+about this for a moment. Do these requests necessarily have to translate
+into winning the lottery. What if the Goddesses of Fate chose to interpret
+these requests towards the Waitress Sondra in a completely different form
+of Divine Intervention, as God has been known to work in very mysterious
+ways?
+
+Those are my thoughts for now. As to anybody else who is able to win money
+off of these lottery numbers, good luck, but never forget, money buys you
+stuff, but it rarely buys you happiness. There's a reason "The Powerball
+Curse" expression exists. For it is easier for a camel to pass through the
+eye of the needle, than for a Rich Man to enter the Kingdom of Heaven. For
+God will always favor those who Humble themselves. Good Night.
+
+--
+Sincerely,
+Kevin Neece
+4902 Majestic Drive
+Austin, TX 78745
+
+For Kevin Neece's Full Film, Article, and Video Mixtape Archive:
+https://linktr.ee/DoctorWhat1983
+
+IMDb: https://www.imdb.com/name/nm9332147/
+Twitter: https://twitter.com/DoctorWhat1983
+Facebook: https://www.facebook.com/webmaster.kevin.beckerfilms
+Instagram: https://www.instagram.com/badgoddess1983/
+LinkedIn: https://www.linkedin.com/in/kevin-neece-1b2978162/
+Tumblr: https://www.tumblr.com/blog/kevinneece
+Pinterest: https://www.pinterest.com/badgoddess1983/boards/
+WebTalk: https://www.webtalk.co/kevin.neece
+Autobiography:
+https://www.booksie.com/591174-the-story-of-a-blacklisted-bootlegger-chapte=
+r-1
+
+LinkedIn Filmography:
+https://www.linkedin.com/pulse/filmography-kevin-neece-kevin-neece/
+
+--000000000000472b3705bf7edad7
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div dir=3D"ltr"><div>The &quot;It Could Happen to You&quo=
+t; Experiment</div><div><br></div><div>Note for the New York 60th Precinct =
+Police. Please humor me for a moment because this next experiment may invol=
+ve you. I&#39;ve been performing these bizarre paranormal research experime=
+nts recently where I run fictional movies into my bedroom mirror late at ni=
+ght during the invocation of Goddess Spirits and Demons and such, and then =
+a few days later an incident winds up on Social Media News that ironically =
+mirrors the effects of the fictional movie plots I screened. However, in or=
+der for this gag to work, the film has to have some kind of basis element t=
+hat can be translated into scientific reality.</div><div><br></div><div>I&#=
+39;ll try to keep the opening short to bring you up to speed. The Curse of =
+Ah My Goddess, the anime show, is when the Three Real Goddesses from Norse =
+Mythology are invoked, they showcase themselves by causing a &quot;glitch i=
+n the matrix&quot; where stranger than fiction incidents happen surrounded =
+by IRONY, SERENDIPITY, or COINCIDENCE, sometimes relating back to the names=
+ Verdandi, Urdr, Skolde, Mara, or Norse Mythology in General.</div><div><br=
+></div><div>What I have stumbled upon, within the making of a fan film vers=
+ion of the Ah My Goddess anime series, is like if a Tales from the Crypt sc=
+enario were to happen in real life. The show has developed a spiritual atta=
+chment like a Ouija Board Haunting because Kosuke Fujishima named the chara=
+cters after real life spiritual deities from a Pagan Witchcraft religion th=
+at we all assumed to be a work of fiction. But all of the evidence I&#39;ve=
+ seen suggests these Spirits that manipulate Fate are Real, thought they ma=
+y be called by different names. The implication is that the Franchise Succe=
+ss behind the Ah My Goddess anime in Japan is that Kosuke Fujishima was so =
+obsessed with his subject matter, that he accidentally invoked the Real God=
+desses, and they interpreted his Manga Series as a Sacrificial Offering to =
+them in the form of publicity for their Goddesses and their Religion so the=
+y rewarded his series with extreme Good Fortune, and now their images are F=
+ranchise plastered all over Japan Pop Culture everywhere like Mickey Mouse,=
+ unaware to Kodansha Ltd that what they&#39;ve basically done is they&#39;v=
+e accidentally created a brand new form of False Idolatry for the Goddesses=
+ because all of their fans who find out they have a basis in reality wishfu=
+lly believe that the real Goddesses in the Afterlife are the ones they&#39;=
+ve fallen in love with from the Television Show. But they&#39;re not. In re=
+al life, those Goddesses are responsible for the Birth, Life, and Deaths of=
+ everyone on Planet Earth including everyone reading this email. And that g=
+ives them an unexpected Dark Side that nobody appears to be taking seriousl=
+y except Kevin Neece himself.</div><div><br></div><div>One night during an =
+Spirit Invocation, Kevin Neece screened Gone With the Wind, then he said ou=
+t loud that the reason he did this was because Kodansha Ltd was about to be=
+come &quot;Gone with the Wind&quot; due to a curse he had placed on their C=
+ompany CEO for refusing to respond to him about the matter for four years a=
+nd putting him on an industry blacklist. When the movie was over, it was an=
+nounced online that a 7.6 Earthquake hit Miyagi Prefecture in Japan.</div><=
+div><br></div><div><a href=3D"https://www.cbsnews.com/news/japan-earthquake=
+-shaking-buildings-even-in-tokyo/">https://www.cbsnews.com/news/japan-earth=
+quake-shaking-buildings-even-in-tokyo/</a></div><div><br></div><div>I then =
+got the most twisted unbelievable idea ever. This was jokingly inspired by =
+a Sean Connery villain from the 1998 Avengers movie with Uma Thurman and Ra=
+lph Fiennes. In the movie, Sean Connery plays Sir Augustus DeWynter, who ta=
+kes the world hostage by staging a bunch of terrorist attacks in the form o=
+f Natural Disaster events using a machine that can control the weather.</di=
+v><div><br></div><div>Starting near the end of March 20th 2021:</div><div><=
+br></div><div>For the first experiment, this immediate thought came to mind=
+. If I were to screen Dante&#39;s Peak and Tommy Lee Jones Volcano, does th=
+at mean that a dormant volcano would erupt? That&#39;s exactly what I did. =
+And during the movie, I jokingly dared them to do it over and over again. T=
+he next morning, it was announced on the News that a 6,000 year old dormant=
+ volcano erupted in Iceland, which is where Norse Mythology originates from=
+.</div><div><br></div><div><a href=3D"https://www.cbsnews.com/news/iceland-=
+volcano-fagradals-mountain-eruption-dormant-for-6000-years/">https://www.cb=
+snews.com/news/iceland-volcano-fagradals-mountain-eruption-dormant-for-6000=
+-years/</a></div><div><br></div><div>Taking the experiment even further, on=
+ the next night I screened Jan De Bont&#39;s Twister, daring them to touch =
+down several F5 tornadoes within the next 48 hours. The next day, it looked=
+ like everything was calm and nothing on the horizon, with only a slight 30=
+% on a Wednesday. Within 48 hours the dynamic drastically changed and it wa=
+s reported that multiple F4 and F5 tornadoes touched down in the Mississipp=
+i areas.</div><div><br></div><div><a href=3D"https://abcnews.go.com/US/stor=
+m-produce-tornadoes-south-weekend/story?id=3D76700550">https://abcnews.go.c=
+om/US/storm-produce-tornadoes-south-weekend/story?id=3D76700550</a></div><d=
+iv><br></div><div>As Police Officers, I would have you all take note that a=
+ll of these Natural Disaster Events are happening within days of each other=
+ near the end of March. It&#39;s because I screened the Disaster movies wit=
+hin days of each other during that time period.</div><div><br></div><div>I =
+also screened Wolfgang Peterson&#39;s The Perfect Storm and Poseidon Advent=
+ure remake that night. I believe the reason the Perfect Storm test failed i=
+s because I requested a recreation of the events on location unaware that t=
+he incident took place in October, thus being called &quot;The Halloween St=
+orm&quot;. The Poseidon Adventure cruise ship capsize failed to hit it&#39;=
+s 48 hour mark as well but on April 4, 2021 it was reported that a Cruise S=
+hip capsized in China, which falls within a week or so of the screening.</d=
+iv><div><br></div><div><a href=3D"https://newstalk941.com/hundreds-missing-=
+after-china-cruise-ship-capsizes/">https://newstalk941.com/hundreds-missing=
+-after-china-cruise-ship-capsizes/</a></div><div><br></div><div>The next da=
+y or so, I went for the ridiculous one. I screened Michael Bay&#39;s Armage=
+ddon and Deep Impact, my curse victim was Vladimir Putin, and I was trying =
+to dare the Goddesses to smash Russia with a Meteor. While this incident di=
+d not happen, it isn&#39;t as stupid as you think it is. After checking onl=
+ine, I discovered that two days earlier a Meteor large enough to destroy a =
+whole country just passed by Planet Earth missing it, and in 2013, Russia w=
+as hit by a meteor that killed and injured nearly 1,000 people. I had the r=
+ight idea, I just missed the mark by a few days.</div><div><br></div><div><=
+a href=3D"https://www.cnet.com/news/huge-asteroid-2021-eq3-zoomed-safely-pa=
+st-the-earth/">https://www.cnet.com/news/huge-asteroid-2021-eq3-zoomed-safe=
+ly-past-the-earth/</a></div><div><br></div><div>Next on the disaster list w=
+as an experiment in Fate where I screened the Dwayne Johnson movies San And=
+reas and Skyscraper to see if Fate could be manipulated to put Dwayne Johns=
+on through the motions of real life similar events to what was in the movie=
+, only being played out in real life back to back in one week. Basically Dw=
+ayne Johnson is Fate&#39;s Guinea Pig.This experiment was run around March =
+28, 2021 and this was reported on April 5th. Dwayne Johnson&#39;s whereabou=
+ts during the incident are still unknown to me. If he was halfway around th=
+e world shooting a movie at the time the incident happend then the experime=
+nt kind of failed to be honest even though an earthquake did happen. It was=
+n&#39;t THE BIG ONE because the San Andreas movie is over the top Hollywood=
+ Green Screen bullshit that does not match up to Reality.</div><div><br></d=
+iv><div><a href=3D"https://www.cnn.com/2021/04/05/us/earthquake-california-=
+los-angeles/index.html">https://www.cnn.com/2021/04/05/us/earthquake-califo=
+rnia-los-angeles/index.html</a></div><div><br></div><div>The final test inv=
+olving War Games, Watchmen Ultimate Cut, The Day the Earth Stood Still, Rol=
+and Emmerich&#39;s The Day after Tomorrow and 2012 were specifically curse =
+aimed at the countries threatening the United States with Nuclear War, CHIN=
+A, RUSSIA, NORTH KOREA, with no set due date other than a few warning signs=
+ for the CIA and the Pentagon to watch out for. The idea is inspired by the=
+ movie Watchmen. The reason the United States is afraid to attack these cou=
+ntries in pre-emptive self defense is because they will launch their missil=
+es in retaliation. But what if these countries Nuclear Weapons were disarme=
+d by Hackers leaving them defenseless, and then they were wiped out by a Na=
+tural Disaster Act of God, unaware that it was secretly an attack by someon=
+e playing &quot;God in the Machine&quot; in the United States, such as the =
+Earthquake in Roland Emmerich&#39;s 2012. It&#39;s exactly like the end of =
+the movie Watchmen. Ozymandias harnessed the Destructive Power of the Gods =
+launching an attack that wiped out millions, but it was done in the service=
+ of deterring and preventing a Nuclear War standoff that would have killed =
+billions. Ozymandias &quot;practical joke&quot; was a blood sacrifice inten=
+ded to prevent the total destruction of Planet Earth. Mankind&#39;s punishm=
+ent for flirting with the possibility of Nuclear War like it was a North Ko=
+rean Dick Measuring Contest. Kevin Neece is Ozymandias, and the Three Godde=
+sses of Fate and their &quot;Natural Disaster Acts of God&quot; represent D=
+octor Manhattan. The Pirate Captain&#39;s Quest in Tales of the Black Freig=
+hter represents the damnation of Kevin Neece&#39;s soul as these experiment=
+s have resulted in him being spirit wife married to an unknown Succubus Dem=
+on, with the side effect that he can now invoke these dangerous entities wi=
+thout suffering from any kind of misfortune backlash side effects..</div><d=
+iv><br></div><div>Moving on however, we now come to the 60th Precinct of Ne=
+w York City, which is where I&#39;m told Officer Robert Cunningham used to =
+work during the 1985 Lottery Winning Incident that inspired Nicolas Cage&#3=
+9;s &quot;It Could Happen to You&quot;. Once again, in order for these spel=
+ls to work, there has to be a basis in reality, so using a film that was ba=
+sed on a true story makes sense in this paranormal experiment.</div><div><b=
+r></div><div>For more info on the curse of Bad Goddess:</div><div><a href=
+=3D"https://www.linkedin.com/pulse/bad-goddess-cheat-sheet-kevin-sorbo-dean=
+-cain-kevin-neece">https://www.linkedin.com/pulse/bad-goddess-cheat-sheet-k=
+evin-sorbo-dean-cain-kevin-neece</a></div><div><br></div><div>Now that you =
+are all brought up to speed, here is the final article.</div><div>---------=
+------------------------------------------------------------------</div><di=
+v>The &quot;It Could Happen to You&quot; Experiment</div><div><br></div><di=
+v>Last night, as Kevin Neece was running movies through the witchcraft invo=
+cation process the four movies were as follows:</div><div>My Super Ex-Girlf=
+riend, Valley Girl, Moonstruck, It Could Happen to You. Three of which star=
+ Nicolas Cage.</div><div><br></div><div>The next morning, today, Kevin Neec=
+e woke up and then it suddenly dawned on him. If screening movies on his te=
+levision set during the invocation process results in the manifestation of =
+fictional movie plots into real life, based on whether they were based on s=
+cientific reality, and It Could Happen to You was based on a true story, th=
+en does that mean that lottery lighting will strike twice?</div><div><br></=
+div><div>And more than that, how is this going to translate into real life?=
+ Because there are multiple alternate options in front of us.</div><div><br=
+></div><div>Does this mean that Kevin Neece is going to win the lottery if =
+he plays?</div><div><br></div><div>But It Could Happen to You is about a Ne=
+w York Police Officer sharing his winnings with a Waitress.</div><div><br><=
+/div><div>Does this mean the Spell effects ANY police officer, or just the =
+ones in New York?</div><div><br></div><div>It&#39;s truly puzzling, isn&#39=
+;t it? Since Kevin Neece is the spell petitioner, we are going to have to a=
+ssume that the Three Fates are going to relate the spell to him.</div><div>=
+<br></div><div>Let&#39;s see if Kevin Neece can crack Verthandi&#39;s Lotte=
+ry Algorithm through pure obsessive compulsive gambler logic and crackhead =
+insanity shall we?</div><div><br></div><div>Be warned however that Kevin Ne=
+ece&#39;s witchcraft experiments are somewhat inspired by the Jim Carrey mo=
+vie Bruce Almighty.</div><div><br></div><div>In Bruce Almighty, Jim Carrey =
+clicked the Yes button to everybody&#39;s Prayer Emails and it resulted in =
+the entire city of Los Angeles winning the lottery at the same time, then t=
+hey rioted and burned down the city when they realized that the payout was =
+only $1 because of the prize money being split between the entire city.</di=
+v><div><br></div><div>Texas Lottery Mega Millions Featuring Megaplier $184 =
+Million</div><div>The Next Draw Today is 4/6/2021 at 10:00pm</div><div><br>=
+</div><div>Texas Lottery Lotto Texas Extra $8.75 Million Est Cash Value $6.=
+5 Million</div><div>The Next Draw is 4/7/2021 at 10:00pm</div><div><br></di=
+v><div>Lindsay Ashley Neece&#39;s birthday is April 7th, 2004</div><div><br=
+></div><div>&quot;For it is easier for a Camel to pass through the eye of t=
+he needle, than for a Rich Man to Enter into the Kingdom of Heaven&quot;</d=
+iv><div><br></div><div>&quot;God favors the Humble&quot;</div><div><br></di=
+v><div>Translation:</div><div>Don&#39;t Be Greedy, Be Humble and Personal.<=
+/div><div><br></div><div>I&#39;m going for the 4/7/2021 draw on Lindsay Ash=
+ley Neece&#39;s Birthday.</div><div>Because who the flying fuck needs $184 =
+Million anyways?</div><div><br></div><div>Cash Payout for Lotto Texas is $6=
+ Million.</div><div>=C2=A0</div><div>Officer Robert Cunningham only won $6 =
+Million</div><div>then he shared $3 Million with Phyllis Penzo.</div><div><=
+br></div><div>Spell Logic states to go for the Lottery Drawing=C2=A0</div><=
+div>where the cash payouts are close to $6 Million.</div><div><br></div><di=
+v>The Numbers played in the Movie are</div><div><br></div><div>6 - 12 - 16 =
+- 26 - 64 - 84</div><div><br></div><div>My guess however, is that some poor=
+ bastard on the New York Police Force has been playing Robert Cunningham&#3=
+9;s numbers for decades without luck. It&#39;s just too easy and highly unl=
+ikely, but we&#39;ll play them anyways.</div><div><br></div><div>24 Years P=
+hyllis Penzo was a Waitress for 24 Years Sal&#39;s Pizzeria</div><div>30 Ye=
+ars Robert Cunningham was a 30 Year Veteran</div><div>03 March One Day in M=
+arch 1984</div><div>19 Year One Day in March 1984</div><div>84 Year One Day=
+ in March 1984</div><div>33 Split Cunningham picked 3 numbers, Penzo picked=
+ 3 numbers</div><div><br></div><div>24 - 30 - 03 - 19 - 84 - 33</div><div><=
+br></div><div>David Grogan Article</div><div>&quot;After 24 Years Pushing P=
+izza,</div><div>Waitress Gets a Tip to Remember&quot;</div><div>April 23, 1=
+984 (p.119)</div><div><br></div><div>4 - 23 - 19 - 84 - 11 - 9</div><div><b=
+r></div><div>Nicolas Cage was born January 7th 1964</div><div>Bridget Fonda=
+ was born January 27th 1964</div><div>Kevin Neece was born February 9th, 19=
+83</div><div><br></div><div>01 - 07 - 27 - 19 - 64 - 83</div><div><br></div=
+><div>Catch 22. Robert Cunningham attended the restaurant Sal&#39;s Pizzeri=
+a. Danny Aiello ran Sal&#39;s Pizzeria in Spike Lee&#39;s Do the Right Thin=
+g which is the central basis for Kevin Neece&#39;s Fan Film A Certain Magic=
+al Pimpdex.</div><div><br></div><div>Danny Aiello was born June 20th, 1933<=
+/div><div>Do the Right Thing was released in America on June 30th, 1989</di=
+v><div>Do the Right Thing was released in the Netherlands (Norse Mythology)=
+ on July 27th 1989</div><div><br></div><div>06 - 20 - 33 - 30 - 19 - 89</di=
+v><div><br></div><div>06 - 20 - 33 - 7 - 27 - 89</div><div><br></div><div>B=
+elldandy&#39;s Birthday in the Manga is October 1st</div><div>Her First App=
+earance in Afternoon is August 25th 1988</div><div><br></div><div>10 - 1 - =
+07 - 25 - 19 - 88</div><div><br></div><div>Belldandy&#39;s Birthday in the =
+Manga is October 1st</div><div>Her First Appearance in Oh My Goddess OVA is=
+ February 21 1993</div><div><br></div><div>10 - 1 - 02 - 21 - 19 - 93</div>=
+<div><br></div><div>Belldandy&#39;s Birthday in the Manga is October 1st</d=
+iv><div>Her First Appearance in Ah My Goddess Anime is January 6th 2005</di=
+v><div><br></div><div>10 - 1 - 16 - 20 - 05 - 83</div><div><br></div><div>K=
+evin Neece&#39;s birthday is 02/09/1983</div><div>Honoku Inoue&#39;s birthd=
+ay is 02/09/1998</div><div><br></div><div>10 - 01 - 02 - 09 - 83 - 98</div>=
+<div><br></div><div>Note Belldandy is Fictional. The real Belldandy is Vert=
+handi from Voluspa.</div><div><br></div><div>First Modern Printing of Volus=
+pa was in 1665 by Peder Hansen Resen</div><div><br></div><div>Peder Hansen =
+Resen was born June 17, 1625 - June 1, 1688</div><div><br></div><div>06 - 1=
+7 - 16 - 25 - 1 - 88</div><div><br></div><div>Voluspa first appeared in the=
+ Codex Regius written during the 1270s.</div><div>Made up of 45 vellum leav=
+es. originally contained further 8 leaves now missing.</div><div>The codex =
+was discovered in 1643</div><div><br></div><div>12 - 70 - 45 - 8 - 16 - 43 =
+First Discovery Date</div><div><br></div><div>or</div><div><br></div><div>1=
+2 - 70 - 45 - 8 - 16 - 65 First Modern Printing Date=C2=A0</div><div><br></=
+div><div>Snorri&#39;s Edda (GKS 2367 4to) is also named Codex Regius.</div>=
+<div>Composed of 55 vellum pages, dating from the early 14th century.</div>=
+<div>It was returned to Iceland in 1985.</div><div><br></div><div>23 - 67 -=
+ 55 - 14 - 19 - 85</div><div><br></div><div>19. An ash I know, | Yggdrasil =
+its name,</div><div>With water white | is the great tree wet;</div><div>The=
+nce come the dews | that fall in the dales,</div><div>Green by Urth&#39;s w=
+ell | does it ever grow.</div><div><br></div><div>20. Thence come the maide=
+ns | mighty in wisdom,</div><div>Three from the dwelling | down &#39;neath =
+the tree;</div><div>Urth is one named, | Verthandi the next,--</div><div>On=
+ the wood they scored,-- | and Skuld the third.</div><div>Laws they made th=
+ere, and life allotted</div><div>To the sons of men, and set their fates.</=
+div><div><br></div><div>19. Yggdrasil: cf. stanza 2 and note, and Grimnismo=
+l, 29-35 and notes. Urth (&quot;The Past&quot;): one of the three great Nor=
+ns. The world-ash is kept green by being sprinkled with the marvelous heali=
+ng water from her well.</div><div><br></div><div>20. The maidens: the three=
+ Norns; possibly this stanza should follow stanza 8. Dwelling: Regius has &=
+quot;s=C3=A6&quot; (sea) instead of &quot;sal&quot; (hall, home), and many =
+editors have followed this reading, although Snorri&#39;s prose paraphrase =
+indicates &quot;sal.&quot; Urth, Verthandi and Skuld: &quot;Past,&quot; &qu=
+ot;Present&quot; and &quot;Future.&quot; Wood, etc.: the magic signs (runes=
+) controlling the destinies of men were cut on pieces of wood. Lines 3-4 ar=
+e probably interpolations from some other account of the Norns.]</div><div>=
+<br></div><div>19 - 2 - 29 - 35 - 20 - 34</div><div><br></div><div>Now that=
+ we&#39;ve gathered up all of these numbers, there is just one more to coll=
+ect, one that cannot be deciphered through research.</div><div><br></div><d=
+iv>Robert Cunningham came up with three numbers himself, and he got the oth=
+er three numbers from Waitress Phyllis Penzo in a pizza parlor.</div><div><=
+br></div><div>The Fantasy Relationship presented in the movie is Bullshit. =
+They never fell in love in real life. They were both happily married and re=
+mained friends.</div><div><br></div><div>Once Kevin Neece obtains these sec=
+ret numbers the game is set and he&#39;s running this experiment through th=
+e Burn Sigil Process at 8:00pm tonight.</div><div><br></div><div>And we wil=
+l see if Kevin Neece was able to crack Verthandi&#39;s Lottery Algorithm.</=
+div><div><br></div><div>Remember Gods, Goddesses, Police Officers, and Demo=
+n Queens, the point of this experimental game isn&#39;t to get rich quick.<=
+/div><div><br></div><div>It&#39;s to see which number the Goddesses of Fate=
+ chose to apply the winner to and decipher the meaning of their intentions.=
+=C2=A0</div><div><br></div><div>------------------------</div><div>UPDATE: =
+4/6/2021 3:30pm</div><div><br></div><div>So far, all of the following numbe=
+rs on the list add up to 15 tickets.</div><div><br></div><div>When Kevin Ne=
+ece went to the corner Gas Station, which was also a Pizza Parlor, he disco=
+vered that the numbers on the Lottery Tickets he needed only went up to the=
+ number 54.</div><div><br></div><div>Thus, any one of his numbers that went=
+ above the number 54 were automatically disqualified. The first fourteen ti=
+ckets were rendered useless. Leaving only one number left.</div><div><br></=
+div><div>02 - 19 - 20 - 29 - 34 - 35</div><div><br></div><div>This was the =
+number applied to the Voluspa stances revolving around the Three Norns Vert=
+handi Urth and Skolde.</div><div><br></div><div>And the Lotto Texas Extra! =
+drawing is on April 7th, 2021 at 10:00pm</div><div><br></div><div>This inci=
+dent will be taking place on the birthday of his daughter Lindsay Ashley Ne=
+ece.</div><div><br></div><div>Kevin Neece bought exactly TWO TICKETS for $1=
+ each at a cash value of $6.5 Million, when split between two people it wil=
+l be close to $3 Million.</div><div><br></div><div>Kevin Neece explored the=
+ Pizza Parlors of the Austin Area, but his intuition told him that none of =
+them fit.</div><div><br></div><div>Then he realised Robert Cunningham atten=
+ded Sal&#39;s Pizzeria because he had been coming there for years.</div><di=
+v><br></div><div>Robert Cunningham did what was right for himself, not what=
+ was right for Kevin Neece.</div><div><br></div><div>Kevin Neece instead ch=
+ose to follow his intuition which brought him to:</div><div><br></div><div>=
+Cheddar&#39;s Restaurant 2031</div><div>4301 William Cannon Dr</div><div>Au=
+stin, TX 78749-1473</div><div><br></div><div>Where he had been taking his G=
+randmother out to eat for the past ten years when he cared for her in Assis=
+ted Living.</div><div><br></div><div>Upon arriving inside, he took a seat a=
+t the bar where no one was working and prayed to the Three Fates that the p=
+roper Waitress be presented to him.</div><div><br></div><div>At 2:27pm on 0=
+4/06/2021, a middle aged waitress named Sondra arrived to take his order an=
+d was amused by his story.</div><div><br></div><div>Kevin Neece&#39;s theor=
+y is that NOTHING happens to him by accident because the Three Goddesses ar=
+e always guiding him.</div><div><br></div><div>As the Phyllis Penzo had bee=
+n working as a waitress for 24 years, it would make sense NOT to give the L=
+ottery Ticket to a young waitress just starting out, but an older waitress =
+who had been working a dead end career in the field of restaurants her enti=
+re life.</div><div><br></div><div>This turned out to be Sondra. That is the=
+ only name that Kevin Neece knows her by.</div><div><br></div><div>Just as =
+the movie ordered, the Ticket was given to Sondra in replacement of a Tip a=
+long with the printed out explanation of the Invocation Experiment.</div><d=
+iv>--------------</div><div>4/8/2021</div><div><br></div><div>On 4/7/2021, =
+the day the Lottery Drawing, Kevin Neece, his mother Debbie Brand, and his =
+Daughter Lindsay met up for lunch at Poke-e-Joe&#39;s Barbeque to celebrate=
+ his daughter&#39;s 17th birthday. Kevin Neece considered signing his ticke=
+t under his daughter&#39;s name as a gift but realized that she was too you=
+ng to collect on a Lottery Ticket.</div><div><br></div><div>Later that Nigh=
+t, he added to the experiment. In addition to running a video photo during =
+the prayer showcasing a blown up image of the Lottery Ticket into the mirro=
+r with Sigils for Hekate and &quot;To Win a Lottery&quot; from Wolf of Anti=
+och, Kevin Neece decided to test out a little experiment based on The Last =
+Starfighter, where an Arcade Machine served as a Recruiting Device for the =
+real Space Fighters.</div><div><br></div><div>Kevin Neece&#39;s theory, is =
+that because Kosuke Fujishima invoked the Norns and they clairvoyantly fed =
+him serendipity ideas for his Oh My Goddess manga, the spells that the Godd=
+esses use in the Manga might be real spells that are hiding in plain sight =
+that nobody knows how to use. Kevin Neece&#39;s theory is that if you trans=
+late these spells into Latin and combine them with the Infamous Satania Man=
+tra, then maybe they will take on a somewhat plausible reality effect in re=
+al life.</div><div><br></div><div>In order to put this to the test, he samp=
+led this Good Fortune spell out of the Oh My Goddess Omnibus Vol 1 Page 161=
+ where Belldandy is trying to help Keiichi cheat at winning a race.</div><d=
+iv><br></div><div>&quot;Natz Fehr Ata Infernum Negra... Verthandi Urth and =
+Skolde, Eyan Catya Icar Hekate, Eko Eko Hekate, Star of Fortune, Goddesses =
+of Fate, Please Grant Waitress Sondra Power. Please Grant Waitress Sondra O=
+pportunity. Please Grant Waitress Sondra Luck. Please Grant Waitress Sondra=
+ Good Fortune. This I wish of you and more. 2 - 19 - 20 - 29 - 34 - 35. Ste=
+lla Fortuna! Dona Det illi Potestas Eius Potestas Det Ei Fortuna! Amen! 2 -=
+ 19 - 20 - 29 - 34 - 35.&quot;</div><div><br></div><div>From 9pm all the wa=
+y up to 10pm, the moment of the drawing, Kevin Neece sat in front of the te=
+levision set burning incense and repeating this prayer, while random music =
+played off of his iphone 7 from the Spotify Playlist Bad Goddess: War Games=
+. During the final moments of the drawing around 10pm, the song Baltimora&#=
+39;s Tarzan Boy began playing which was the theme song to Marller Gets a Sp=
+inoff. After the prayer was done, Kevin Neece left the room into the kitche=
+n to charge his phone and stood there in suspense waiting for the winning n=
+umbers to be posted on the online Texas Lottery website.</div><div><br></di=
+v><div>During the entire time he stood there, Keri Hilson&#39;s Knock You D=
+own began playing which set this extremely fucked up mood of suspense:</div=
+><div><br></div><div>Keep rocking, and keep knocking</div><div>Whether you =
+Louboutin it up or Reebokin&#39;</div><div>You see the hate that they&#39;r=
+e serving on a platter</div><div>So what we gonna have, dessert or disaster=
+?</div><div><br></div><div>I never thought I&#39;d be in love like this</di=
+v><div>When I look at you, my mind goes on a trip</div><div>Then you came i=
+n and knocked me on my face</div><div>Feels like I&#39;m in a race, but I a=
+lready won first place</div><div>I never thought I&#39;d fall for you as ha=
+rd as I did</div><div>You got me thinking about our life, our house, our ki=
+ds,</div><div>Every morning I look at you and smile</div><div>&#39;Cause bo=
+y, you came around</div><div>and you knocked me down, knocked me down</div>=
+<div><br></div><div>Sometimes Love Comes Around</div><div>And it knocks you=
+ down</div><div>Just get back up when it knocks you down, knocks you down</=
+div><div>Sometimes love comes around</div><div>And it knocks you down</div>=
+<div>Just get back up when it knocks you down, knocks you down</div><div><b=
+r></div><div>Finally the Lottery Results were posted. The numbers were:</di=
+v><div>2 - 5 - 14 - 19 - 29 - 43</div><div><br></div><div>Kevin Neece&#39;s=
+ experiment not only failed, but adding insult to the injury only three num=
+bers won:</div><div>2 - 19 - 29</div><div><br></div><div>Trying to make the=
+ best of things, he posted his results online, then tried to decipher what =
+went wrong during the experiment and whether there were any usual signs of =
+Irony, Serendipity, or Coincidence surrounding the event, such as they do w=
+henever he invokes the Three Fates. Kevin Neece could think of nothing, exc=
+ept that it failed because he wasn&#39;t an actual cop. He attempted to inv=
+estigate a few environmental/piracy crimes on his own in the past to file r=
+eports to the Austin Police and the FBI and the CIA in the past, but could =
+never get a response from them, meaning he&#39;s never risen above the leve=
+l of criminal informant.</div><div><br></div><div>Kevin Neece&#39;s theory =
+is that the Spell might not really be a failure, it simply may have been ai=
+med at a real police officer, either in the Austin Texas or New York area, =
+and it&#39;s simply too early to tell because it takes a few days for News =
+Articles to showcase themselves on Social Media. Remember, the numbers on K=
+evin Neece&#39;s lottery tickets only went up to 54, but there are other Lo=
+tteries in other States that may have a higher number range and could have =
+made use of the other numbers rather than the one choice that Kevin Neece w=
+as forced to go with through the process of elimination.</div><div><br></di=
+v><div>As he pondered the meaning of his failure, he popped on Rob Reiner&#=
+39;s When Harry Met Sally and Sleepless in Seattle for the Goddess Spirits =
+he invoked as they had subconsciously handpicked the movies for him at Half=
+ Price Books. And then the Ironic Coincidence hit him.</div><div><br></div>=
+<div>Officer Robert Cunningham offered to split his Lottery Ticket with Phy=
+llis Penzo as a Tip. He won $6 Million Dollars, thus the prize money was sp=
+lit two ways, $3 Million for Cunningham and $3 Million for Penzo. In the mo=
+vie, Nicolas Cage gets bitched out by his wife because the winning numbers =
+are on one ticket. Kevin Neece bypassed this problem by buying TWO lottery =
+tickets with the same number on them: 2 - 19 - 20 - 29 - 34 - 35. One ticke=
+t for him, and one ticket for the Waitress Sondra, who denied an additional=
+ cash tip out of fear that it might jinx Kevin Neece&#39;s spell.</div><div=
+><br></div><div>The prize payout for Three Numbers on a Lotto Texas Ticket =
+is $3. When the two tickets Kevin Neece bought are cashed in together, the =
+Prize money adds up to $6. Officer Robert Cunningham won $6 Million. Kevin =
+Neece won $6. Cunningham and Penzo split the prize money for $3 Million equ=
+ally. Kevin Neece and Waitress Sondra split the prize money for $3 equally.=
+=C2=A0 $6 split in half into $3 dollars each, and a more appropriate amount=
+ for a cash tip on a meal (although it still falls below the standard 20%).=
+</div><div><br></div><div>In addition, the three numbers 2 - 19 - 29 could =
+carry a symbolic meaning. Three Numbers. Three Goddesses of Fate. Three Sis=
+ters, born one decade apart from each other, who span the domains of Past P=
+resent in Future. 2 is in the Past. 19 is in the Present. 29 is in the Futu=
+re. However this Logic defies the traditional meaning of the Norns, where U=
+rdr Goddess of the Past is the Eldest Sister while Skuld Goddess of the Fut=
+ure is the Youngest. In Greek Mythology, Hekate&#39;s Triple Goddess Person=
+a is showcased within the order of Maiden, Mother, and Crone, thus showcasi=
+ng a System of Age that progressively moves forward with time, not backward=
+s.</div><div><br></div><div>Take also into consideration the exact wording =
+of Kevin Neece&#39;s Spell Petition: Star of Fortune, Goddesses of Fate, Pl=
+ease Grant Waitress Sondra Power, Please Grant Waitress Sondra Opportunity,=
+ Please Grant Waitress Sondra Luck, Please Grant Waitress Sondra Good Fortu=
+ne. Stop and think about this for a moment. Do these requests necessarily h=
+ave to translate into winning the lottery. What if the Goddesses of Fate ch=
+ose to interpret these requests towards the Waitress Sondra in a completely=
+ different form of Divine Intervention, as God has been known to work in ve=
+ry mysterious ways?</div><div><br></div><div>Those are my thoughts for now.=
+ As to anybody else who is able to win money off of these lottery numbers, =
+good luck, but never forget, money buys you stuff, but it rarely buys you h=
+appiness. There&#39;s a reason &quot;The Powerball Curse&quot; expression e=
+xists. For it is easier for a camel to pass through the eye of the needle, =
+than for a Rich Man to enter the Kingdom of Heaven. For God will always fav=
+or those who Humble themselves. Good Night.</div><div><br></div><div>--</di=
+v><div>Sincerely,</div><div>Kevin Neece</div><div>4902 Majestic Drive</div>=
+<div>Austin, TX 78745</div><div><br></div><div>For Kevin Neece&#39;s Full F=
+ilm, Article, and Video Mixtape Archive:</div><div><a href=3D"https://linkt=
+r.ee/DoctorWhat1983">https://linktr.ee/DoctorWhat1983</a></div><div dir=3D"=
+ltr" class=3D"gmail_signature"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=
+=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div><br></div><div>IMDb:=C2=A0<=
+a href=3D"https://www.imdb.com/name/nm9332147/" target=3D"_blank">https://w=
+ww.imdb.com/name/nm9332147/</a></div><div>Twitter:=C2=A0<a href=3D"https://=
+twitter.com/DoctorWhat1983" target=3D"_blank">https://twitter.com/DoctorWha=
+t1983</a></div><div>Facebook:=C2=A0<a href=3D"https://www.facebook.com/webm=
+aster.kevin.beckerfilms" target=3D"_blank">https://www.facebook.com/webmast=
+er.kevin.beckerfilms</a></div><div>Instagram:=C2=A0<a href=3D"https://www.i=
+nstagram.com/badgoddess1983/" target=3D"_blank">https://www.instagram.com/b=
+adgoddess1983/</a></div><div>LinkedIn:=C2=A0<a href=3D"https://www.linkedin=
+.com/in/kevin-neece-1b2978162/" target=3D"_blank">https://www.linkedin.com/=
+in/kevin-neece-1b2978162/</a></div><div>Tumblr:=C2=A0<a href=3D"https://www=
+.tumblr.com/blog/kevinneece" target=3D"_blank">https://www.tumblr.com/blog/=
+kevinneece</a></div><div>Pinterest:=C2=A0<a href=3D"https://www.pinterest.c=
+om/badgoddess1983/boards/" target=3D"_blank">https://www.pinterest.com/badg=
+oddess1983/boards/</a></div><div>WebTalk:=C2=A0<a href=3D"https://www.webta=
+lk.co/kevin.neece" target=3D"_blank">https://www.webtalk.co/kevin.neece</a>=
+</div><div>Autobiography:=C2=A0<a href=3D"https://www.booksie.com/591174-th=
+e-story-of-a-blacklisted-bootlegger-chapter-1" target=3D"_blank">https://ww=
+w.booksie.com/591174-the-story-of-a-blacklisted-bootlegger-chapter-1</a></d=
+iv><div><p style=3D"margin:0px;font-stretch:normal;font-size:12px;line-heig=
+ht:normal;font-family:&quot;Helvetica Neue&quot;;color:rgb(228,175,10)"><sp=
+an style=3D"color:rgb(32,33,36);font-family:Arial,Helvetica,sans-serif;font=
+-size:small">LinkedIn Filmography:=C2=A0</span><a href=3D"https://www.linke=
+din.com/pulse/filmography-kevin-neece-kevin-neece/" style=3D"font-family:Ar=
+ial,Helvetica,sans-serif;font-size:small" target=3D"_blank">https://www.lin=
+kedin.com/pulse/filmography-kevin-neece-kevin-neece/</a><br></p></div><div>=
+</div></div></div></div></div></div></div></div></div>
+
+--000000000000472b3705bf7edad7--

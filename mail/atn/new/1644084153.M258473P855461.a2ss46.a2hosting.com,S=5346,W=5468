@@ -1,0 +1,122 @@
+Return-Path: <dallas.gwendolyn@globistictec.com>
+Delivered-To: atn@awakenthenorth.org
+Received: from a2ss46.a2hosting.com
+	by a2ss46.a2hosting.com with LMTP
+	id upDoDrm7/mGlDQ0Ajrpv+A
+	(envelope-from <dallas.gwendolyn@globistictec.com>)
+	for <atn@awakenthenorth.org>; Sat, 05 Feb 2022 13:02:33 -0500
+Return-path: <dallas.gwendolyn@globistictec.com>
+Envelope-to: atn@awakenthenorth.org
+Delivery-date: Sat, 05 Feb 2022 13:02:33 -0500
+Received: from mail-il1-f179.google.com ([209.85.166.179]:46978)
+	by a2ss46.a2hosting.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <dallas.gwendolyn@globistictec.com>)
+	id 1nGPOL-003aRI-4g
+	for atn@awakenthenorth.org; Sat, 05 Feb 2022 13:02:33 -0500
+Received: by mail-il1-f179.google.com with SMTP id e8so7589713ilm.13
+        for <atn@awakenthenorth.org>; Sat, 05 Feb 2022 10:02:13 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=globistictec.com; s=google;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=wRX90aldbv4OTKGKrilVTh4AojYv/xhGHtZ4kZV2Xy8=;
+        b=lx6oRoIJklMuK6sP7IXNczgLfvPaIee9WQsDK4km2EXK1qPAhVJ296SOelpmXDg6JT
+         vwjzfijK1fTuiA1p/YepvxDzfvoo3HVsFpy3rpJURSRgfI4rMR/DH7ZUC2G8EReIIDCF
+         C+GsvCZlZkuV/TutGmtvuKU2vAU6wvf10RouEHI7mhzkAHMi+Z1j8ujgvyB3a7ekkxDe
+         oG/jhrwqt9Ir3uCBB4BYx8+YiCNjYIOH6E1H2DVhVPCh7dkGI5tyBrrdTJ4vNTNUgqIR
+         aXpTAmATXz5vW2ld+Fa6aL+JBAYSFMHK1v9Hlpve73wcvBiOzUKCuMsdq/deGvNKjQWI
+         6L6Q==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=wRX90aldbv4OTKGKrilVTh4AojYv/xhGHtZ4kZV2Xy8=;
+        b=hgoZX19wRCzrwuRBkBA72kVAIFDnt2YCWI2XdfjsOcPdlXPNLsU4u/FMWFbEoSEvlK
+         a0qCP5QhZ7mveUjCTo4avlZ1WBLld97rXjk2uf+8PqZnLtYEtNNKC3471XoMbBY6wJfv
+         wwEisUilAT8EEqL1cCDbs6CES8Os8m5WoIbHEulqeQO+oQk0vUMQFzP8vSjayOikU0+z
+         4VCaDv4/OE+VPLmmIEMP6vfX3B1w1rv26QzYCtQDKSMRM6XTAkzrIgvgl3KdxozWIEXx
+         sM915gwXt/zTLPqmmqJPDgC+IFKbkFGOnKBO+QgXu4pZ1KVYOzvnWp+cEdh11JlBCy5y
+         k+DQ==
+X-Gm-Message-State: AOAM531xdqYloM/ZgIPsENh+qqvjIZ5ElqetzLB1wxr8aS0xkkA9igeA
+	pTbvxYaxdQcMIF7QfTzN4ODX9mC1GLBJA1x5kPCIdA==
+X-Google-Smtp-Source: ABdhPJwppjWrinJ7XxyyKNXpoN0wef0zqpUmricXO01PeYUo+DHmDWM+vuPEvcReMEbXkwX44h9snQur5KdsUoULkBI=
+X-Received: by 2002:a92:c5c7:: with SMTP id s7mr2267864ilt.200.1644084112270;
+ Sat, 05 Feb 2022 10:01:52 -0800 (PST)
+MIME-Version: 1.0
+From: Dallas Gwendolyn <dallas.gwendolyn@globistictec.com>
+Date: Sat, 5 Feb 2022 13:00:00 -0500
+Message-ID: <CAOzLVuUre6tXW3JXCUAeRcSxk_fENLZE53LvDtgzHspvAYXRqg@mail.gmail.com>
+Subject: RemaDays Warsaw-Attendees List 2021-2022
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary="0000000000007e412905d74929fb"
+Bcc: atn@awakenthenorth.org
+
+--0000000000007e412905d74929fb
+Content-Type: text/plain; charset="UTF-8"
+
+*Hello!*
+
+
+
+*Are you interested in acquiring the Attendees list of **The RemaDays
+Warsaw-**2021-2022*
+
+
+
+*Interested? I will send you more details, cost and samples of the list.  *
+
+
+
+*Thanks & Regards,*
+
+
+
+*Dallas Gwendolyn-Marketing and Communications*
+
+--0000000000007e412905d74929fb
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;li=
+ne-height:normal"><b style=3D""><font color=3D"#073763" style=3D"" face=3D"=
+verdana, sans-serif">Hello!</font></b></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal"=
+><b><font color=3D"#073763" face=3D"verdana, sans-serif">=C2=A0</font></b><=
+/p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal"=
+><font color=3D"#073763" face=3D"verdana, sans-serif"><b>Are you interested=
+ in acquiring
+the Attendees list of </b><b>The RemaDays Warsaw-</b><b>2021-2022</b></font=
+></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal"=
+><b><font color=3D"#073763" face=3D"verdana, sans-serif">=C2=A0</font></b><=
+/p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal"=
+><b><font color=3D"#073763" face=3D"verdana, sans-serif">Interested? I will=
+ send you more
+details, cost and samples of the list.=C2=A0 </font></b></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal"=
+><b><font color=3D"#073763" face=3D"verdana, sans-serif">=C2=A0</font></b><=
+/p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal"=
+><b><font color=3D"#073763" face=3D"verdana, sans-serif">Thanks &amp; Regar=
+ds,</font></b></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal"=
+><b><font color=3D"#073763" face=3D"verdana, sans-serif">=C2=A0</font></b><=
+/p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal"=
+><font color=3D"#073763" style=3D"" face=3D"verdana, sans-serif"><b>Dallas =
+Gwendolyn-<span style=3D"background-image:initial;background-position:initi=
+al;background-size:initial;background-repeat:initial;background-origin:init=
+ial;background-clip:initial">Marketing and Communications</span></b></font>=
+<b style=3D"font-family:Calibri,&quot;sans-serif&quot;;font-size:11pt"><spa=
+n style=3D"color:rgb(0,32,96)"></span></b></p></div>
+
+--0000000000007e412905d74929fb--

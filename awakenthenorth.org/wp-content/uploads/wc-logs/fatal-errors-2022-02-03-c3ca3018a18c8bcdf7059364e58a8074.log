@@ -1,0 +1,6 @@
+2022-02-03T08:53:45+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 40960 bytes) in /home/intheexp/atn.bigskyheathen.com/wp-includes/plugin.php on line 443
+
+2022-02-03T13:09:35+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 40960 bytes) in /home/intheexp/atn.bigskyheathen.com/wp-includes/plugin.php on line 443
+
+2022-02-03T14:05:41+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 40960 bytes) in /home/intheexp/atn.bigskyheathen.com/wp-includes/plugin.php on line 443
+

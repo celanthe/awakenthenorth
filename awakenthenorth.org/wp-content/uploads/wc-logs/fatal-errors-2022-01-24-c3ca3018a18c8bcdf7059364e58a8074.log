@@ -1,0 +1,24 @@
+2022-01-24T00:07:46+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 40960 bytes) in /home/intheexp/atn.bigskyheathen.com/wp-includes/wp-db.php on line 2022
+
+2022-01-24T00:07:53+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 40960 bytes) in /home/intheexp/atn.bigskyheathen.com/wp-includes/wp-db.php on line 2022
+
+2022-01-24T00:07:58+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 40960 bytes) in /home/intheexp/atn.bigskyheathen.com/wp-includes/wp-db.php on line 2022
+
+2022-01-24T00:12:24+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 65536 bytes) in /home/intheexp/atn.bigskyheathen.com/wp-content/plugins/buddypress/bp-core/classes/class-bp-invitation.php on line 21
+
+2022-01-24T16:19:11+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Elementor\Controls_Stack::sanitize_settings() must be of the type array, null given, called in /home/intheexp/atn.bigskyheathen.com/wp-content/plugins/elementor/includes/base/controls-stack.php on line 1099 and defined in /home/intheexp/atn.bigskyheathen.com/wp-content/plugins/elementor/includes/base/controls-stack.php:2338
+Stack trace:
+#0 /home/intheexp/atn.bigskyheathen.com/wp-content/plugins/elementor/includes/base/controls-stack.php(1099): Elementor\Controls_Stack->sanitize_settings(NULL)
+#1 /home/intheexp/atn.bigskyheathen.com/wp-content/plugins/elementor/includes/base/controls-stack.php(2087): Elementor\Controls_Stack->get_data('settings')
+#2 /home/intheexp/atn.bigskyheathen.com/wp-content/plugins/elementor/core/base/base-object.php(142): Elementor\Controls_Stack->get_init_settings()
+#3 /home/intheexp/atn.bigskyheathen.com/wp-content/plugins/elementor/core/base/base-object.php(40): Elementor\Core\Base\Base_Object->ensure_settings()
+#4 /home/intheexp/atn.bigskyhea in /home/intheexp/atn.bigskyheathen.com/wp-content/plugins/elementor/includes/base/controls-stack.php on line 2338
+
+2022-01-24T16:19:17+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Elementor\Controls_Stack::sanitize_settings() must be of the type array, null given, called in /home/intheexp/atn.bigskyheathen.com/wp-content/plugins/elementor/includes/base/controls-stack.php on line 1099 and defined in /home/intheexp/atn.bigskyheathen.com/wp-content/plugins/elementor/includes/base/controls-stack.php:2338
+Stack trace:
+#0 /home/intheexp/atn.bigskyheathen.com/wp-content/plugins/elementor/includes/base/controls-stack.php(1099): Elementor\Controls_Stack->sanitize_settings(NULL)
+#1 /home/intheexp/atn.bigskyheathen.com/wp-content/plugins/elementor/includes/base/controls-stack.php(2087): Elementor\Controls_Stack->get_data('settings')
+#2 /home/intheexp/atn.bigskyheathen.com/wp-content/plugins/elementor/core/base/base-object.php(142): Elementor\Controls_Stack->get_init_settings()
+#3 /home/intheexp/atn.bigskyheathen.com/wp-content/plugins/elementor/core/base/base-object.php(40): Elementor\Core\Base\Base_Object->ensure_settings()
+#4 /home/intheexp/atn.bigskyhea in /home/intheexp/atn.bigskyheathen.com/wp-content/plugins/elementor/includes/base/controls-stack.php on line 2338
+

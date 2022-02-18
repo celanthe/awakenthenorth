@@ -1,0 +1,121 @@
+Return-Path: <jovanswinney76@gmail.com>
+Delivered-To: noreply@awakenthenorth.org
+Received: from a2ss46.a2hosting.com
+	by a2ss46.a2hosting.com with LMTP
+	id aNwDF3pIeGBL0C0Ajrpv+A
+	(envelope-from <jovanswinney76@gmail.com>)
+	for <noreply@awakenthenorth.org>; Thu, 15 Apr 2021 10:06:50 -0400
+Return-path: <jovanswinney76@gmail.com>
+Envelope-to: noreply@awakenthenorth.org
+Delivery-date: Thu, 15 Apr 2021 10:06:50 -0400
+Received: from mail-il1-f171.google.com ([209.85.166.171]:46802)
+	by a2ss46.a2hosting.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94)
+	(envelope-from <jovanswinney76@gmail.com>)
+	id 1lX2du-00CkWf-8E
+	for noreply@awakenthenorth.org; Thu, 15 Apr 2021 10:06:50 -0400
+Received: by mail-il1-f171.google.com with SMTP id l19so16386374ilk.13
+        for <noreply@awakenthenorth.org>; Thu, 15 Apr 2021 07:06:28 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to;
+        bh=ZMed0fSLaLlffDmIjEu2bSxcAQWaS2k+B29Knxx6w/c=;
+        b=eALXuetofEcpZBnuCoSSU5u66zPHrbe/JAQx2OwKbk+p/WI3sP8EthAHo1dM2iUw5+
+         DOVqVTisnAzygk2a0hV2EsekbquueUC/hEn8Tuxa5rrrx9IZGMkPHsPLZBQa4Ypj1xN8
+         IUOx3sq7Xyh67RCvRjOSWMPUKp09+6bu15PUimteejsZ7okXvmw0R9qelza3e8+12fJ8
+         veHBsFoVfV+hByxo6G/yxY23XFgHlTozr9Ks8CwfhYr1kbP63vklBG4kRq5JW2O+yipc
+         kjijLNTBPXIqZjvrEX93L+oU6SVhKsACPoepgMvjIFkk5G5e+CuFuqdZQZ3nwAIdI0TK
+         bSCw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:references:in-reply-to:from:date
+         :message-id:subject:to;
+        bh=ZMed0fSLaLlffDmIjEu2bSxcAQWaS2k+B29Knxx6w/c=;
+        b=CpDsgrG5V9h+aPnOjAIAsnoE4ycbvvzjyC0Nv9J/9LpKv2k+G4OLKyV2IMjQsLnXOw
+         re3sRszk1M5Z6Iz0mdE4lhL4YoH6GKh+b/fQcUEpd1zbOwwntCyRPEIro379UAkp2uN0
+         6+42JdimpfwbAjsu/kKLPTF7LSf+xSgaL9knTTYiaDQ1WGIfc96lWXeFIOWLJvaxCv/v
+         TK9Ys/EVoUJi9UhhJrBWdTXD+41ye4AqZpyJVWjnHzqQEuBxtYbbaKz+t1QpWAqBxPT7
+         F9zB9be1dO5y8aaIct8Kg/n0GYdSkNuDhES3pBjd0GnAazYmzL2dtU1EZdxY1DLzt+c/
+         zIHw==
+X-Gm-Message-State: AOAM530BX6KYjunw9OHG5PAsM7peKpeMd2bzxdaUcjP2vJ8zrFLq20nE
+	hpY2eUo/CI37c4dALugQSD7bmpf1hzsz5dGS5A90C6qh
+X-Google-Smtp-Source: ABdhPJxgU5SyQ9NLi+aGJJ+PmCUsAcWCT2BqmZUF0LN7yIvELNb3WKQ/mICy7w84d8T80B0OMmvFya0FS6Ddx2laiVY=
+X-Received: by 2002:a92:dc4f:: with SMTP id x15mr2834451ilq.27.1618495567501;
+ Thu, 15 Apr 2021 07:06:07 -0700 (PDT)
+MIME-Version: 1.0
+References: <3575ac21dc0ff586682ded795b4ba154@members.awakenthenorth.org>
+In-Reply-To: <3575ac21dc0ff586682ded795b4ba154@members.awakenthenorth.org>
+From: Jovan Swinney <jovanswinney76@gmail.com>
+Date: Thu, 15 Apr 2021 10:05:56 -0400
+Message-ID: <CAFoz=NihHAySZLviOWtoiPg-R8PWw+M3pe9LfsvwS=B1+g_sTQ@mail.gmail.com>
+Subject: Re: About your Membership Application
+To: Awaken The North <noreply@awakenthenorth.org>
+Content-Type: multipart/alternative; boundary="0000000000005f1f1805c0035dc9"
+
+--0000000000005f1f1805c0035dc9
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+I=E2=80=99ve tried to reach out to you, but have gotten nothing in return. =
+I would
+like to know what I had up that would have you thinking I don=E2=80=99t uph=
+old the
+nine noble virtues. Is it because I have a confederate flag up? Please get
+back to me on this issue. Thank you and have a great day. =F0=9F=98=81=F0=
+=9F=98=81=F0=9F=98=81
+
+On Sun, Apr 11, 2021 at 2:52 PM Awaken The North <noreply@awakenthenorth.or=
+g>
+wrote:
+
+> Dear Jovan Swinney,
+>
+> After careful consideration, we have decided not to accept your membershi=
+p
+> application to join Awaken the North. While reviewing your Social Media, =
+we
+> do not think your principles are aligned with ours and do not believe you
+> are a good fit for our community. Should you wish to discuss this further=
+,
+> please reach out to me personally.
+>
+>
+>
+> We appreciate your interest and wish you well.
+>
+> Sincerely,
+>
+> Anja Solsystir
+> Chancellor of Member Affairs
+>
+>
+> Awaken the North
+>
+
+--0000000000005f1f1805c0035dc9
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">I=E2=80=99ve tried to reach out to you, but have gotten n=
+othing in return. I would like to know what I had up that would have you th=
+inking I don=E2=80=99t uphold the nine noble virtues. Is it because I have =
+a confederate flag up? Please get back to me on this issue. Thank you and h=
+ave a great day. =F0=9F=98=81=F0=9F=98=81=F0=9F=98=81</div><div><br><div cl=
+ass=3D"gmail_quote"><div dir=3D"ltr" class=3D"gmail_attr">On Sun, Apr 11, 2=
+021 at 2:52 PM Awaken The North &lt;<a href=3D"mailto:noreply@awakenthenort=
+h.org">noreply@awakenthenorth.org</a>&gt; wrote:<br></div><blockquote class=
+=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padd=
+ing-left:1ex"><p>Dear Jovan Swinney,</p>
+<p>After careful consideration, we have decided not to accept your membersh=
+ip application to join Awaken the North. While reviewing your Social Media,=
+ we do not think your principles are aligned with ours and do not believe y=
+ou are a good fit for our community. Should you wish to discuss this furthe=
+r, please reach out to me personally. </p>
+<p>=C2=A0</p>
+<p>We appreciate your interest and wish you well.</p>
+<p>Sincerely,</p>
+<p>Anja Solsystir<br>Chancellor of Member Affairs</p><p><br>Awaken the Nort=
+h</p>
+</blockquote></div></div>
+
+--0000000000005f1f1805c0035dc9--

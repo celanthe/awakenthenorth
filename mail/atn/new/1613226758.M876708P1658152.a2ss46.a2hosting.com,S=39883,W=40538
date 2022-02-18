@@ -1,0 +1,655 @@
+Return-Path: <bounces+10237871-094b-atn=awakenthenorth.org@em9643.happs.tv>
+Delivered-To: atn@awakenthenorth.org
+Received: from a2ss46.a2hosting.com
+	by a2ss46.a2hosting.com with LMTP
+	id 8OyUMwbjJ2AoTRkAjrpv+A
+	(envelope-from <bounces+10237871-094b-atn=awakenthenorth.org@em9643.happs.tv>)
+	for <atn@awakenthenorth.org>; Sat, 13 Feb 2021 09:32:38 -0500
+Return-path: <bounces+10237871-094b-atn=awakenthenorth.org@em9643.happs.tv>
+Envelope-to: atn@awakenthenorth.org
+Delivery-date: Sat, 13 Feb 2021 09:32:38 -0500
+Received: from xtrwshqn.outbound-mail.sendgrid.net ([167.89.96.66]:23779)
+	by a2ss46.a2hosting.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.93)
+	(envelope-from <bounces+10237871-094b-atn=awakenthenorth.org@em9643.happs.tv>)
+	id 1lAvyQ-0073xf-JJ
+	for atn@awakenthenorth.org; Sat, 13 Feb 2021 09:32:38 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=happs.tv; 
+	h=content-type:from:mime-version:reply-to:to:subject:list-unsubscribe; 
+	s=s1; bh=3NfQynHqMNC3uFu42KRWWgMok8YP5CQRBqQe5MQQllo=; b=YvpCVe1
+	GEx6ztpdKwoBahSykqgSyYP/Gi36hT2ormr38OSSCnXxHRuOxjBfsvXVDkJoviUt
+	6GqTnssFPvVI+S4rlrhyugeibnKvEmpDfwIYqgvC/HLURAzTWJmj6RZkB2cZefwD
+	RjGWzbt91F+ktUmx+Ut1L4uUGVSNjSa0/Qts=
+Received: by filter1860p1las1.sendgrid.net with SMTP id filter1860p1las1-28619-6027DB8F-57
+        2021-02-13 14:00:47.932746631 +0000 UTC m=+397228.639812988
+Received: from MTAyMzc4NzE (unknown)
+	by ismtpd0037p1mdw1.sendgrid.net (SG) with HTTP id f67QnIRQRD2ARiyboGxICg
+	Sat, 13 Feb 2021 14:00:47.851 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=5fb02246a2fb266226bc43eed1d54039f94dd8dada8bd01a439aa3ba7ba9
+Date: Sat, 13 Feb 2021 14:00:54 +0000 (UTC)
+From: "Pablo from Happs" <pdelahoya@happs.tv>
+Mime-Version: 1.0
+Reply-To: pdelahoya@happs.tv
+To: "AwakenTheNorth" <atn@awakenthenorth.org>
+Message-ID: <f67QnIRQRD2ARiyboGxICg@ismtpd0037p1mdw1.sendgrid.net>
+Subject: Periscope is dead, long live Happs!
+List-Unsubscribe: <mailto:unsubscribe@em9643.happs.tv?subject=https://u10237871.ct.sendgrid.net/wf/unsubscribe*q*upn=ZdIxBsD6XlLEw-2BxLzCtGieRPMyHDypqWq7H0Bv-2B-2Fc2Gt4OS4v91qvUmbDaS2t5mX1ymlpK-2Ban6xtHfcai-2BcvBWEVyGfqwxe-2FJGi2T1wZgoncspqHtu6Xnh-2BED4xDp2mJ-2B21fG7ywpQLfBB3hsfz-2FGTEFA1nMOEIk4bFEqarrvvyf1ikZYc5rKjlkbLqbwbuOkzK0CV9XRpollgmZr5pDjGVjhaB-2FD8gVGabMU9l20ugY7Qr3kan-2Bz-2FmXMmc-2Bmy-2F8jubuj3DgGL6ArmPIIrWVfN-2BIvnu4IngWtKeozBzw-2Bwt7rFzZpPpyo7imKAclQQtpMEZP7Le2AytYuK80kTKl3-2BZ7npvS7vBZlWGqlspmFRd1ZXn74DQzfqjL-2FXbExBFybvvyMlIfyiLzKzorSu2XH32KGo7edhkUzwg-2Bns-2FUHY8MAnqbEN2Tp2PlItsUu5d0u2FR2ustjNmSlAtTjQ-2Bo8ahxahXkwy3eTQ7YaEIE9J2IwhtVablMh-2FISi43OleYsv6XNWzMBRYPoNBT4hy79uzWZpp05mVSPmO3T5Fqt5FuCONtysJlRM19kjoBiG3SQPzxsYIV0Z-2FfY33Qv1N2aExXkvKsho9cfeNcsb3yUmWpi7Q-2BuOUcF8pgWVhsfaWexUVDqHx2HczYWsvYNPskIKcyxo4raDZgDFCI1k1nMX2SaZglD3jG9Lppf9JBN4QPmZ7SgV9-2FB5hQ-2FJVb2rWAz4vfs7OhvlYBXKrArrvkf2GWEh0hxSH-2BSvkCs6C7deo4mSwpdnWOAm4mmFWRIMFYXyZTh9PBs4Fq1aUoIJji5MMWvifl44fDw3v6g7EbTNg1KNGToVWvwg8dZyDCIaCOKDOBLPpgqc51Bu8qTeRjqMPAQe9k50Q5p-2FL01rdFQXZ4d>
+X-SG-EID: ADrvroGWXWww5IwkvAUlzH5+ArHjETlqTuvjTwaWy3PfVkpzdpgayyo7RjZ/ejZGk4pkkRPz1rg24W
+ gv2pAH4IkY5ZtLeXnStylZdY8rvRjSHsYTYDwq+YF+i8GG1uNQ82XOB3P0qVsjlLddtKZn+k1iPs5e
+ +4NAoEtoPJN9qiZ6Iwy4oRq3dbVwD3pCPZWq3MRnRBATGpbfF46iDhOwRJW7JpymzUDrfoXrgy9/dH
+ M=
+X-SG-ID: mcTyqcYTtmn56LU3ATD1f1iUVQQeyQ1fFAQ7CFT63ZE4U2w06uvvEulZ3IrkBIeHgAmjbchJvo7YPC
+ 18Jky3U3aGBmwfQC4V7Byg1gDgg3WxeEdD86MOvV/T4g5YvqPg53hV5ZBzIsyNJkXYamVJJ19ShUhV
+ FpAZK4Ex5TWZBPDfz+6oieKtnmz1wLXfidx9eoPobPflZ5D8H+bx4yzP8SZ+frGJWGm/urpGx6oBIa
+ mlTrFRMjrIsLsHEKpbp2wAZC+/Eck3kYjDZyyEjRWybbVx4+Xn5ZtUsb4XSOrUsKU329NCalT4ZNhz
+ brmBucX2/Mi0dfcgzypeEa1NWg4Z9GbX83Wh3s79m8Ojn3urFc7qZnSQHhD7VM4Gz5VP2IKMDJusfl
+ ssRBATfeapKjqZY/yiz87GlploEUvwrHuRlHsO2O/EGr0WjTH0bWP6jjsQmvQJAOXKETRSGKcHCmPu
+ +zdr+BhlKtPftBzSPOd3lOx17723TNEFeJnJiLWzJV7Qg5nqaEx7xvkz4JHHLBBOLqR5WGAUvP5S2R
+ gr8hdKEsS53qlIgkQehRN87JOpQlYpWeNut+SkQl1VkiQSPBk1kds1VyTajLcl96RK1GC3SYxl1lup
+ fFQDPWeruDWGi1lEsnweSdL5hGLjqv4TQ+2HBZBJI1ehgPLZACY1zgFUNII=
+X-Entity-ID: JXATxNOIBDNAV24m7VmLQg==
+
+--5fb02246a2fb266226bc43eed1d54039f94dd8dada8bd01a439aa3ba7ba9
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+Don't lose your followers!
+
+Hello AwakenTheNorth,
+
+Periscope is going under next month=E2=80=A6 Don=E2=80=99t lose your follow=
+ing! Happs ( https://mc.sendgrid.com/single-sends/f7c69efe-6981-11eb-b7be-4=
+a4be33c824e/stats/www.happs.tv/discover ) makes it super simple to move you=
+r audience over while reaching an even larger community.
+
+Download Happs ( iOS ( https://apps.apple.com/us/app/happs-the-network-of-n=
+ow/id1437730672 ) , Android ( https://play.google.com/store/apps/details?id=
+=3Dtv.happs ) ) or go to Happs.tv ( https://mc.sendgrid.com/single-sends/f7=
+c69efe-6981-11eb-b7be-4a4be33c824e/stats/www.happs.tv/discover ). Connect y=
+our Periscope account. Go Live and invite your followers to join! Every new=
+ user gets 100 free coins to sponsor you. Make money day one!
+
+Happs offers an easy-to-use mobile app, a desktop Broadcast Studio with pro=
+ tools, and a kick-ass viewing experience. Go Live ( https://mc.sendgrid.co=
+m/single-sends/f7c69efe-6981-11eb-b7be-4a4be33c824e/stats/www.happs.tv/disc=
+over ) (with your periscope account connected) today!
+
+Now=E2=80=99s the time to jump to Happs, the next-gen live video platform. =
+Don=E2=80=99t miss out!
+
+Cheers,
+Pablo
+
+Community Manager
+Los Angeles
+twitter.com/Happs ( https://mc.sendgrid.com/single-sends/f7c69efe-6981-11eb=
+-b7be-4a4be33c824e/stats/www.twitter.com/happsnews )
+Follow me on Happs ( https://mc.sendgrid.com/single-sends/f7c69efe-6981-11e=
+b-b7be-4a4be33c824e/stats/www.happs.tv/@peter )
+
+Pablo from Happs
+
+24955 Pacific Coast Hwy, Suite C201 , Malibu , CA 90265
+
+Unsubscribe ( https://u10237871.ct.sendgrid.net/wf/unsubscribe?upn=3DZdIxBs=
+D6XlLEw-2BxLzCtGieRPMyHDypqWq7H0Bv-2B-2Fc2Gt4OS4v91qvUmbDaS2t5mX1ymlpK-2Ban=
+6xtHfcai-2BcvBWEVyGfqwxe-2FJGi2T1wZgoncspqHtu6Xnh-2BED4xDp2mJ-2B21fG7ywpQLf=
+BB3hsfz-2FGTEFA1nMOEIk4bFEqarrvvyf1ikZYc5rKjlkbLqbwbuOkzK0CV9XRpollgmZr5pDj=
+GVjhaB-2FD8gVGabMU9l20ugY7Qr3kan-2Bz-2FmXMmc-2Bmy-2F8jubuj3DgGL6ArmPIIrWVfN=
+-2BIvnu4IngWtKeozBzw-2Bwt7rFzZpPpyo7imKAclQQtpMEZP7Le2AytYuK80kTKl3-2BZ7npv=
+S7vBZlWGqlspmFRd1ZXn74DQzfqjL-2FXbExBFybvvyMlIfyiLzKzorSu2XH32KGo7edhkUzwg-=
+2Bns-2FUHY8MAnqbEN2Tp2PlItsUu5d0u2FR2ustjNmSlAtTjQ-2Bo8ahxahXkwy3eTQ7YaEIE9=
+J2IwhtVablMh-2FISi43OleYsv6XNWzMBRYPoNBT4hy79uzWZpp05mVSPmO3T5Fqt5FuCONtysJ=
+lRM19kjoBiG3SQPzxsYIV0Z-2FfY33Qv1N2aExXkvKsho9cfeNcsb3yUmWpi7Q-2BuOUcF8pgWV=
+hsfaWexUVDqHx2HczYWsvYNPskIKcyxo4raDZgDFCI1k1nMX2SaZglD3jG9Lppf9JBN4QPmZ7Sg=
+V9-2FB5hQ-2FJVb2rWAz4lNL8aDWwEB9BB-2FAXaoJsD2ABk713lsLySciEF6dd4B1oKn10HhjN=
+SM91H2T9Uwz2RiR-2F6AW6CZWQhCai2FDrgjRFiMfNLd-2BmI81PI1umUyJaiJdW-2BgK5Vqp9L=
+WI5oC0QPtlZ95D1vfnex7rQd3BX7X-2BEwTvpEG0F8GpsiLC7Pr-2B )=
+
+--5fb02246a2fb266226bc43eed1d54039f94dd8dada8bd01a439aa3ba7ba9
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html data-editor-version=3D"2" class=3D"sg-campaigns" xmlns=3D"http://www.=
+w3.org/1999/xhtml">
+    <head>
+      <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf=
+-8">
+      <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scal=
+e=3D1, minimum-scale=3D1, maximum-scale=3D1">
+      <!--[if !mso]><!-->
+      <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3DEdge">
+      <!--<![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+  <style type=3D"text/css">
+    body {width: 600px;margin: 0 auto;}
+    table {border-collapse: collapse;}
+    table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+    img {-ms-interpolation-mode: bicubic;}
+  </style>
+<![endif]-->
+      <style type=3D"text/css">
+    body, p, div {
+      font-family: arial,helvetica,sans-serif;
+      font-size: 14px;
+    }
+    body {
+      color: #000000;
+    }
+    body a {
+      color: #1188E6;
+      text-decoration: none;
+    }
+    p { margin: 0; padding: 0; }
+    table.wrapper {
+      width:100% !important;
+      table-layout: fixed;
+      -webkit-font-smoothing: antialiased;
+      -webkit-text-size-adjust: 100%;
+      -moz-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+    img.max-width {
+      max-width: 100% !important;
+    }
+    .column.of-2 {
+      width: 50%;
+    }
+    .column.of-3 {
+      width: 33.333%;
+    }
+    .column.of-4 {
+      width: 25%;
+    }
+    @media screen and (max-width:480px) {
+      .preheader .rightColumnContent,
+      .footer .rightColumnContent {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent div,
+      .preheader .rightColumnContent span,
+      .footer .rightColumnContent div,
+      .footer .rightColumnContent span {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent,
+      .preheader .leftColumnContent {
+        font-size: 80% !important;
+        padding: 5px 0;
+      }
+      table.wrapper-mobile {
+        width: 100% !important;
+        table-layout: fixed;
+      }
+      img.max-width {
+        height: auto !important;
+        max-width: 100% !important;
+      }
+      a.bulletproof-button {
+        display: block !important;
+        width: auto !important;
+        font-size: 80%;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+      .columns {
+        width: 100% !important;
+      }
+      .column {
+        display: block !important;
+        width: 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+      }
+      .social-icon-column {
+        display: inline-block !important;
+      }
+    }
+  </style>
+      <!--user entered Head Start--><!--End Head user entered-->
+    </head>
+    <body>
+      <center class=3D"wrapper" data-link-color=3D"#1188E6" data-body-style=
+=3D"font-size:14px; font-family:arial,helvetica,sans-serif; color:#000000; =
+background-color:#FFFFFF;">
+        <div class=3D"webkit">
+          <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"=
+100%" class=3D"wrapper" bgcolor=3D"#FFFFFF">
+            <tr>
+              <td valign=3D"top" bgcolor=3D"#FFFFFF" width=3D"100%">
+                <table width=3D"100%" role=3D"content-container" class=3D"o=
+uter" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                  <tr>
+                    <td width=3D"100%">
+                      <table width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0">
+                        <tr>
+                          <td>
+                            <!--[if mso]>
+    <center>
+    <table><tr><td width=3D"600">
+  <![endif]-->
+                                    <table width=3D"100%" cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0" style=3D"width:100%; max-width:600px;" alig=
+n=3D"center">
+                                      <tr>
+                                        <td role=3D"modules-container" styl=
+e=3D"padding:0px 0px 0px 0px; color:#000000; text-align:left;" bgcolor=3D"#=
+FFFFFF" width=3D"100%" align=3D"left"><table class=3D"module preheader preh=
+eader-hide" role=3D"module" data-type=3D"preheader" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"display: none !important;=
+ mso-hide: all; visibility: hidden; opacity: 0; color: transparent; height:=
+ 0; width: 0;">
+    <tr>
+      <td role=3D"module-content">
+        <p>Don't lose your followers!</p>
+      </td>
+    </tr>
+  </table><table class=3D"module" role=3D"module" data-type=3D"text" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-la=
+yout: fixed;" data-muid=3D"371b1ce6-2663-47e4-a625-fd231ac4aa62" data-mc-mo=
+dule-version=3D"2019-10-22">
+    <tbody>
+      <tr>
+        <td style=3D"padding:18px 0px 18px 0px; line-height:22px; text-alig=
+n:inherit;" height=3D"100%" valign=3D"top" bgcolor=3D"" role=3D"module-cont=
+ent"><div><div style=3D"font-family: inherit; text-align: inherit"><span st=
+yle=3D"color: #000000; font-family: inherit; font-size: 14px; font-style: n=
+ormal; font-variant-ligatures: normal; font-variant-caps: normal; font-weig=
+ht: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transfo=
+rm: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-s=
+troke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thi=
+ckness: initial; text-decoration-style: initial; text-decoration-color: ini=
+tial; width: 600px; max-width: 600px; padding-top: 0px; padding-right: 0px;=
+ padding-bottom: 0px; padding-left: 0px; table-layout: fixed">Hello AwakenT=
+heNorth,</span></div>
+<div style=3D"font-family: inherit; text-align: inherit"><br>
+<span style=3D"color: #000000; font-family: inherit; font-size: 14px; font-=
+style: normal; font-variant-ligatures: normal; font-variant-caps: normal; f=
+ont-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text=
+-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webki=
+t-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decora=
+tion-thickness: initial; text-decoration-style: initial; text-decoration-co=
+lor: initial; width: 600px; max-width: 600px; padding-top: 0px; padding-rig=
+ht: 0px; padding-bottom: 0px; padding-left: 0px; table-layout: fixed">Peris=
+cope is going under next month=E2=80=A6 Don=E2=80=99t lose your following!<=
+/span> <a href=3D"https://u10237871.ct.sendgrid.net/ls/click?upn=3DdwMggG8B=
+PvxN4SeHDysqZWfJyXXObIqIp9g6Pa-2B4Yxxya-2Fu-2FiFRcJNew3Od-2FonD27SMK41qF6il=
+OCcZSLE3ntigwJSyTVU2a2WZUEHzNHBq74ggc3nLdrmwjzFV5HaHDxDKTW3BXO-2B18y-2FwOw-=
+2FJx6A-3D-3D-wUS_hWqhQmFMMWQ-2FDA-2B5tVGvUjPYQHyFShvkckNkia2G0OTRy63eoehFn4=
+2lvPU-2BySt3ofKKGUOg5I55fOZRvP3pXkzzD6c-2FCKmOt0LyxwKWoEy9bY1USvv8YZJ-2BizZ=
+Uvc4uJKEWraxO8oNdS7-2F4FJDLUZYJ1Lj3cX1KhJhQ1cgZtcc7jblW0XYlkhoTHc7OSHLWMxRB=
+G8aHza2ZTmEWc4M7kQP8mvqjeVaLxaJ23HYPNyE1C-2FFpph3aWiGaL0TPks9Lzo7MzQzOJPw5d=
+xsMX4gJUFqQ5K-2BLWaYcF-2FRpSX2910l1KLjCjooBagDocDrmJxayZxSTKxpMQ2cobwjgoOoM=
+lxz79q8Rs4CUWTPuxLLyWvtmwFuvRWS4a1I-2BpDb2XTDPfLsdFKbiZBPc4U3gaCfFX01ykqbxK=
+5phNy0iTjo0mfROkODtQ-2FW31dWuzdTS6PcwGOH6WDQLTg4iOCHWvflvkLKaYc9JOWzSwhdKb-=
+2BgDzz8TylrmF9craY5lESuPx6mZDyZoF5wBTQ2cYfG6BY1xR-2BAxzeJ6GHcnPt1ey1mlBGhC2=
+ob2Q-2FIJ-2FVRXv06hPLNamQ5Rt66AjmpjxTGpWZTGeEc4GZyZl5fCMYbWUc23S2lXuS0uoYzU=
+fi4HJmgH1FHxWZ09DRL-2F4KK2Ravm6XFL635ujlqyeQuzgp6ht2Keu9eG1um7jNZjSdiVHyyDr=
+cpcfkq-2FO3IhfqoJxuJSceeu-2B5yLyx-2FYEJaDCDQU3zQvSGD81-2BxmH1eIugywtu-2Bqum=
+qukFGMuQPTdBdAs1dM7wvTTsjRHNoGHoSe-2B-2FiV7J6h3-2Fg-2FVhntztYCfqQSmlixsJ6rx=
+kOVjPE9v2Z4t6kaHuNcql-2FoOx1kMxjC9Es-2BPobQhaF-2BMtxdR-2Be4cayjdTtCFGTY" ti=
+tle=3D"Happs"><span style=3D"color: #1188e6; font-family: inherit; font-siz=
+e: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-c=
+aps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-ali=
+gn: left; text-transform: none; white-space: normal; widows: 2; word-spacin=
+g: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255=
+); text-decoration-thickness: initial; text-decoration-style: initial; text=
+-decoration-color: initial; width: 600px; max-width: 600px; padding-top: 0p=
+x; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; table-layout=
+: fixed; text-decoration-line: none">Happs</span></a> <span style=3D"color:=
+ #000000; font-family: inherit; font-size: 14px; font-style: normal; font-v=
+ariant-ligatures: normal; font-variant-caps: normal; font-weight: 400; lett=
+er-spacing: normal; orphans: 2; text-align: left; text-transform: none; whi=
+te-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: =
+0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initi=
+al; text-decoration-style: initial; text-decoration-color: initial; width: =
+600px; max-width: 600px; padding-top: 0px; padding-right: 0px; padding-bott=
+om: 0px; padding-left: 0px; table-layout: fixed">makes it super simple to m=
+ove your audience over while reaching an even larger community.</span></div>
+<div style=3D"font-family: inherit; text-align: inherit"><br>
+<span style=3D"color: #000000; font-family: inherit; font-size: 14px; font-=
+style: normal; font-variant-ligatures: normal; font-variant-caps: normal; f=
+ont-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text=
+-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webki=
+t-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decora=
+tion-thickness: initial; text-decoration-style: initial; text-decoration-co=
+lor: initial; width: 600px; max-width: 600px; padding-top: 0px; padding-rig=
+ht: 0px; padding-bottom: 0px; padding-left: 0px; table-layout: fixed">Downl=
+oad Happs (</span><a href=3D"https://u10237871.ct.sendgrid.net/ls/click?upn=
+=3DdwMggG8BPvxN4SeHDysqZRC9K0D0Lb1b8jSoBOdgDoQSZPRiJZxihlOXixtseg2m7F7wg3BS=
+mNXDBHln4mH-2BY9yvYy0Fra7x6Jiz6w5q-2FOA-3DouDE_hWqhQmFMMWQ-2FDA-2B5tVGvUjPY=
+QHyFShvkckNkia2G0OTRy63eoehFn42lvPU-2BySt3ofKKGUOg5I55fOZRvP3pXkzzD6c-2FCKm=
+Ot0LyxwKWoEy9bY1USvv8YZJ-2BizZUvc4uJKEWraxO8oNdS7-2F4FJDLUZYJ1Lj3cX1KhJhQ1c=
+gZtcc7jblW0XYlkhoTHc7OSHLWMxRBG8aHza2ZTmEWc4M7kQP8mvqjeVaLxaJ23HYPNyE1C-2FF=
+pph3aWiGaL0TPks9Lzo7MzQzOJPw5dxsMX4gJUFqQ5K-2BLWaYcF-2FRpSX2910l1KLjCjooBag=
+DocDrmJxayZxSTKxpMQ2cobwjgoOoMlxz79q8Rs4CUWTPuxLLyWvtmwFuvRWS4a1I-2BpDb2XTD=
+PfLsdFKbiZBPc4U3gaCfFX01ykqbxK5phNy0iTjo0mfROkODtQ-2FW31dWuzdTS6PcwGOH6WDQL=
+Tg4iOCHWvflvkLKaYc9JOWzSwhdKb-2BgDzz8TylrmF9craY5lESuPx6mZDyZoF5wBTQ2cYfG6B=
+Y1xR-2BAxzeJ6GHcnPt1ey1mlBGhC2ob2Q-2FIJ-2FVRXv06hPLNamQ5Rt66AjmpjxTGpWZTGeE=
+c4GZyZl5fCMYbWUc23S2lXuS0uoYzUfi4HJmgH1FHxWZ09DRL-2F4KK2Ravm6XFL635ujlqyeQu=
+zgp6ht2Keu9eG1um7jNZjSdiVHyyDrcpcfkq-2FO3IhfqoJxuJSceeu-2B9Wc8BLzoWtNWC9z8D=
+XzjfJqu7X48VaJDmz1GpwGo0aXRq8FSzIwU8G5VziqfJJJXKYFwN4me25cTHkH40v3D4wnD5fii=
+LhW9ZLqSXuqGjyiVG5aT193035vyqiGK23c4wW-2FnGv1J4ZyAChS8rNHFudK2NntXWEujUUfoe=
+-2FZyOY8" title=3D"iOS"><span style=3D"color: #1188e6; font-family: inherit=
+; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font=
+-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2=
+; text-align: left; text-transform: none; white-space: normal; widows: 2; w=
+ord-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255=
+, 255, 255); text-decoration-thickness: initial; text-decoration-style: ini=
+tial; text-decoration-color: initial; width: 600px; max-width: 600px; paddi=
+ng-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; ta=
+ble-layout: fixed; text-decoration-line: none">iOS</span></a><span style=3D=
+"color: #000000; font-family: inherit; font-size: 14px; font-style: normal;=
+ font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 40=
+0; letter-spacing: normal; orphans: 2; text-align: left; text-transform: no=
+ne; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-=
+width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness=
+: initial; text-decoration-style: initial; text-decoration-color: initial; =
+width: 600px; max-width: 600px; padding-top: 0px; padding-right: 0px; paddi=
+ng-bottom: 0px; padding-left: 0px; table-layout: fixed">,</span> <a href=3D=
+"https://u10237871.ct.sendgrid.net/ls/click?upn=3DdwMggG8BPvxN4SeHDysqZefUQ=
+XnxpB8Qv8pE-2BnDCP8ZnRctW7Vnz-2FqqFLFRt1euYmFIuJj7MqlQf-2F1cF22eF-2Fg-3D-3D=
+m05G_hWqhQmFMMWQ-2FDA-2B5tVGvUjPYQHyFShvkckNkia2G0OTRy63eoehFn42lvPU-2BySt3=
+ofKKGUOg5I55fOZRvP3pXkzzD6c-2FCKmOt0LyxwKWoEy9bY1USvv8YZJ-2BizZUvc4uJKEWrax=
+O8oNdS7-2F4FJDLUZYJ1Lj3cX1KhJhQ1cgZtcc7jblW0XYlkhoTHc7OSHLWMxRBG8aHza2ZTmEW=
+c4M7kQP8mvqjeVaLxaJ23HYPNyE1C-2FFpph3aWiGaL0TPks9Lzo7MzQzOJPw5dxsMX4gJUFqQ5=
+K-2BLWaYcF-2FRpSX2910l1KLjCjooBagDocDrmJxayZxSTKxpMQ2cobwjgoOoMlxz79q8Rs4CU=
+WTPuxLLyWvtmwFuvRWS4a1I-2BpDb2XTDPfLsdFKbiZBPc4U3gaCfFX01ykqbxK5phNy0iTjo0m=
+fROkODtQ-2FW31dWuzdTS6PcwGOH6WDQLTg4iOCHWvflvkLKaYc9JOWzSwhdKb-2BgDzz8Tylrm=
+F9craY5lESuPx6mZDyZoF5wBTQ2cYfG6BY1xR-2BAxzeJ6GHcnPt1ey1mlBGhC2ob2Q-2FIJ-2F=
+VRXv06hPLNamQ5Rt66AjmpjxTGpWZTGeEc4GZyZl5fCMYbWUc23S2lXuS0uoYzUfi4HJmgH1FHx=
+WZ09DRL-2F4KK2Ravm6XFL635ujlqyeQuzgp6ht2Keu9eG1um7jNZjSdiVHyyDrcpcfkq-2FO3I=
+hfqoJxuJSceeu-2B5xDtD3jAzn1dYb5XTN7BBm7SotjKcacU9mZ3EtSDOfhL9T4mPBjOodNZnLf=
+yeeqBmMp4ltZpmxr3XFpYFJ6aSQABcfCvI9GfsY16lKCOS1BsjXohik5ctywUpXhGcNcy-2FU1p=
+ZdTk4fpDphNOzRdEjO3tFp9-2FDTUUthp1-2FaAt20a" title=3D"Android"><span style=
+=3D"color: #1188e6; font-family: inherit; font-size: 14px; font-style: norm=
+al; font-variant-ligatures: normal; font-variant-caps: normal; font-weight:=
+ 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform:=
+ none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stro=
+ke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickn=
+ess: initial; text-decoration-style: initial; text-decoration-color: initia=
+l; width: 600px; max-width: 600px; padding-top: 0px; padding-right: 0px; pa=
+dding-bottom: 0px; padding-left: 0px; table-layout: fixed; text-decoration-=
+line: none">Android</span></a><span style=3D"color: #000000; font-family: i=
+nherit; font-size: 14px; font-style: normal; font-variant-ligatures: normal=
+; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orph=
+ans: 2; text-align: left; text-transform: none; white-space: normal; widows=
+: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: r=
+gb(255, 255, 255); text-decoration-thickness: initial; text-decoration-styl=
+e: initial; text-decoration-color: initial; width: 600px; max-width: 600px;=
+ padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0=
+px; table-layout: fixed">) or go to</span> <a href=3D"https://u10237871.ct.=
+sendgrid.net/ls/click?upn=3DdwMggG8BPvxN4SeHDysqZWfJyXXObIqIp9g6Pa-2B4Yxxya=
+-2Fu-2FiFRcJNew3Od-2FonD27SMK41qF6ilOCcZSLE3ntigwJSyTVU2a2WZUEHzNHBq74ggc3n=
+LdrmwjzFV5HaHDxDKTW3BXO-2B18y-2FwOw-2FJx6A-3D-3D6XWB_hWqhQmFMMWQ-2FDA-2B5tV=
+GvUjPYQHyFShvkckNkia2G0OTRy63eoehFn42lvPU-2BySt3ofKKGUOg5I55fOZRvP3pXkzzD6c=
+-2FCKmOt0LyxwKWoEy9bY1USvv8YZJ-2BizZUvc4uJKEWraxO8oNdS7-2F4FJDLUZYJ1Lj3cX1K=
+hJhQ1cgZtcc7jblW0XYlkhoTHc7OSHLWMxRBG8aHza2ZTmEWc4M7kQP8mvqjeVaLxaJ23HYPNyE=
+1C-2FFpph3aWiGaL0TPks9Lzo7MzQzOJPw5dxsMX4gJUFqQ5K-2BLWaYcF-2FRpSX2910l1KLjC=
+jooBagDocDrmJxayZxSTKxpMQ2cobwjgoOoMlxz79q8Rs4CUWTPuxLLyWvtmwFuvRWS4a1I-2Bp=
+Db2XTDPfLsdFKbiZBPc4U3gaCfFX01ykqbxK5phNy0iTjo0mfROkODtQ-2FW31dWuzdTS6PcwGO=
+H6WDQLTg4iOCHWvflvkLKaYc9JOWzSwhdKb-2BgDzz8TylrmF9craY5lESuPx6mZDyZoF5wBTQ2=
+cYfG6BY1xR-2BAxzeJ6GHcnPt1ey1mlBGhC2ob2Q-2FIJ-2FVRXv06hPLNamQ5Rt66AjmpjxTGp=
+WZTGeEc4GZyZl5fCMYbWUc23S2lXuS0uoYzUfi4HJmgH1FHxWZ09DRL-2F4KK2Ravm6XFL635uj=
+lqyeQuzgp6ht2Keu9eG1um7jNZjSdiVHyyDrcpcfkq-2FO3IhfqoJxuJSceeu-2B13mx9Ay4Lp-=
+2B10GkqI47270wNZhsIx7dkU4tR10oTr92svMBvN7UborRuDHFZJSf5wOlWurMgAWy3dMGbPYKg=
+JjQ1EDYifAgg3fQxbpSo8Mk0LkNAWBOr-2FUQpIbxLVvSaXyV2-2FmxqM2rJMIRZYa0e7RYf-2B=
+A6qiGSlMZKGguR4ESP" title=3D"Happs.tv"><span style=3D"color: #1188e6; font-=
+family: inherit; font-size: 14px; font-style: normal; font-variant-ligature=
+s: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: nor=
+mal; orphans: 2; text-align: left; text-transform: none; white-space: norma=
+l; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background=
+-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decora=
+tion-style: initial; text-decoration-color: initial; width: 600px; max-widt=
+h: 600px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; paddin=
+g-left: 0px; table-layout: fixed; text-decoration-line: none">Happs.tv</spa=
+n></a><span style=3D"color: #1188e6; font-family: inherit; font-size: 14px;=
+ font-style: normal; font-variant-ligatures: normal; font-variant-caps: nor=
+mal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left=
+; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; =
+-webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-=
+decoration-thickness: initial; text-decoration-style: initial; text-decorat=
+ion-color: initial; width: 600px; max-width: 600px; padding-top: 0px; paddi=
+ng-right: 0px; padding-bottom: 0px; padding-left: 0px; table-layout: fixed;=
+ text-decoration-line: none">. </span><span style=3D"color: #000000; font-f=
+amily: inherit; font-size: 14px; font-style: normal; font-variant-ligatures=
+: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: norm=
+al; orphans: 2; text-align: left; text-transform: none; white-space: normal=
+; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-=
+color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decorat=
+ion-style: initial; text-decoration-color: initial; width: 600px; max-width=
+: 600px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding=
+-left: 0px; table-layout: fixed">Connect your Periscope account. Go Live an=
+d invite your followers to join! Every new user gets 100 free coins to spon=
+sor you. Make money day one!</span></div>
+<div style=3D"font-family: inherit; text-align: inherit"><br>
+</div>
+<div style=3D"font-family: inherit; text-align: inherit"><span style=3D"col=
+or: #000000; font-family: inherit; font-size: 14px; font-style: normal; fon=
+t-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; l=
+etter-spacing: normal; orphans: 2; text-align: left; text-transform: none; =
+white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-widt=
+h: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: in=
+itial; text-decoration-style: initial; text-decoration-color: initial; widt=
+h: 600px; max-width: 600px; padding-top: 0px; padding-right: 0px; padding-b=
+ottom: 0px; padding-left: 0px; table-layout: fixed">Happs offers an easy-to=
+-use mobile app, a desktop Broadcast Studio with pro tools, and a kick-ass =
+viewing experience.</span> <a href=3D"https://u10237871.ct.sendgrid.net/ls/=
+click?upn=3DdwMggG8BPvxN4SeHDysqZWfJyXXObIqIp9g6Pa-2B4Yxxya-2Fu-2FiFRcJNew3=
+Od-2FonD27SMK41qF6ilOCcZSLE3ntigwJSyTVU2a2WZUEHzNHBq74ggc3nLdrmwjzFV5HaHDxD=
+KTW3BXO-2B18y-2FwOw-2FJx6A-3D-3D7NaK_hWqhQmFMMWQ-2FDA-2B5tVGvUjPYQHyFShvkck=
+Nkia2G0OTRy63eoehFn42lvPU-2BySt3ofKKGUOg5I55fOZRvP3pXkzzD6c-2FCKmOt0LyxwKWo=
+Ey9bY1USvv8YZJ-2BizZUvc4uJKEWraxO8oNdS7-2F4FJDLUZYJ1Lj3cX1KhJhQ1cgZtcc7jblW=
+0XYlkhoTHc7OSHLWMxRBG8aHza2ZTmEWc4M7kQP8mvqjeVaLxaJ23HYPNyE1C-2FFpph3aWiGaL=
+0TPks9Lzo7MzQzOJPw5dxsMX4gJUFqQ5K-2BLWaYcF-2FRpSX2910l1KLjCjooBagDocDrmJxay=
+ZxSTKxpMQ2cobwjgoOoMlxz79q8Rs4CUWTPuxLLyWvtmwFuvRWS4a1I-2BpDb2XTDPfLsdFKbiZ=
+BPc4U3gaCfFX01ykqbxK5phNy0iTjo0mfROkODtQ-2FW31dWuzdTS6PcwGOH6WDQLTg4iOCHWvf=
+lvkLKaYc9JOWzSwhdKb-2BgDzz8TylrmF9craY5lESuPx6mZDyZoF5wBTQ2cYfG6BY1xR-2BAxz=
+eJ6GHcnPt1ey1mlBGhC2ob2Q-2FIJ-2FVRXv06hPLNamQ5Rt66AjmpjxTGpWZTGeEc4GZyZl5fC=
+MYbWUc23S2lXuS0uoYzUfi4HJmgH1FHxWZ09DRL-2F4KK2Ravm6XFL635ujlqyeQuzgp6ht2Keu=
+9eG1um7jNZjSdiVHyyDrcpcfkq-2FO3IhfqoJxuJSceeu-2B7-2BOhrguRt5NVQZfXjqFBzcV5r=
+32cft67SqfEw3VDSbTgFFIUF-2F1oQzwppm2D9Bon0csGcEOZ7SgOUw44dm73f0QOMB8-2FirMw=
+4QATPhH3MRc2EkFtwnzmOJ1aVy2bYCz-2F5j3EidHm2n9IuJiWGMvZEaI73gIyHKj1m0yyoRSdu=
+rD" title=3D"Go Live"><span style=3D"color: #1188e6; font-family: inherit; =
+font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-v=
+ariant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; =
+text-align: left; text-transform: none; white-space: normal; widows: 2; wor=
+d-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, =
+255, 255); text-decoration-thickness: initial; text-decoration-style: initi=
+al; text-decoration-color: initial; width: 600px; max-width: 600px; padding=
+-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; tabl=
+e-layout: fixed; text-decoration-line: none">Go Live</span></a> <span style=
+=3D"color: #000000; font-family: inherit; font-size: 14px; font-style: norm=
+al; font-variant-ligatures: normal; font-variant-caps: normal; font-weight:=
+ 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform:=
+ none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stro=
+ke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickn=
+ess: initial; text-decoration-style: initial; text-decoration-color: initia=
+l; width: 600px; max-width: 600px; padding-top: 0px; padding-right: 0px; pa=
+dding-bottom: 0px; padding-left: 0px; table-layout: fixed">(with your peris=
+cope account connected) today!</span><br>
+<br>
+<span style=3D"color: #000000; font-family: inherit; font-size: 14px; font-=
+style: normal; font-variant-ligatures: normal; font-variant-caps: normal; f=
+ont-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text=
+-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webki=
+t-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decora=
+tion-thickness: initial; text-decoration-style: initial; text-decoration-co=
+lor: initial; width: 600px; max-width: 600px; padding-top: 0px; padding-rig=
+ht: 0px; padding-bottom: 0px; padding-left: 0px; table-layout: fixed">Now=
+=E2=80=99s the time to jump to Happs, the next-gen live video platform. Don=
+=E2=80=99t miss out!</span></div>
+<div style=3D"font-family: inherit; text-align: inherit"><br>
+<span style=3D"color: #000000; font-family: inherit; font-size: 14px; font-=
+style: normal; font-variant-ligatures: normal; font-variant-caps: normal; f=
+ont-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text=
+-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webki=
+t-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decora=
+tion-thickness: initial; text-decoration-style: initial; text-decoration-co=
+lor: initial; width: 600px; max-width: 600px; padding-top: 0px; padding-rig=
+ht: 0px; padding-bottom: 0px; padding-left: 0px; table-layout: fixed">Cheer=
+s,</span><br>
+<span style=3D"color: #000000; font-family: inherit; font-size: 14px; font-=
+style: normal; font-variant-ligatures: normal; font-variant-caps: normal; f=
+ont-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text=
+-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webki=
+t-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decora=
+tion-thickness: initial; text-decoration-style: initial; text-decoration-co=
+lor: initial; width: 600px; max-width: 600px; padding-top: 0px; padding-rig=
+ht: 0px; padding-bottom: 0px; padding-left: 0px; table-layout: fixed">Pablo=
+</span></div>
+<div style=3D"font-family: inherit; text-align: inherit"><br>
+<span style=3D"color: #000000; font-family: inherit; font-size: 14px; font-=
+style: normal; font-variant-ligatures: normal; font-variant-caps: normal; f=
+ont-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text=
+-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webki=
+t-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decora=
+tion-thickness: initial; text-decoration-style: initial; text-decoration-co=
+lor: initial; width: 600px; max-width: 600px; padding-top: 0px; padding-rig=
+ht: 0px; padding-bottom: 0px; padding-left: 0px; table-layout: fixed">Commu=
+nity Manager</span><br>
+<span style=3D"color: #000000; font-family: inherit; font-size: 14px; font-=
+style: normal; font-variant-ligatures: normal; font-variant-caps: normal; f=
+ont-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text=
+-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webki=
+t-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decora=
+tion-thickness: initial; text-decoration-style: initial; text-decoration-co=
+lor: initial; width: 600px; max-width: 600px; padding-top: 0px; padding-rig=
+ht: 0px; padding-bottom: 0px; padding-left: 0px; table-layout: fixed">Los A=
+ngeles</span><br>
+<a href=3D"https://u10237871.ct.sendgrid.net/ls/click?upn=3DdwMggG8BPvxN4Se=
+HDysqZWfJyXXObIqIp9g6Pa-2B4Yxxya-2Fu-2FiFRcJNew3Od-2FonD27SMK41qF6ilOCcZSLE=
+3ntigwJSyTVU2a2WZUEHzNHBo3wVmjeeyXwYdM8w32oyXAqi8VRljCdLoq9v62SMfWUhxUUlB1g=
+19QX2OGs3dZaO0-3DCLfq_hWqhQmFMMWQ-2FDA-2B5tVGvUjPYQHyFShvkckNkia2G0OTRy63eo=
+ehFn42lvPU-2BySt3ofKKGUOg5I55fOZRvP3pXkzzD6c-2FCKmOt0LyxwKWoEy9bY1USvv8YZJ-=
+2BizZUvc4uJKEWraxO8oNdS7-2F4FJDLUZYJ1Lj3cX1KhJhQ1cgZtcc7jblW0XYlkhoTHc7OSHL=
+WMxRBG8aHza2ZTmEWc4M7kQP8mvqjeVaLxaJ23HYPNyE1C-2FFpph3aWiGaL0TPks9Lzo7MzQzO=
+JPw5dxsMX4gJUFqQ5K-2BLWaYcF-2FRpSX2910l1KLjCjooBagDocDrmJxayZxSTKxpMQ2cobwj=
+goOoMlxz79q8Rs4CUWTPuxLLyWvtmwFuvRWS4a1I-2BpDb2XTDPfLsdFKbiZBPc4U3gaCfFX01y=
+kqbxK5phNy0iTjo0mfROkODtQ-2FW31dWuzdTS6PcwGOH6WDQLTg4iOCHWvflvkLKaYc9JOWzSw=
+hdKb-2BgDzz8TylrmF9craY5lESuPx6mZDyZoF5wBTQ2cYfG6BY1xR-2BAxzeJ6GHcnPt1ey1ml=
+BGhC2ob2Q-2FIJ-2FVRXv06hPLNamQ5Rt66AjmpjxTGpWZTGeEc4GZyZl5fCMYbWUc23S2lXuS0=
+uoYzUfi4HJmgH1FHxWZ09DRL-2F4KK2Ravm6XFL635ujlqyeQuzgp6ht2Keu9eG1um7jNZjSdiV=
+HyyDrcpcfkq-2FO3IhfqoJxuJSceeu-2B7wL4-2F4QncR42KDVruiFVbVnuQl4spS7LZG8Lt7jv=
+FJVqBhNkZzDU5Ruc-2F9Zt2PfsB8F5VLiUoBkl1jOQKWMK5NSztQu1EOEOmv1ApU8HLnfXtjG52=
+rSUrs2IqVcuhZID1oC4mfMx85MI5RwgSPjOfXd7rNxkZ8LGxSm92qS8fPA" title=3D"twitte=
+r.com/Happs"><span style=3D"color: #1188e6; font-family: inherit; font-size=
+: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-ca=
+ps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-alig=
+n: left; text-transform: none; white-space: normal; widows: 2; word-spacing=
+: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255)=
+; text-decoration-thickness: initial; text-decoration-style: initial; text-=
+decoration-color: initial; width: 600px; max-width: 600px; padding-top: 0px=
+; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; table-layout:=
+ fixed; text-decoration-line: none">twitter.com/Happs</span></a><br>
+<a href=3D"https://u10237871.ct.sendgrid.net/ls/click?upn=3DdwMggG8BPvxN4Se=
+HDysqZWfJyXXObIqIp9g6Pa-2B4Yxxya-2Fu-2FiFRcJNew3Od-2FonD27SMK41qF6ilOCcZSLE=
+3ntigwJSyTVU2a2WZUEHzNHBq74ggc3nLdrmwjzFV5HaHDiGAGYjINne5VVZrdAM3xlw-3D-3DR=
+Vc-_hWqhQmFMMWQ-2FDA-2B5tVGvUjPYQHyFShvkckNkia2G0OTRy63eoehFn42lvPU-2BySt3o=
+fKKGUOg5I55fOZRvP3pXkzzD6c-2FCKmOt0LyxwKWoEy9bY1USvv8YZJ-2BizZUvc4uJKEWraxO=
+8oNdS7-2F4FJDLUZYJ1Lj3cX1KhJhQ1cgZtcc7jblW0XYlkhoTHc7OSHLWMxRBG8aHza2ZTmEWc=
+4M7kQP8mvqjeVaLxaJ23HYPNyE1C-2FFpph3aWiGaL0TPks9Lzo7MzQzOJPw5dxsMX4gJUFqQ5K=
+-2BLWaYcF-2FRpSX2910l1KLjCjooBagDocDrmJxayZxSTKxpMQ2cobwjgoOoMlxz79q8Rs4CUW=
+TPuxLLyWvtmwFuvRWS4a1I-2BpDb2XTDPfLsdFKbiZBPc4U3gaCfFX01ykqbxK5phNy0iTjo0mf=
+ROkODtQ-2FW31dWuzdTS6PcwGOH6WDQLTg4iOCHWvflvkLKaYc9JOWzSwhdKb-2BgDzz8TylrmF=
+9craY5lESuPx6mZDyZoF5wBTQ2cYfG6BY1xR-2BAxzeJ6GHcnPt1ey1mlBGhC2ob2Q-2FIJ-2FV=
+RXv06hPLNamQ5Rt66AjmpjxTGpWZTGeEc4GZyZl5fCMYbWUc23S2lXuS0uoYzUfi4HJmgH1FHxW=
+Z09DRL-2F4KK2Ravm6XFL635ujlqyeQuzgp6ht2Keu9eG1um7jNZjSdiVHyyDrcpcfkq-2FO3Ih=
+fqoJxuJSceeu-2B8PJvuCPaigAmUkMPRqlmoclx0jtQdqgOImz83jH89INKDXu5PPLz5ELjZx9c=
+ojIGDBNbkuH4BzFPxVWDAoKpJXiNtjQzoi6Nm-2FYPSz-2FCy8KYfzjzf2abTwnCXz3O9PA9yVl=
+heCSB5tKQjxTQfl559GM6zsKk8n2I1myalTcklUK" title=3D"Follow me on Happs"><spa=
+n style=3D"color: #1188e6; font-family: inherit; font-size: 14px; font-styl=
+e: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-=
+weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-tra=
+nsform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-te=
+xt-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration=
+-thickness: initial; text-decoration-style: initial; text-decoration-color:=
+ initial; width: 600px; max-width: 600px; padding-top: 0px; padding-right: =
+0px; padding-bottom: 0px; padding-left: 0px; table-layout: fixed; text-deco=
+ration-line: none">Follow me on Happs</span></a></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><div data-role=3D"module-unsubscribe" class=3D"module" role=3D"mo=
+dule" data-type=3D"unsubscribe" style=3D"color:#444444; font-size:12px; lin=
+e-height:20px; padding:16px 16px 16px 16px; text-align:Center;" data-muid=
+=3D"4e838cf3-9892-4a6d-94d6-170e474d21e5"><div class=3D"Unsubscribe--addres=
+sLine"><p class=3D"Unsubscribe--senderName" style=3D"font-size:12px; line-h=
+eight:20px;">Pablo from Happs</p><p style=3D"font-size:12px; line-height:20=
+px;"><span class=3D"Unsubscribe--senderAddress">24955 Pacific Coast Hwy, Su=
+ite C201</span>, <span class=3D"Unsubscribe--senderCity">Malibu</span>, <sp=
+an class=3D"Unsubscribe--senderState">CA</span> <span class=3D"Unsubscribe-=
+-senderZip">90265</span></p></div><p style=3D"font-size:12px; line-height:2=
+0px;"><a class=3D"Unsubscribe--unsubscribeLink" href=3D"https://u10237871.c=
+t.sendgrid.net/wf/unsubscribe?upn=3DZdIxBsD6XlLEw-2BxLzCtGieRPMyHDypqWq7H0B=
+v-2B-2Fc2Gt4OS4v91qvUmbDaS2t5mX1ymlpK-2Ban6xtHfcai-2BcvBWEVyGfqwxe-2FJGi2T1=
+wZgoncspqHtu6Xnh-2BED4xDp2mJ-2B21fG7ywpQLfBB3hsfz-2FGTEFA1nMOEIk4bFEqarrvvy=
+f1ikZYc5rKjlkbLqbwbuOkzK0CV9XRpollgmZr5pDjGVjhaB-2FD8gVGabMU9l20ugY7Qr3kan-=
+2Bz-2FmXMmc-2Bmy-2F8jubuj3DgGL6ArmPIIrWVfN-2BIvnu4IngWtKeozBzw-2Bwt7rFzZpPp=
+yo7imKAclQQtpMEZP7Le2AytYuK80kTKl3-2BZ7npvS7vBZlWGqlspmFRd1ZXn74DQzfqjL-2FX=
+bExBFybvvyMlIfyiLzKzorSu2XH32KGo7edhkUzwg-2Bns-2FUHY8MAnqbEN2Tp2PlItsUu5d0u=
+2FR2ustjNmSlAtTjQ-2Bo8ahxahXkwy3eTQ7YaEIE9J2IwhtVablMh-2FISi43OleYsv6XNWzMB=
+RYPoNBT4hy79uzWZpp05mVSPmO3T5Fqt5FuCONtysJlRM19kjoBiG3SQPzxsYIV0Z-2FfY33Qv1=
+N2aExXkvKsho9cfeNcsb3yUmWpi7Q-2BuOUcF8pgWVhsfaWexUVDqHx2HczYWsvYNPskIKcyxo4=
+raDZgDFCI1k1nMX2SaZglD3jG9Lppf9JBN4QPmZ7SgV9-2FB5hQ-2FJVb2rWAz4jbkAuPs9zosU=
+29z5g2DmZnQszi5d0VPtvPxq0hxoO3u2OJeQKVbxAh7zwnrJ4TfUWkM6hhm34-2FDRLlrEy-2Bw=
+oHzhiFaWcwpgIa4eUpUcRdZYNwRtBRe3ZwKfx6eq-2FmabIm73-2B3Q96IUPUxmtWdhIAtRd9Hz=
+Krd-2BH4kh9Ngwri9Po" target=3D"_blank" style=3D"">Unsubscribe</a></p></div>=
+</td>
+                                      </tr>
+                                    </table>
+                                    <!--[if mso]>
+                                  </td>
+                                </tr>
+                              </table>
+                            </center>
+                            <![endif]-->
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </center>
+=20=20=20=20
+<img src=3D"https://u10237871.ct.sendgrid.net/wf/open?upn=3DZdIxBsD6XlLEw-2=
+BxLzCtGieRPMyHDypqWq7H0Bv-2B-2Fc2Gt4OS4v91qvUmbDaS2t5mX1ymlpK-2Ban6xtHfcai-=
+2BcvBWEVyGfqwxe-2FJGi2T1wZgoncspqHtu6Xnh-2BED4xDp2mJ-2B21fG7ywpQLfBB3hsfz-2=
+FGTEFA1nMOEIk4bFEqarrvvyf1ikZYc5rKjlkbLqbwbuOkzK0CV9XRpollgmZr5pDjGVjhaB-2F=
+D8gVGabMU9l20ugY7Qr3kan-2Bz-2FmXMmc-2Bmy-2F8jubuj3DgGL6ArmPIIrWVfN-2BIvnu4I=
+ngWtKeozBzw-2Bwt7rFzZpPpyo7imKAclQQtpMEZP7Le2AytYuK80kTKl3-2BZ7npvS7vBZlWGq=
+lspmFRd1ZXn74DQzfqjL-2FXbExBFybvvyMlIfyiLzKzorSu2XH32KGo7edhkUzwg-2Bns-2FUH=
+Y8MAnqbEN2Tp2PlItsUu5d0u2FR2ustjNmSlAtTjQ-2Bo8ahxahXkwy3eTQ7YaEIE9J2IwhtVab=
+lMh-2FISi43OleYsv6XNWzMBRYPoNBT4hy79uzWZpp05mVSPmO3T5Fqt5FuCONtysJlRM19kjoB=
+iG3SQPzxsYIV0Z-2FfY33Qv1N2aExXkvKsho9cfeNcsb3yUmWpi7Q-2BuOUcF8pgWVhsfaWexUV=
+DqHx2HczYWsvYNPskIKcyxo4raDZgDFCI1k1nMX2SaZglD3jG9Lppf9JBN4QPmZ7SgV9-2FB5hQ=
+-2FJVb2rWAz4iNuLfvFs0a8hOfpUkbawPDoXjrM1d1I-2BwgTc-2Bd1ihlBFi79kzULiYrws1xB=
+iBhBn9eh8EJAA4T5sm6s1FAiOmVkbBmxTzqngoBEc3ZLFjkBS19QsiUtVKW2ORpEq6Bmom80htc=
+wqVkXzwtOatW-2BN-2F7AVDNyvg-2FjYgGT4WdfHaMzGgZblQztmd3VVH-2FsWL6R5g-3D-3D" =
+alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !importa=
+nt;width:1px !important;border-width:0 !important;margin-top:0 !important;m=
+argin-bottom:0 !important;margin-right:0 !important;margin-left:0 !importan=
+t;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !imp=
+ortant;padding-left:0 !important;"/>
+</body>
+  </html>
+
+--5fb02246a2fb266226bc43eed1d54039f94dd8dada8bd01a439aa3ba7ba9--

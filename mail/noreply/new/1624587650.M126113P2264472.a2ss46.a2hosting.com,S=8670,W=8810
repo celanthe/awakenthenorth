@@ -1,0 +1,140 @@
+Return-Path: <lizstevi@yahoo.com>
+Delivered-To: noreply@awakenthenorth.org
+Received: from a2ss46.a2hosting.com
+	by a2ss46.a2hosting.com with LMTP
+	id KOxwB4I91WCYjSIAjrpv+A
+	(envelope-from <lizstevi@yahoo.com>)
+	for <noreply@awakenthenorth.org>; Thu, 24 Jun 2021 22:20:50 -0400
+Return-path: <lizstevi@yahoo.com>
+Envelope-to: noreply@awakenthenorth.org
+Delivery-date: Thu, 24 Jun 2021 22:20:50 -0400
+Received: from sonic303-1.consmr.mail.bf2.yahoo.com ([74.6.131.40]:41909)
+	by a2ss46.a2hosting.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <lizstevi@yahoo.com>)
+	id 1lwbSc-009VM3-0S
+	for noreply@awakenthenorth.org; Thu, 24 Jun 2021 22:20:50 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1624587609; bh=LO+SUzoK5iSqzmcLFwsL+yIssPgavCwAQNJdbNTvL00=; h=Date:From:Reply-To:To:In-Reply-To:References:Subject:From:Subject:Reply-To; b=CbD6NE94FR71uRlWGko2BdSdY9LPySW/d045mobliUOzRdqhkLpirrLnYQwJzNjrPp4kmt6sScFb1IHgtTVtPAZKKVZCgy7cmOq9sMafAzRi3iKdqxqcIR1ucDtp+KxbdzBUlgq+6e530TefUNaVSSXwci9ji8XuRCqoDiLqjXHnl1CnvAHVpcWbXxwJyVxGBN2kHScekfXnSEWjuvEDMraYpvk7dlPa6bmVJPg6R1yiE7unwA6sCyADax97WmqGX3D0UlB7SYruqoZQh2zyF0sy7RUUplR/Lt0g+c7jq3jYSYGtVfqJVWDjUOZ/ciD4OHZo2AeMM/PJBH/6hU/Ljg==
+X-SONIC-DKIM-SIGN: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1624587609; bh=LIhwhe36PUbjfA3W3a2Xn87m5LzBZwNxBOWLiExhVi5=; h=X-Sonic-MF:Date:From:To:Subject:From:Subject; b=JTQaEaRJoSrrRg8Czic6WBn82vtKGEpJfXNr33SJZ1HzjqxPV5sbj9yb/RJA+efK6NvLX1EeykgZlT7XJ47twei3wfzVQTyQaua8hvD4B50LXtj78ENql6LXIXJ5q54iaWFckI/I21isfon4aCYJSawzChYG77hpU9mtQGS1LFOKd1RH0dda8Ak9a0KQyazCqwUnzxP580xKDQo3T6mU1LYchazrzph85+pMZlhJawXD+odEzxColJrOrGyMlmiDYfT/7ZToybIQstFzlQ8yy5oAqz7MDSkMwG80BPYs2ZCDMgMtoPPXerEB4H/5XVH4IIrtX+0G+CGq9NVrNKSCeg==
+X-YMail-OSG: Z8L5ZDQVM1nZp9o8l4uCVyW_KsxbeeHyU2zh1VQ_xOQT.IjzA0z4vrHiyf7tJF5
+ DFCytum.xuf0Nidy5oaBpxOyS6VH_CMqchmbLGb64poWrVhmbEsAqibrwckFhXvCapNbEnNA0.Rm
+ ZSyJsNKXaGe5HasKvHZ5KL4O0orRvtms3RrVaLqxi2iR_pAJBr_w3L6vpIiWCwx3ASDzsnI9QVDD
+ 5XnNbGnjhmbu7osbDDKRjsMBM840MUf_BTLXhFpr2qs.U45UGsOQB7x2I97XHbdKmLq7xFn700mY
+ S2vHipfqkghlbPbscD9mWjx8QeWw_O1H6kYh28Ebr5Q5sFyvlvxkAhaLVNxgc7sUBVxiwEWIUq3o
+ OVEyK6JsE4jIlPcxEYV9urKsKK4.sZRBMJdl7w8XErh2HnqHofEYfg_W9cJlBaN9GIovHvOxrc4q
+ EdEa.yxxMuasj6lJEujq9s8Whh2ZOryWOOSmqJlvJeVUcM0WVlZwA2yfIe9134x6dqdQPl84qdcs
+ cxk1nL0l02dRyIBGKydlCZIJgHeMLeCeWJwgTBgNRETjuu1QV6uOlU7IkRfHQToZmuobEQh19R8V
+ O4UOmnvZhaBseEtIXUYAahzf9itvJ5dPnBiXiqrrUWkvE3u4hW7JQmRQ56.IWhqW8PJRAfeEvBPQ
+ zievR9WgQMXHDKXdDf196Xs48xOB8v2jd6t6P49j0E6caDvcsgtuIJUfJhN8htfVksS.rF5Dv0Me
+ oEZ15u0rVHDY1O0Mt.DdjiYKUgtcwGSvM4Cw0s_TA6Nxv8TmmxvnHZZx4ifkhVAV1x3pJt8k0EmR
+ .vMvURE_vAsTFuLaAU6vgvNLUkPVEIONgGndjP6wW92YtQp8TyB5iSgB7LBI8z23SQm_Md99jyf0
+ ApCDBG_R3txvM4U.LxLon_Dtrw70Kk9DhbKwLocyG6grZMfTgJd2VUULZbrgJ1L57iRwwbo.hhZU
+ QGM3cOGS728NUkZhAmpWsIsWk5vLy3LGIb5lw_cvmY8FkcGDSlar4gjumhYFMhpt_LDK6V2O8po8
+ zBd8SyqSVuAwkCM1p8YBOMiFSxeVzGcuMOm54zxGjPCcm6UzpOdYSowvrEh3I6wvz2YdQiojFeQY
+ dmbrAO0Uhp3.jaaB1LeTuZgEXNSJ6Y1V7LU7Fo8m5rEhitobhBDES_79AesaJDDYUNViKsL9dHp4
+ 4cvUQvLy1GZ5AWV9XGGvyOLDKTfp6IXYV0aSBsVvpKKIYEqn2pTJfZAmh2LJ4sal5Cnx5dGnvycL
+ 0NYcH5u2utMEPAA_lwH9ooCno0Hu1c9WzZkQPWxxPAk4WLTEQUdEIXhfSs2tO3GqU6hQHl8SYCWF
+ nPdfDVtMoBMSNs5tkIuQfMJug7lWt58jY9PpBwOwjsIKm9E8CsBJVQQ0FXuihRR85RgxkOxZ66H6
+ _T1IZQvLUVE4DL.H9icHXngegmfwQ.mJ2Ar27L1S0PguQHslx02Poe4554QIcvg9rhMLwdN4bJhJ
+ mlnsz3G48LXlepIaHBFQdkio6p842LPIQV5GUtagphTP2tYKy_FhmvtKHm7u_7cLBBXKJnqPtZld
+ tT2U8zprEmIBneOz19FFIsYO6qPZu3063rKdoMd6LxwG_oZrjJMTbyAoowWUYJCv7UWPijTH.Gd5
+ DWvenryC6WDe3h7QaPgYLIaCiHtuqn5MWbUbkgbVBa7_uJgZEsd1j6HwVXg1wMGObbr1Tx9nKFCG
+ 1LmYKZBpwp6lTWve6oY3v9.Ujyiu8uqe4VssI9eLsmGRx5RfBHUrczESV48imFY_Tj6A8ULRXWGq
+ MQa1ACF0K6225ciZzWPjeov6ewy_uLF9gX.63FD.7JD10QsqRyy1s0THlXGwjl.XPUzWP03zvhEX
+ qFphD_XY4R_bSVhLDlaXJkik0tnJRq9kgRw9cnKQxd4OpTeV442DhBRo83myUlCXx02j9Tqp_Gi_
+ VZmAO1IwvKpy8GAKnj8OzQHogDK61IlDf3mmnDw2MGVO1ikJDuQMv7nUtJeUAy3N3KdzwodWRuXu
+ QivEq3WnLUR5YD03uHUUC5gHOIc3pSN9cNisVdHf3asqhG6qxgXzavd3BVeBfI8ZhUDxauigK3bU
+ JLkAxB9mjdIbEfFWYrCND6y5DJ63jzgtK0DqIHJtVmuO1wNEnHjFjRolGjUq5tQr7aom5ajiKiDk
+ RHTHQ89v7U3WPSzL4j861KHsn0BG10LNNWLh3IzTypXDeVU0TV18Pm2A1HK9h.r3qlxkxzBpGNM4
+ nKG7MAAiXVzDHkzZSJBxOCT2YDy8wCmJrlluZqjCnbqhAZx5yhGtDu5i2UDvE2FrrVgu_giAWuQo
+ msL.Q_hNUyYf.wao8DHPhrqxgBOkUEyFM19dJDcQsa43nhPSEo9IDrvD2antKVgaFfKmz5WGPrxl
+ PaPdjow1Ml3eHMkye7_DHvcBROo_hTMoYnFRdmZJds08iP8SdNiGToGpx0A6NSGZFwJysif5Tjg_
+ qtlnh5ZJ2EbSjxobupG5byzp2t_4qujJJ.5w9oef8eUR8GjKTWE16bKLs.cfd7w46hA8RDh1DsUu
+ 5NAR8KnAlr5SQ7VCliUD73y4uIiJZTESnXzBvc3jNQJqVYZo1qo0DmwymAeqCE81f0E2GbKSGA6Y
+ Oj8dd7Te3vfHPFarTB65TCrh3F0SNMgi3dgtP6raOAGZyjMAzDn9YLYhUBfuxf2DpK3IT5JZpie_
+ XBMI..wqvTv0S7N_EaFLCDNls9EK_YiaVWHoZBUuNAfxzqP1NNDqTGeqCnDOUDFNQZgn3c_51fUc
+ 56uPyMlEmfU9l88YqwA4DnsyriQ25fA--
+X-Sonic-MF: <lizstevi@yahoo.com>
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic303.consmr.mail.bf2.yahoo.com with HTTP; Fri, 25 Jun 2021 02:20:09 +0000
+Date: Fri, 25 Jun 2021 02:20:03 +0000 (UTC)
+From: Lizzy Stevi <lizstevi@yahoo.com>
+Reply-To: Lizzy Stevi <lizstevi@yahoo.com>
+To: Awaken The North <noreply@awakenthenorth.org>
+Message-ID: <820697870.444223.1624587603708@mail.yahoo.com>
+In-Reply-To: <898789f3939f2ee435c58904d4e6a10a@members.awakenthenorth.org>
+References: <898789f3939f2ee435c58904d4e6a10a@members.awakenthenorth.org>
+Subject: Re: About your Membership Application
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_444222_187414486.1624587603707"
+X-Mailer: WebService/1.1.18469 YahooMailAndroidMobile
+Content-Length: 3171
+
+------=_Part_444222_187414486.1624587603707
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Anja Solysystir,
+I am have answered the question oddly due to not knowing how to answer prop=
+erly respond. I am rather new to this and just needing the right help/guida=
+nce for information and to help answer any questions I have.=C2=A0
+Thank you,=C2=A0
+Elizabeth Staveness=C2=A0
+
+Sent from Yahoo Mail on Android=20
+=20
+  On Thu, Jun 24, 2021 at 9:03 PM, Awaken The North<noreply@awakenthenorth.=
+org> wrote:  =20
+Dear Elizabeth Staveness,
+
+After careful consideration, we have decided not to accept your membership =
+application to join Awaken the North. While reviewing your Application, we =
+do not think your principles are aligned with ours and do not believe you a=
+re a good fit for our community. Should you wish to discuss this further, p=
+lease reach out to me personally.=20
+
+=C2=A0
+
+We appreciate your interest and wish you well.
+
+Sincerely,
+
+Anja Solsystir
+Chancellor of Member Affairs
+Awaken the North
+ =20
+
+------=_Part_444222_187414486.1624587603707
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Anja Solysystir,<div id=3D"yMail_cursorElementTracker_1624587330780"><=
+br></div><div id=3D"yMail_cursorElementTracker_1624587330942">I am have ans=
+wered the question oddly due to not knowing how to answer properly respond.=
+ I am rather new to this and just needing the right help/guidance for infor=
+mation and to help answer any questions I have.&nbsp;</div><div id=3D"yMail=
+_cursorElementTracker_1624587583488"><br></div><div id=3D"yMail_cursorEleme=
+ntTracker_1624587583611">Thank you,&nbsp;</div><div id=3D"yMail_cursorEleme=
+ntTracker_1624587586234"><br></div><div id=3D"yMail_cursorElementTracker_16=
+24587586401">Elizabeth Staveness&nbsp;<br><br><div id=3D"ymail_android_sign=
+ature"><a id=3D"ymail_android_signature_link" href=3D"https://go.onelink.me=
+/107872968?pid=3DInProduct&amp;c=3DGlobal_Internal_YGrowth_AndroidEmailSig_=
+_AndroidUsers&amp;af_wl=3Dym&amp;af_sub1=3DInternal&amp;af_sub2=3DGlobal_YG=
+rowth&amp;af_sub3=3DEmailSignature">Sent from Yahoo Mail on Android</a></di=
+v> <br> <blockquote style=3D"margin: 0 0 20px 0;"> <div style=3D"font-famil=
+y:Roboto, sans-serif; color:#6D00F6;"> <div>On Thu, Jun 24, 2021 at 9:03 PM=
+, Awaken The North</div><div>&lt;noreply@awakenthenorth.org&gt; wrote:</div=
+> </div> <div style=3D"padding: 10px 0 0 20px; margin: 10px 0 0 0; border-l=
+eft: 1px solid #6D00F6;"> <div id=3D"yiv0024743519"><p>Dear Elizabeth Stave=
+ness,</p>
+<p>After careful consideration, we have decided not to accept your membersh=
+ip application to join Awaken the North. While reviewing your Application, =
+we do not think your principles are aligned with ours and do not believe yo=
+u are a good fit for our community. Should you wish to discuss this further=
+, please reach out to me personally. </p>
+<p>&nbsp;</p>
+<p>We appreciate your interest and wish you well.</p>
+<p>Sincerely,</p>
+<p>Anja Solsystir<br>Chancellor of Member Affairs<br>Awaken the North</p>
+</div> </div> </blockquote></div>
+------=_Part_444222_187414486.1624587603707--

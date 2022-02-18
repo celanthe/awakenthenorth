@@ -1,0 +1,138 @@
+Return-Path: <joanne.crevoiserat@globistictec.com>
+Delivered-To: atn@awakenthenorth.org
+Received: from a2ss46.a2hosting.com
+	by a2ss46.a2hosting.com with LMTP
+	id UMF8HBAZ+GE1KCoAjrpv+A
+	(envelope-from <joanne.crevoiserat@globistictec.com>)
+	for <atn@awakenthenorth.org>; Mon, 31 Jan 2022 12:14:56 -0500
+Return-path: <joanne.crevoiserat@globistictec.com>
+Envelope-to: atn@awakenthenorth.org
+Delivery-date: Mon, 31 Jan 2022 12:14:56 -0500
+Received: from mail-yb1-f179.google.com ([209.85.219.179]:41915)
+	by a2ss46.a2hosting.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <joanne.crevoiserat@globistictec.com>)
+	id 1nEaGW-00BeaH-C1
+	for atn@awakenthenorth.org; Mon, 31 Jan 2022 12:14:56 -0500
+Received: by mail-yb1-f179.google.com with SMTP id g14so42494274ybs.8
+        for <atn@awakenthenorth.org>; Mon, 31 Jan 2022 09:14:36 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=globistictec.com; s=google;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=4aV42aFnLbkUTzVbeB4SwodVW6xAtW1m7PzTHNkR8ig=;
+        b=qCvK7VBh0jm+pqLxV+uKEgu8G/VNsQdcobSwwb61pL3YvzHSu4pu4dGmP5hvRivFEV
+         kc4PTPec+kcE/SLIHjtf6bvqxRx3OUBXtsh1nzvJpX9U5yKSc6jemGzJsJqsJkBJh1Ob
+         rG1vvMlvTZ5YQBtiTcEwh3J7zb14SuWwdhHZ7hdgo8KxdewEKEgdrTaHYzaKfy1XZxNI
+         4o+8qCysXZ5zblUNkuvmynNg1cChrF12DXCOF+wEpnPoMrGW+c8kHWgpqVjhKNOMcmBE
+         E5BMyaOGSmslk5OofVaodc6anR0BDoo4sHJsrXMq8hWi6/tFYlOzDhThajtJNYzpgxlA
+         EFDw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=4aV42aFnLbkUTzVbeB4SwodVW6xAtW1m7PzTHNkR8ig=;
+        b=kXgf4+L2UfrCIUBUF56/hoNaO5N8eeVOXGNBShhkFwF7vo1KiFJ50avsmDiR3fFCvJ
+         8X+9ZJcrl6W9tXXJqrfCAZEgp17In1GTO8H0FkNqllljG9obJOYp60ClTipX0X0R+4e6
+         29afj4UkLFqa7GyTC1T96E1qsPjcGMrcThnMOaLr67DASPs/W18TxO+Qt5viOmyfVGGe
+         W7msmfr/25AqCVRhnRrwxb3OJmfDCJJ2LBSVLzZWMMIpOCrlODLVLQ0blI6itXxh9j/W
+         encKTBz2xEia1y7Y6dDawrkFVsFEqS03dnsA+Yc0EwquO8gk3LEd0r0FIJTj/ZCmlKV9
+         nYMQ==
+X-Gm-Message-State: AOAM531zHcbs9WfwRK2lbTQG+qPQAnOqVEQpVl6fNaPvfptmsP4syXxD
+	37e0I+ZkSmsA3SS8eBDMJC3Octi2FeI5n8KiMWXbxw==
+X-Google-Smtp-Source: ABdhPJyXJtezROMFyjObAF/pTnP3CLNXDT+8Zy4GrAwKphTHXSgnqEuHesdp132JXtx8csnhWLnJUhNnfj/7eTEXSWg=
+X-Received: by 2002:a25:2fca:: with SMTP id v193mr32048671ybv.475.1643649255316;
+ Mon, 31 Jan 2022 09:14:15 -0800 (PST)
+MIME-Version: 1.0
+From: Joanne Crevoiserat <joanne.crevoiserat@globistictec.com>
+Date: Mon, 31 Jan 2022 22:44:06 +0000
+Message-ID: <CAB_-N=snCLMwN1dkOk67hbFWckDO83WvvgYvD9mx0sWGz4HicQ@mail.gmail.com>
+Subject: =?UTF-8?Q?Rema_Days_Warsaw_=E2=80=93_2021=2F2022_Attendees_List?=
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary="000000000000ffb33905d6e3e9fe"
+Bcc: atn@awakenthenorth.org
+
+--000000000000ffb33905d6e3e9fe
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+*Hello!*
+
+
+
+*Are you interested in acquiring the =E2=80=9CRema Days Warsaw=E2=80=9D- At=
+tendees list is
+Available now?*
+
+
+
+*Interested.** I will send out more details, cost and samples of the list.*
+
+
+
+*Regards,*
+
+
+
+*Joanne Crevoiserat*
+
+
+
+*Marketing Executive.*
+
+--000000000000ffb33905d6e3e9fe
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;li=
+ne-height:normal;background-image:initial;background-position:initial;backg=
+round-size:initial;background-repeat:initial;background-origin:initial;back=
+ground-clip:initial;font-family:Calibri,sans-serif"><b><span style=3D"color=
+:rgb(3,9,119)">Hello!</span></b></p><p class=3D"MsoNormal" style=3D"margin:=
+0in 0in 0.0001pt;line-height:normal;background-image:initial;background-pos=
+ition:initial;background-size:initial;background-repeat:initial;background-=
+origin:initial;background-clip:initial;font-family:Calibri,sans-serif"><b><=
+span style=3D"color:rgb(3,9,119)">=C2=A0</span></b></p><p class=3D"MsoNorma=
+l" style=3D"margin:0in 0in 0.0001pt;line-height:normal;background-image:ini=
+tial;background-position:initial;background-size:initial;background-repeat:=
+initial;background-origin:initial;background-clip:initial;font-family:Calib=
+ri,sans-serif"><b><span style=3D"color:rgb(3,9,119)">Are you interested in =
+acquiring the =E2=80=9C<u>Rema Days Warsaw</u>=E2=80=9D- Attendees list is =
+Available now?</span></b></p><p class=3D"MsoNormal" style=3D"margin:0in 0in=
+ 0.0001pt;line-height:normal;background-image:initial;background-position:i=
+nitial;background-size:initial;background-repeat:initial;background-origin:=
+initial;background-clip:initial;font-family:Calibri,sans-serif"><b><span st=
+yle=3D"color:rgb(3,9,119)">=C2=A0</span></b></p><p class=3D"MsoNormal" styl=
+e=3D"margin:0in 0in 0.0001pt;line-height:normal;background-image:initial;ba=
+ckground-position:initial;background-size:initial;background-repeat:initial=
+;background-origin:initial;background-clip:initial;font-family:Calibri,sans=
+-serif"><b><span style=3D"color:rgb(3,9,119);background:yellow">Interested.=
+</span></b><b><span style=3D"color:rgb(3,9,119)">=C2=A0I will send out more=
+ details, cost and samples of the list.</span></b><b><span style=3D"color:r=
+gb(3,9,119)"></span></b></p><p class=3D"MsoNormal" style=3D"margin:0in 0in =
+0.0001pt;line-height:normal;background-image:initial;background-position:in=
+itial;background-size:initial;background-repeat:initial;background-origin:i=
+nitial;background-clip:initial;font-family:Calibri,sans-serif"><b><span sty=
+le=3D"color:rgb(3,9,119)">=C2=A0</span></b></p><p class=3D"MsoNormal" style=
+=3D"margin:0in 0in 0.0001pt;line-height:normal;background-image:initial;bac=
+kground-position:initial;background-size:initial;background-repeat:initial;=
+background-origin:initial;background-clip:initial;font-family:Calibri,sans-=
+serif"><b><span style=3D"color:rgb(3,9,119)">Regards,</span></b></p><p clas=
+s=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal;backgro=
+und-image:initial;background-position:initial;background-size:initial;backg=
+round-repeat:initial;background-origin:initial;background-clip:initial;font=
+-family:Calibri,sans-serif"><b><span style=3D"color:rgb(3,9,119)">=C2=A0</s=
+pan></b></p><p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-he=
+ight:normal;background-image:initial;background-position:initial;background=
+-size:initial;background-repeat:initial;background-origin:initial;backgroun=
+d-clip:initial;font-family:Calibri,sans-serif"><b><span style=3D"color:rgb(=
+3,9,119)">Joanne Crevoiserat</span></b></p><p class=3D"MsoNormal" style=3D"=
+margin:0in 0in 0.0001pt;line-height:normal;background-image:initial;backgro=
+und-position:initial;background-size:initial;background-repeat:initial;back=
+ground-origin:initial;background-clip:initial;font-family:Calibri,sans-seri=
+f"><b><span style=3D"color:rgb(3,9,119)">=C2=A0</span></b></p><p class=3D"M=
+soNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal;background-im=
+age:initial;background-position:initial;background-size:initial;background-=
+repeat:initial;background-origin:initial;background-clip:initial;font-famil=
+y:Calibri,sans-serif"><b><span style=3D"color:rgb(3,9,119)">Marketing Execu=
+tive.</span></b></p></div>
+
+--000000000000ffb33905d6e3e9fe--
